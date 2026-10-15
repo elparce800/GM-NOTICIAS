@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-10-15T11:13-05:00",
+ "actualizado": "2026-10-15T11:14-05:00",
  "modo": "titulares",
- "total_titulares": 262,
+ "total_titulares": 312,
  "medios": [
   "Andina",
   "BBC Mundo",
@@ -14,6 +14,9 @@
   "Gestión",
   "Infobae América",
   "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
   "RPP"
  ],
  "noticias": [
@@ -306,6 +309,306 @@
    ]
   },
   {
+   "titulo": "La Amazonía sigue sufriendo la ausencia del estado",
+   "resumen": "La Amazonía sigue sufriendo la ausencia del estado La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXpzMlR6dFl4a3F1MFk4WWVyY0JReVByWFd3WnN6Uzc4el9vYzMxX3lIZVpqM2ZMUVJ5RzNBbGt3MFZmWkpZUmpZOUpQU091T1F5QnoxRVFUaUFJRXR3UEpuUTBmZHJYOWZ0WU5yMlltV01MVGZneXBrcThqRS01bUpVTHlZTVF5cENuYjh3WTFaa1RCSGtRWkc0ZHRQMG53MmxNLWFOUnQtODNCOUHSAbMBQVVfeXFMTS16SHVxeWlzR1RhenVMM19ieDZBRllva3E4ajJ6emxPdmVCNjNPaGNDMG9NWHlIMHhnSTlXTjZYUEo4bXRQS1hpMGRkRWV1cGlLWjUwUERTOTJfa1lhTlZScnBPU2RUYU0zbm9GMVp3Wjk4ZmtVdTJYTUFqVVVQWnRpXzNmS1VxcVFIS0tlekhUOFJhS2M4bFhiQnBfZEpEeC1ob2RmWnA1cVdwOEFub01hcEU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Nuevas reglas de disciplina escolar reciben respaldo, pero advierten que sanciones no bastan para resolver la violencia",
+   "resumen": "Nuevas reglas de disciplina escolar reciben respaldo, pero advierten que sanciones no bastan para resolver la violencia La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVTdZSjZuUjJlcmIzbEpkV3daR3pvQUpqdWVYTzRlZEllTXQ5a25hNF9vcnhoeFBNSkVpOUM1RDczNjJVSlVhUXp1UFVqQkJLV3ZLS3RqX3Y0UmRhOElDTU91YzhTaHFkYTZRNWJITFZVT2FfNVlyOHdCMk9naTFuY3l6b2JHLW8ya01oSmJ2cGZXODE2cFluTjdPTXRyQng2dGIxSFNXMHJzbFBPc0hFOWJZQTY2VmQwdnk3Uk1GcDlNWVNqT3lOMWF1eG55cjRwNUtmSWtvQWhnMG4yVFY3OWoyWVYyVXQyVWVGRHZNVHE3bmpjdk9uS1RqZmfSAYICQVVfeXFMT0NSZkJ4N3JFLTVmQkNYS19wQVlMeDhtNXF2aU1DbmxmYmJaQTAtTjVTQnRhMWF4bzg5OHFMT2tHNExTNVdwODZ0TzdvQktjeWhQZlhMRWJBYnlrNlY3REVHWm5hY1BjbWdqN3pEU3pmVDFvQzJPbE1kMS0yYXQ3YXRqQW9WVXJ4c1YzRGtkbkdmWE95WGJQajU5S1RQYUlQUW9qUTAydjk3Smp1MHF1RWdSREt4S3RHUW5NVmpzWXBqWndFRnBjVXAyclR2d0ZvdS1hMWI5WkR3NTlDNktHRGl1VEdJdFE0QjlGTWlZczE3ZG9wTklJalhJTjM4LWp6WFpR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Vaticano sobre salud del Papa León XIV: \"Tiene una evolución postoperatoria normal\"",
+   "resumen": "El Vaticano sobre salud del Papa León XIV: \"Tiene una evolución postoperatoria normal\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUxEemtEZWRzdC1FVV9VZEpEMUpIRC1Ib01UTnd4MW44MkhWbW4yYUxNS2NpTnNkUUQ0Qll1VlNSb2V2VHhjc0lnbFF4ckZQMGRZVjhtTW4wTXpFUVlpOVhVWnFOaG9KcUN4ME9QYXdNRkx1WGUzb25XaXVCQnpkdFJabkNrek1yTTBTOWlISnFNLVpnejg1cHl2OWg4WkxtQUp5a3Yxb3VmOXd1TXpNaTVkX2VpTXRsVFVNbGowX3Q2TDJyZE9ZYUYxTlJYdnN2WlE4dUZ30gHbAUFVX3lxTFBOMlI3R1MyYno0MmR0YVYxU0xLckZ1SmphUVdJbjlpNldWYThzUkJFWVAwSmVBbXV1d0UwQ08tcnRaN3NxOHZremRacG10X1J3MEt1RGNGYjdDamp5YXBfMUYtbEE2SjBlbWp4MVRaQW5nS2pSVUl1YnBycjZFLUttZ3paSTJhc2Vpc0pJeWZNY1h3SXYxX1Y5NnNYVVpqNkFXVlV6ajdfSW1KaWtqTHZlT3JlcTI4R202VEkxRk5RcDBiandLT2J4MXJyckNqd0xxNzFUS2lZWEZhMA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Predictamen de la Comisión de Constitución busca incorporar 8 puntos nuevos de las facultades aprobadas por diputados",
+   "resumen": "Predictamen de la Comisión de Constitución busca incorporar 8 puntos nuevos de las facultades aprobadas por diputados La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaU1kSnQwR3ZIVVBjVTBBTVF5aTZEcXpxN2JVMnFzdldRa05udlhES3dvVFVpVUZPRUViVWhhOE0yVEp2TldxWWxXNXM2SnRvS0NGalEzdnpLV3hKYjR6QmJfMlRlQlR4d0ZNb0diTk1Fazk0WEx2Y0NkdlhwOWdNZXRUSTNpNXBTRlQwYTZTTjctbS1nMmdMV0Nmd1A4RmMzVzZwRHdndTg0TXo3WlpJNm40OVZ5TkxXeWx5d1RWVDlGb0lDU3RTZTlyblpLbzRoT1N2ajdPQWZWLUVtY2pmdERzQ1Vzal9LcVZHQTFtc0VIUTc4RWc1SW5BMUpFQlZTS0JB0gGIAkFVX3lxTE5xNVFETkJycmJheVpndFo3b3lfUHo5ek1GRVI3MkpkZTM5cmY2dGk3T0xZUHVXZ1dsbkduVFVBalpNT3NRNlVSN3JTQ01UZk4yV2hHTzljSEc0OXNZYjE5QlhTOE90ZmlHMXJKQ3Y4NXVLZC1pTjBGLWRJRXFuaG50RlZTdXZFbXlDR1dWTGZHMnNyZDV2ZVhDRl9pSC1jSXVrRkFEdDRBaGxEMGpNUG9qSFFlQ3EydzBzN0VCcGwwY3dxMjFZT0k5MHJJMlFGeUJ6N2VIeTdVTDUyTWtsdnFkdjI5Nkk1VVgxOHdWcUxvaGxZWHUyZEEtbjBhT0JtTEtpRXA2SVFlSA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Guía de capítulos de 'Doctora X': fechas de estreno y lo que debes saber de la nueva serie coreana de Netflix",
+   "resumen": "Guía de capítulos de 'Doctora X': fechas de estreno y lo que debes saber de la nueva serie coreana de Netflix La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRFdKUHQ5OEFfRkNtNk0zQ3JFajVMaWI1dVBQTjA0c0x4SFVLbDl0MDFISzJHb0FpR2t1dXdUbUgzSTUxTTRiSlNfTDlNS3pnb0RMNC1MMFVoVTFlWkVrS3JrVEJpZXNmYlZET0NaZGpEVEdmM0J3clhvVWp6cGtUSXdyOXVfeThqNDNEcjkwZnB6QllGNDJQYTlIUEstZlRibE5HLXJqS0JQN2VQMC0yaUd3Ung0NHlESGJFdHZKZW9ULUZmeGV5TlQySE96SGU2Z1pjZjh5VUN3dmxjSDBZU0J2ZG4zR3c3M01zMWxjb1hrN1I4el9B0gH8AUFVX3lxTE9yT0lGZjdSaUpGN1dGVWpjaHFZeFBkcTZrdUNVWEMwOEdFcmQxbWY2TVdfSjI5Uzdsa19fNzN6VG1DZS03emlVaE5hdUpjajFTcXk2RkxPUUo2UzFmOEt6SGJFbU1HUVBLUUdHVEpBdHRRTEk3SzBGa29MZUhDdVBwNnBwdGN6dnk3ZDc5Rm80WFI3b0U3cE8xNHRCNlVOM3RfRnlJSTJiLWNzWTc4Z1RSeGtDa3BPTnd4THlZOU9pYThzODFCeXg0TkRCc1N6dHBIWEpLV2RxeDUxeEtUdnBma3plTjhieVZuX3VqMWJqckxNTEVPb2dlWE5WeA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "¡Orgullo peruano! Ric La Torre y Luciana Roy fueron nominados a los Premios PRODU 2026 como mejores presentadores de streaming",
+   "resumen": "¡Orgullo peruano! Ric La Torre y Luciana Roy fueron nominados a los Premios PRODU 2026 como mejores presentadores de streaming La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc2ppYWliTEEzbXlyWnB4WHdxNUZNdjhsdWxqcXI3NHJxQUVXdnh1QVJTelU3WHZQTWViZUxJOTlhdjBnOUJVbERzWC1DTThTbS1Ub0RjQTdma2g3U3JUT05jR05VZHdxOWVlTnlyYkUyRERRbjhNdUU4ZjRpcUVzNlA3Z2w3eGNsT3Y0NHlYaWh1V0lxWEUzQzdIRHlwbVlqenVnb2UwUmhzTWlseUZJckhpMHk2djUwUGQ2eEoxZm5FQ09nNEVCRk5oYWk3M3JkcWxkQ19jNTNRSm5UZ3E0T0ptSFBZN2JhSlU3cUUxdHI1b0hWV2I4QkU1bFRiWXJocXpzRXhwSVZrZ9IBjwJBVV95cUxOeVZqVlJkVzFsWWlkX2Q4WGVRbEo3Zk9BYjdDNEVYejA5bFRTS2ZNeXV1N29KdWhGNGRPYWZfS2lHNTUteHdEUjZRRk54dTlXaW5Ca3VvYWExRWJsc2VQZzJUa29YdFk4aHZwaFBHcGJLRzEtNXA3Z2tpbzA2N2xqUVFjMnA4SGlNUHFCWVhUUWZSSi1kZEN1WHk5SFNpRm5SYzB4RWM4RlFCcFYzX3NrelpDOERkQVh0MHVpUFI3V0s2bUwxTlAtdWlzYk9UbnJrU0RfLTd3cEktOUhqdXJSNEJlTGJIbHVTaVFHekRRMWxGN3YyVEFGbVFsNXBObVBWbjVaNGhyaENCdGFnMmxz?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Quién es el cardenal Luis Antonio Tagle, el nuevo decano del Colegio Cardenalicio y qué papel tendrá en la elección del próximo papa?",
+   "resumen": "¿Quién es el cardenal Luis Antonio Tagle, el nuevo decano del Colegio Cardenalicio y qué papel tendrá en la elección del próximo papa? La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeW02ODg4TmRYYlhPclFUSmNYZFVLT2JGME42M2VZWmR0bXh1MjV4NXpyZ0ZuSzZraG93R2txM2cxSlF5UW41V0RlLWhPWXZ3Yk1aMDJCSXBndE9BTXlhcEwxa2RMQ1FTaDk5YnlSVVZrMlAyaFVaSnlWMWR4ajl4TEx3WXNjem5fUEhiemF5MXJ0dUVpTHhIOW0yRlUzM2lZMXpiR1EtUHdfM25YTXhrYWNCNVFpbTNYZXp5bDg4SHRIRGw5dFprNmVBMXNvZVBsT19nb18tWlhUbmYwa25GY25ZTDRIek9fUkxDYlJYVlFMcWZhTmxXRVJyRnBPWXlQRW1oTnZzLWczQdIBjwJBVV95cUxQWnBadnZOUGtXYXRJYmpFWHlyLUFDUXJqcWl2blpseUozWmFRbTRMUE00UDEwemsxN2k2ZUJxd2lCNzI4Z01QUjdvNEt4Y1Vid1ROeDNvZ3FuUF9OdDdLeWhURjVTVF9rYVdienA1dGxlTjIwRVhYNGRkSXFaMzZ5T2dadWFLSUZUV0kxNXh5NHhjSmZHOUU1eGpMdHJqclQ3WnlWR2lfUzhXNUV5d041SFg0emtoLUJiQ0lMczBYZTZDWmxFSWVRMHdBWGFSREtKdXJWamJmdUZqTERMREFMN01WRjVzX3djalAzbnlxdXA3VE1SSG92Z3B5a1RHREdoUjA4WXJLeTlWZlI5THpr?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Milena Warthon detiene su show en concierto de su ídolo Zayn Malik y lanza protesta por incendios forestales: “El Perú se está quemando”",
+   "resumen": "Milena Warthon detiene su show en concierto de su ídolo Zayn Malik y lanza protesta por incendios forestales: “El Perú se está quemando” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMGk5eHpobExrdm1jOWJuYU40WHBfbV94NXpXWGxqUkJRQ1FTV2EwM2lUMFlCdDJsNHI3OTAyTGU0UHRXZGQzLTVuZ2Q0RWtoLVB1Qzl0YVJ5Y0ZCUk0wU3pMNlBhY3IyWGZZN25jTEJCcnpfdXJrdzZ1VHhpNG16VFF6elpsTzdnaXoyLXBBRkczM2hoOUVyRUJ4UGp1VzMyNUpUT1RSZ3JFMlpQczdiMV9mQmVCUWdxVTN4UEZmWDR2Sk9uUXg5NW05aVJZMXZlS3ZjcTZka01ZMGxqMXYxcC1FYkFUa3J0UlJTRkN5R2pJb043bmJpZzZiOE1IRFlUVXR3dGM5YUVRMGhiclhzZ3hkM2M5U0HSAZwCQVVfeXFMTW1DSjkxTUJzWFBrY1dEbDEycmFKZ3Q5eXh3UEdpUFlBTE55MlVBbG5vTWJOR014MW50YnNyTHVXVVVTUUp3cGgtcHNiR2I3dlJrOVZkeWJTeTdiVFlwZ0pDd2xCdjhhWHJMcWZiaURHY3c0SkJEZTcxT0FUcFB2WjE2N19GSUFKVDZ2MHlWajJ6aTNsMTJKakRyUkwxUG96TXVSOV9oa3B3bnhGbmxqaTM2SUx3emZmcjVZN0ZOemVxczFTaHBNTE0wal9EaEFtamNOZ2xzaFRPWWx3aHBPWTM4bllvcjd0MzQxNmZ2bXZCS2JuUVowOENMcFhLSGs2Q2FHakVDRDFxYVF1ZWZYVm1IYkpnUFhvWGxoNGo?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Zuliet Seminario lanza fuerte declaración sobre el Miss Grand International 2026 tras perder y vuelve a Perú: \"Es un negocio\"",
+   "resumen": "Zuliet Seminario lanza fuerte declaración sobre el Miss Grand International 2026 tras perder y vuelve a Perú: \"Es un negocio\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZnozX2pXM1VOUnJCLTUzOUF5MHg1cHdqT1BHWnowT2hCSWdvdExfNV8teUV2V0czLWxrUVZjcXhiR0tzaHV5YjJTWGZZb3hQeUpNMGxoUDk3UXJzd1c5TVhtQWw0dXdzVTF6MzA1TERXcnZEX2MtQUFvdFlSMkJTcjhXekRfOGlnR0FLLWZoSjFWRzdSRkN6QTZPNHpERlk5dWk1d19kM3N0MjZpSGVaR1I0bl94NDlPUWhXMTZZMHRwVG5QZkxEX2h2WXdFZ1RnOWdZdUtjNks3c3R6LUpNMFplNDVia0k5N1VoT3ZldERzdWkwcDF1bTdQOVVQQ0tGNEI3aUt0Y9IBjAJBVV95cUxOalMtZWhZdUM4TVBzQ1N2V0RlRXMySThiUlpjSWswV3pBMUpjcUwyYVNPaGozamZpaWNzRm94WHFnUGhSVV95dms3TVlwdlRGN1VDTFZKNDJQVjM0eDYxVGtsNkFiLUUxazZCalhwWi1zcEhPdDlDWlM0MUJIMkpwMkFSazItYUl4eGR4Slh6YzkyeG05RmppVTJqM3Y1cVlVRmhuZ1ZLUDhSWHBqa1R2M0R4SjhYcGt4SjNtMkxXMjU1bEVvZFU2UGR3Q2xlRFVJY051Z1lNcG9kUjZ5Q1pWMWdHWkhGRFJtQ05YcVZGZG9ERTdOTlpPck84OG9ZOTQ5eU1DUEx5eEtFV0tl?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Chile exige respeto a su soberanía tras dichos del embajador de EE. UU. sobre la Antártica y Magallanes",
+   "resumen": "Chile exige respeto a su soberanía tras dichos del embajador de EE. UU. sobre la Antártica y Magallanes La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRm5jTFZ1RmJQNEYzdHJEb0RSaW8tTzJMRm5Ib2pMeDIwVEdWUWZfYm04a2FGUjdMajM2QndWcXgwZWFnQ1ptSFlJbmc4UzMxRHlyMS1GTDl4bjdsWlE0ZVNOUmZZOHE3WXhGaGRwRVlVSHJjY29iQUpKXzhZUjh2UWxueF9oa0doaWFCTEd4TVE4SmlkMnRJUi1ad1ZwRnN1OGRKZjQ5Y3laZU5oSU5XNERPazhKMU9HWFlvcUgxT2t1Q0puR29EbFlVTllKNE5FbXBmd25sdVVpZmVPZVFyZjdZWEhacVNWV1pkNUstMzRMSnhUZFR5a04yX283VXPSAYQCQVVfeXFMT2hlRFZUNWdvSWpsZnMzel9ZMklIREFtbGZuZFV0dHZBNWJ1SmxxV29DLURlTmxJamEwS3NWbnpHQzJHYkFHZjBnTFlGRnBhaXNpcU1PMThfcTdfWFVTNm9GTEExaGxtcmlNS0pXa0ZIOS1QMmcwWjR1YjJ2em1XemdfQl9kT3RBcE1PN2xuazJPNVd4M1kwbk83UlhOYTZQcHVZX1lFUlQwUE1iNktuckhnTXhueHlVOFh0ZW9xMHZSbGtMaTU5Tk9rVmt2VnU1MVVvN1NFTXBmejBJOUxLSndxdEc3ZWpoQkhTMjlKUU9GYllsZE5iakVxZWQwbXRwV2tEWXk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Hija de Melcochita lanza fuerte advertencia tras reconciliación entre Monserrat Seminario y Heydi Amado: \"Acabar con lo que queda de mi papá\"",
+   "resumen": "Hija de Melcochita lanza fuerte advertencia tras reconciliación entre Monserrat Seminario y Heydi Amado: \"Acabar con lo que queda de mi papá\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMUl0QmVnUmRER1daSGNxLUFjR0lGOTFIRm5ORkFJdjNqSlhCNUFOSVRwZUlYbE9lRHlta0ZhY2xBZDY5MW4yaTRPM0JyOUtFbnJHOFBSWmtScVZmMXM4NEhxN0l6eHdXM2NiSU16NW45STdrRk5aTXdLaUN4bTA2OTU2RHMwRDJ6LWlHbGp0dlJtSDhTcVc0Nk9ERUdqdXF6N2QzWnlmQ0hPNjZaUkVaTzluT2ctOG1qR2RIZHA4LXF4ZjIxRVQwRHdlQ3NybUtkaV9tZUlERkZ3S2QzaWNvRzFxM0VQQVBnVXQyMWFhWTVpMFBlQzZFemhkd2ZIM0VTUW01anRiSWNKdjFMenczV0ZjNTZqX2JmeDZhS1hn0gGjAkFVX3lxTE5PQVhxUEV3dXNEd3VIR21fb255UTRKbkRQVWNseno0VWxuYUJPTE1kMFZvaFJBVE9mV0hIZU1QbGJhU0VEQno3N3Nxa3g0bmEtdENYZjBZYk56eDljekVGQUdESExBdmFNSkJxY3ltN2ZGS1c4elcyVDlWRzFqbTNsMEE4ZjV2QXZiRFhJY043ZGVudHl1WlNpUmUtUWVXSG5OX3dySWZTc1VHQlhVZUxlMGdHV29IVkRJdmFadVdHNlg4OVJ0b053ZDMycGJCMnVuNWpJcHp5bjlLOXctRUN5MkhmajNCcm1rRzF5b1JoUmkwTHc2Z2dRSHlzNkNZUkFIM3IwUzF5SnltMG83c2U4MV9nemJ5ZmxZSGt3WUo2cnk2WQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Christian Cueva en graves problemas: empresario denuncia que le debe 58 mil soles por producción de panetones y advierte con embargo de bienes",
+   "resumen": "Christian Cueva en graves problemas: empresario denuncia que le debe 58 mil soles por producción de panetones y advierte con embargo de bienes La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQT1g1ZjBsb25vRHg0dUtkTUF1d3dDanFaSmE3aHJrVXR2dnpnMTBEWi1jRlRWTUFnNHZRcWlHQ1FIbC13ZGliVjRJdmlQT0JjbENEWWY1a09Jd1hIQXJrU0VDdzBsUG5zSG1XWWN1Qkk0RWd6MGRIOWlaSlFSU2l2akRMWk1jODV6VWFqV0FwU0FGWFNwQzJyeW1ZZnFwaXZ6ZE9uaVZlSjZ6V3R3RUJPY21LX1hmRHdQTUZlcl9ZN1pQM3haLWNVUFlpNEFza3pRMWZUakVENkxNWHpoVThkSWRpc2FFSzBSSm1ETzhmeElQcjFCdDdzX20xMjJyRXdGY0loTzRGc1hwN2tvVTRLaWg3MnAtSUltTUpFSDFwYzlvUdIBpwJBVV95cUxQZ2hpM3E0b2ZRV19vZXF3ZWRTb3ZyNG1vM1EzWUt4a0I5LWFJWVg5S0tQNUNJRmFycWZ2Q3FJS2t4cFNzNjB1dHpnaWJLMl9ucl9VblBzeWkzVm1tUThZQmFfNTVKT0RzMDMwX29IcnZicmRlTGt1OGZ3TnMxLUdtVXplWnotVmFRVUMzYkloTXc1Vk1MYUFnVURDa1VzWVpCV2Z3TkFCMENiMWhYaUZOdHZqVW1BMlpzQTh4UFVJNE05cmxGbWZIbzRUTnRrenV6NEdyWXNXSEJDNzBLMkVuRmNJZjJVeWdhc3Ntc3JWSUNKWVR0NUN5MzBTU3FxczRLUy1WOVNuZWM1cmdzS2NMVXVCbW54N2x3T0VaSW1xMzdVV3JSTGJZ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Jely Reátegui encara a streamer ‘Cinesmero’ por despotricar contra Bruno Ascenzo: “Has dicho cosas horribles que no tienen sentido”",
+   "resumen": "Jely Reátegui encara a streamer ‘Cinesmero’ por despotricar contra Bruno Ascenzo: “Has dicho cosas horribles que no tienen sentido” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeWw1dmdIdkxSM2FOejFBcTZWaG9ZMkpKbk9HeU1JSkp1bzc4dnRtWFpKUTU4dGhIMmxhTWFyMHVkQllMRmY5SUN6N2lDZHQwWTNRMnBMdVJrWnZBMldfX1IyeWIteUFKXzI3SHNERGk2MXYzZkNMMWhaTURkT0VUUk5SZU9DOEVrbFVOOWw4YmNKaW5rSmZVV04wRzRjcDhEbk0zbzdKTjd0UmhmS3RWeGZDd2pYOERORmNGVjVkUWt3anVyTFQ4ZW5OVHNMRnZhU2w5Nk5Fc1l1eDRfaTFDZzVGSmZHZmFreWlZN19VU0FESnFtWl9LSWFZVjUtQVlJeWp3TWdkLUFHVHgz0gGSAkFVX3lxTFBNMHVQMnNUWmF6R296Z1N4bmhmOEViNk0tR0ZBSHBzaWJpNWdJbG9EV0E5TVVyXzhMVjZWLVo3ZW92UmpSRjRXT2p1RC11TnRxMk11ZmRMekVET0lyQ3RCVjNwQVRKSjRvTFBkcHFUX3lMN0pzNjhLb3NaWW9SUUgyUVNQZDRBOUdkaWdsZU5TOUhFUWNCdWUxMC1EdHlua0ZKVGZqZm1JcTlpNWt2N1FJeXRIc2Q0NXVPYkJwODNGX1lRWW1yT3BhRWhZMXFBOEExR2Q1MWxVZlFrM19ab1lpWnFNb1NDMEdXMG5UY0czUjlodHpVLV9DNVhSVEp4Mm03Z0RiY3Zwalp1UWZidGdRNkE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Revelan la identidad de la nueva saliente de Marcelo Tinelli tras terminar su relación con Milett Figueroa",
+   "resumen": "Revelan la identidad de la nueva saliente de Marcelo Tinelli tras terminar su relación con Milett Figueroa La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS0JNdVFWcmczYmJueWRCa3VYSzBpWUpCMkZidDUzTjBrLS1zYTRXdk0tbGVBTDIxNHJSd0tFMmhOWmZJLUpwNG1yeERWN2RKUkdtTXJsTmJSQmZYWkNUTHdlaHFFU00td3d1T211R2NmZW8wdVBDWDNQcEI5SllmLXBqVzc2YTUyQVdBeXZza1VWeF9MMUNYNGxCQ193ZzBpNGEtVnVBbEUza2lpOV9aVzJYTk5KbXZacUxYWnRMakRodFdxY3dvN0hkRVJxNFdoNFZ3S1IyLWRUVWFkUHFHVTROelFvZGFGS0xfR1E2aUI5QdIB9wFBVV95cUxQdjlVYWFOWUkwWldwTTJaX1g0aUZyX1NZRjRqOXV0QmNGZFl5eGZacjVvNWxnQ25JWHozSkNCVW5OZHRrVWM5YmZ0elpNQ1dSVnlTcU1walpCU3FyNF9fYXdpbGgwTlFuOHptMkcwcmRQSVRuYXUzNkFpUEtfQlBSV1JNOUo2TXB2Ul9Tay02SXJWNEhQSVVodTVRUldsbGVfRUlRcmh5RmtaLXZnMm1jdVJaYlgteW85S1U2NTkzYWY0WjVlWFRWMTBLTFpiSXRoMmF1emJ3Qi1lTjUyaXQtN3dqYWlTU2RkTGVEQUdwUWxpdkxEdzNZ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori anuncia \"recorte de ideologías\" en textos escolares para el 2027",
+   "resumen": "Keiko Fujimori anuncia \"recorte de ideologías\" en textos escolares para el 2027 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnBDUm1lbXducC0xcEM0T3MtWVpuVkM0QUowekoxVXpERV9GT1dnYXM1bnNfMFpHYThZeGItLWJyVF94ZDBiRDJOWnpzaDFQa21WTzduSWJCZXlIN1hwMW9Ba3JxRFpYTWJpZjBlak51REhnYTdLcHNNNk1TcDhyem84RVVfQTR3dFozX3hjek02Y2F0OUtqOEdIb09IWjRid1NwT3o3ckRvTmxSQUVqR3BZQmRmNVBsMVNGS9IBwgFBVV95cUxPcFd1RzVmVm5wUHlZQnFTck5aSkpkNXZiTUg2NVptSnRvcXVBZnF5Ujdnb3d0UjVqWjI3UTBjVW9ROGZkT2lGWkwxSEhfU2w0ZTB2UWlrREIwdWNmMy1mZU9qTUpnNWhVdnVpVnRaOXRvWmc5cmdqYktxSEZXM3hEQVlkUF91Mk8xRnEyelJBaUN4RG1ycmhzTFJ3ay1HSUp3WGNwR0ZZdnplYTlIZEFRR2s2RUFOQVFiMEM5WjR3SHladw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Diego Chávarri pierde los papeles y arremete contra Pati Lorena: “La vieja esta”",
+   "resumen": "Diego Chávarri pierde los papeles y arremete contra Pati Lorena: “La vieja esta” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWC1JZWFILWlGTFFTd1ctZHNfc0ZvZlBLRlRpaWR3ajFOSHU0bWluU3o2Vk1ITnZOU1VHY254NDFVSWxKQ2dNeVN5OXJOT2ZoQWtwd1V3WFlIYVYwTWc1VmJTS3Y0YVJZVVgyY0trU3IzdEozNUpxb2ZlekI2TlQxZ2R2VlFQNldjNXF5LTJRMnk4V2hURzNsaEwzVHYzX2REVXVMMjJGeTkxTlY4UGJPRGxfT3NtX3BlMElpSlRtM3lKaDU4UjhTNVY3UdIB0AFBVV95cUxQb0toUnBuallINV9ESmEyMUQwX1R6MWhWR2ZqdEJEN3F3OHhDaVBydXAxcGdpMjkwNkRhMFB6ZXpZVmg3bnd3V3dScUQ0MVpxaU03Z1lMSXU1N1pqWGo3LUY1SUlHWTBGekhFWlFGYnhwUDBRQS1ZRXVjcnFTNno4RkpyRHZVUkkzZXRpMTNCbERnQ25GTmhLSG9LcVhnX2ZnSGItYnhFUDBaUlU4R3k0NFNCTlNnQXFzNEo0cFFIVFJqN2x2STRrcXBFSU80YVl5?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Agus Padilla pide disculpas por fuerte discusión con Suheyn Cipriani en pódcast ‘Naqo’: “Tengo que controlar mis impulsos”",
+   "resumen": "Agus Padilla pide disculpas por fuerte discusión con Suheyn Cipriani en pódcast ‘Naqo’: “Tengo que controlar mis impulsos” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUW4td0JPQXg5cUVMS0Z3dk1yUHI2N19OeHdPTFp2OWV5MDVNQm1Tb3U3ei1NNk9fdTFBcER6OEFfNGFJNGdYNWg4Ukw2Nm81MkFaNFZuMDZHcWtUVEhubExJMXlFbFI1TTdaMUdjVER1SzBNQlRNUXBTb3VTUkl2NUhOTDBUWDU2TzkwNDVKUUEyMkV0eW9mTG4wQ2J5M2ZYZEtBMjFYSGhMOUdwejJUOTkxTWowblAxdUpHbnhGSGZmcEJZSG1ORGY2M0hNY1hWVEpBVzY0RGZheFNDTUUxSno0bVd4MkZWYkhrbEFsUVJMMExaZ015Uk9KVFdmNjlU0gGGAkFVX3lxTE5ReEpSdDNmem9CazBPUWpPd01MdHVIZUZta1ZnaHZleW16aDVZcUVvd2RsNXZOTm9Qam9SckM2ZUdNN3phQnBjZURobEZ4WDFmMHFiUURlZ0tXMmp6bDJObzBDdUJ2UExtQjlZd3J2UFUtRGJjb2lua2NrZ1lPakYtRnNXaVdMVW10N0FTQVNHUlBzWDN6bmlrYTd4TmI1ZzRvUEx4R2lVeWU4TDJzSGkyWGlZSVk2Q0dGa0liajViZHlzb0RWY1ZmdUs0cDNjRUxSeFgxZG9IMUFqeTU5S0twYWV3VUFhZmRERHlsYm5FZmx5Z0lPWHVhVDRFT0p5dVNhbFNhcVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Lima: sismo de magnitud 3,6 remeció Chosica, según IGP",
+   "resumen": "Temblor en Lima: sismo de magnitud 3,6 remeció Chosica, según IGP La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEstSUZlbWE4bzJOMUx4YU5pSEtrMHlLcDBjUXpvOVd2X0czRGRkMEVmdndXMVM0bEpMbDI1T3p2WkdoelZoSHNiX280SkdNdV9ESU52eEYtaHZ1VHpZM1ZUS0h0b1l2ZEU3TkdQS2RaSEpXNXNZNEtCdjR3ZUptSFZPdzRGR1ZYSmhjM3lNbWpUWkRKSWdjZXhPWXVBbk9KUzk4bkJLZzM2em1CcU02UTRB0gG3AUFVX3lxTE05MUdLM0NMNWxESzFoZlBxUmxuVzk3NE92VjJvM1pkXzdtZjMwZU1JcUR1VmVqWlNNZl9SRXdmWjBDMjZWYlhlV1VaNk1NMUpVMENPZ3F0ZDlNd3B2amFMQ2xyR0F0dDVjb0xJZkFoRkdia0lnQWlsYlo5cWxBU29ZUVl3ZmlWNzA2a1l5NWIwa2Q3MlpZWTAzZFFLWnRxaGVZcUVta2s4OGxGcVlzMHl1RFZGRjNzTQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Detienen en Venezuela a cabecilla de la banda que mató a “China Polo”",
+   "resumen": "Detienen en Venezuela a cabecilla de la banda que mató a “China Polo” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUjFnNkpFYmNkVjBEaHVvNzBmaHNubHQ1bjJocVFEaWI4S2d0YWFqMHJGRUk5cll4U01CeXBiYXhkVjAzNGtGR1BDYjBsdzhDSW9FSWRpblhCRkVKYzBUaW1YQTZ5NXAya2VROHJjT0J3X3haWjJYU091MUdDb0JEanFmcE4zcVhWcHRTMWZWUnZ0cFMxV3FRTUNldVZ0dGo5ZDRSaDVob29fNG1RVy1qdk1UbzNDU2F0WHFXemdMMXZwOHp6S0ExZXJNWlpYWVlFOUwxNXNOZVE1RjJKalZLeFBEeERzekUtT3FpYVlVVVU3RzdBNW5kMDNZdnNncjRndkxaVjhoay3SAY4CQVVfeXFMUFljd2QydFlWZ2tvbVdrQUFGUTRVRVlKZFBReWFlcktrRGpRcXRpUGh3R09Ea1BDX1lZd0dUNU54ZE5KWGc5djlIMXJSZFFZRUprVmpKVFlUYndoTEtrRUJ2cS1ZOGIxcFlKOWZxU1N1TE5MbkttQmRGNGpPSkJVWFVnTzJQaFlhbDlyWU8yQXpHb1lBUlNSOUpkTG5WeDQ2bFFDOTcxaENPLW93akNic3ppTUp0SmdSNGNTSHNUSVVibnBOR0R2ZktCYXpQMm1nR0JNNVI1TDdHOUo4ZGR1MFI4b29vOFZGbUlZRURPLV9sOGJtandkWkhIOEJxZXRVZnRzVXh5QW4yU2g4VnFn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Laura Bozzo reaparece ante alarma por su estado de salud tras ser internada de emergencia en México: \"De esta momia no se libran\"",
+   "resumen": "Laura Bozzo reaparece ante alarma por su estado de salud tras ser internada de emergencia en México: \"De esta momia no se libran\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPR0d2amtJRmRsa0RiemZsUTNhQTE1bDVIQkZwQUVVMmlER3pucHhmbzZWZmRXM2ZzMVFaTGE2emlSOF94bm4yZHVXNFJJTEpFUTRVVDlxeTFxX2o2Zk5RVHNjczRtcFlBUmwyWkc1aDhmMkpSZWtMalkxN1huZzJKTGRPZ25uZGVkYkxxUnhCSFJldjZzNnNLMGJhNmVidU9IR015eldIZUZreVBUMkxsVXY5SGtJNVdYNlJNN0RCQTQ3MVVDNUxfc09ndVlRLWFBZjZoZTEzMGhFU3llUVN2V1hxUzktUnllaXc1bTNnVjVNdHZscXVvZmVoSHFRc2VwWWZGZ3UydnlHNmdR0gGSAkFVX3lxTE1FOGl0Zm9MSzdkdW9nMGJtenE5TzhDSnBaRGxjbXdjVVg0RmZ3STRQdERKLXF0NG5jRmNQSWlVbDR4cS10RDg2OVJGaUtmbDRKTmZ4RlBrd1dkSkQ3blM5Rmd6bnlfVjdBMWptR0V1MHZVZXZtTUF3X1lNUk1Vd3RpQzdnMnVvTDBSX1Z3V0hRUWtuNjdUUWFTOU9Qc2d1NkpwbzB0cm5wdlhuZFBPSS1VNHZMaUVncnFSb1JHN1NfR0JjYmE0SWgyX1Q1VUtJcDFrQWR0SXZEdkJvdHVqYUxoQmpCNlJkdzJRck5WNUVPY3o2dGdLSnlLblNyeUJCejl3ZkFJQzhEem1fZzI1ZDJOMkE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mondonguito rompe en llanto al ver que famoso influencer peruano le donó S/1000 para su recuperación: “No me odien, no le hice daño a nadie”",
+   "resumen": "Mondonguito rompe en llanto al ver que famoso influencer peruano le donó S/1000 para su recuperación: “No me odien, no le hice daño a nadie” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQb1R4QmJBdXRlVm1xWF96TFU4UEg3RzhVZ1hBbGY5VEVWSHFrWm1CZTdXRWtaWmFwWnh0ZlJNODI4M0t5SzI3cnhOUUlRTi16bFM2RkEzZUFlTDdHeGE1S0ZXUDkyYUNJUTdDM01Wa3ZZRlpSal9GX3FNSEhSU2M5eFh4Q0xRenp6MVBOVzAxd2YxVWFEYTEtNUVEYWNIYjdqWk1zUHo4elFvbHpqWDl4RTRCU2FVOUdLaXhpb1p5X25vYkFhQzQ0OUR6SHNxM3c2LXlCdUxHZUhHSk1NYWRJMUFSUXhPdmtvcE4yZzQ4Mm5qWVFyYVgwYkVzenRGNzVaZExtOWNLRDRCT1BJZFBkVndjbndrU0E50gGeAkFVX3lxTE5uWjZ6S2F5R19ZSkxMUjhLZ0hLSzlMNjdtd2E2VkJQYkZoaXczZHhTVzVhbk1NLWRPUTBCaFZaU2dVVXVWeG1iMXJvZGNvSVhNc3YyUHN1V2JLbGw0RWdLTVZqUXk1TEszVmlubnNGNmQ4LThjanVTXzFHcHpVT0wzT1ZWNE9FT3MwTnpCM2dOLU02QUFYODgzQlZsdWhFM1oyM3lnRjRYeXJ1ZHFwcUNFMWJjbURkeHNrVnJ5U29YdUdvamkzSFpqdm1wUTlyY0NVSGJTZ1lHeEtndUNycmd5MmF0bEE2d0JUV2ZHSDAxQnVFZklJM3lBUzEzeHgyOUNKb2VIeEJEREk4aHhMWFd1Z3pXYV9nbzlwRkxhZXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mónica Sánchez termina internada tras sufrir una grave caída del escenario y preocupa su salud",
+   "resumen": "Mónica Sánchez termina internada tras sufrir una grave caída del escenario y preocupa su salud La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFQ4R1hVc1VxR3RjQkQxYnpybXBzM0ZMeHg4M2x3Y1BNaURaRmhkRlRLVExBYW5FOWNMakRiRXZYQ09HT0ZVTUJaRDRVV2tHMlZ0bThLX0tYdzEwSExCUDdkbV90VFUtNzg0c1BqMTdWNk5hYzJwWG4xV25pOXc4aDlFaFFNYUpMajhOTFpQSWoxbVJjQzFENFFQc1RQNlBNME5mMTNxQmpWM1Z1RTZkRWxTY0laaWJwcnFJUUVNTjljTzZ2X18xLUc1MDFrMmRqamFBR2FSd2pqZWNueG84eEVYONIB6AFBVV95cUxQNExnS0hjYlVYdkRBcnFMRzU4ekk4V0FYNFRfZ1BsQjlzMEZudnZyenFidEJ6NTZjNnF2Y0FsY01zZnhqQmppYnVEdDNMQXRsOUVOYUlmaWh6Z292cWE4allwU1ZuYVlqQVhORzhMbE5ZaVhHbGxSNGV4OTJyZXJ2V2U2V3JSVlA4ajRYZUk1R2M1M0Z4aDhLRlhtUGVaeU1MTmhmSWM4cWFnZzc3QlFqNndFeVd3YVkyTG1rT3NKd1ltYWNNWWYyTTJTRTFOS0VBLThaZXVydE5LX0tDSWo3Z1ZudFFFazM1?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fiscalía investiga presunto ataque homofóbico contra dos ciudadanos en local de McDonald's en Miraflores",
+   "resumen": "Fiscalía investiga presunto ataque homofóbico contra dos ciudadanos en local de McDonald's en Miraflores La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWGpJQ0dOR1Vka043a09CUFplZ1MtZFNxZFVtaXdTWnpDQjFkbW1WT1gycldKVGtORjBOSndSUFBKVHVoMUw1c25uOS1xa3NZZXNscHBvd0pGYTQ0SnZtbVFmcGowcmFtNWxkdUpyczg3Umt3eVJmSzUzdTh4QjBLZHJXTXRLQmNDR3NrZVFZQlJtS1BOQTdoNFZFOFFtOGJxZTktMmpEZmpGU284NkVpaVA2R3NHYlF0UlRobVB0VUNUWF9SWUo5WG5kSXdIVUx0U2ZIdmRBUlJOcjU5NkgxazNoZGdvM0pq0gHuAUFVX3lxTE1KRmo2X2phX0N0Q05fbFhqR0RqMzYyY1FwWnJjV0F3YjRuM0FHNEZBNHVjcm9oVkNycEdmemk4WFdEV1loWjhjX0hjS21VVmtCcFgxSG43SzQ3UGRUWWh3b0pJN01FOVN5UUlhX3llR1A4ZzNYekpCMUFGbUU4azdOS0VUSnJhRU9oYm4wVXVWUl9FNHo4UXJJYjE5ZE1nUTlTU0RHWHI2NDhDNFpqeHNWWHZPOWFqaVdHaXFrd3dhTHMtRWdDWF9VS0haYmtyejNPeGpVTEo2V2pEYms5WE9ETmxHWTJOejFUaVgteHc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Hijo de María Pía Copello sufre grave accidente en los Caminos del Inca y conductora se quiebra: \"Se ha caído a una zanja\"",
+   "resumen": "Hijo de María Pía Copello sufre grave accidente en los Caminos del Inca y conductora se quiebra: \"Se ha caído a una zanja\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMlZlckEwY2NaMDRhbEE2NHh4d0xheEVycDZURGc0TFdvSzV3Vnd4TzctX19KQnRJUVMwaWc4RndJMVliU3g3b3o1N1hKMDdGT3YwcFBmRHlSMlljdE9oUV9iTFlDN0d1RE91bWxqM1dGcmRfVGkzS1FxYkh2LUUwWUN4ZWFaOHdiZXh5RHJDYlJVZVMzQ1RaWEZqNG01bEdJS3VFSjZWME1BSE04Q3R5WUxXSTVZR0VMZlNtR2dmWGtYb21yeHp3TVpPUUROdzNCVWlMMEF1dWRuNXVHRk9xdGRDTW0zcjVRejBBYXpBMmNLb2I4a3BWTGRrS3VwMG9GV0N30gGIAkFVX3lxTFBFbEhpT01Fc3Q1Y0M2TzdqbWwwQ1Y3RGJERXdSSnlQaGxSRUVZeGhHMHh0S3ZSOWJseFBLNVRGNHJNMzJuZXBkaWpObnZmM0JhMmtmM2IxYVJqVk5aY2NSOWhEMU5JTFNuVjhJLXpUYnJsNjQ4SVdmdVZESlNVU2pOTHJMODhQa0NoRm5SVGFVa3hJd200d0FIRmhFWUhfRUpvRGdzNFZkbFM5NnNFOVY4dEtiUTl6bkRoaTJYUEM2UUZLR3ZEdXc0LUhvaExzYVhRdm9FUjAwdDBFcW1VOG1SUlkzOTBlZHNoLVQwbDNDcVRRVXpmYTZURjNoN2lmUjJlb0RSeXdsVw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones en la UNI: candidatos al rectorado debaten sobre modernización, presupuesto y el futuro de la universidad",
+   "resumen": "De cara a los comicios de este viernes 16 de octubre, los candidatos Jorge Butler, Aurelio Padilla, Luis Humberto Chirif, Ulises Humala, Fortunato Dávila, Rodolfo Falconí, Raymundo Arnao y Juan Rodríguez presentaron sus principales propuestas académicas, financieras y de infraestructura para la casa",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/elecciones-en-la-uni-candidatos-al-rectorado-debaten-sobre-modernizacion-presupuesto-y-el-futuro-de-la-universidad-noticia-1712562"
+    }
+   ]
+  },
+  {
    "titulo": "San Juan de Miraflores: madre denuncia el robo de su auto frente a un mercado [VIDEO]",
    "resumen": "Rotafono de RPP | La denunciante dejó estacionado su vehículo para realizar unas compras en el mercado Miguel Iglesias, en el distrito limeño de San Juan de Miraflores, pero en dos minutos se lo llevaron.",
    "seccion": "Perú",
@@ -434,306 +737,6 @@
     {
      "medio": "RPP",
      "url": "https://rpp.pe/futbol/futbol-mundial/partidos-de-hoy-jueves-15-de-octubre-en-vivo-copa-libertadores-y-europa-league-en-direto-martes-13-de-octubre-horarios-y-canales-de-tv-online-para-ver-futbol-minuto-a-minuto-noticia-1712561"
-    }
-   ]
-  },
-  {
-   "titulo": "Palabra oficial: Lisandro Martínez matizó sus duras críticas al Manchester United tras derrota ante el Atlético",
-   "resumen": "Lisandro Martínez habló fuerte sobre el Manchester United y por lo mismo es que contextualizó sus palabras, vía Instagram.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/champions-league/manchester-united-lisandro-martinez-matizo-sus-duras-criticas-al-club-tras-derrota-ante-atletico-de-madrid-noticia-1712735"
-    }
-   ]
-  },
-  {
-   "titulo": "Juventus vs Celta de Vigo ENVIVO: ¿a qué hora juegan en España y dónde ver la fecha 2 de la Europa League 2026?",
-   "resumen": "Juventus vs Celta de Vigo EN VIVO: sigue el partido en Balaídos por la fecha 2 Europa League 2026.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/futbol-mundial/juventus-vs-celta-de-vigo-en-vivo-a-que-hora-juegan-en-espana-y-donde-ver-fecha-2-europa-league-2026-via-espn-partidos-de-hoy-noticia-1712587"
-    }
-   ]
-  },
-  {
-   "titulo": "LaLiga denuncia el cántico \"Vinicius es un imbécil\" e insultos a España y la Selección",
-   "resumen": "LaLiga de España busca combatir la violencia en estadios con más competencias y reportes de aficionados.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/futbol-mundial/laliga-denuncia-el-cantico-vinicius-es-un-imbecil-e-insultos-a-espana-y-la-seleccion-noticia-1712737"
-    }
-   ]
-  },
-  {
-   "titulo": "Solo hay un equipo de radio operativo por cada ocho policías asignados a comisarías, advierte estudio",
-   "resumen": "La falta de equipos de radiocomunicación limita la capacidad de respuesta de la Policía ante emergencias. Un análisis del Instituto de Criminología y Estudios sobre la Violencia advierte que el 87 % de los agentes asignados a comisarías no tiene acceso a estos equipos, una brecha que dificulta la co",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/lima/policiales/solo-hay-un-equipo-de-radio-operativo-por-cada-ocho-policias-asignados-a-comisarias-advierte-estudio-noticia-1712739"
-    }
-   ]
-  },
-  {
-   "titulo": "Bono de reconocimiento ONP: Poder Judicial evaluará el 6 de noviembre demanda por aportes de quienes pasaron a las AFP",
-   "resumen": "El Noveno Juzgado Constitucional de Lima programó una audiencia para evaluar la demanda presentada contra la PCM y el MEF, que busca la entrega del Bono de Reconocimiento para los trabajadores que aportaron a la ONP y luego migraron a las AFP desde 2002.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/economia/economia/bono-de-reconocimiento-onp-poder-judicial-evaluara-el-6-de-noviembre-demanda-por-aportes-de-quienes-pasaron-a-las-afp-noticia-1712518"
-    }
-   ]
-  },
-  {
-   "titulo": "Señor de los Milagros: ruta, desvíos vehiculares y medidas de seguridad para el segundo recorrido procesional",
-   "resumen": "Conoce los detalles sobre los desvíos y cierres de calles para el segundo recorrido procesional del Señor de los Milagros.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/lima/actualidad/senor-de-los-milagros-ruta-desvios-vehiculares-y-medidas-de-segurida-del-segundo-recorrido-procesional-del-crismo-moreno-noticia-1712560"
-    }
-   ]
-  },
-  {
-   "titulo": "Camioneta de los bomberos queda inservible tras incendiarse en Los Olivos: fuego habría sido provocado",
-   "resumen": "Cámaras de seguridad captaron a un hombre aproximarse a la unidad poco antes de que comenzara el incendio. El jefe de la XXV Comandancia Departamental Lima Norte sindicó a un indigente como autor del fuego.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/lima/actualidad/los-olivos-camioneta-de-los-bomberos-queda-inservible-tras-incendiarse-fuego-habria-sido-provocado-noticia-1712727"
-    }
-   ]
-  },
-  {
-   "titulo": "Serie REDMI Note 17 llega a Perú: baterías de gran capacidad y resistencia para el uso diario",
-   "resumen": "Xiaomi presenta en el país cuatro smartphones, liderados por el REDMI Note 17 Pro Max 5G. La nueva familia apuesta por una mayor autonomía, protección frente al agua y el polvo, y características orientadas al uso cotidiano.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/campanas/publirreportaje/serie-redmi-note-17-llega-a-peru-baterias-de-gran-capacidad-y-resistencia-para-el-uso-diario-noticia-1712738"
-    }
-   ]
-  },
-  {
-   "titulo": "Calendario de Universitario en la Copa Libertadores Femenina 2026: fechas y horarios de los partidos de las \"Leonas\"",
-   "resumen": "Conoce la programación de los partidos de Universitario en la Copa Libertadores Femenina 2026.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/copa-libertadores/calendario-de-universitario-en-copa-libertadores-femenina-2026-fixture-horarios-y-grupos-del-torneo-conmebol-noticia-1712195"
-    }
-   ]
-  },
-  {
-   "titulo": "Meghan Markle y el príncipe Harry reaparecen juntos en público en un acto benéfico en Reino Unido",
-   "resumen": "La pareja regresó el pasado agosto a Inglaterra desde California, a fin de reconectar con la tierra natal del príncipe.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/famosos/celebridades/meghan-markle-y-el-principe-harry-reaparecen-juntos-en-publico-en-un-acto-benefico-en-reino-unido-noticia-1712719"
-    }
-   ]
-  },
-  {
-   "titulo": "Álvaro Vargas Llosa es nombrado oficialmente como embajador del Perú en Estados Unidos",
-   "resumen": "A través de una resolución suprema refrendada por la presidenta Keiko Fujimori y el canciller Carlos Espá, el Gobierno designó al escritor como Embajador Extraordinario y Plenipotenciario en Washington, y dispuso que se le extiendan las cartas credenciales y plenos poderes correspondientes.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/politica/gobierno/alvaro-vargas-llosa-es-nombrado-oficialmente-como-embajador-del-peru-en-estados-unidos-noticia-1712484"
-    }
-   ]
-  },
-  {
-   "titulo": "Jimin de BTS celebró su cumpleaños con ARMY en Chile y se emocionó hasta las lágrimas",
-   "resumen": "El cantante cumplió 31 años el 13 de octubre y recibió una sorpresa de sus compañeros durante el primer concierto de BTS en Santiago.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/famosos/celebridades/bts-en-chile-jimin-celebro-su-cumpleanos-en-concierto-y-tuvo-emotiva-reaccion-hasta-las-lagrimas-video-noticia-1712730"
-    }
-   ]
-  },
-  {
-   "titulo": "Cortes de luz en Lima desde este 15 al 18 de octubre: distritos afectados y horarios",
-   "resumen": "Conoce los horarios y las zonas afectadas por los cortes de luz anunciados en varios distritos de Lima desde este jueves 15 al domingo 18 de octubre.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/lima/actualidad/cortes-de-luz-en-lima-desde-12-al-18-de-octubre-distritos-afectados-y-horarios-noticia-1712111"
-    }
-   ]
-  },
-  {
-   "titulo": "Presidenta Keiko Fujimori participa en lanzamiento del recetario “Mar de oportunidades”",
-   "resumen": "El recetario “Mar de oportunidades” reúne preparaciones elaboradas con recursos hidrobiológicos cuya disponibilidad podría incrementarse temporalmente por los cambios oceanográficos asociados al fenómeno El Niño",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/presidenta-keiko-fujimori-participa-en-lanzamiento-del-recetario-mar-de-oportunidades-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "La Libertad: César Acuña anuncia su retiro de la política",
-   "resumen": "El excandidato presidencial de Alianza para el Progreso (APP), César Acuña Peralta, aseguró que no volverá al escenario político para dedicarse “a tiempo completo” a su universidad (César Vallejo).",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-cesar-acuna-anuncia-su-retiro-de-la-politica-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "EsSalud: anestesiólogo del INCOR relata cómo afrontó una cirugía de 17 horas",
-   "resumen": "José Elliot Rodríguez, anestesiólogo del INCOR de EsSalud, recuerda una cirugía cardiovascular de 17 horas y destaca su labor de vigilancia durante las operaciones.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/peru/essalud-anestesiologo-del-incor-relata-como-afronto-una-cirugia-de-17-horas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Comisión de Constitución continúa hoy debate de facultades legislativas",
-   "resumen": "El dictamen busca delegar al Poder Ejecutivo la facultad de legislar, mediante decretos legislativos, por el plazo de 90 días calendario",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/en-vivo-congreso-comision-de-constitucion-continua-hoy-debate-de-facultades-legislativas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Huancavelica: siete distritos reportan incendios forestales y Tintaypuncu pide ayuda",
-   "resumen": "El fuego afecta diversas zonas de la región y amenaza cultivos, animales y viviendas.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/huancavelica/huancavelica-siete-distritos-reportan-incendios-forestales-y-tintaypuncu-pide-ayuda-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Constitucionalista Luis Roel pide definir los límites del Senado en la delegación de facultades",
-   "resumen": "El constitucionalista cuestiona cambios al pedido de facultades y advierte riesgos en lucha contra el crimen. Considera urgente precisar los límites de sus atribuciones frente a la Cámara de Diputados",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/constitucionalista-luis-roel-cuestiona-cambios-pedido-de-facultades-legislativas-riesgos-en-lucha-contra-el-crimen-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Rafael Rey revela por qué renunció al MTC: “Yo dormía tres horas en la noche”",
-   "resumen": "Rafael Rey explicó que renunció al MTC por el estrés y la presión de atender pedidos de obras. Afirmó que dormía tres horas y que su médico le aconsejó dejar el cargo.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/rafael-rey-revela-por-que-renuncio-al-mtc-yo-dormia-tres-horas-en-la-noche-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Yero Chuquicañas: “En mi libro, todos están hartos de nuestro país”",
-   "resumen": "Escritor ileño presenta su nueva obra de cuentos este sábado 17 de octubre en la ciudad de Arequipa",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/arequipa/yero-chuquicanas-en-mi-libro-todos-estan-hartos-de-nuestro-pais-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Salud mental: herramientas de Google para reducir distracciones y mejorar hábitos digitales",
-   "resumen": "Google presenta en Perú funciones de Android, Calendar y Gemini para gestionar el tiempo frente a pantallas, reducir distracciones y organizar pausas y descansos.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/salud/salud-mental-herramientas-de-google-para-reducir-distracciones-y-mejorar-habitos-digitales-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Junín mantiene 10 casos de sarampión y evalúa posible contagio en una niña",
-   "resumen": "",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/huancayo/junin-mantiene-10-casos-de-sarampion-y-evalua-posible-contagio-en-una-nina-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Robert De La Cruz, excandidato a la Alcaldía de Trujillo: “Me enfrenté a un loco y a una loca”",
-   "resumen": "El excandidato a la Alcaldía de Trujillo por Podemos Perú, Robert De La Cruz Rosas, ironizó sobre los resultados de las elecciones municipales del 4 de octubre.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/la-libertad/robert-de-la-cruz-excandidato-a-la-alcaldia-de-trujillo-me-enfrente-a-un-loco-y-a-una-loca-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "La Victoria: Más de S/1′140 000 en prendas presuntamente falsificadas fueron incautadas en Gamarra",
-   "resumen": "La Policía Nacional del Perú informó que dos mujeres fueron detenidas por la presunta comisión de un delito contra la propiedad industrial",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/lima/la-victoria-mas-de-s1140000-en-prendas-presuntamente-falsificadas-incautadas-en-gamarra-pnp-noticia/"
     }
    ]
   }
