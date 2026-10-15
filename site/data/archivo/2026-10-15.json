@@ -1,0 +1,741 @@
+{
+ "actualizado": "2026-10-15T11:13-05:00",
+ "modo": "titulares",
+ "total_titulares": 262,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "BTS en Perú: 15 operaciones aéreas y cerca de 1.000 toneladas de carga detrás de sus conciertos",
+   "resumen": "Mientras se llevaban a cabo los conciertos de BTS en el Estadios San Marcos, en el aeropuerto Jorge Chávez se desarrollaba un despliegue de 15 operaciones aéreas, cerca de 1,000 toneladas de carga movilizadas y aeronaves de gran capacidad para trasladar una producción internacional de esta escala, i",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/bts-en-peru-15-operaciones-aereas-y-cerca-de-1000-toneladas-de-carga-detras-de-sus-conciertos-l-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Gobierno designa presidenta del directorio y directora ejecutiva del Fonafe",
+   "resumen": "El Ministerio de Economía y Finanzas (MEF), mediante la Resolución Ministerial N°465-2026-EF/10, publicada en el diario El Peruano, designó presidenta del directorio del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (Fonafe) a Brigitt Bruna Bencich Aguilar.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/gobierno-designa-presidenta-del-directorio-y-directora-ejecutiva-del-fonafe-l-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El Indecopi eliminó barreras burocráticas por S/ 429 millones en el 2025",
+   "resumen": "Más de ocho de cada diez intervenciones del inventario del MEF para reducir trámites y barreras pueden resolverse desde el Ejecutivo sin recurrir al Congreso, señala el informe de Hágase Instituto.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/el-indecopi-elimino-barreras-burocraticas-por-s-429-millones-en-el-2025-hagase-instituto-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Yemen: Mueren 2 escoltas del primer ministro en ataque hutí contra Palacio Presidencial",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/oriente-medio/yemen-mueren-2-escoltas-del-primer-ministro-en-ataque-huti-contra-palacio-presidencial-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones Regionales y Municipales 2026: resultados oficiales de ONPE en la provincia de Chota (Cajamarca)",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-provincia-de-chota-cajamarca-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Construcción crecería cerca de 10% este año, pero el FEN frenaría su avance en 2027",
+   "resumen": "Construcción crecería cerca de 10% este año, pero el FEN frenaría su avance en 2027. La recuperación de las obras podría comenzar entre mayo y junio y consolidarse desde el tercer trimestre. La inversión privada sostendría la actividad, mientras la ejecución pública enfrenta el cambio de autoridades",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/dia-1/construccion-creceria-cerca-de-10-este-ano-pero-el-fen-frenaria-su-avance-en-2027-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Pierdes músculo con los años? Estos son los 7 ejercicios que te ayudarán a evitarlo",
+   "resumen": "Con el paso de los años, la masa muscular puede disminuir y afectar la fuerza, la movilidad y la independencia. Sin embargo, incorporar determinados ejercicios a la rutina puede ayudar a combatir este deterioro y mantener el cuerpo activo. Conoce cuáles son los siete movimientos que favorecen el cui",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cual/pierdes-musculo-con-los-anos-estos-son-los-7-ejercicios-que-te-ayudaran-a-evitarlo-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Resultados ONPE al 94.406% de las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/elecciones/resultados-onpe-elecciones-regionales-y-municipales-2026-en-vivo-conteo-oficial-para-saber-quien-gana-las-elecciones-de-alcaldes-y-gobernadores-en-el-peru-erm-2026-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "César Acuña anuncia su retiro: “Chau política, dedicado a tiempo completo a formar a mis jóvenes”",
+   "resumen": "El líder de Alianza para el Progreso (APP), César Acuña, anunció su retiro de la política y señaló que se dedicará a tiempo completo a la formación de jóvenes y a su universidad.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/actualidad/cesar-acuna-anuncia-su-retiro-chau-politica-dedicado-a-tiempo-completo-a-formar-a-mis-jovenes-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Perú HOY, jueves 15 de octubre: reportes de los últimos sismos según el IGP",
+   "resumen": "Temblor en Perú EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Instituto Geofísico del Perú (IGP).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/temblor-en-peru-hoy-en-vivo-15-y-16-de-octubre-de-2026-y-ultimos-sismos-segun-el-igp-instituto-geofisico-del-peru-lima-callao-ica-arequipa-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
+   "resumen": "El Senado debatirá el pedido de facultades legislativas del Ejecutivo. El predictamen incorpora ocho puntos al texto aprobado por Diputados, con medidas sobre grupos hostiles, herramientas antiterroristas y fortalecimiento de la DINI.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Trump sobre fusilamiento de Nidal Hasan: “Morirá según lo previsto, pero este evento no será retransmitido”",
+   "resumen": "Donald Trump descarta su plan de transmitir en directo el fusilamiento del exmilitar Nidal Hasan.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-descarta-su-plan-de-transmitir-en-directo-el-fusilamiento-del-exmilitar-nidal-malik-hasan-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del Dólar en México hoy, jueves 15 de octubre 2026: en cuánto está el tipo de cambio USD a MXN",
+   "resumen": "Este jueves 15 de octubre, conoce cuál es el tipo de cambio USD a MXN. Revisa el precio del dólar en México y cuál es su valor exacto a lo largo de la jornada en el mercado mexicano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-jueves-15-de-octubre-2026-tipo-de-cambio-usd-a-mxn-y-cuanto-vale-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar en República Dominicana hoy, jueves 15 de octubre: en cuánto abrió el USD a DOP, compra y venta",
+   "resumen": "Cosulta cuál es el precio del dólar en República Dominicana hoy, jueves 15 de octubre de 2026. Aquí te cuento cuánto cuesta el USD a DOP con los datos exactos para la compra y venta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/us/precio-del-dolar-en-republica-dominicana-hoy-jueves-15-de-octubre-cuanto-cuesta-el-usd-a-dop-compra-y-venta-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cómo ver Dodgers — Brewers EN VIVO ONLINE por Juego 4 de MLB Playoffs 2026? Horarios y canales TV online",
+   "resumen": "Siga en vivo el Juego 4 entre Dodgers y Brewers por los playoffs de la MLB 2026. Consulte la guía de canales de televisión, horarios locales y opciones en streaming para ver el béisbol online.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/como-ver-dodgers-brewers-en-vivo-online-por-juego-4-de-mlb-playoffs-2026-horarios-y-canales-tv-online-serie-mundial-2026-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Luis Felipe Gazitúa, del Consejo Empresarial Chileno- Peruano: “El principal destino de la inversión extranjera chilena es el Perú”",
+   "resumen": "El presidente del Capítulo Chileno del Consejo Empresarial Chileno-Peruano dijo que el crecimiento económico de su país sería bajo este año, aunque se espera que la situación mejore para el 2027.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/luis-felipe-gazitua-el-principal-destino-de-la-inversion-extranjera-chilena-es-el-peru-consejo-empresarial-chileno-peruano-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Chile HOY, jueves 15 de octubre: consulta los últimos sismos según el CSN",
+   "resumen": "Temblor en Chile EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Centro Sismológico Nacional (CSN).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-15-y-16-de-octubre-y-ultimos-sismos-segun-el-csn-epicentro-magnitud-y-hora-centro-sismologico-nacional-santiago-socaire-atacama-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Christian Cueva es denunciado por deuda mientras lanza nueva marca con Pamela Franco",
+   "resumen": "Un empresario denunció que sigue sin recibir el pago por la producción de panetones “CC10” en 2023 y aseguró que el caso ya llegó al Poder Judicial.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/tvmas/farandula/christian-cueva-es-denunciado-por-deuda-mientras-lanza-nueva-marca-con-pamela-franco-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Perú asume la presidencia de la RANDOT de la OEA para el periodo 2026–2028",
+   "resumen": "El Perú fue elegido por por unanimidad como presidente de las Reuniones de Autoridades Nacionales en Materia de Delincuencia Organizada Transnacional (RANDOT) de la OEA para el periodo 2026–2028. La designación oficial ocurrió el 14 de octubre durante la Quinta Reunión de este mecanismo hemisférico ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/gobierno/peru-asume-la-presidencia-de-la-randot-de-la-oea-para-el-periodo-20262028-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué canales de televisión pasan Estudiantes vs. Flamengo hoy y a qué hora es el partido por la Copa Libertadores 2026?",
+   "resumen": "Consulta los canales de TV y plataformas online para ver el partido entre Estudiantes vs. Flamengo el jueves 15 de octubre por la semifinal de la Copa Libertadores 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/argentina/donde-ver-estudiantes-vs-flamengo-en-vivo-gratis-por-copa-libertadores-2026-a-que-hora-juegan-y-canal-que-transmite-semifinal-online-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué canales de televisión pasan Universitario vs. Palmeiras y a qué hora inicia el partido por Copa Libertadores Femenina 2026?",
+   "resumen": "Revisa qué canales pasan el partido de Universitario vs. Palmeiras y los horarios para verlo por la fecha 1 del Grupo B de la Copa Libertadores Femenina 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/donde-ver-universitario-vs-palmeiras-femenino-en-vivo-gratis-por-copa-libertadores-2026-a-que-hora-juegan-y-que-canal-transmite-partido-online-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "INEI: producción nacional presenta un crecimiento de 3,23% en agosto del 2026",
+   "resumen": "Durante agosto de 2026, la producción nacional aumentó en 3,23%, con relación a similar mes del año anterior, determinada por la evolución positiva de la mayoría de sectores, entre los que destacaron Construcción; Comercio; Electricidad, Gas y Agua; Otros Servicios; seguido de Manufactura; Servicios",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/inei-produccion-nacional-presenta-un-crecimiento-de-323-en-agosto-del-2026-l-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuál es el precio del dólar en Venezuela hoy, 15 de octubre? Revisa la tasa del BCV",
+   "resumen": "Conoce cuánto cotiza el dólar en Venezuela hoy, según la tasa oficial publicada por el Banco Central de Venezuela (BCV), y consulta el tipo de cambio vigente para la jornada.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/cual-es-el-precio-del-dolar-hoy-en-venezuela-revisa-la-tasa-oficial-del-bcv-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Eduardo Grisolle, CEO de 121: “El modelo de las agencias de holding está cumpliendo un ciclo,es el momento de las agencias independientes”",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/dia-1/eduardo-grisolle-ceo-de-121-el-modelo-de-las-agencias-de-holding-esta-cumpliendo-un-cicloes-el-momento-de-las-agencias-independientes-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "San Juan de Miraflores: madre denuncia el robo de su auto frente a un mercado [VIDEO]",
+   "resumen": "Rotafono de RPP | La denunciante dejó estacionado su vehículo para realizar unas compras en el mercado Miguel Iglesias, en el distrito limeño de San Juan de Miraflores, pero en dos minutos se lo llevaron.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/rotafono/seguridad-ciudadana/san-juan-de-miraflores-madre-denuncia-el-robo-de-su-auto-frente-a-un-mercado-video-noticia-1712747"
+    }
+   ]
+  },
+  {
+   "titulo": "Jely Reátegui defiende a Bruno Ascenzo de las críticas por ‘La Tribu’: “Está tratando de que esta industria crezca”",
+   "resumen": "La actriz peruana no se quedó callada y destacó el trabajo del director de La Tribu. Además, mencionó que Bruno Ascenzo es víctima de discriminación.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/famosos/farandula/jely-reategui-defiende-a-bruno-ascenzo-de-las-criticas-por-la-tribu-esta-tratando-de-que-esta-industria-crezca-noticia-1712745"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy jueves 15 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-jueves-15-de-octubre-2026-noticia-1712693"
+    }
+   ]
+  },
+  {
+   "titulo": "“Les doy una buena noticia”: César Acuña anuncia su retiro de la vida política",
+   "resumen": "Después de dar la noticia, César Acuña dijo que se dedicará “a tiempo completo” a la formación de los estudiantes de su universidad.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/les-doy-una-buena-noticia-cesar-acuna-anuncia-su-retiro-de-la-vida-politica-noticia-1712736"
+    }
+   ]
+  },
+  {
+   "titulo": "San Bartolo: perrito rescatado llamado Dobby se perdió tras salir de su casa en San José",
+   "resumen": "Rotafono de RPP | Dobby, que también responde al nombre de Anakin fue rescatado hace cinco años y desapareció al escapar de un hogar temporal ubicado en esta urbanización de San Bartolo.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/rotafono/mascotas/san-bartolo-perrito-rescatado-llamado-dobby-se-perdio-tras-salir-de-su-casa-en-san-jose-mascota-desaparecida-video-noticia-1712750"
+    }
+   ]
+  },
+  {
+   "titulo": "Édgar Vivar se alejará temporalmente de los escenarios por una cirugía de columna",
+   "resumen": "El actor mexicano confirmó que se someterá a una intervención en la región lumbar el próximo año. Aseguró que no piensa retirarse definitivamente y que espera continuar trabajando después de su recuperación.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/famosos/celebridades/edgar-vivar-anuncia-alejamiento-temporal-de-los-escenarios-por-cirugia-de-columna-noticia-1712742"
+    }
+   ]
+  },
+  {
+   "titulo": "Caminos del Inca 2026 EN VIVO: sigue la Etapa 4 del rally peruano",
+   "resumen": "La competencia de automovilismo más importante a nivel nacional está de vuelta en su edición número 54. Conoce fechas, horarios y rutas oficiales.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/automovilismo/caminos-del-inca/caminos-del-inca-2026-en-vivo-fechas-ruta-oficial-cronograma-pilotos-y-donde-ver-rally-peruano-noticia-1711105"
+    }
+   ]
+  },
+  {
+   "titulo": "¡Irreconocible! Sydney Sweeney usó una peluca para pasar desapercibida en una salida con su amiga",
+   "resumen": "La protagonista de Euphoria publicó fotos y videos de su visita a un centro recreativo con Jayde Hafner, una de sus mejores amigas.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/famosos/celebridades/sydney-sweeney-uso-una-peluca-para-pasar-desapercibida-en-una-salida-con-su-amiga-fotos-noticia-1712740"
+    }
+   ]
+  },
+  {
+   "titulo": "Reniec lanza campaña de DNI electrónico gratuito hasta el 18 de octubre: sedes y beneficiarios",
+   "resumen": "Verifica los puntos en Lima y otras regiones del Perú en donde se despliega la campaña de emisión gratuita del DNI electrónico hasta el domingo 18 de octubre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/reniec-dni-electronico-gratis-anuncian-campana-hasta-18-de-octubre-beneficiarios-y-sedes-noticia-1712399"
+    }
+   ]
+  },
+  {
+   "titulo": "PNP necesita aproximadamente 80 mil radios para tener un estándar mínimo de comunicaciones entre su personal, advierte experto",
+   "resumen": "El criminólogo Nicolás Zevallos advirtió que la Policía Nacional necesita aproximadamente 80 mil radios para garantizar un estándar mínimo de comunicaciones entre sus agentes. Alertó que la falta de estos equipos limita la respuesta ante hechos delictivos y emergencias, como un eventual sismo de gra",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/pnp-necesita-aproximadamente-80-mil-radios-para-tener-un-estandar-minimo-de-comunicaciones-entre-su-personal-advierte-experto-noticia-1712741"
+    }
+   ]
+  },
+  {
+   "titulo": "Partidos de HOY, jueves 15 de octubre: horarios y canales de TV para ver EN VIVO Copa Libertadores y Europa League",
+   "resumen": "Fútbol EN VIVO | Horarios y canales de TV para ver EN DIRECTO los partidos de HOY jueves 15 de octubre del 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/partidos-de-hoy-jueves-15-de-octubre-en-vivo-copa-libertadores-y-europa-league-en-direto-martes-13-de-octubre-horarios-y-canales-de-tv-online-para-ver-futbol-minuto-a-minuto-noticia-1712561"
+    }
+   ]
+  },
+  {
+   "titulo": "Palabra oficial: Lisandro Martínez matizó sus duras críticas al Manchester United tras derrota ante el Atlético",
+   "resumen": "Lisandro Martínez habló fuerte sobre el Manchester United y por lo mismo es que contextualizó sus palabras, vía Instagram.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/champions-league/manchester-united-lisandro-martinez-matizo-sus-duras-criticas-al-club-tras-derrota-ante-atletico-de-madrid-noticia-1712735"
+    }
+   ]
+  },
+  {
+   "titulo": "Juventus vs Celta de Vigo ENVIVO: ¿a qué hora juegan en España y dónde ver la fecha 2 de la Europa League 2026?",
+   "resumen": "Juventus vs Celta de Vigo EN VIVO: sigue el partido en Balaídos por la fecha 2 Europa League 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/juventus-vs-celta-de-vigo-en-vivo-a-que-hora-juegan-en-espana-y-donde-ver-fecha-2-europa-league-2026-via-espn-partidos-de-hoy-noticia-1712587"
+    }
+   ]
+  },
+  {
+   "titulo": "LaLiga denuncia el cántico \"Vinicius es un imbécil\" e insultos a España y la Selección",
+   "resumen": "LaLiga de España busca combatir la violencia en estadios con más competencias y reportes de aficionados.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/laliga-denuncia-el-cantico-vinicius-es-un-imbecil-e-insultos-a-espana-y-la-seleccion-noticia-1712737"
+    }
+   ]
+  },
+  {
+   "titulo": "Solo hay un equipo de radio operativo por cada ocho policías asignados a comisarías, advierte estudio",
+   "resumen": "La falta de equipos de radiocomunicación limita la capacidad de respuesta de la Policía ante emergencias. Un análisis del Instituto de Criminología y Estudios sobre la Violencia advierte que el 87 % de los agentes asignados a comisarías no tiene acceso a estos equipos, una brecha que dificulta la co",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/policiales/solo-hay-un-equipo-de-radio-operativo-por-cada-ocho-policias-asignados-a-comisarias-advierte-estudio-noticia-1712739"
+    }
+   ]
+  },
+  {
+   "titulo": "Bono de reconocimiento ONP: Poder Judicial evaluará el 6 de noviembre demanda por aportes de quienes pasaron a las AFP",
+   "resumen": "El Noveno Juzgado Constitucional de Lima programó una audiencia para evaluar la demanda presentada contra la PCM y el MEF, que busca la entrega del Bono de Reconocimiento para los trabajadores que aportaron a la ONP y luego migraron a las AFP desde 2002.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/bono-de-reconocimiento-onp-poder-judicial-evaluara-el-6-de-noviembre-demanda-por-aportes-de-quienes-pasaron-a-las-afp-noticia-1712518"
+    }
+   ]
+  },
+  {
+   "titulo": "Señor de los Milagros: ruta, desvíos vehiculares y medidas de seguridad para el segundo recorrido procesional",
+   "resumen": "Conoce los detalles sobre los desvíos y cierres de calles para el segundo recorrido procesional del Señor de los Milagros.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/senor-de-los-milagros-ruta-desvios-vehiculares-y-medidas-de-segurida-del-segundo-recorrido-procesional-del-crismo-moreno-noticia-1712560"
+    }
+   ]
+  },
+  {
+   "titulo": "Camioneta de los bomberos queda inservible tras incendiarse en Los Olivos: fuego habría sido provocado",
+   "resumen": "Cámaras de seguridad captaron a un hombre aproximarse a la unidad poco antes de que comenzara el incendio. El jefe de la XXV Comandancia Departamental Lima Norte sindicó a un indigente como autor del fuego.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/los-olivos-camioneta-de-los-bomberos-queda-inservible-tras-incendiarse-fuego-habria-sido-provocado-noticia-1712727"
+    }
+   ]
+  },
+  {
+   "titulo": "Serie REDMI Note 17 llega a Perú: baterías de gran capacidad y resistencia para el uso diario",
+   "resumen": "Xiaomi presenta en el país cuatro smartphones, liderados por el REDMI Note 17 Pro Max 5G. La nueva familia apuesta por una mayor autonomía, protección frente al agua y el polvo, y características orientadas al uso cotidiano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/campanas/publirreportaje/serie-redmi-note-17-llega-a-peru-baterias-de-gran-capacidad-y-resistencia-para-el-uso-diario-noticia-1712738"
+    }
+   ]
+  },
+  {
+   "titulo": "Calendario de Universitario en la Copa Libertadores Femenina 2026: fechas y horarios de los partidos de las \"Leonas\"",
+   "resumen": "Conoce la programación de los partidos de Universitario en la Copa Libertadores Femenina 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/copa-libertadores/calendario-de-universitario-en-copa-libertadores-femenina-2026-fixture-horarios-y-grupos-del-torneo-conmebol-noticia-1712195"
+    }
+   ]
+  },
+  {
+   "titulo": "Meghan Markle y el príncipe Harry reaparecen juntos en público en un acto benéfico en Reino Unido",
+   "resumen": "La pareja regresó el pasado agosto a Inglaterra desde California, a fin de reconectar con la tierra natal del príncipe.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/famosos/celebridades/meghan-markle-y-el-principe-harry-reaparecen-juntos-en-publico-en-un-acto-benefico-en-reino-unido-noticia-1712719"
+    }
+   ]
+  },
+  {
+   "titulo": "Álvaro Vargas Llosa es nombrado oficialmente como embajador del Perú en Estados Unidos",
+   "resumen": "A través de una resolución suprema refrendada por la presidenta Keiko Fujimori y el canciller Carlos Espá, el Gobierno designó al escritor como Embajador Extraordinario y Plenipotenciario en Washington, y dispuso que se le extiendan las cartas credenciales y plenos poderes correspondientes.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/politica/gobierno/alvaro-vargas-llosa-es-nombrado-oficialmente-como-embajador-del-peru-en-estados-unidos-noticia-1712484"
+    }
+   ]
+  },
+  {
+   "titulo": "Jimin de BTS celebró su cumpleaños con ARMY en Chile y se emocionó hasta las lágrimas",
+   "resumen": "El cantante cumplió 31 años el 13 de octubre y recibió una sorpresa de sus compañeros durante el primer concierto de BTS en Santiago.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/famosos/celebridades/bts-en-chile-jimin-celebro-su-cumpleanos-en-concierto-y-tuvo-emotiva-reaccion-hasta-las-lagrimas-video-noticia-1712730"
+    }
+   ]
+  },
+  {
+   "titulo": "Cortes de luz en Lima desde este 15 al 18 de octubre: distritos afectados y horarios",
+   "resumen": "Conoce los horarios y las zonas afectadas por los cortes de luz anunciados en varios distritos de Lima desde este jueves 15 al domingo 18 de octubre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/cortes-de-luz-en-lima-desde-12-al-18-de-octubre-distritos-afectados-y-horarios-noticia-1712111"
+    }
+   ]
+  },
+  {
+   "titulo": "Presidenta Keiko Fujimori participa en lanzamiento del recetario “Mar de oportunidades”",
+   "resumen": "El recetario “Mar de oportunidades” reúne preparaciones elaboradas con recursos hidrobiológicos cuya disponibilidad podría incrementarse temporalmente por los cambios oceanográficos asociados al fenómeno El Niño",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/presidenta-keiko-fujimori-participa-en-lanzamiento-del-recetario-mar-de-oportunidades-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La Libertad: César Acuña anuncia su retiro de la política",
+   "resumen": "El excandidato presidencial de Alianza para el Progreso (APP), César Acuña Peralta, aseguró que no volverá al escenario político para dedicarse “a tiempo completo” a su universidad (César Vallejo).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-cesar-acuna-anuncia-su-retiro-de-la-politica-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "EsSalud: anestesiólogo del INCOR relata cómo afrontó una cirugía de 17 horas",
+   "resumen": "José Elliot Rodríguez, anestesiólogo del INCOR de EsSalud, recuerda una cirugía cardiovascular de 17 horas y destaca su labor de vigilancia durante las operaciones.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/essalud-anestesiologo-del-incor-relata-como-afronto-una-cirugia-de-17-horas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Comisión de Constitución continúa hoy debate de facultades legislativas",
+   "resumen": "El dictamen busca delegar al Poder Ejecutivo la facultad de legislar, mediante decretos legislativos, por el plazo de 90 días calendario",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/en-vivo-congreso-comision-de-constitucion-continua-hoy-debate-de-facultades-legislativas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Huancavelica: siete distritos reportan incendios forestales y Tintaypuncu pide ayuda",
+   "resumen": "El fuego afecta diversas zonas de la región y amenaza cultivos, animales y viviendas.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/huancavelica/huancavelica-siete-distritos-reportan-incendios-forestales-y-tintaypuncu-pide-ayuda-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Constitucionalista Luis Roel pide definir los límites del Senado en la delegación de facultades",
+   "resumen": "El constitucionalista cuestiona cambios al pedido de facultades y advierte riesgos en lucha contra el crimen. Considera urgente precisar los límites de sus atribuciones frente a la Cámara de Diputados",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/constitucionalista-luis-roel-cuestiona-cambios-pedido-de-facultades-legislativas-riesgos-en-lucha-contra-el-crimen-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Rafael Rey revela por qué renunció al MTC: “Yo dormía tres horas en la noche”",
+   "resumen": "Rafael Rey explicó que renunció al MTC por el estrés y la presión de atender pedidos de obras. Afirmó que dormía tres horas y que su médico le aconsejó dejar el cargo.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/rafael-rey-revela-por-que-renuncio-al-mtc-yo-dormia-tres-horas-en-la-noche-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Yero Chuquicañas: “En mi libro, todos están hartos de nuestro país”",
+   "resumen": "Escritor ileño presenta su nueva obra de cuentos este sábado 17 de octubre en la ciudad de Arequipa",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/arequipa/yero-chuquicanas-en-mi-libro-todos-estan-hartos-de-nuestro-pais-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Salud mental: herramientas de Google para reducir distracciones y mejorar hábitos digitales",
+   "resumen": "Google presenta en Perú funciones de Android, Calendar y Gemini para gestionar el tiempo frente a pantallas, reducir distracciones y organizar pausas y descansos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/salud/salud-mental-herramientas-de-google-para-reducir-distracciones-y-mejorar-habitos-digitales-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Junín mantiene 10 casos de sarampión y evalúa posible contagio en una niña",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/huancayo/junin-mantiene-10-casos-de-sarampion-y-evalua-posible-contagio-en-una-nina-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Robert De La Cruz, excandidato a la Alcaldía de Trujillo: “Me enfrenté a un loco y a una loca”",
+   "resumen": "El excandidato a la Alcaldía de Trujillo por Podemos Perú, Robert De La Cruz Rosas, ironizó sobre los resultados de las elecciones municipales del 4 de octubre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/la-libertad/robert-de-la-cruz-excandidato-a-la-alcaldia-de-trujillo-me-enfrente-a-un-loco-y-a-una-loca-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La Victoria: Más de S/1′140 000 en prendas presuntamente falsificadas fueron incautadas en Gamarra",
+   "resumen": "La Policía Nacional del Perú informó que dos mujeres fueron detenidas por la presunta comisión de un delito contra la propiedad industrial",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/la-victoria-mas-de-s1140000-en-prendas-presuntamente-falsificadas-incautadas-en-gamarra-pnp-noticia/"
+    }
+   ]
+  }
+ ]
+}
