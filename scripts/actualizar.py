@@ -4,8 +4,10 @@ y escribe site/data/noticias.json (más una copia en site/data/archivo/).
 Uso:
     python scripts/actualizar.py              # descarga feeds reales
     python scripts/actualizar.py --demo FILE  # usa titulares de un JSON local (pruebas)
+    python scripts/actualizar.py --publicar EDICION.json  # publica una edición escrita por Claude
 
-Sin ANTHROPIC_API_KEY publica los titulares sin agrupar ni resumir.
+Siempre guarda los titulares crudos en site/data/titulares.json. Con ANTHROPIC_API_KEY
+los resume vía API; sin ella publica una edición gratuita agrupada sin resúmenes de IA.
 """
 
 import argparse
@@ -134,8 +136,11 @@ def resumir_con_claude(items):
     if respuesta.stop_reason != "end_turn":
         raise RuntimeError(f"Claude terminó con stop_reason={respuesta.stop_reason}")
     texto = next(b.text for b in respuesta.content if b.type == "text")
-    datos = json.loads(texto)
+    return armar_noticias(json.loads(texto), items)
 
+
+def armar_noticias(datos, items):
+    """Convierte la edición de Claude (índices de titulares) en noticias con enlaces."""
     noticias = []
     for n in datos["noticias"]:
         enlaces, vistos = [], set()
@@ -145,52 +150,53 @@ def resumir_con_claude(items):
                 enlaces.append({"medio": items[i]["fuente"], "url": items[i]["url"]})
         if enlaces:
             noticias.append({k: n[k] for k in ("titulo", "resumen", "seccion", "importancia")} | {"enlaces": enlaces})
-    destacada = datos["destacada"] if 0 <= datos["destacada"] < len(noticias) else 0
-    if noticias:
+    destacada = datos.get("destacada", 0)
+    if noticias and 0 <= destacada < len(noticias):
         noticias.insert(0, noticias.pop(destacada))
     return noticias
 
 
+VACIAS = set("a al ante con de del el en entre es la las lo los para por que se sin su sus tras un una y o e ya no".split())
+
+
+def palabras(titulo):
+    return {w for w in re.findall(r"\w+", titulo.lower()) if len(w) > 2 and w not in VACIAS}
+
+
 def sin_resumen(items):
-    """Respaldo sin API key: titulares tal cual, sin duplicados exactos."""
-    vistos, noticias = set(), []
+    """Edición gratuita sin IA: agrupa titulares parecidos y prioriza lo que cubren más medios."""
+    grupos = []
     for it in items:
-        clave = it["titulo"].lower()
-        if clave in vistos:
-            continue
-        vistos.add(clave)
+        p = palabras(it["titulo"])
+        for g in grupos:
+            union = p | g["palabras"]
+            if union and len(p & g["palabras"]) / len(union) >= 0.4:
+                g["items"].append(it)
+                break
+        else:
+            grupos.append({"palabras": p, "items": [it]})
+
+    noticias = []
+    for g in grupos:
+        medios = {it["fuente"] for it in g["items"]}
+        base = max(g["items"], key=lambda it: len(it["extracto"]))
+        enlaces, vistos = [], set()
+        for it in g["items"]:
+            if it["fuente"] not in vistos:
+                vistos.add(it["fuente"])
+                enlaces.append({"medio": it["fuente"], "url": it["url"]})
         noticias.append({
-            "titulo": it["titulo"],
-            "resumen": it["extracto"],
-            "seccion": "Perú" if it["ambito"] == "peru" else "Mundo",
-            "importancia": 3,
-            "enlaces": [{"medio": it["fuente"], "url": it["url"]}],
+            "titulo": base["titulo"],
+            "resumen": base["extracto"],
+            "seccion": "Perú" if base["ambito"] == "peru" else "Mundo",
+            "importancia": min(5, 2 + len(medios)),
+            "enlaces": enlaces,
         })
+    noticias.sort(key=lambda n: len(n["enlaces"]), reverse=True)
     return noticias[:60]
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--demo", help="JSON con titulares de ejemplo en lugar de descargar feeds")
-    args = parser.parse_args()
-
-    if args.demo:
-        items = json.loads(Path(args.demo).read_text(encoding="utf-8"))
-    else:
-        print("Descargando feeds…", file=sys.stderr)
-        items = descargar_todo()
-    print(f"{len(items)} titulares en total", file=sys.stderr)
-    if not items:
-        sys.exit("No se obtuvo ningún titular; se conserva la edición anterior.")
-
-    if os.environ.get("ANTHROPIC_API_KEY"):
-        noticias = resumir_con_claude(items)
-        modo = "claude"
-    else:
-        print("Sin ANTHROPIC_API_KEY: se publican titulares sin resumir.", file=sys.stderr)
-        noticias = sin_resumen(items)
-        modo = "titulares"
-
+def publicar(items, noticias, modo):
     ahora = datetime.now(LIMA)
     edicion = {
         "actualizado": ahora.isoformat(timespec="minutes"),
@@ -207,6 +213,37 @@ def main():
     fechas = sorted((p.stem for p in (DATOS / "archivo").glob("*.json")), reverse=True)
     (DATOS / "archivo.json").write_text(json.dumps(fechas), encoding="utf-8")
     print(f"Publicadas {len(noticias)} noticias ({modo}).", file=sys.stderr)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--demo", help="JSON con titulares de ejemplo en lugar de descargar feeds")
+    parser.add_argument("--publicar", metavar="EDICION",
+                        help="Publica una edición escrita por Claude (JSON con 'destacada' y 'noticias') usando site/data/titulares.json")
+    args = parser.parse_args()
+
+    if args.publicar:
+        items = json.loads((DATOS / "titulares.json").read_text(encoding="utf-8"))
+        datos = json.loads(Path(args.publicar).read_text(encoding="utf-8"))
+        publicar(items, armar_noticias(datos, items), "claude")
+        return
+
+    if args.demo:
+        items = json.loads(Path(args.demo).read_text(encoding="utf-8"))
+    else:
+        print("Descargando feeds…", file=sys.stderr)
+        items = descargar_todo()
+    print(f"{len(items)} titulares en total", file=sys.stderr)
+    if not items:
+        sys.exit("No se obtuvo ningún titular; se conserva la edición anterior.")
+    DATOS.mkdir(parents=True, exist_ok=True)
+    (DATOS / "titulares.json").write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        publicar(items, resumir_con_claude(items), "claude")
+    else:
+        print("Sin ANTHROPIC_API_KEY: edición agrupada sin resúmenes de IA.", file=sys.stderr)
+        publicar(items, sin_resumen(items), "titulares")
 
 
 if __name__ == "__main__":
