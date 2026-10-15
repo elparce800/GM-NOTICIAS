@@ -1,0 +1,63 @@
+:root {
+  --fondo: #faf8f4;
+  --superficie: #ffffff;
+  --texto: #1d1b18;
+  --suave: #5f5a52;
+  --linea: #e4dfd5;
+  --acento: #b3261e;
+  --chip: #f1ece3;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fondo: #141311;
+    --superficie: #1c1b18;
+    --texto: #ece8e1;
+    --suave: #a49d92;
+    --linea: #2f2c27;
+    --acento: #ff6b5e;
+    --chip: #2a2723;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--fondo);
+  color: var(--texto);
+  font: 16px/1.55 Inter, system-ui, sans-serif;
+}
+a { color: inherit; }
+.contenedor { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+
+.cabecera { border-bottom: 1px solid var(--linea); background: var(--superficie); position: sticky; top: 0; z-index: 2; }
+.cabecera > .contenedor:first-child { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 14px; }
+.marca { font: 700 28px/1 "Source Serif 4", Georgia, serif; margin: 0; letter-spacing: -0.5px; }
+.marca span { color: var(--acento); }
+.fecha { margin: 0; color: var(--suave); font-size: 14px; }
+
+.secciones { display: flex; gap: 6px; overflow-x: auto; padding-top: 10px; padding-bottom: 10px; scrollbar-width: none; }
+.secciones button {
+  border: 0; background: var(--chip); color: var(--texto);
+  padding: 6px 12px; border-radius: 999px; font: 500 14px Inter, sans-serif; cursor: pointer; white-space: nowrap;
+}
+.secciones button[aria-pressed="true"] { background: var(--texto); color: var(--fondo); }
+
+.destacada { padding: 28px 0 20px; border-bottom: 1px solid var(--linea); }
+.destacada h2 { font: 700 clamp(26px, 4vw, 40px)/1.15 "Source Serif 4", Georgia, serif; margin: 6px 0 12px; max-width: 30ch; }
+.destacada p { font-size: 18px; max-width: 68ch; margin: 0 0 12px; }
+
+.lista { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0 32px; padding: 8px 0 32px; }
+.nota { padding: 20px 0; border-bottom: 1px solid var(--linea); }
+.nota h3 { font: 700 20px/1.25 "Source Serif 4", Georgia, serif; margin: 4px 0 8px; }
+.nota p { margin: 0 0 10px; color: var(--texto); }
+
+.etiqueta { font: 600 12px Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.06em; color: var(--acento); }
+.importante::after { content: " · Clave"; color: var(--suave); }
+.enlaces { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 13px; color: var(--suave); }
+.enlaces a { text-decoration: none; border-bottom: 1px solid var(--linea); }
+.enlaces a:hover { color: var(--acento); border-color: var(--acento); }
+
+.pie { color: var(--suave); font-size: 13px; padding-top: 16px; padding-bottom: 40px; }
+.archivo select { margin-left: 6px; font: inherit; background: var(--superficie); color: var(--texto); border: 1px solid var(--linea); border-radius: 6px; padding: 4px 6px; }
+.vacio { padding: 40px 0; color: var(--suave); }

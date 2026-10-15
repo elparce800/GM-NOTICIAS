@@ -1,0 +1,23 @@
+{
+  "peru": [
+    {"nombre": "El Comercio", "rss": "https://elcomercio.pe/arcio/rss/"},
+    {"nombre": "La República", "rss": "https://larepublica.pe/rss/"},
+    {"nombre": "RPP", "rss": "https://rpp.pe/rss"},
+    {"nombre": "Perú21", "rss": "https://peru21.pe/arcio/rss/"},
+    {"nombre": "Correo", "rss": "https://diariocorreo.pe/arcio/rss/"},
+    {"nombre": "Gestión", "rss": "https://gestion.pe/arcio/rss/"},
+    {"nombre": "Andina", "rss": "https://andina.pe/agencia/rss/1.xml"},
+    {"nombre": "Ojo Público", "rss": "https://ojo-publico.com/feed"},
+    {"nombre": "IDL-Reporteros", "rss": "https://www.idl-reporteros.pe/feed/"},
+    {"nombre": "Caretas", "rss": "https://caretas.pe/feed/"},
+    {"nombre": "Infobae Perú", "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/peru/"}
+  ],
+  "mundo": [
+    {"nombre": "BBC Mundo", "rss": "https://feeds.bbci.co.uk/mundo/rss.xml"},
+    {"nombre": "El País", "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"},
+    {"nombre": "DW Español", "rss": "https://rss.dw.com/rdf/rss-sp-all"},
+    {"nombre": "France 24", "rss": "https://www.france24.com/es/rss"},
+    {"nombre": "Infobae América", "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/america/"}
+  ],
+  "respaldo_google_news": "Si un medio no tiene RSS, usar https://news.google.com/rss/search?q=site:DOMINIO+when:1d&hl=es-419&gl=PE&ceid=PE:es-419"
+}

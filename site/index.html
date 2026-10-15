@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GM Noticias</title>
+  <meta name="description" content="Las noticias más importantes de Perú y el mundo, resumidas cada mañana.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,700&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="contenedor">
+      <h1 class="marca">GM <span>Noticias</span></h1>
+      <p class="fecha" id="fecha">Cargando edición…</p>
+    </div>
+    <nav class="contenedor secciones" id="secciones" aria-label="Secciones"></nav>
+  </header>
+
+  <main class="contenedor">
+    <section id="destacada" class="destacada" aria-live="polite"></section>
+    <section id="lista" class="lista"></section>
+  </main>
+
+  <footer class="contenedor pie">
+    <p id="pie-medios"></p>
+    <p>Resúmenes generados automáticamente a partir de los titulares de cada medio. Lee la nota completa en el enlace original.</p>
+    <label class="archivo">Ediciones anteriores
+      <select id="archivo"><option value="">Hoy</option></select>
+    </label>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
