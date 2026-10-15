@@ -24,6 +24,7 @@ HORAS_VENTANA = 30
 MAX_POR_FUENTE = 25
 SECCIONES = ["Perú", "Política", "Economía", "Mundo", "Sociedad", "Tecnología y ciencia", "Deportes", "Cultura"]
 LIMA = timezone(timedelta(hours=-5))
+GOOGLE_NEWS = "https://news.google.com/rss/search?q=site:{dominio}+when:1d&hl=es-419&gl=PE&ceid=PE:es-419"
 
 
 def limpiar(texto, limite=300):
@@ -35,7 +36,11 @@ def limpiar(texto, limite=300):
 def leer_feed(fuente, ambito):
     import feedparser
 
-    feed = feedparser.parse(fuente["rss"], agent="GM-Noticias/1.0 (+https://github.com)")
+    if "google_news" in fuente:
+        url = GOOGLE_NEWS.format(dominio=fuente["google_news"])
+    else:
+        url = fuente["rss"]
+    feed = feedparser.parse(url, agent="GM-Noticias/1.0 (+https://github.com)")
     corte = datetime.now(timezone.utc) - timedelta(hours=HORAS_VENTANA)
     items = []
     for entrada in feed.entries[:MAX_POR_FUENTE]:
@@ -44,6 +49,8 @@ def leer_feed(fuente, ambito):
         if fecha and fecha < corte:
             continue
         titulo = limpiar(entrada.get("title"), 200)
+        if "google_news" in fuente:  # Google News agrega " - Medio" al titular
+            titulo = titulo.rsplit(" - ", 1)[0]
         if not titulo or not entrada.get("link"):
             continue
         items.append({
