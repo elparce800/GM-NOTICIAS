@@ -123,7 +123,7 @@ def resumir_con_claude(items):
     )
     cliente = anthropic.Anthropic()
     respuesta = cliente.beta.messages.create(
-        model=os.environ.get("CLAUDE_MODEL", "claude-opus-5-5"),
+        model=os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5"),
         max_tokens=16000,
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",

@@ -23,7 +23,7 @@ Sin la clave, el portal se publica igual pero solo con titulares, sin agrupar ni
 
 - **Medios**: edita `sources.json`. Si un medio no tiene RSS, usa Google News filtrado por su dominio (ver `respaldo_google_news`).
 - **Hora**: cambia el `cron` en `.github/workflows/actualizar.yml` (está en UTC).
-- **Modelo**: variable de entorno `CLAUDE_MODEL` (por defecto `claude-opus-5-5`).
+- **Modelo**: variable de entorno `CLAUDE_MODEL` (por defecto `claude-sonnet-5-5`; `claude-opus-5-5` da mejores resúmenes a mayor costo, `claude-haiku-5-5` es el más barato).
 
 ## Probar en local
 
