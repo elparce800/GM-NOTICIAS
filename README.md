@@ -11,14 +11,6 @@ Portal con las noticias más importantes de Perú y el mundo, actualizado cada m
 
 Cada noticia enlaza a los artículos originales; el portal no copia textos completos.
 
-## Puesta en marcha
-
-1. **Settings → Secrets and variables → Actions**: crea el secreto `ANTHROPIC_API_KEY` con tu clave de https://console.anthropic.com.
-2. **Settings → Pages**: en *Source* elige **GitHub Actions**.
-3. **Actions → Actualizar noticias → Run workflow** para publicar la primera edición sin esperar al día siguiente.
-
-Sin la clave, el portal se publica igual pero solo con titulares, sin agrupar ni resumir.
-
 ## Personalizar
 
 - **Medios**: edita `sources.json`. Si un medio no tiene RSS, usa Google News filtrado por su dominio (ver `respaldo_google_news`).
