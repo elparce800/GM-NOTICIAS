@@ -1,0 +1,788 @@
+{
+ "actualizado": "2026-10-27T06:28-05:00",
+ "modo": "titulares",
+ "total_titulares": 319,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "HOY habrá corte de agua en Lima: ¿Qué distritos se verán afectados este 27 de octubre?",
+   "resumen": "Sedapal anunció la suspensión temporal del servicio de agua potable en sectores de Lima Metropolitana. Revisa qué distritos y zonas serán afectados, los horarios de corte y cuándo se restablecerá el suministro para tomar tus precauciones.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-sedapal-anuncia-distritos-afectados-y-horarios-de-la-interrupcion-del-servicio-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-27-de-octubre-distritos-y-horarios-afectados-noticia-1714616"
+    }
+   ]
+  },
+  {
+   "titulo": "Tasa del dólar BCV hoy, martes 27 de octubre: Tipo de cambio en Venezuela",
+   "resumen": "Dólar BCV hoy: El Banco Central de Venezuela (BCV) publica la tasa oficial del dólar para este domingo 25 de octubre. Conoce el tipo de cambio vigente en bolívares.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-este-es-el-tipo-de-cambio-en-el-banco-central-de-venezuela-para-esta-jornada-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-27-de-octubre-del-2026-noticia-1714624"
+    }
+   ]
+  },
+  {
+   "titulo": "Alfonso López Chau descarta recibir a Jorge Gavidia en Ahora Nación y le pide reconsiderar su salida de Buen Gobierno",
+   "resumen": "El senador de Ahora Nación, Alfonso López-Chau, descartó que su agrupación reciba a Jorge Gavidia, quien anunció su renuncia al Partido del… The post Alfonso López Chau descarta recibir a Jorge Gavidia en Ahora Nación y le pide reconsiderar su salida de Buen Gobierno appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWhISVJvUmVEekt4TmVPekVGNnhxNjIyS0YyMEViZVlQZTVtb3E0SjZDb3BYQ01GR01DV2pDTXp3ZXl6R3cyWmpJR0ItNFZjRDJnUkNZX3NjS3dYZWptcW9qVTIzZHhjODNNRlhlYmFsSWpGY0hmdEFtdXkxYngxY0ttYnprSDZfRE1neWstOXVaSmVXZkM0S3pmZkFsODM3bEw4U2Rjc0dmMTVxRU4zZ045NkZNVlNFSTNfZ0tKTTgwcHNPRnMwTlhFZkVfR0FGYkNkTllGMm5tT1BsMkFkWlRnd1VuMUtqLUFZQUwxNkJ6THJlNHVyd2RXbUVPQdIBgwJBVV95cUxQeWktekZDR1c0OWstdzVRWXJ3VzV5ZmdLYzFKZ01CbkpfZ3Q1M1MtalJLTHZqdDMtTzV6WTFJdFNPQmxkaEdQaUhNdXU3NW5OSzlSczdjY3BOZmc0ZVFoR19DRC1aYzIzdmx4SkNLNEFJbzd1Q3prVU14bVNFeTI3VkptVHNrRUZGOTNQcGotMzdhUlpEVmI0ZWR3XzlmYlBndEFsZllWb0g5MWRzenRfd1NCRF8wM0J1ZFRNTmRRMHdvT3lkaE1OR1pIWXZHSS0tYVVmVzRDWGZMREJxVWVibXpEM19CdWo4N19MandxYW1CS3BXOUFDVGk0TDNIU2JpSUR3?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/politica/alfonso-lopez-chau-descarta-recibir-a-jorge-gavidia-en-ahora-nacion-y-le-pide-reconsiderar-su-salida-de-buen-gobierno/"
+    }
+   ]
+  },
+  {
+   "titulo": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé",
+   "resumen": "CCTV suspende retransmisiones de la Liga española de fútbol y partidos del delantero del Real Madrid Kylian Mbappé, tras la polémica por unas declaraciones del francés sobre un 'meme' que lo compara con Mao Zedong.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/kylian-mbappe-television-estatal-china-suspendio-emisiones-de-laliga-tras-polemica-noticia-1714619"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/la-televisión-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polémica-con-mbappé/a-79772718?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Costa Rica inició traslado de 123 reclusos a megacárcel CACCO: ingresaron rapados y con uniformes naranja",
+   "resumen": "Los primeros privados de libertad llegaron este lunes 26 de octubre al centro penitenciario inspirado en el modelo de seguridad de El Salvador. Entre ellos figuran tres sospechosos del asesinato de un policía costarricense.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/latinoamerica/rapados-y-con-uniformes-naranja-costa-rica-comienza-el-traslado-de-presos-a-su-megacarcel-noticia-1714612"
+    },
+    {
+     "medio": "Infobae América",
+     "url": "https://www.infobae.com/costa-rica/2026/10/27/costa-rica-inicio-traslado-de-123-reclusos-a-megacarcel-cacco-ingresaron-rapados-y-con-uniformes-naranja/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lula da Silva propone a Keiko Fujimori \"fortalecer la integración regional\" con nuevo modelo que proteja la Amazonía",
+   "resumen": "Lula, quien ha sido elegido para un cuarto mandato no consecutivo, dijo que ese modelo debe reconocer \"el rol de los pueblos indígenas y las comunidades locales\".",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/actualidad/lula-da-silva-propone-a-keiko-fujimori-fortalecer-la-integracion-regional-con-nuevo-modelo-que-proteja-la-amazonia-noticia-1714610"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/lula-da-silva-agradece-a-keiko-fujimori-y-propone-fortalecer-la-integracion-entre-peru-y-brasil-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV confirma su viaje a Perú, Argentina y Uruguay tras su operación: \"Me llena de alegría regresar”",
+   "resumen": "El papa León XIV realizará su viaje apostólico a Perú, Uruguay y Argentina del 6 al 17 de noviembre de 2026, tal… The post Papa León XIV confirma su viaje a Perú, Argentina y Uruguay tras su operación: \"Me llena de alegría regresar” appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3Fxc0VzMEpkMm1IMnpSVkRQVUR3SGxNS2pZLVZrTUstU3N0S1lDOU5MUl8zdnVLQ2RKQ1N4Wk96VGEtTy1vb2E0XzBqRTZqZ1NmaGE1czQzZUgtX0JMd0E5NkdEWl9zMExrYmF6UVMxM1FpcXBBelB0RUVJX3kwNW5xTVplZ2M?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/mundo/me-llena-de-alegria-regresar-papa-leon-xiv-confirma-su-viaje-a-peru-argentina-y-uruguay-tras-su-operacion/"
+    }
+   ]
+  },
+  {
+   "titulo": "El partido de Bolsonaro reconoce la victoria de Lula",
+   "resumen": "MADRID 26 Oct. (EUROPA PRESS) - El ultraderechista Partido Lieral (PL) ha reconocido este lunes la victoria de Luiz Inácio Lula da… The post El partido de Bolsonaro reconoce la victoria de Lula appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-partido-flavio-bolsonaro-reconoce-reeleccion-del-presidente-lula-brasil-1097449.aspx"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/mundo/el-partido-de-bolsonaro-reconoce-la-victoria-de-lula/"
+    }
+   ]
+  },
+  {
+   "titulo": "Trump, sobre el triunfo de Lula: “Me pareció otra elección amañada”",
+   "resumen": "El presidente estadounidense insiste en que evitó tomar partido durante la campaña, aunque favoreció al candidato ultraconservador",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cm0j05gd09jyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/america/2026-10-26/trump-sobre-el-triunfo-de-lula-me-parecio-otra-eleccion-amanada.html"
+    }
+   ]
+  },
+  {
+   "titulo": "La española Alexia Putellas conquista su tercer Balón de Oro",
+   "resumen": "La estrella española Alexia Putellas ganó el Balón de Oro por tercera vez en su carrera, después de sus coronas de 2021 y 2022.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/la-española-alexia-putellas-conquista-su-tercer-balón-de-oro/a-79772813?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/deportes/20261026-mbapp%C3%A9-kane-y-yamal-encabezan-la-lista-de-favoritos-en-la-muy-abierta-carrera-por-el-bal%C3%B3n-de-oro-2026"
+    }
+   ]
+  },
+  {
+   "titulo": "El delantero inglés Harry Kane gana el Balón de Oro 2026 en una ceremonia celebrada en Londres",
+   "resumen": "El astro del Bayern Munich se convirtió en el primer inglés coronado con el máximo galardón desde Michael Owen en 2001.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/el-delantero-inglés-harry-kane-gana-el-balón-de-oro-2026-en-una-ceremonia-celebrada-en-londres/a-79771733?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/deportes/20261026-mbapp%C3%A9-kane-y-yamal-encabezan-la-lista-de-favoritos-en-la-muy-abierta-carrera-por-el-bal%C3%B3n-de-oro-2026"
+    }
+   ]
+  },
+  {
+   "titulo": "Israel vota en unas elecciones decisivas para el futuro de Netanyahu tras tres años de guerras",
+   "resumen": "Israel celebra sus primeras elecciones desde los ataques de Hamás del 7 de octubre de 2023, en medio de una profunda división política y tras tres años de guerras en Medio Oriente. El primer ministro Benjamin Netanyahu y el exjefe militar Gadi Eisenkot son los favoritos para formar gobierno",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/oriente-medio/israel-vota-en-unas-elecciones-decisivas-para-el-futuro-de-netanyahu-tras-tres-anos-de-guerras-en-gaza-e-iran-gadi-eisenkot-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Smart Fit: “Vamos a abrir un nuevo Bio Ritmo, nuestro gimnasio premium, en San Isidro y ampliaremos Smart Fit en Cusco”",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/dia-1/smart-fit-vamos-a-abrir-un-nuevo-bio-ritmo-en-san-isidro-y-ampliaremos-smart-fit-en-cusco-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Vaticano acredita a periodista de El Comercio para gira papal, obras en Av.Canadá generarán tráfico y el retraso del conteo de actas electorales es injustificable",
+   "resumen": "En el Semáforo de este martes 27 de octubre, conoce la postura de El Comercio sobre los siguientes temas. Primero, la acreditación del Vaticano al editor Juan Pablo León para acompañar al papa León XIV en su gira sudamericana llena de orgullo a El Comercio y reafirma nuestro compromiso con el period",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/vaticano-acredita-a-periodista-de-el-comercio-para-gira-papal-obras-en-avcanada-generaran-trafico-y-el-retraso-del-conteo-de-actas-electorales-es-injustificable-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El regreso de María Corina",
+   "resumen": "“Estoy aquí. Con ustedes”. Con esas palabras, María Corina Machado anunció su regreso a Venezuela. Fue suficiente para que los venezolanos salieran en masa a recibirla y formaran caravanas a lo largo de su recorrido de cientos de kilómetros por tierra desde Barquisimeto hasta Caracas, donde la esper",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-regreso-de-maria-corina-por-ian-vasquez-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Consumo de pan en el Perú: ¿cuáles son las nuevas tendencias y preferencias de los consumidores?",
+   "resumen": "Los ingredientes, el aporte nutricional y la practicidad están marcando nuevas preferencias entre los consumidores peruanos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/consumo-de-pan-en-el-peru-cuales-son-las-nuevas-tendencias-y-preferencias-de-los-consumidores-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Tickets gratuitos de ingreso a la misa del Papa León XlV en la Base Aérea Las Palmas: cómo registrarte y qué requisitos debes cumplir para conseguirlos",
+   "resumen": "Tickets gratuitos de ingreso a la misa del Papa León XlV en la Base Aérea Las Palmas: cómo registrarte y qué requisitos debes cumplir para conseguirlos. El Arzobispado de Lima oficializó el procedimiento para obtener las entradas gratuitas y anunció a la empresa encargada de distribuirlas para la Sa",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/tickets-gratuitos-de-ingreso-a-la-misa-del-papa-leon-xlv-en-la-base-aerea-las-palmas-como-registrarte-y-que-requisitos-debes-cumplir-para-conseguirlos-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Cómo naturalizar a Juntos por el Perú",
+   "resumen": "Antes que preocuparse por cuánto vaya a desnaturalizar el Senado los dictámenes de ley que apruebe Diputados, dentro de las competencias de poder y trámite que cada cámara tiene, las bancadas de izquierda en el Congreso tendrían que preguntarse cómo naturalizar a la bancada de Juntos por el Perú en ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/como-naturalizar-a-juntos-por-el-peru-por-juan-paredes-castro-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Sinuano EN VIVO hoy, martes 27 de octubre: resultados y números ganadores",
+   "resumen": "Lotería Sinuano EN VIVO: no te pierdas el último sorteo colombiano y conoce aquí los números ganadores.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/sinuano-en-vivo-resultados-y-numeros-ganadores-del-sorteo-de-dia-y-noche-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Deyvis Orosco sorprende con radical cambio físico y esquiva preguntas sobre Cassandra Sánchez de Lamadrid",
+   "resumen": "Deyvis Orosco sorprende con radical cambio físico y esquiva preguntas sobre Cassandra Sánchez de Lamadrid. Deyvis Orosco muestra su transformación física y desata rumores en redes sociales al no mencionar a su esposa, Cassandra Sánchez de Lamadrid, entre los motivos que lo impulsaron a adoptar un nu",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/deyvis-orosco-sorprende-con-radical-cambio-fisico-y-esquiva-preguntas-sobre-cassandra-sanchez-de-lamadrid-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué pasó entre Pamela López y Marisol? La trujillana rompe su silencio tras verse con la cantante",
+   "resumen": "¿Qué pasó entre Pamela López y Marisol? La trujillana rompe su silencio tras verse con la cantante. Pamela López protagonizó un inesperado encuentro con la cantante Marisol durante un evento público, luego de pasados rumores sobre presuntos coqueteos y acercamientos entre la ‘Faraona de la cumbia’ y",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/que-paso-entre-pamela-lopez-y-marisol-la-trujillana-rompe-su-silencio-tras-verse-con-la-cantante-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuántos feriados quedan en el 2026 según el calendario peruano?",
+   "resumen": "Conoce qué se celebra durante noviembre de 2026 en Perú, cuáles son los feriados y días no laborables contemplados en el calendario oficial y cuántas fechas de descanso quedan antes de finalizar el año.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/peru-se-prepara-para-los-ultimos-feriados-de-2026-que-fechas-quedan-en-noviembre-y-diciembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "CTS de noviembre: fecha de pago y quiénes cobran el beneficio",
+   "resumen": "El depósito de la CTS de noviembre de 2026 genera dudas entre los trabajadores del sector privado. Conoce quiénes tienen derecho a recibir este beneficio laboral, cuáles son los requisitos y cómo calcular el monto que te corresponde.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/pago-cts-de-noviembre-2026-revisa-si-te-corresponde-el-beneficio-y-cuanto-podrias-cobrar-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Dónde ver Magaly TV La Firme EN VIVO hoy, 27 de octubre?",
+   "resumen": "Magaly TV La Firme EN VIVO: No te pierdas el programa de Magaly Medina. Consulta el horario, señal tv y avance de este lunes 26 de octubre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/magaly-tv-la-firme-a-que-hora-y-donde-ver-el-programa-online-atv-online-transmision-avance-youtube-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Corte de luz en Lima y Callao de hoy al 1 de noviembre: distritos y qué zonas exactas no contarán con el servicio",
+   "resumen": "Corte de luz: Conoce qué zonas de Lima y Callao no contarán con el servicio. Conoce aquí si tu hogar se verá afectado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-distritos-y-que-zonas-exactas-no-contaran-con-el-servicio-segun-pluz-corte-del-26-de-octubre-a-1-de-noviembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "IGP Temblor en Perú hoy, 27 de octubre: cuál fue el epicentro y magnitud del último sismo",
+   "resumen": "Consulta el último reporte del IGP sobre los sismos registrados hoy en el Perú. Revisa los informes de los últimos movimientos telúricos: la hora, la magnitud, la ubicación del epicentro, la profundidad y las zonas donde se sintió el temblor.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Una nueva prueba fiscal",
+   "resumen": "El Perú enfrenta una amenaza que trasciende los daños materiales. El fenómeno de El Niño puede comprometer el crecimiento, el empleo y la capacidad de respuesta del Estado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/una-nueva-prueba-fiscal-por-maria-isabel-leon-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Cambio de horario en EE.UU. 2026: cuándo se atrasa la hora del reloj y qué debes saber del horario de invierno",
+   "resumen": "¿Cuándo cambia la hora en Estados Unidos? Conoce la fecha del horario de invierno de 2026, las jurisdicciones que no participan y el estado de la Sunshine Protection Act.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/local-us/cambio-de-horario-nueva-york-2026-que-dia-ajustar-el-reloj-y-como-saber-si-debes-atrasar-la-hora-por-el-horario-de-invierno-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Consulta de aportes ONP: cómo acceder a tu historial de aportaciones",
+   "resumen": "La ONP explica cómo revisar tus aportes en minutos. La información te permite verificar los aportes y detectar posibles diferencias oportunamente",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tu-empleador-registro-todos-tus-aportes-la-onp-explica-como-comprobarlo-en-minutos-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Cambio de horario en California 2026: qué día se atrasa el reloj y cuándo inicia el horario de invierno",
+   "resumen": "¿Cuándo se atrasa el reloj en California? Revisa la fecha del cambio de horario de 2026 y qué debes hacer con teléfonos, computadoras y relojes manuales.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/california/cambio-de-horario-california-2026-que-dia-ajustar-el-reloj-y-como-saber-si-debes-atrasar-la-hora-por-el-horario-de-invierno-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Nuevo revés para Marín Vizcarra: PJ rechaza recurso que buscaba anular acusación por Caso Richard Swing",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/nuevo-reves-para-marin-vizcarra-pj-rechaza-su-recurso-que-buscaba-anular-acusacion-en-su-contra-por-caso-richard-swing-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Galarreta afirma que espera que no desnaturalicen propuesta de Ley MAPE en la Cámara de Diputados",
+   "resumen": "El primer ministro consideró que el Congreso debe apoyar la búsqueda de la formalización minera y no retirar los mecanismos de fiscalización sobre las plantas de beneficio. Este martes inicia el debate en la Comisión de Energía y Minas de la cámara baja, que conduce Yenifer Paredes (JP).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/luis-galarreta-afirma-que-espera-que-no-desnaturalicen-propuesta-de-ley-mape-en-la-camara-de-diputados-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Producción de oro en Perú cae 7,3% hasta agosto: Yanacocha y Boroo registran retrocesos",
+   "resumen": "Producción de oro en Perú cae 7,3% hasta agosto: Yanacocha y Boroo registran retrocesos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2U3amRNZWdvRTVBUFRrSnVaRmRBQnRuQXF6bVZHVndBUG5na0ZyNU5pOVV1dllVb1ZqSkQzc0dodTVPMmNVeVZycHdRcXhtOWtzazNKcWNXaE5DWHJTM2o1eDJaYWlzcEhiZHo0UGZBUnlrRFRPMU9ueFRRTG9FZU96Q2lrc19uRnhyRnJxLVpmejFTVDZxWUxLRGI2UkRUMmFtWC1DUUh4ZThFeU1oUVFXdXFRTUJSNGZEZ3pTQ0o1ZEVQemcyLWhVUkpsb2RQTU9yZDYzeETSAd4BQVVfeXFMT3VJT1JXZ1FudWVtRFhzeWVpc29zcVhkc2gzOTBackQ5ZWVpS3hxejFYYzdOc0drRzNNM08zSHpDMDJ1QXZtMGJ6aEVkMkRtMHlVU3Q1eXoxZjhUVkZ4Nm1mczNsWFhqalFndl9Cckp6cVNtUEJzTzd0bWZVem4xRkwwdnViZTZaVlRVcGlST0RDMk5oaEd0U05Odm1zOHhNcnRVeWxSYmpLaWdCS2wzSi1WdnZpb0ZGWG5RTlYzZ0Z5cWNlM1Z0bXhGNy0wRzdYSnllVGo5bU5GNmJWcTVR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fiscalía archiva investigación por esterilizaciones forzadas aplicando ley de prescripción promovida por Fuerza Popular",
+   "resumen": "Fiscalía archiva investigación por esterilizaciones forzadas aplicando ley de prescripción promovida por Fuerza Popular La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTU0tR0ZRaGpSTXVRQWVOSEc3TEYycjNhY3JHLUVCTElVOE5sUVRrdnlWWmxqdEZUSjFSUXVmRzEtQ05uOXdBWXpZS01zc1d2a0g1aXZBeHN3N1hYNzJ3Mkx6eG9pOEU5WDBXS3ZHQk4xS0J3bUlYMl9oZzlrX3hzQlhhQnpicmc2cVM3cGdnTlVBdzRvTlpXa1dDSVU5Y1pOYmNqR1pVd0pXaGtjZ0dVaW9PWUJ6LWRnOWEtZ1dzbmY0SzFUblpsVVBublFMeF9JYTNfR3d5Nk1IdmNBRVVURFlfbUo3MXR1Z2VvV0t4OS1IbTBqT0c2S2Z4V09aN3BtSXRCbXUxYw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Familiares de asesinados en protestas del 2023 condicionan reunión con ministro de Vivienda: \"Que pida disculpas por terruquear a Puno\"",
+   "resumen": "Familiares de asesinados en protestas del 2023 condicionan reunión con ministro de Vivienda: \"Que pida disculpas por terruquear a Puno\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVm5fb1F4Q2FHOGdXT1gtbnMtcTFNR2FlUnlhOVZMbHdGSGVDVWp0QWdFRnVCMFBfYTI2N2pzVTh5WFY3NktxWndVM3NkNEFfQ1FYWTNVSEtBalFvOTJPeGlyS2ZGbzhYZ2RCUXE2ZlV2cC1MbUZUMjU3NF82TVFsdVlxdG52UXdvalJDakg1dGxvUE9GT2QyVkF3RnhNVTJtSnVIVDNoOHNOMWkzUzlYLVE0ekxMMTlRR3I5UWpZbmxxWVA2UzJ5ZlBJazBzMV9sam5XNVp5WjZYNHpMMWRaZHU2akJHNzhhRk9MaXpOdWRKZnF0ZHZjT2xHUXpCR01ndmFIZUxfTl9NRkc0T1l1Wmg5TDNFcFnSAZwCQVVfeXFMT0dGdmdnWFQ5V0RkTkxMMUc3MFpsRVpZamNDeUJpSmlFUUNwNk5VN1FMbkE1YkVTMUhFM2tHa3d3R0t1YTVZSFFfdi1rdVNDeGIxbk5ndTVLVjdjR2JMNkVqV0FzeHZFc2QyVjhxQldKVEdLaS1GSUtxSFF2Y2p4SnRfYWJ5NlFCVE5hdFdnTXdrTF9IaWVFZklPNlZTSTFGNUhtc3hrdmo4MVlrSUN2cUtxaXpGcTBlVHhmREtRODhnSlltRlhLVWQtek9IQ2hxcTNnaWFsVkVRM1hNTFpDTEcwRXl1cE5hcUlyMDVYa01aN1BsZ24yOE1OQ0ZxVnR0bGNvOUFPRU9kVEdISDB6UGlOWXJNTnVjMHJfRnU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fenómeno El Niño: Juan Sheput afirma que aún no se prevén bonos para trabajadores en suspensión perfecta",
+   "resumen": "Fenómeno El Niño: Juan Sheput afirma que aún no se prevén bonos para trabajadores en suspensión perfecta La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGROSkpxVmY0bDVwZ2ZQZThvNHBmeE15LWFzODcwcV8zbG9UeTdaZUNGa0ZBSHRGYTZCYTl4TVFDaDIwa0VlWXd2N0twZVNaUzlWa09tOFBLUERlTWFSTWNyYzhqdkp0MVZzUExLZkp6Q0txdTYtUEdnUkp1b01MWXNpOTFTamcwcHQ2aVpEOHlGVVJ3WGxsMlYyOVpreS1wX01PMjBmTWxjWFFlT2p5UXd5UjZodnhyQ0dhbVB4UUFKeHdnNWp6a2hJT1ZaV1FiTlBSUDZvaHVxRmpuMGlYMHo4OTZiN21FenU0WW10bTVnQdIB9wFBVV95cUxOTjdpYTVlTDdkQk1zMG9pRkxtT2V1MmhqSGRpMTFTVk94UzFaTkNBWllzZEVudFRXMnI1cno1ZElYMkIwLWlqTHE4SHUyN3JlRkU5d2dRVVljUmtlN3dlUEc3U3FnS0dURW9zbEtBR2NPNlN2NUdPTDk1bFJibDd3UC01NjNzQmdIMWtnMVQzU0tDNThYdHV1dGRMaS15NDdOanNLVkRXSzdjUzl5N1huNUppNUhETzdpblp3ZXJFZWtuRlpsdXFCdUpTODFCNC1xVTAzeHlxczdMV0RBODgyVmlNOHVLVTgxSzZWZXV0QklmQnlsaC0w?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "José Gavidia justifica su apoyo al oficialismo: \"Tenemos que confiar en nuestro Gobierno\"",
+   "resumen": "José Gavidia justifica su apoyo al oficialismo: \"Tenemos que confiar en nuestro Gobierno\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX0dmRHBjZFlhR0p0UGs2Qm1jQ3VCX2NDX2Q4aDRyaWhHQmJFRFJPRnhVOTNBaHRKQkpfZ3hJUGZCdkVMMlFxWVZTbmdRZG9CdlJTOWM3R0xHSXdaMGhXNGNDc3ozTTQySmozMDRwZVNxbzcxR0U5YjE3TGZqaFAybFhaa2ZnZVVRWmRybTNRd1hEZ3ozVXBfZm1ieVJnejdGZUY4VnRrQzNPZ3lLenBnNHJwYmhFZEptOVZzcGNFQl9yQ29fR0ljZ0ZyUm15MGUtNWozTzMxQ1hhVUnSAeABQVVfeXFMTzBHWHRxT0F0R0w1RkxRTE9WNU1tcGFuR29URXg0d3lEZHFnZ2RhcWh0cHBhSVlzcWNKVUd6UXhKZ0htbmhiV2FQTlV2dmVRSkI4bXhzNG1ldmJSNW1ORm9pWXpneUJjdjkyZlZZOEJaUy0wUUttYmx0WEJvTGVhWEhkUHFFcE1WeEVDX090Vzl6a0ludkFkTlZGdnVScmZPOXFIVTR1NVdKR3JUd2ZGSENiNEpRWWNpYTlIRUZSdTBPSmlweEtJQzRib0xJelQ1eDJIRG1OMkNhV0JFZE4ySUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Víctimas del Sodalicio piden al papa León XIV una reunión: \"No percibimos avances en la justicia\"",
+   "resumen": "Víctimas del Sodalicio piden al papa León XIV una reunión: \"No percibimos avances en la justicia\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeFZpN004cTBLUDd4ekEzZUV6Y3MtZTFmS2N6anBGTjczSTlpYWd1QmdHQ19YSHEybkhwQ2FlQUpjTkx6R3RxaXdYc01DSF9aRlNad2VEaldya0IxVmZHeEZfSDVsWS1Ham1PMUc4SE44LXJCOXFyMXVNUS1obVU3bThNVV96RkJyUjl6aEpMaTUtekVLUWMtZFdtSkRfM1o1c2pfcElGS3ZTYUUtaXpsc3JzcktLOWVXMHZhWTJyZFRKMFhYYTRiUWduWk5TaHdFQWx1bzVwZWZndDZyTXVxdXJSNUY1UdIB6wFBVV95cUxQOVgwTlVPaGpOaVN1a1VJbHhIemdDdWxUa1g4cGJTQmFRd1Y0MXJGakwydC1XNDl3Rk1qeGVrcWtDZldpUmkxQkRqZHl5ZzhQd3cxOGp2ODNfb1JKekczeXFoeDRUeDlOdjNyN2dqZmY3ZHBka3ZsUi1iUU9iTkRWTzk0ZXFVUkNRbXNITE4yZHJ4c0hLdnFvcHRtOUcwRE4xTy15ZmxKZk9IX2luZTlCYzc0SDJzc1JvQjJiVGt0Rng1eFhzMm9VLW83eEhCZGw2OEV6UklUMFlnYTZCcXVqMXIxY1Mwdnc2WC1j?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Daniel Barragán sobre renuncia de Jorge Gavidia a Buen Gobierno: \"Las puertas de Obras siempre están abiertas\"",
+   "resumen": "Daniel Barragán sobre renuncia de Jorge Gavidia a Buen Gobierno: \"Las puertas de Obras siempre están abiertas\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcEtTMWxyQjYxbDJzY1F4RFBUVjh1bVc2SWI4aHNVOGpYRkJJcWFhRUJHOFlCWVFtTTNYTWxndHJtak5UODVERFk1cnJkbERxTU9fRjRqanh4TjJjeHZXVmxGdmJ3bExzX1o5V1psV0hMbTRjV0ozamtqbGw0ejJ2X3B3NzlRaXYtaTBMOGRMOS00OVUyalFCV05Rb2VfU1VMTjdNYThkLWpPMFJTWXVmVGtWOTR3dHY3Wmxid3VvNG1ncVlqb3hOVXIxaW1ScWItVDRfaVNOWHNBckNaT1FqMEZYMFJVZXNSWktiWE1LRXFieTkzclHSAfsBQVVfeXFMTkJGQ2RGbExTRWNraEk5VHd0bUNWYVlXUEhZWm1iY3pOQXFfTVd3MmhfTnRSZzh6MDRRSzZWU1V5TjA4bXBvbm5lV0RuYU1aMDM1dWpBVHNOc3Q1QzBCWk1sOXJlenMtN2dZUERDVW9hcnpYS1J0akNIWTBJaF9xYm1LeERaY1F5NmNIMVl3ZzJLZWtLaF9JWlpvLURfOW5WOU02QVVQelp2QUFyNU5na3N4RW12eWhLUFhmN2RWUXMyeURkbi1pTXpOd0xkdzBMYS1qZjFXNkpPVExXSFhHSG1qSWdHZ0RPZ2NkaWotTDJpV0dIMXNUUmxtZDQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV tras confirmar su visita a Perú: \"Me llena de alegría regresar al continente en el que he vivido tantos momentos\"",
+   "resumen": "Papa León XIV tras confirmar su visita a Perú: \"Me llena de alegría regresar al continente en el que he vivido tantos momentos\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNWF4T2xyZEZsUk5UTEc2TjJmX0JjRzhDMkVIS3B3Wk9HV3o2SExzNHlBZDZhQm5VNndoQW5jc0k0WWs5a0JadzQ5My1PdXFZR1ZjUmNqTmJwQlVTNmo2VG1kZnNXeHQ0UW1sNDNTWDA5V0lNQmlyQTNhSzBCdWNocEE4QklSa3VCN3VIM3dCQ0xYM29ybktKdGtodkc2bi04QUlGMUl6ZzJPZHpfakxBZHdxdU5jRHpjOG9aSzlDUW5XM29pVkF4V3d1aG5KaTd1YUFSV2NqdU10VGdqc0pMY2E5TWZkN3A5T252cDFJNk1nbEFleHRwYkM4bVpUM2RhWVRFTWJjRjExOEFy0gGSAkFVX3lxTFA3Q0ZYRzFvdUdLRy1RWnZQR0dFZjBxLUNncDNUTTdrVjdfeDhKN2lnaE1NWGlTNUc5dEZSc29CRm01amtIS0ZrQnJGNExuelJUcVNDdVl3NWs3eGV0UlNxQTZLYkw1U1VLMFpXb0dNN1hMRXRXLTQtZ0h6ZTZTbzRfUmxneEdtMmFQVDNEYWdieGZqbGFCUkRDTGJ6c3IybmVpNmRHM0tvbURnZGlKckFfcVFGbDhaeGw3djhMbHVTb0IxTTV3V3JnQ1lyM1N5ZC1yQjFqellKa211aDc4SGFPajNSMTBlVDJZYTBIZGw1bFIzREdzWFFpX2Q0SFMtazBOVGQyU1RBZEZHTlZReXZvSEE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pronabi controla 160 inmuebles pese a que jueces ordenan devolverlos",
+   "resumen": "Pronabi controla 160 inmuebles pese a que jueces ordenan devolverlos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQlF5THh5bk9SNXFjTWI4MjlBZVU1bUtHSnMyTnJDSWw0ZnZnNVJodk5jVDZaaEd5S3Q4LU1MajlFcjdNVXZiNE13aXhZZUFfMVRMNmNvVm1EM2Y0OHZ5aUNERjI3Uml5Z0p4SmtVN3lwTmxXT2ZGQjhHZ2tRSmJEWnBubVMzNDBEVWNqN3JwOWV5V2dJdWFlZ1pkUGlTSFJ1blotUENLNmtIYVNoeGFtd1pCcWJiRGNYbjlFQmdRSGdMVVdpVVI2andwSjNjby1wb3g1X05pZkNwVmZrQXNTMlR1WWdLTWF1eGE00gHwAUFVX3lxTFBReTRvZUFNemIwcHA1ZGhERXFoMlptOUlTRE5ENHlkb3hiaDgyUkowTFd6ZDBQMF85cjBCaXpaakxlWVFDaDh2eGYtWk9NRFZoRnBXTUdwa2JvcWtJRTVXdzBnMVB5dzlHNW5Fdm9XOWFpZVh1TWVwdWhkejlRcGRJcXFIYTNXUUM2TlZrYl9XMGFybEVaYzlJVUJ2azJwTFBpSWJhWkp1dEY1YjIwWU5pNUtYSDE2OTJZeEZqSzNVZUtFNjZ6c1hyU1BCTGNQLWtVNkY1dTRpempJczJuYjE1ZXZJVlNNTXFiX0xUMGpuWQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Indecisión del JNE generará vacío de poder en Lima",
+   "resumen": "Indecisión del JNE generará vacío de poder en Lima La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1ltTlJLcndCM05aeFpUcDBDb0dqZnVWNGxHQzRfQ0JSU2ZuVldmenRYSWNUbllUbEJ6UTQyWWpsMFZtTmNQcGJiY3BQMjNTeDN2NG1McW9VeThOZzk4Q21yWU8zczk1WDNodFpZTm1vNFRWb0s2b2dnNEJkSVY0MG5LeVA5S2FOalBBZktFaTJfbm5MT19Oek1WVy1oNUFMT2swNlk2OGs1Z9IBrwFBVV95cUxPVzhFRXhrVzNHQk9YUEJMWmY0WEF1NzJkVEJKN1pZZ2J3ZHBpNW5jVDE2U3h0WFdfSHpEM1Q3VzNJamRDRnRFNHpjYnFUOU9LWExnRXlESjFwX1M3M1dvRHpvM3RsNXFxbUFoYWktVkh1Z0EwXzFnMGliLWRtMU1QMVlaeHRZbmZVbnVEakRidWEtLXRJTFRWWmFRVWNXaldOSkstTW5sbHhvQ0xDaG9n?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Senador Gavidia confirma que renunciará a la bancada de Buen Gobierno tras votar a favor de las facultades: \"Piensan diferente\"",
+   "resumen": "Senador Gavidia confirma que renunciará a la bancada de Buen Gobierno tras votar a favor de las facultades: \"Piensan diferente\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOak5yNFlnZjNxUDE0Uzh0RnJ4UlVFV2ZKbEVYa2x0RS1qeGFGRG5GU0h3Nk9xMmpNNG94dDVmWlRyZTNCbGZSOXdGeHprak1tbXFLeElneVVkMW1JTHdPTTVuaDM5bFVZT2ZDZHRPZ0VBellfS1I5YVFscWhLbFpyQzBjeFY1OHhFajZNRzZOVjRRTlU2aFZZQmEtaEVkNHZSUllKMUNoYWY4X3dac08xZnlWT25FTkQwbVZCMjlDV3g3M3dqSmk3SEZGYzBWa3BSNmNOTFR3YjU5d1JMQlJ0VGVYY3B0V0xHeHFnMHRqU2tyb1JDX2hibUJSV2NzN3BIMlVqeXUxZFZ2U0d1MFHSAZMCQVVfeXFMT3lCZzRaUS0yaVBWWXE3V0xuRHhLSTI5b01kcF80MWhxTW96SmZWb1hFTEpSQm5BdG1MM29iS09QRmRHY3FuSGdmU2ZkVWhRYjJMZzlLWm1jWHFVMno5NWV5RDZKY3pKTmtJNUVWVllZU0tHeERHZmNSaTRsc2daLTRLc3E2aEwtLUNhTjliMnQtZ0RVX3hGRGlNNUU3NlU0QXVnWnV3cjY2bmc3ZGZ3YTBTYmU3eG85N1UwZHNaOTI4dTM5SkZlSkJ1Ulc4UXNKSjIyR3NhbTYwX1MxRlVHYmtCby05X0wyUEt3NmNxYy01WmFwTVBzZmlEZi1YODZmWGt3OTFRc0I3cFkwVzdWR2hIQzg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Nora Bonifaz cuestiona renuncia de José Gavidia a Buen Gobierno: \"Que fundamente sus diferencias ideológicas\"",
+   "resumen": "Nora Bonifaz cuestiona renuncia de José Gavidia a Buen Gobierno: \"Que fundamente sus diferencias ideológicas\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVlBHYkV3d0VFNVJmOHIxc29MQUNqWGZsWUVHUmV3VmNxR1dYOFI5Q2xCYy1BNzI0NlZoQ1hLeWZMM0RKUHB1VzY5OTBFT1lnQ0g3ZEw5Qjlpa0xaVnM2U3BYVm5YNWtRSUU5SzhVbUw2Ykl1XzdMaDRlbXhHQWVBM25KYzVHVllmbk4tMWNVTkd5VXVjNnh3aUhhV0J1YmN0ZHMzNTZiQ2kwal9FN0xKWFN1TTFCdlFyb0Z1OFNCbmFlYzF4MTBadVdSMm9aZW1FM1V1bERJV2d1SXBHTUFqZXR0SkxrWmU5RDQ1VUdKVTZPMWJC0gH6AUFVX3lxTE5hejE5QjU3dEJ5RE5qanhHN0l3Ymo0T2ZXcHc3R3RQaHVBcWk5VG9hNzhKLWlrRW1JMXIwbFhfN0pQbXlWdGx6QXRNd0lPVjdlcHUzbjMzY09uRlllMGtoc05Hcmd6MERMTTA0RkU5RmNyXzNyQkJtOHkySDNRRFd3M3hTd1hia3gyWGR6cjVDaC1kanhsVUJvWUVOSGZ2dU1rMFpNeXJoWUJjajlwX19Bd3pkUlFSa3RmRjUxQm1vb0tIZFFsSzg3WWFqRVJoZV8tSlBpSC1uQWl1Q1RTeEVNWnVjZDZBd2NKcXlQeXJsWG9UQkFrWFhjeUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Empresa mexicana que representa a Rusia ofrece reparar helicópteros Mi-17-1B",
+   "resumen": "Empresa mexicana que representa a Rusia ofrece reparar helicópteros Mi-17-1B La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZk9ESUkzSXJDVlVHVzRrdHBGWG45azM5SEF3WEdzLU9QdDUySzhjVTVBdExSSE9CZkQ5aHhkT2txOEp1cXhiemhaYTlQNWw5eE9ycDVrUnp1UHJOY2xFVTFIYlBSRmdQbG50SHg3RnB4Z3NLb2xmOGdweEFFMXNWOTVWaFF1aXZsakQwcUZMV000LTlKYnl3LUliZGhvbmk2UjVqSkpjZkt6QlZ1Y2dIdjUtN0JwWDVHd29hUU1TUVBRMXFvV1h4QUVUM0FmeWNzSTMxbFNCRTFZa1JN0gHiAUFVX3lxTE9DM1h6Tk5wSHpsUXlCcFk3OUk0Wmg0b2VHc2gyQmYyRnRGUlNFVHBzT3U3c1ZWTWs0bmROSkJGdUhfRFZpbG9uUjZ5aW1sZ0lSRnVkRXZ3ekNOY3FWSWl5UmU4YW5zUGI3RmlFaFFCa19wejNmM1dPTTdIN1FON1ZiUHBNMGlFYi1tOUlMNF9pcVBfMkcyLTdRM0ZYM3ViMUpXcVVQU3I0MlBobmpKZEZzNnoyZFpycFhqX0FkdGtQSWtmdVlFQUJaVll6RGdMLTE0RHlncXNmV0JxVThDUkZtdXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Conservas de pescado: mercado peruano crece 3% en valor y exportaciones aumentan 44,8% en agosto",
+   "resumen": "Conservas de pescado: mercado peruano crece 3% en valor y exportaciones aumentan 44,8% en agosto La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV1pZM3J3UXhhejlseXpFdkwwQmZKWk56cFdiLTFDNXZlNGd0RWZ5SUc1WHJBWVNFeTB3RUYtVnMtbTFlV3dLUS1GY0hhWnNHbHBGLXJ0Q0ZQVUNBZ1dnUlFOeklESEtCQm9Za3Q3SjJlNEk0REVYNGY3Z1R2X1c4MlZCd1hDTUszcVZlbXNrSFgyZi1jNHdXQUZwbkVYYXRmNTZGMzVhZGhjVHpqOEdfWndlMGY5bDEwVklWWDhidjZyRzZLTUVQZUdaaFFYa25nSUg4LVZ6VHJUeW5BN0lqT3RR0gHnAUFVX3lxTE1hNjNBbDl0SVdBT2FocUl0bGdsSGtlazIzN2VPNmgxUVpRdy1rSVZiaUFUZTBZV1lMcGxzR0V2WEUzYkhNNWdTaGxGZ2tvY09VT3lWLTRGSDNVbVBvM2sxWHNoWlV3UUxtZTYwSF8yMkk5VTI3NWZpcTNfZmgyMzJmQlZsdV82RV80S0dnWkxGeXphLVlxS0RUUlo3bG1Bd0JnMHE0RmtYZ0pXZm5pYjl0aE1BWjlOcXY2Y0JlbmppYzBtN2hLUmpJN0VWMjNONW9iSHJLQkJvWFJIQk1XYWpwbnl5TG4xSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fenómeno El Niño: solo se intervino en menos de un tercio de los 1.900 puntos críticos de inundación",
+   "resumen": "Fenómeno El Niño: solo se intervino en menos de un tercio de los 1.900 puntos críticos de inundación La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1AwdE0tbk9DWXJLVXBENjBidGtQeE5KSDRrSkxNQ3lKRl81WkJ6QzFRcUR3T2tjWVY0ZHBzRHpOYktnOFlsSUxrXy1PRDNWOFRoX0hrTldNbTNaM3ZyZW5sOXE1NU55dzN2bmdxWjJERHBIUTNJbGh6Vm9iMXpPay1ZejR6UmU5bGZqTmpyVHRJWVRzcncwTTktaTZoSFYyQ3RBZmR2Vm9USWZmMUJwU0xUR2JvQk9pSEllTktYekVZTGI2R21mQ090aXA5LUhQQ0dFbFJ5dlExb1FNWDU2YVJlWndaMkZJTXo40gHwAUFVX3lxTFBZZjF4ZlppMzdqY2tNRHpqOWNKZDE5WHZnS0d2SDJ1aDIzeHZKMW1RdWx0NjNlU1ZueTVxNy1uXzBNeXRPeVIzb2VteFBmbThES1JoVkdWSWotU21hR3p4V05STk9kU09faE00a19Jc0wzRWNQSUh0eTh3MGl2c29YMnRVdXVPVklMNmU2VmJud2cyTG9sOWhwbl9ENzl3MlNXNGNwRFp5QnhUeHFGVmpLa3NqVWtPUlJSU2t6eE9kNVVYM1hGSG51NU1VNEZaR3ZUc3JkclNBRTYzS1RXQmxtUjVzVm0xOGlPaUVoTjg4Sw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Agroexportaciones superan los US$8.300 millones, pero crecen 2,3%: tres frutas lideran los envíos",
+   "resumen": "Agroexportaciones superan los US$8.300 millones, pero crecen 2,3%: tres frutas lideran los envíos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ090QjljUDNTUENHVzZBSk1uZWJiTnBfNE5vWFl4YWZraEhLUXFLTERDeGlRblZHSHB3WTJBRVc3XzltaFhxZjNXZk9hazdkMWxNamt0dXJ1ejRUd3FRN3BINk8tbnJXYU1MX1dZUU1EZUtFcV9XUkNyV3ZYWlVQZHItWkdRTmRkblQ5M0RBanVJMzNraGZXaFZXaFl3aVpmNFVuemw4aXBPR2NmVnhsZi0zb3hnWVdJM3Q4cVFjVGZLTWdWYjctaktUR0VkUjZhSEl1eGhXZ2c1NnhxdjRlSThB0gHnAUFVX3lxTE0tbXUzcWlqd3BpU2g4ZUZCSERFS0NwMHI2S1BHYkpkS3dPYTAxci1yakYyYzZJNkduNDY1anhRWVZCeTVhOWpBZjAwN1E1TW1xYzcyNjM1WFppU2E3N1ZqUm9EbE16Wjg2TnJITUFMSm4yQXZFUXNydUpVU2NCaXZuTzRLT24xZ2hQNjk5Nkg1STlGZ09zRF9uOXB2S3RTM28zM2d4cUVPWVlGNTV0X2xlTHFES01XWVRrQTh0M1duUVR3TU5uU0JQcHZWX2wzUEtndjNIMGdiWlFiZGdURlVjdHc3NVBtNA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Techo Propio: presupuesto para 2027 plantea recortar 53% los subsidios para comprar vivienda",
+   "resumen": "Techo Propio: presupuesto para 2027 plantea recortar 53% los subsidios para comprar vivienda La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkVzQXZ1TG5TX3NhSTlpeElnYnpDQnZTTDZnWUYwakdwQWNxSFhSYm9HN1RFbHNzczRYaVROR1dvZTZlemJyRzNfc2VNcnpNbWxVc2dkbDJ6MVVIUWNva3ROYXBib09nR3pvRzh0bklEZUVEVlplSU5JNFJYLXQ2QkNNLWYzQi1nODVWd25VSTVzaF80ekhSVXFaVGkwQVh6T0JsR0hTQXYtQXlIa0R6Z3NrVHpHaVFDeWo4RkYxMFNTcWU4V0I5eHpHNV8ycUNSVXFwN2RuTkRMaGJsaDdvd9IB5gFBVV95cUxQVEhkbXBPTGpxdnlmRnFfYTdYemxTbVVCNURSMzRvdVl5WkZ0WlR0OVJ1YmY3cGZsb3dIM21GbTBzS09kRHNjUG1RbHV6UHEwMnN2YU9MX0tYdUZBVnBFZGIydVBVNEpuZTQ2dTJWeWp1Z3dJZFY3MWtZc2QteGd6d0x2N0tfaGdFRFhuRmpsWC11RUZiUVJDdWVjcW05b0JidXlFSWpDVE85VjRwcFg2VFNHdHNmYUdRZkJQUGl1c3pGcW5sOEVmQTRDVDB4TmNfYlFNVzlHRkUzRkdBUXl6ODQzVWFtQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pleno del Senado debatirá el reglamento de elección de magistrados del TC este miércoles 28",
+   "resumen": "Pleno del Senado debatirá el reglamento de elección de magistrados del TC este miércoles 28 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaU5QTVItNWlRQ292UWl1cHdHRzVoOXBDX3JmSFdKS3VUYV9WZ1hOVG1XNU1mdURDUE9INDZ1S2lXVnJMVV9xYTRsRm5waFB6Y284cHBOTlpTVVR3ODNseWhaQlV2Q0NXWjlyREtCVFM0Z3hmeTd2OERnOHNhb0l3Wk9Ib0NwY3BXU2h6bGdxM2VhVGlPSUFVWG5JZUFFVm8zNklpdnp2dGZCTTVsUks2T2JETS1qTmZpN0MtQmdYeklqYUdUUUZBTGh1Z0xWS2tWMl9HbXcwYlBBeVc0VmlGYkllQdIB6AFBVV95cUxPLWEycEk4bFVBblgxNHBDaVZGbVJwTnlOUkRCbUZrRzlLY1UzV2llaTVQOVBOQkQyM1Q0bHdqZFNqcWdwM3U1ZGJWWkxncGJfOVU1ZTUtVkpzc2h1X0trRGwxTjBRN0J2ZVliYWNCV1ZUQUMyTS1XMm80Y3ZWd082dThLbjU1OER2RHkwWUpOWHdBTGpjeDRiMV9na3lTSEZmeFpKeUp6TW5ZUHZ5OEdJSy10MEVtRGtyTWJrUWNNUVo2ZkFNYTlRcC1EMFRjYWpKamdTdFcwQm1BVk1TX0g5QXZrdE9NMUc4?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Diputados y senadores viajaron a China, México y Tanzania en sus primeros meses de gestión",
+   "resumen": "Diputados y senadores viajaron a China, México y Tanzania en sus primeros meses de gestión La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHlrZjJTVThxUnZEaXVGU19PbkVhQWpOY2RuR0ZTeDJtV3JVMGhLQUNNS2hiZGJaMUtrWVkxLUxMUExxXzVOdDZPS1ZlejNEak5QUjh3eC1oSkYxTjdWeGk1RFJmQWwwSnR1Z1U5QTJsb29YZThwSGdmY2Y4ejNfdXVLY3gzVnZkcV84bThteHM5ZXBDa3Q5Y3h0SnhXbk90SHJYaW9sQzhEQXFFNUxibFNlZHJ1NTNRWDZjS2E2azJtUjlaeWpYQXhydk41ZlRMRDBuUFNCc1BKb3pfWEHSAeMBQVVfeXFMTzZUODB6cWxEbVU0MUluT3gzUTFpaXdvVU1uekpBa1pqNkVvelNGaklLZVAtczVrTjlRLVBGUzE4b1hVTm1tZlk1RUx4eGowY01LSHRMY3JMaEh5blh5bGRrbXYwdFltNmQ5cU41SXI0REctMDkyLTZZMGM1OTlCSG80WTlGblFxX1JET1c0MGdHQ1Y3bmRpOUxxejRzZUw3bG5IRFVLbUNjdXFvT1Zpdm0tZ1A1b01wRndWZFhmTzVid1lsd1hmampjZVV6RzRYeGFpX3BrbEZFQlVtbHNaNnlIN0E?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "MEF eleva a 2,4% la meta de déficit fiscal para 2027 y aplaza ajuste hasta 2031",
+   "resumen": "MEF eleva a 2,4% la meta de déficit fiscal para 2027 y aplaza ajuste hasta 2031 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWhTWGR1UGI3c0JzSXFna0tEMGFGOThOMWdmSFE4bEpubEpnRkJPcnRsdG1VZ051d0pudDRKcTdSam9rcTZSdDQ0MDJxS3ZFWEN1QXFvSVVnUmd2TjM0S2JiSmlxeVpoRi0wX0Y4ZUE5LXJfNzBaM0djZHVReW51X2UxM0VhQjdpWUFkZHFrU0RtX1YzQi02V3RuMjdUOWlYN0lsQ3MzUzJFS3dWaFROMURPYVhKeHpGRXZhUDZjS21pT2ttRTQ4eG5saVVMZ9IB0wFBVV95cUxOMXBGcE43YVZHMTVKTWc3cHFEVjhpVDBGSnRYR3VqNFVFeXhScnBTTG90Yk5ITjNDRnBGWm51Mmphazh1UmgwWWE4aU5Hb0ZEWUpfUTRKaGNPbzc2R0EzS3JjeFBrVzJ6S1ZLWmdWUUZaN0xadDFEalZ0NFFtdmNiQXkwMHFjWURLUVpUdDBwTkZrMVhNS2VQa1lhOUJCYW1uSzFrR0ZLcHVPZmtjNzdyZnBsZ2tadEU3N0dDOGlMUjRrRXVpNThpb0JWMDA0aE8ydVBB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Egipto reabre la tumba de 3.400 años de antigüedad de uno de sus faraones más grandes a 14 metros bajo tierra",
+   "resumen": "Egipto reabre la tumba de 3.400 años de antigüedad de uno de sus faraones más grandes a 14 metros bajo tierra La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT3NBS2ZGdmY1ekM3Uzc0OVNsT0JBUHQ3NURHWTFqY0NQZGRHWGRHNmFjQXNKMzBORWF0T2F2ZTVjcC1Hb253bVA3eGc1Y1UxSGt3MTg5cldjOEpNOGttc0d0MlFWRmsyU0p0a0QtdVpJYVh5U3JfSDhnS2Q1NmU1bVF4WlRJOERhc1JSd2RXT29yOTg4aHY1RWI4RmdvdnUzZVpKWDI4Q1UydjA5Uy1iR2duTi02blE2QkdBY3I1a1hjMW5QTHZXM2ZnQ01oLVdiVGxYQks3V1ZjNnZTMUdVT1NRSU9ESW5OZEJz0gHwAUFVX3lxTE9MaFhTajF6VlR2Q1FEUVFvcmI3d2F2RjEtSGlYVDZ2RDVKZVVXa2ZPOFlOeDNfX3BseFNuTFo1eHNYcmZKQnFUZVFyZWFKREhvM2l6WjNUOXJBMm91TEdyUF9sSUVFRUdLbVRlRFdqclBJU0NWVXBnR2FCNUdTeXRIbzY0czBfSlNyNmxCZ1ZYWDZTanVsSlVjSHFfcFhZUlk1WDdyWDFpNGJoaUVxeGpCZmZrQ0E4SXNUVnJWMUszeC0zUkctbDB3UTNaaXdObTJXekd6QXJTb2JNeDI3ZF9rdjc1N2czRmd0UXFCcmw0NA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "¡Ampay! Shirley Arica y Mario Hart son captados pasando la noche juntos y crecen los rumores de romance",
+   "resumen": "¡Ampay! Shirley Arica y Mario Hart son captados pasando la noche juntos y crecen los rumores de romance La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQXdyejZpZ0NqdlAtdVRGVlhGbWY0dUpGdEhRRFN4eW5LT0lLWHBma1NncGdoZk1zN2tWNk5makEzUk5acFVuQlBGLW5JSWVvZmRZc09Dd3llSFJRY2hKc3RrY0pEMDV5Q0NBNU1mTUh3c1JfbmV2WmtEdUxLTmJQMHk4SGRsQWN2YkxEWGQzbkRNR0hJNEFfUlRtT28zVUd5U0dMdEoydENoRTlwWVRrdG51VFNPRmJRS21rRkNmU3Z6LTVVeXhETHVpcURfYzBqY2hzME1zVHhWbVJ0Nk9Da1NRckpiSEdPUmQ3StIB8gFBVV95cUxPd242a0dRZVNmbVFZejd6bUktd2VhN0VVdExEa0xsa0Z3NmU4Z1E3d2dzenkxQlJvXzhfc2FiZDFHSTFobmVGbFktM0s0ZDJPRlg0S182MWtRSnBQUnZZQmxidVJzX2JJc3NobDRycm1PZHhPdGdfaVJZU0N2MG0ySUJxdVBYUm54MEpLZnZMaHFJVEZ5dkZoOVJieEdCUXl2ZDEyVVhaajdJRmNDMHpLYmtiV1g4UHF6R21yVUpyQ3NRTk5BWDZNMVUxYVI3UU9yVkxtRmpyUG5FRVRVMzB0WURkZmQ1bXJ6eWIwZmkybkVadw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Policía en retiro y su hijo son baleados en Cercado de Lima: cámaras captaron feroz persecución cerca de Las Malvinas",
+   "resumen": "Policía en retiro y su hijo son baleados en Cercado de Lima: cámaras captaron feroz persecución cerca de Las Malvinas La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVlVxUU8wRmdRaTd3UFR0ZGY0OW8tT0hQTFEyQlI3THp3c19Ddy1EeFR2dDBlN3psaktmWWZyazJtb1BwVmRLOVhLOTlid3g4Y3N4RjlzaExlZFNDWEJHa1U0OVhDcnQyUTVUdnVaU1UxX1BZS3dQNXZvRjdxQmhPaXVoZFRIQnk5eDlnel82LTdpbmkyNkJSbk1QbzJQeDZmQlAzOG55Nm1INFdBeXZCdW0yTjlLcXhjZEZZMDJtNUctdjJiZk9RRWdHUWVQcS16aHZxeVR2NzBaUkgxaUg3eVNNZzFEcTBuVUhVOG9zMEppeEVEWkdWeWdUc9IBgAJBVV95cUxQOUhxc2dKXzBJRlRJV01nZ1pPeFNPM3dqOHhCMll0WjVxSXY5Y2dPMzlZTDltWVNyb1pIa2hxQkIzTFNFVVhxUTFlME1kUHJMWnNSOXpCSWttYndTQkdZb0JNTmplTE01Q3JYSXNGN3l6SzExajctVTVOQzd3YVJNLW9qdkk5YjdMRFlOSVV0SUZ4ZEl3R1lSY09rUngzVXdrWGVVa2FYLW4yaVpuUUt4SHFYclp1WEcwMkZzYndqZTBROG9LYnE4X1d5QVNtdFpOcEhDZzhyd05RZE9Rd0NfOW5nWDJiOXJocjM5aVo1ZFhmcFBvS2NqV28ydnlnNi1x?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Policía lanza gases lacrimógenos contra comuneros que bloquean vía Jauja–Tarma por obra paralizada del Instituto de Música",
+   "resumen": "Policía lanza gases lacrimógenos contra comuneros que bloquean vía Jauja–Tarma por obra paralizada del Instituto de Música La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTTB1bk54YmhyMExjZ2Q2NzdsSUs5eHJab1ZUQmROM281NE5uOVk0YXZkWDlpa3ZxdUxlaTdEcDI4d0NPNmQ5ZHlqN1M1eVV4eXRFbEp4T3N2Z1hqUUF6OUZWaXE1VmFFaU5IZGNKZWJOdTdyRmpDOEZQRTNFRGpSV1B2YXZPdlhSREhaeWVFaWJkWkZ5NkpFTmFyUjRfejI2ZnJSWW9TWlVEbDNxV2dPTWxjbVl1VzV3VG9wQzNFdzF5ZU14WUlJcnBCcl8weHFPY1NTdkU4dU9TaERucEdSNzFURjFpUkNnQk1xclExRXA2cXdhMHdpSXRlTE92ZExSaGfSAYcCQVVfeXFMTUZhTEpxTmJRaXZ1Wm00UGk0WGI4REhZN3F4UmlLejBYcEUxUmdfUHFSS1hGZy1FLWVmUXdESTFfUGlaQ0RMMTcwZEdjSDRXVTlycXo2ajlmUWxoQWtPVmRMWVVBV3FYWktxbU41RmNtVTBsb1kxV1c1M0l6dlQzZERQSG51N2Z0MW02MTA2QVJBSUdHZmRPUmR5QVBXOFJMNXh4bHVjdzB0MkRvbmo0Qkd5VzZZTnZVWnBlaHVfSWZZYWpQSURYRDFtV0VxSm83WW1rVWpOY0R6ZExoeVdsaV83eWQ5SzkzcWNObXAxZHJGWEVoSEVOWTFfeWNvQk5sQXJVSWRKRFU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Callao: joven perdió la vida en ataque armado en el asentamiento humano Santa Rosa",
+   "resumen": "Tras ser baleado, el joven fue trasladado de emergencia al Hospital Barton, donde se certificó su deceso.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/callao/callao-joven-perdio-la-vida-en-ataque-armado-en-el-asentamiento-humano-santa-rosa-noticia-1714626"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy martes 27 de octubre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-martes-27-de-octubre-noticia-1714625"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy martes 27 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-martes-27-de-octubre-2026-noticia-1714615"
+    }
+   ]
+  },
+  {
+   "titulo": "Argentina: dólar blue hoy a cuánto cotiza este martes 27 de octubre",
+   "resumen": "La cotización del dólar blue, hoy martes 27 de octubre en el país de Argentina es de $1555 compra y $1575 la venta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-martes-27-de-octubre-noticia-1714623"
+    }
+   ]
+  }
+ ]
+}
