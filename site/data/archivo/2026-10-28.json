@@ -1,0 +1,792 @@
+{
+ "actualizado": "2026-10-28T06:30-05:00",
+ "modo": "titulares",
+ "total_titulares": 314,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "España: choque de dos trenes de alta velocidad deja al menos 30 muertos en Toledo",
+   "resumen": "El accidente ocurrió en la provincia de Toledo, al sur de Madrid, cuando colisionaron un tren de Renfe y otro de Iryo. Las autoridades advierten que el número de víctimas podría aumentar, mientras los equipos de emergencia trabajan en la zona",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/espana/espana-choque-de-dos-trenes-de-alta-velocidad-deja-al-menos-30-muertos-en-toledo-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/espana/espana-al-menos-treinta-muertos-en-choque-de-trenes-en-toledo-video-noticia-1714793"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Nuevo corte de agua en Lima: estos distritos son los afectados este 28 y 29 de octubre",
+   "resumen": "Sedapal anunció la suspensión temporal del servicio de agua potable en sectores de Lima Metropolitana. Revisa qué distritos y zonas serán afectados, los horarios de corte y cuándo se restablecerá el suministro para tomar tus precauciones.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-sedapal-anuncia-distritos-afectados-y-horarios-de-la-interrupcion-del-servicio-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-28-de-octubre-distritos-y-horarios-afectados-noticia-1714788"
+    }
+   ]
+  },
+  {
+   "titulo": "Alianza Atlético vs Deportivo Garcilaso en vivo: hora, canal tv y dónde ver la fecha 14 del Torneo Clausura",
+   "resumen": "Sigue el partido entre Alianza Atlético y Deportivo Garcilaso por una nueva jornada del Clausura. No te pierdas el encuentro de la Liga 1-2026. Consulta aquí la previa, el horario y más detalles.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/adt-vs-cd-moquegua-en-vivo-hora-y-donde-ver-la-fecha-14-del-torneo-clausura-resumen-y-goles-l1play-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-alianza-lima-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-14-torneo-clausura-2026-via-l1max-partidos-de-hoy-noticia-1714697"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Perú hoy, 28 de octubre: magnitud, epicentro y más vía IGP",
+   "resumen": "El Instituto Geofísico del Perú (IGP) informa sobre los últimos movimientos sísmicos registrados en el país. Revisa dónde ocurrieron, cuál fue su magnitud y qué zonas reportaron actividad sísmica.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/sismos-hoy-en-peru-magnitud-del-temblor-epicentro-y-zonas-afectadas-segun-reporte-del-igp-tdpe-noticia/"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/10/27/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-martes-de-octubre/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿A qué hora sale el Señor de los Milagros, en su cuarto recorrido por Lima HOY? Rutas y desvíos este 28 de octubre",
+   "resumen": "El Cristo Moreno recorrerá las calles del Centro de Lima este miércoles 28 de octubre. Conoce el trayecto oficial de la cuarta procesión del Señor de los Milagros, los puntos por donde pasarán las andas y las vías que podrían verse afectadas por los desvíos vehiculares.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/a-que-hora-sale-el-senor-de-los-milagros-en-su-cuarto-recorrido-por-lima-rutas-y-desvios-para-este-28-de-octubre-tdpe-noticia/"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/10/28/senor-de-los-milagros-hoy-donde-se-encuentra-la-imagen-y-que-calles-recorre-este-28-de-octubre/"
+    }
+   ]
+  },
+  {
+   "titulo": "El Papa León XIV se reunirá con víctimas de abusos durante su gira por Latinoamérica",
+   "resumen": "El Papa León XIV se reunirá con víctimas de abusos durante su gira por Latinoamérica La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOERkb0pseGQ4NDRfMjllNVg4ZHpvcVpkaFhhazZUc2VmYXZLWk1SbC1tLTk3aWNzRHA4TmRjRlcyNDFYd0hNLUhwTFlZN3pMSzhXX0VYRHhrNUxWY0Qxb0tva21IS09SVl9QbUVYSFIxbmpxVUh6aVd0dS1aeE9TQzdUOHQ4TlRKQXNCQVYta2VQcFhHQUpHVHBleHdDR3EyNllzeWxMWlAtSWtmVVJkUl9fVTE4TkNFTGV5MzYzem5PdUVaUm1JbFNKMXFNbmxvVkMtQTNrQdIB3AFBVV95cUxPd21CejJBYWEzUE9oUHE2SFZNNzZtYnVwSDFIaUthN2FZZG1oMjBZOXVZc3dqQ2xEUjZTTkhoOWtFYXlIR19Rdm9yRU9vTTA2YUdlREtMaHdNbWZOcTE1blhMMGd5YnFwSTk4dHRheWduNTdsTUpWNlpTdzRXRjUwV2lfZkJ3aFh2N3lyRkxvaU5mcjNUTHY3VjRubWVsYm5SZ0lGOG1XM1JZRTVya3dLWHg2Qk1kdnV2V3ZTT1pTWkJnLTZOR2k4TXd0MkJ2QkpKQU14MnNQVldiUmJ3?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmpwd2NHNlJicWtmd3ZsX3k3bkdoYmtCekMwZU54S2p0eDRDS1U4MUFzblVpaHZvUDV2WEw3WFJ3b0RvN0lWanFpeGhKVEdXWjFjWGFMM00wcUpQUEE1X3ZPNFY3Tll3SmY1Q1lUSE1vSDlNc2k4SmpPYUhCV1NOWFdJbVhhTkxsd2FPNzJNak1xWDA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "López Aliaga envía carta notarial a Francis Allisson y este le responde: \"Nos vemos en los tribunales\"",
+   "resumen": "López Aliaga envía carta notarial a Francis Allisson y este le responde: \"Nos vemos en los tribunales\" La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNDhYbVRPd1BXV1o5c0xCQmR3aFdpODZtZWZKRTNWUHpfOGtvQW9yQ2lPRnIzMFpPY3hrMDdoQU9KNFozQy1QeHUwaFYtQjZyYWFId1hSaU5CSFFIVlhDMEJULURoSTAwZXVEdE9nZVNNd3E1UHB6am4ySE8zWDEzeGZMeE5MWW12VjBHTVRyZlN5YXE5QW10Wl9QUGlJUzQxakNhSmU5RjV4MlMtQ2plNTBCNi1zOS1WMGZxMHp0dVFsYkxPZDJiN2RwT0ZXVEthbC1wa2RmbkZjYTMwVVQ5Z3dYcWxqLUNHaGNv0gHwAUFVX3lxTFBneWRRbjgtNnNPYXRlMmNMckU1MWFIc0p2dUtIbGZaelY3YWw5TW15VzJhcFhkcEc5QVRtbldrRk9EQy03ekZzck4yTzVUODhrdTJBLUpFaFRyTnZjT1gxbTVzMS05M2ZwTnJrNERmNmpwQlRQQm04bFZQa3VEamUwaVB6bnpuQkM3U08tb1JQQk9VaFN5cUI5VnBwUWxUdjdtd0FQNjc2Y0NzaDdPR1R2dC1vNUU2RlFRekZCQTNwOHF2UWw4MDd1cXBiZzBTVURsRGRoNVUyZGtTb1Q3QzBXbUVDbzhaR01vcGkxbnV1NQ?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0dXN0Q0cFRlU19wekQ5TF9Hbk1xbUx6Tjh2QjhMOXpzaUZKdjRpNjFhVjgwc1dqd0pvalNQMUpEWGFaM2pFazBISktEbDc0Q0J1Nmliak9DM2poQUF3dU5QVFpCakRsbXQya0hhOURaNFpFbmg4MEt3aFU3VWozWE1fSy1kaXVocHJ5WHBFcFEyZW9lZVVRMlhXaWk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "JNE estima que resultados municipales se conocerán en la segunda semana de diciembre",
+   "resumen": "JNE estima que resultados municipales se conocerán en la segunda semana de diciembre La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVh4aUFLeEF1RXVlQmVjRVp4UTYtLW4ySmtZX1hFbTVSanRrbHhIeUxYbTF3R242WUt4R1F5MHVwUlpXc0p1SklTUzY3X3dERnZBRVdwODJBS2pRNEUxblAta3Fka0lhSFVwZWhWdGpVVEsxRVpfQlRkRDh1OGFGT2dsb28tQnlmaXdLVXFhTjVIc0NCLV93c1o3elVHby1xODJoZzk0QzdnaE5KUjExcnpXOFBvZTYyMVdVeWFOU3IzeXEtYXpaQ1M3bmlTcWotb1I4eXJLaV_SAd4BQVVfeXFMT3hadzJoZW96bFByZlBaRlFNbzNZdGI1ekFmZm5mMElEOHZXTGNZb2M3SmtMMVhxU09oc1BfZGFRY0tiRDJseTRYMWdYcjNVTE9VVmFlekcwMXByb1puRHRIaGJ3YWhpMmwwT20tMU9PMExLWmxuWEx2emp5bldPa3g3TzB0MVN1aGdhVEdWVUJhVmtlTThwUTBrODJvRG4tUXIweDFjVWczbXMwZ3JyLVF1RkJmbUQ5VjJ5YTB4NTNEd0w4X0lLSTlOTHVxVEFLdDhHcFJ3RmktSUtOdTN3?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGpfUG9IVnJmUUZrdldjb3Y0UzVOVVE1NDEwMVpzb0hpYmExaE9MVFZldW9nQjM1S0g5a1ZHUE9YOEN0UmpqY3AxQ25mVE8tY0t6WXg4Wk5tRFFlbTdpNEVWQXVmQWZaeEhqSXNvODlRUjJsUTZZZF9sMEJHbFM5VmEzWV9HSEdiclM1ek9CYWQzcld4dDgtQnVkS3lrRmk0cUFjLTdVTk5sdmd0dkxSZ000TQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Donald Trump dice que Venezuela le envió un millón de barriles de petróleo \"como regalo\"",
+   "resumen": "Las declaraciones de Donald Trump sobre Venezuela vuelven a generar polémica. El mandatario afirmó que el país sudamericano le habría entregado un buque cargado con cerca de un millón de barriles de petróleo y aseguró que ese crudo será donado, al tiempo que pronosticó una caída de los precios. Trum",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZk9KUVVjclRBN2QtbVZZOVpuZHAwYlhoUjVhZFNpUHpvZVUxbXlsQXdCTnpKSkh5eThEdVFsLWtCclZmem4tT0plVV96THgzaTU5TEY5WVRSSDlmdS1jZW9VaEpYRkhpdzVhOVQ1NkY1aU0yc1dLN1o0TXpUbDZ6OTl0bWR2bHhXb0stbDdmWVJOeHpmVS1uVllLRTdtelZBQVA3bGFKbkNkNkk?oc=5"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/video/20261028-donald-trump-dice-que-venezuela-le-envi%C3%B3-un-mill%C3%B3n-de-barriles-de-petr%C3%B3leo-como-regalo"
+    }
+   ]
+  },
+  {
+   "titulo": "El controversial comentario de Mbappé sobre Mao que desató la furia en China y le costó millonarios patrocinios",
+   "resumen": "Una broma que circulaba por internet terminó convirtiéndose en un problema para Kylian Mbappé. El atacante francés, una de las figuras más… The post El controversial comentario de Mbappé sobre Mao que desató la furia en China y le costó millonarios patrocinios appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/entretenimiento/mbappe-comentario-mao-china-pierde-patrocinios/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Estados Unidos ataca una nueva narcolancha en el Pacífico matando a cinco personas",
+   "resumen": "El Ejército estadounidense anunció que llevó a cabo un ataque contra una presunta embarcación de contrabando de drogas en el que murieron cinco personas.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/us/2026-10-27/estados-unidos-ataca-una-supuesta-narcolancha-en-el-pacifico-y-mata-a-cinco-personas.html"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/estados-unidos-ataca-una-nueva-narcolancha-en-el-pacífico-matando-a-cinco-personas/a-79781207?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Cuatro de cada 10 pymes posterga su avance digital por temor a los ciberataques: ¿cómo afecta a sus negocios?",
+   "resumen": "Según un estudio de Mastercard, aunque la mitad cuenta con un plan de ciberseguridad, solo el 23% se siente muy seguro de poder proteger su negocio y una de cada cuatro pymes carece de una estrategia concreta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/dia-1/cuatro-de-cada-10-pymes-posterga-su-avance-digital-por-temor-a-los-ciberataques-como-afecta-a-sus-negocios-mastercard-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Waldo Mendoza, exministro de Economía: “El Gobierno está dando la respuesta de política fiscal apropiada”",
+   "resumen": "Waldo Mendoza respalda las medidas fiscales frente a El Niño y advierte sobre el gasto en pensiones, la inflación y los retos del crecimiento peruano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/waldo-mendoza-el-gobierno-esta-dando-la-respuesta-de-politica-fiscal-apropiada-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones en Israel: Bloque de Netanyahu sigue en cabeza con Eisenkot recortando distancia, al 84 % escrutado",
+   "resumen": "Elecciones en Israel | Ambos bloques siguen sin alcanzar la mayoría para gobernar (61 escaños) y dependerían de coaliciones entre ellos o de un gobierno opositor con los partidos árabes",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/oriente-medio/elecciones-en-israel-el-bloque-opositor-suma-mas-escanos-que-el-de-benjamin-netanyahu-segun-sondeos-gadi-eisenkot-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Turrón de Doña Pepa: el postre que mueve millones y traspasa fronteras, ¿cómo se consume en el Perú y el mundo?",
+   "resumen": "Entre enero y agosto del 2026, los envíos de su versión tradicional crecieron 18,6%. Sin embargo, distintos productores de este producto buscan posicionar el turrón de chocolate, según Adex.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/turron-de-dona-pepa-el-postre-que-mueve-millones-y-traspasa-fronteras-como-se-consume-en-el-peru-y-el-mundo-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Consulta de aportes ONP: cómo acceder a tu historial de aportaciones",
+   "resumen": "La ONP explica cómo revisar tus aportes en minutos. La información te permite verificar los aportes y detectar posibles diferencias oportunamente",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tu-empleador-registro-todos-tus-aportes-la-onp-explica-como-comprobarlo-en-minutos-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Ministro Shinno niega que Ley MAPE sea “un Reinfo amplificado”: lo que dejó su presentación en el Congreso",
+   "resumen": "El ministro de Energía y Minas, Guillermo Shinno, defendió ante la Comisión de Energía y Minas de la Cámara de Diputados del Congreso el proyecto de Ley MAPE y rechazó que sea “un Reinfo amplificado”. La iniciativa, cuestionada por congresistas y gremios mineros, busca establecer nuevas reglas para ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/congreso-diputados-guillermo-shinno-del-minem-niega-que-ley-mape-sea-un-reinfo-amplificado-todos-los-detalles-de-lo-que-dejo-su-presentacion-mineria-ilegal-mineria-informal-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Redundancia sí, pero no a costa de pagar dos veces",
+   "resumen": "Alberto Pasco Font ha escrito una columna que vale la pena leer: «Seguridad energética: necesitamos redundancia» (Perú 21, 26/10/26). Su argumento es claro. El Perú depende cada vez más de fuentes de energía vulnerables al clima: la hidroelectricidad sufre con las sequías, y la generación eólica y s",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/redundancia-si-pero-no-a-costa-de-pagar-dos-veces-por-mario-nicolini-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La Doctrina Social de la Iglesia",
+   "resumen": "En su artículo sobre los conflictos entre algunos Papas y el poder, publicado en El Dominical de El Comercio, Enrique Planas cita a la teóloga Veronique Gauthier de Lecaros, quien explicó que es una tradición del cristianismo llamar la atención al poder, lo cual cobra fuerza a partir de León XIII y ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/la-doctrina-social-de-la-iglesia-por-francisco-miro-quesada-rada-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Luis Oganes, economista peruano en J.P Morgan: “Más allá del FEN, hay argumentos para que el BCR tenga que subir tasas”",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/luis-oganes-economista-peruano-de-jp-morgan-mas-alla-del-fen-hay-argumentos-para-que-el-bcr-tenga-que-subir-tasas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Partido del Buen Gobierno evalúa expulsar a Gavidia, pese a su renuncia: ¿cuál es la situación de la bancada?",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/partido-del-buen-gobierno-evalua-expulsar-a-gavidia-pese-a-su-renuncia-cual-es-la-situacion-de-la-bancada-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Burocracia que mata: cuando el “papelito manda” pone en riesgo la vida y el país",
+   "resumen": "Seguramente, estimado lector, al leer el título de este artículo pensará que me referiré a cómo la burocracia “mata” la economía, asfixia el emprendimiento o detiene las inversiones por el exceso de trámites y permisología. Aunque todo ello es trágicamente cierto, esta vez me refiero a un peligro mu",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/burocracia-que-mata-cuando-el-papelito-manda-pone-en-riesgo-la-vida-y-el-pais-por-raul-delgado-sayan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lotería Sinuano EN VIVO: últimos resultados de hoy, miércoles 28 de octubre",
+   "resumen": "Lotería Sinuano EN VIVO: no te pierdas el último sorteo colombiano y conoce aquí los números ganadores.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/sinuano-en-vivo-resultados-y-numeros-ganadores-del-sorteo-de-dia-y-noche-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Iber Maraví y la nueva denuncia en su contra como presunto integrante de columna senderista: ¿Cuáles son los hechos y qué podría suceder?",
+   "resumen": "El exguardia civil Carlos Orlando Diaz Díaz, aseguró haber visto personalmente, al ahora Diputado de Juntos por el Perú en un ataque terrorista en Ayacucho.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/iber-maravi-testigo-carlos-diaz-diaz-denuncia-que-senador-habria-tenido-participacion-en-atentado-a-un-base-policial-de-ayacucho-en-1982-iber-maravi-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El talento joven necesita oportunidades para crecer",
+   "resumen": "El Perú tiene una enorme reserva de talento y espíritu emprendedor. Basta conversar con nuestros jóvenes para comprobarlo. Sin embargo, muchos encuentran dificultades para acceder a un empleo de calidad y otros, pese a sus esfuerzos por emprender, no consiguen consolidar sus negocios. Estamos forman",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-talento-joven-necesita-oportunidades-para-crecer-por-fernando-barrios-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Distritos de Lima y Callao sin LUZ de hoy al 1 de noviembre: estas son las zonas afectadas y horarios",
+   "resumen": "Corte de luz: Conoce qué zonas de Lima y Callao no contarán con el servicio. Conoce aquí si tu hogar se verá afectado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-distritos-y-que-zonas-exactas-no-contaran-con-el-servicio-segun-pluz-corte-del-26-de-octubre-a-1-de-noviembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Hora y dónde ver Magaly TV La Firme hoy, miércoles 28 de octubre",
+   "resumen": "Magaly TV La Firme EN VIVO: No te pierdas el programa de Magaly Medina. Consulta el horario, señal tv y avance de este lunes 26 de octubre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/magaly-tv-la-firme-a-que-hora-y-donde-ver-el-programa-online-atv-online-transmision-avance-youtube-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Urge revisar los reglamentos del Congreso",
+   "resumen": "El artículo 90 de la Constitución indica que el Poder Legislativo reside en el Congreso de la República, el cual está conformado por el Senado y la Cámara de Diputados.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/urge-revisar-los-reglamentos-del-congreso-por-natale-amprimo-pla-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué día se deposita la CTS de noviembre? Revisa quiénes la reciben",
+   "resumen": "El depósito de la CTS de noviembre de 2026 genera dudas entre los trabajadores del sector privado. Conoce quiénes tienen derecho a recibir este beneficio laboral, cuáles son los requisitos y cómo calcular el monto que te corresponde.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/pago-cts-de-noviembre-2026-revisa-si-te-corresponde-el-beneficio-y-cuanto-podrias-cobrar-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori evalúa sacar a Galarreta de la PCM",
+   "resumen": "Keiko Fujimori evalúa sacar a Galarreta de la PCM La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1pKcWtNZVc4blg0N0lPdkk3bjQ5V3VXZkRfV2RRNm91T3V6bkZGNnc4d2N6ZmZtLVMyM2VsMi1Tb2paM0pTLU1NUUdFc0tXNTVKdjA1b3ZpYV9aUFduUENwQWl2VFZ4c1dzV29ySU9vOXVPOV8xM3cxNVJaMHhsQlhNU29xcWFIcE1rYzdxY0pDdmdfNWZOX3hGMkkySnBBSE5nMEpUcTNUUdIBrwFBVV95cUxPVXpjZnJFMFNJMjlOVE5WeVpYbTVKQnFLVncza3VCdmxsVXY3elVnbDRTTXJTMEN4T0hXdkd4ZExUVmJtclEzaVhIVGpnQjhBN1JseGptVmxSZ2p0X3ZfQlFodkhZLW91WHJwWExuNF9HQ3JTVm9FMUIzVDlTb0V3Sm5leUwwdS1vRDBRQV9SU1JxaVNaWjNULUNzX2NkRThKX1RCLVh4SUt4cHZTdzJr?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Exportaciones mineras superarían los US$79.000 millones en 2026: el plomo crecería 81% y el cobre lideraría los envíos",
+   "resumen": "Exportaciones mineras superarían los US$79.000 millones en 2026: el plomo crecería 81% y el cobre lideraría los envíos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeDhpOWlFb3I1Y2czaU5iSHh6Qzd0QXFCTTVSdTlfajFxbk55TUhJMlduUnAzNjBVS0JTdFdYOVpkMkluMS1VbHRCRW9lOHZZNlVwS0pYbTl3c0lfN2pKemc3djk5clJ1MWJxeWZRYkxTUTJaQkFLQ1RZNnF3eERmUVBoaEhvamNEaV9xVkRXbjJ3Y1gyS2xHVDFUc3JLMUcwUFZoam1naWJrNENFS0ZFVjBaMUNZeUw5TTNIb3VHcGZsN1BxYm5WY05rS0h6NWhTRzdQYmFLamtYeHI5ang5RzduTWtITzhzSlQtRkw0d1hIX2FhWGNVdV9GZ0poN0ct0gGGAkFVX3lxTFBmcUpIVjRLNklxTG1henNRbDZkWS1RVFlNTHg4SGJrS0JPR29rTVlBQzFqSWN1VFllZWE3UTVXRXpBNG5MZmRObS13VG92c01NRlEzSkh5VE9KQnlFdkY0X1Q3ajFVZ3puWVJSSHp3M1RnWVJ0Z2RsNGQ5cWxyU2JLZWJFRi1Rd09VWGVMdWZONlFmS09lUGIzMFFldmxSbnJsVXZVU1JrTHV4Wnl3Zkc1YkdCaV9aeWJKTDJjcjZkUzJPQXowOWhnekozYWNkcVVzOE04VVdDdHRKNjJBRG5DTkFlYjQ4Sm5MN3p1dWxtSFp6VmJqTFpqUzVCN1BncFM2aktCWVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Venta de viviendas en Lima y Callao creció 26%: departamentos de 40 a 60 m² concentran casi la mitad de las compras",
+   "resumen": "Venta de viviendas en Lima y Callao creció 26%: departamentos de 40 a 60 m² concentran casi la mitad de las compras La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbWV1TDBVYlBRS2VSUEtBQXBtSzJubXJSd1dxRjJiaUxrdW5iUk1LOWNkZnhBMGJEOFNWTzBBdW9fTFFCeDdhdmpGSm9pclJDRWFXd0cxd0htcm5ENjFKazlGNzUzdmRfVV9NLVRldWNhTFNDY3RSVXZVcTdMdDEtMERIVHNDbHdZZkJWcnNXOFVLTFVmcW5lY291SXVhOXM3TU9FbVpaUjBmaXduZHJ6emE5emZ2bHJpdU5PSFpJZ3o4eTNKNGh5TXAxSnE4ekh6U0IwSlFKWkNjNzY2UlRWaVdwRkprVU9NT0xOX3ZwTHhDNmVQLUJFN3dZUno3Z9IBgwJBVV95cUxPX21nVVREbFNBWmVQNUlRLWg3aFE3QWlnc3Q4ZV9JMXVVa3dQQXY1MmJuMHozSEp4Umxyd2x6dnNPRmZ6WnU0MnFValF1d2RNUFppUlFndjNITUVnbFp0SkY5S1piNFlhazFBejRnM1NWbjlUMGlSeGlURmkyWWo1VERUbko5cWJudEkwa3IyYjlBM1lZTS1jaWtYbVVUdDBjWjRnd3ppYUxqVmFWRUlnMHh4eExWSUJDYXNEb1lQYS1CTmZrdjVvVUxLMGdZbHQ2UERYS1NuMTRTRUQ0TkdWZi1zcnR5aDBMQXNRWFZaeEFiWWZITWJMWk45T3pmTF9KTTRr?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Julio Cusurichi es reconocido como Embajador de los pueblos indígenas",
+   "resumen": "Julio Cusurichi es reconocido como Embajador de los pueblos indígenas La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNzBLQVFZSXRLNDBtZC1QTGtCMEFoZE9PYnlYUlQxTXRaR1htN1NBYmM0bGhOOVgwamdqQ3hCWmNNSHNTRDFZcnZrSGtlVEttT1pQN2VMRlpmRXBFQjc1ZG1LVTFFYllkeFRwR0NkaGY5UEQwQzRhV0ozRzd1X1NpY0hJM29xaEpXWmI4YlBzaGdjSVVuVWJ3REtTMm1QR09GSWRsMmVXMGJPQW1lQ2FKNXA3ZGRLUXR6NFZEZFNVc01GakV0Um90X1ZTcmRfSDZDR0ZmUVlrdElHN1lD0gHiAUFVX3lxTFBqTTgyRGRJbnlNX04zX2N5VE44UXlydTNzOGNtb2xnVkMxU2hHUlRjRGgwUnluQzhrVXZPSzJnVjFFNXZZU2FrRlRpcUg2TlpXUnY4S3lsZ2gxbFE5ZW9DUk80Q3pHRkFCUlQ0eTM1WEdwWjY0ZTVlSzFVMWw3UHVuUGh2RlR0aUNZNUNwMXk4WlEwdUJQN3ZzeGt2Ny1ENlk1MkI4cW85eFA3czF1ME42Ri0zc3hab3hKbXpSMENXWkpJcGhSRVVSVnFTLWVWdWJMMVFVVDBLYndIREwzWTNZN1E?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Bancada del Partido del Buen Gobierno presenta proyecto para derogar la Ley APCI",
+   "resumen": "Bancada del Partido del Buen Gobierno presenta proyecto para derogar la Ley APCI La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkMxX2dhMlNHSEVEQmZBb2ZqTzE3UXFfUVJISXEtZFJSUXRUU21pX2lQYVotUUp5Vmkycy1pczE0OU5IZHYtaHZETkp6VzNYYWxRQzVlY2FIemw4bHRyNzhabWpuRHNfRlRuMXQ4TU5NOVF5MWNITzg5ZWRfOG9fbVF1VkFJaHpQYkkwSy1FLVIxUUJsQzIyckFJRHBqdkpUOXFkOUFnVzFYa1BTVGVuZkNLUDFDeE5adlBBZW1ra1FHRENLaW5Hcmp4aG1PSkhWU1HSAdcBQVVfeXFMTlBaek1CSFlwOGNyTGpTVWZHNE5ZR2FUekxKUFRhQVlOQlZMUEdwRmdPX2pHR3I2a25RckZxb3c3Q2ZGSk1WRWtic3IxSWNCTUtVTUxNQ1VOb2ZQUUNpNkx5UkhLQTJjd1VEQkxlRkxwNWJkMWpIYXkzQXJDS20tSTAxMmlkUVkweU9iV18ydUNEOUVUd2owZGpnQUdqd1ZYS1dqc1E5aDl6NjJnWjVaeDNIMzBvQjJOUlVYdEtzX0U1NnZxeU15UTJGQlFVQk12UkU5TnpoU2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mauricio Arnillas descarta reubicar a familias que viven en quebradas ante la llegada del FEN: “El Estado no puede cubrir todo eso”",
+   "resumen": "Mauricio Arnillas descarta reubicar a familias que viven en quebradas ante la llegada del FEN: “El Estado no puede cubrir todo eso” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVFhIRTZmbTRSUkFvRWFqTncyUmpRbjZoT2xhb3BoM2EyNjdkb3RUb0RLSG5rbk1LdGJYNWo0eGhQN0o5THBDZEdhYXAwejdOYURQVEVVQkFrRllXR2ZfQWV3dWEtMVhvXzZxQzlXWU1PbUZLdUxqTFZhRTlfX0szcWxvaFBGTjlpdU9xVGxibTFrclJvRFVvRjFQUHk5RXI4MWU3eXIyalN1ZE1PR1I0d3FxZ3lfRVFBUDNpSUc1RVRrWTNNR2FxNlhiTG1vaXcwbzM4dlJCWER6X1pXUG5UbjhNdnN4NVpnRkk5R3dqYXBJTG4ycFVLODRickVwUU5mT2VXYkZSTE51cWZyR2JEb280Z9IBmAJBVV95cUxNajl4X3k1X0x5X0pHeUlfbDdvMUtkOWFiQ3o3Vm1PZ085MEs2ZVhfRHpxR0NkV2pveVluNWJrYnhCYkVYR3U0ZzA4VzN3a1l0Y3RzQWRITDBKSmJoLUctV1lmeWlvZG5WWlNDUXBmQUx3c0pRenZ3VVliVHQwZmpyRVRLWjJTNTkyRzVRZWl4TFlZWG1aNG1GbHVZbWJnS2ZIX0Eyd1hjV0pOUUVTWlg2OUVSaWgxZk9SN1RtbXFLcmR1bmdGREFMZ0Z6elhjb2V6U3N1ZzFjdzdlcVNqalFMbFhaOVhkMlp3bjFFWVRLSS00QlJuc0VRVXRPX2FTbm9heGlzME5WUW9qUF9XdjZwZkpDN3hndmo2?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Gustavo Gutiérrez Ticse anuncia que pronto se emitirá la sentencia sobre el caso de la amnistía de militares y policías",
+   "resumen": "Gustavo Gutiérrez Ticse anuncia que pronto se emitirá la sentencia sobre el caso de la amnistía de militares y policías La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa1hfTS1mQnVQaFBjYnoyV2wtRHB3M044R0IyVVpTbzhFcUJ3T2drNWtuQXJ5OUhTS1dtQ3B5VkRESHZlTUNHUWxiOGZsMENfdlFwSU0yaElwaG0tTWpKWnFBRzJib3JqTDk4Q3Jld2NxSDlQcUpfSTYydTZ0NWZ0UGs0TUI2eEVpVWxmcDgtbkhZaUx3eUxmd0ZjM3F5TEJqZnZCSFliTDBzSDloS0NWdWhRejlXWkNEbFpqcmVqQVB4bm5YWUpiZTIwbEtJX1I1MjB5N0ZHU2ZsWjFvTE5FTk9Tcy1iN3hKRVpWcU9sMGdUWVN5SjBqbWFBU194MTM3RDNLUUJmZ9IBjAJBVV95cUxPQ0hXWnpaX0MydGpFRzdRNGJjcDhIRFVLRzFfTUtqMUhXbmxhNVBQSG9jd1ZnZWdyaTBIQWxjYUVvdHZPd1lXOWotN21YX1RZMGt1b0VjNFhCeGZ3OEJGTndfYXhEWi1mQmxVOGFjaHhZejZISU1sNGlsZ3Rxbll1NDZmTXpRclZnZUFETVpzeFdQcWhJRkh6VjZReF9QOVdYRlpQOGJ2VXhyNEMyRHJpRDUxbnd4c2VweFBVY241VTF2MTg1aHo0b01zQ3ZNbmhfdjZQUlV5MjNOU0ZNc2JqZzhmMmdYUFMwbUQ4cVFKdklMa0lKd05HN2xBQ1ktM0tPYU4wcUd6aDhGdzgw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Jorge Gavidia descarta sumarse a la bancada Obras tras su salida de Buen Gobierno",
+   "resumen": "Jorge Gavidia descarta sumarse a la bancada Obras tras su salida de Buen Gobierno La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdmttNUs4VUhUUFZILXg1UDRPTlNwTFdlSmtxZE9Mc0lubnJTeFNjVHVtdno5VkNBZllfWEFERXh0MlVucHAzVWJKLUEzV2tSQktUQmQ3Ui1DQmlWV3ZqakF3Wm9JZE9HUTF0OU96TDJYMFEwRUF6ZFhHN3dqem0zZTR6azFvQXlmaVAydlEzVHFnS1A1RjU5MXF5N3JBYU44a1NwTDVyT1lZT1BYQWxaSkxidUtEa0hITUllWC1fV2pHTXhwZXd5cmxhbzZSZzE1eU1oStIB2gFBVV95cUxNRmROTVZTUEVnOVUtS0RoVWgySWZWLXl3V245SUpCZ3dCUThRbmFxZ08zSW5pUEpPNHpLOXBwQ3RSamtHOFJ4WGYtWG9JckNpcjdPOUJIQTlGZHI3VzZucTA5d1pOUXRpMXoxVy1WR3hieU1ocVFQNi1IVmxtRFBSUlo3eTZpUjRUeVFLV3U2Z2JJd0pqdkhVeGVyenR4elJsdXJPcGRfZ0tDLUU5eU12WnBvTHMyaGVSV1BqZ3I2cXZKUVRUcW1vbWRVRVh2Vmd4VW1GMXp2QnY2dw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Lula da Silva responde a Keiko Fujimori tras saludo: \"Podemos fortalecer la integración regional\"",
+   "resumen": "Lula da Silva responde a Keiko Fujimori tras saludo: \"Podemos fortalecer la integración regional\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObmwyNDNCZ2lSV190VV8wWGw0ZGZPMFdLNDVXa1AxdVdjbzNwZ3prdEpoaVRVVGZORzd3MU9pcnljQTBzNVB0QmZTMERNTm1lcno0aUtkeDNlelRVMFNLNHBZVEZRQWlqRmhueExvYUhmREpZTTliWktKUURhOGhYb0F4WU5HREpiaUpVY0c0Wlc3ZUszbHBVeHByMVFRMTkySW40V1VXMnRlYjdYRmJsZTlWNzd4WENlY2pEdV9JbFFwaXoxSF9wU3lYUFlPVEpzR29aZ3JrN29hT3dFNGk1NEcxazfSAeoBQVVfeXFMUHpad3VtNjFaZURmQl9GNWIzdFZRdXNzSzBIVkNJZU5JeElFcUlVXzVQdzRwZzdpSlM0MEVIajZ0SFZDUTU2REE5aS1jN0NzeF9UN2JUMnBwRGZlRy1uOFVQbURySzhYZnUxWXJCbEtUNnFHbVZFVTE1ZDA5VHZtZ0NzUE82ZDBqSGE5U24zVmhHYWNCSWlqWjFBVWxBeFNtUVZXcE5fY2xmVzNQeU15b3RsM3daZUkwTGx2RXUxdmFnaXBXVVdIc0c4c2lndHg1WmNkbmhJNTJJYVVKQTE1NWhIdEEzWkZqM0xB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mirtha Vásquez cuestiona al Senado tras archivo irregular de moción para crear comisión de pueblos indígenas: \"Otra ilegalidad\"",
+   "resumen": "Mirtha Vásquez cuestiona al Senado tras archivo irregular de moción para crear comisión de pueblos indígenas: \"Otra ilegalidad\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOUF3MEdaSkFNOWRhMjVtN1NQUTc0a0t1MUotX0dmUGJtb0hoUmhJVkRzUTdyUVJJQnpLbkQ4cVJsb09oNlI1MmV0MmlfWGRUc3h6QmJsblBZVEFwdW43SFpHMVhOUTVhbkZ2dFdjVER0V04xamstZENKR3ZXdnd0UWZWZjl2MWhWMnZSeVRGaG1sZnZOcjl1QU8xRVFOTHhQNDBuTmNaa0dIQjNDWnMwNHR5bHRva2pDaUN6RzJMVnJ3a3FuRTdiTWVTZXMza1BxdnRGSFpnRHQ5VXlpdUkyUmhvdVozTHUtaHBHT1hNYjhIWG81bllldGR0UjZrUDduYmxOTzVwSU1ya0dQZVHSAZMCQVVfeXFMTlVWLWF4SElHV1d2Yl96VFZRM1VNZ1BFcndfZWdtRFpDZEwxZFVaRktWcmVxcUQ4T1g0RThLdXVhYkFzUE5oamdJTmZxaThid3BUTXk5bE9uOTFmcnNBZUpLbUNqRXVXSjVxVXRSSy02Z09EUlpZMU5tVm9rTUVadUlURzQwbmI2bGZEeWpZT2V4NzFqallwbWJ6NHJJc0Y0WGI2dXZrOXkxS2dxWGl4MDNYOVltTUFqcVFhQzUwQzZ6czhNOE5GYjNwN1FTVXg0N2gya3o3TGphcVhSVGh2MFItVXA2QzVqd0w3dmxiZ3NvczhIbmFhcV9uZUlCS0J5Y0YyOGJOYWx4V3pEblNqUDF6SzQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Luis Galarreta asumirá el Despacho Presidencial durante viajes de Keiko Fujimori a El Salvador y España",
+   "resumen": "Luis Galarreta asumirá el Despacho Presidencial durante viajes de Keiko Fujimori a El Salvador y España La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZUlwQXFOQ216Nml4WU4tN2JKWjhOcTJaNlRtNFF6eGx2Q2RDOVhsX1ZSM3JtM3NwS2RXZ0VMY01WQmM3WHdPTExwRHgtMjlieERHWndfYmFqdTl3Njkwd1ZqdnQxb2VUUEgxd2M4NzluVU5EZlN0QktpcEdsQWJJREpvaWVnU3FNYi1oNFB0bFg0bEhWeElQWnl5bVVqalNpcWVLYWY4TEdyWTY0Q1ZPQXhBaW5tSGZmT0tMdjZUVE9DaWl4RW5TcEZwUFVCRHlweDRyRU03Nld2eXB5UTFlTmpyUE5Rbk9jTjhpWm40RlIyd9IB9wFBVV95cUxNWHBBZTBxaWY2aTR5NzNiZzVxcXBKenE0OHFvX2lUS2l3S0hQN3pRT1N0MXdKQmNIa05LaDQ0LVlmTEVTVllyTW1YcXlSSDExMk91T0dGQ3EwWjg5alhxTXVwYWJ4bG9lTEdEcy12bGdjM1NESWl3NDZndnFTV2xHU1g5enVqaGRjbmg0QkxxaGxxZmN3ZkFzbTFZQVFOWUdvVjdzMWpLYXR2OGNCVVFSWExJZ1BSekk2c0trMmhQUklMS0c1WkVUa2dQZXJTZEc5Wm9rNFpnYzNGWVBhSFczOC15aGRKdHRpN0VDdGZDQXlFOVRXb3BN?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Nieto dice que Gavidia le avisó su renuncia por un asesor: “Teníamos una reunión pactada pero no llegó”",
+   "resumen": "Nieto dice que Gavidia le avisó su renuncia por un asesor: “Teníamos una reunión pactada pero no llegó” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNklUMXItMFJPcnJSWVNnZDdnRVVtQXZKVTZORE95NlgwU0Y2TzZhYUQ3YnhtcWlPamktTWV1LUl1c0EzRWNadXh6REN0WlJucHhtMW5aUEJCUnFKOXVfcjgzNFI5VDJUWWRTVlB2LURHLVM2a1Q5NVFOY0w0YURMLWpETTlrNU1ZUDdpTnhXbzR0ME9IVEVqM3IyeUNrbzBKVVY1YWZEQ1JTWnVBd1V4OURHaTRfSFRudDNtZDROenFYTnQ4ZUZVZ2FlZ1pSYU1LRndFaVkxZUNYZHZwRWNqbDgzd2F6TnBVVjJiYW9R0gHzAUFVX3lxTFA0dnEtZFNwdkhPYjhQaGRjRDFmeG9ySGIybFpmNFFwaExlYmZkY2VGdDNwUXJTbEZsS2JobzBCb2ExN1ZoUW9VNk1UVnVRMjdWLUZXN29jNGpuWFpkQUxsRHlRekh5eHhEbGVHcVF0X0U3Z2IzZmptTE5wZng3c294b1NLblFiWjY4SjZxVVZuQlN5V3oyQWJwaUdnWV9Xb0FIZGFCVlRvSXJSYU5xRVVEbll2bUdrcEVfbFd5UVVhcFh6NVhiUnBpWFhWTXJjRUFScFpzYzVPQkFvVW91dWhkSGJuMU01eVFFNERNWHlpWGlxZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "CIDH escoge a la chilena Viviana Giacaman como nueva Relatora Especial para la Libertad de Expresión",
+   "resumen": "CIDH escoge a la chilena Viviana Giacaman como nueva Relatora Especial para la Libertad de Expresión La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdUxKazhQMGd0MG8zNWx4X2Q1MGdQejJ2MnZ4REJISlVOVlR2b0w3emFfNkhpMDdFU3ROYTVRc2Qwb2cwTEM5OThMOGRRbGFsSFhpYmxmanktbWdoQU9iU05DRDhaeUlfbVhLT0FPd1NIM2hKVS1VZWp6a0hSZTZzQ1pLNm4xRllpSURERHQ1VEFJTk9DeUFwYkZtamx4VnVMLXdnSlJpelZIZmZfUXk1Y0lOa2QtdVFhWlV1QzVJc2UtZlFrVnVqRHdKQU14S1ZNM3RFVjNNZ3Z5V2JWZGtEdmhUZl82VFdXWnNFZUtn0gHzAUFVX3lxTE1fMXhzRHVnUmVwOTFCWDZEVW1fcXc5TEZPVEtVS19xZllIV1BCRlZPWld4Znp3Q0RDaXplbV9yUEROZlJwUHliZkdPLWtaRXFFS1lEQW9mcWVmc2Y5aEdQcWFzVlV6dXZhUWhhRDNWV19NMTV3NjZfYXpleWVJLTM4SGl0d2tybEk3Z3hickNpdjJmS3hGWk11MXh4VExhcXl5R0szeEp5YnprYnJnWWRRUkFUT2t3Q2lvZzc5ZW9OZUhWbTVyNDNvTHprbDNtMi1UVS1kLUtkRUU3akdVUmlXbE9TeWpfZTVGZGV0cjlLY21hWQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Jorge Gavidia renuncia al Buen Gobierno: senador solo puede unirse a grupo mixto o a una nueva bancada por única vez",
+   "resumen": "Jorge Gavidia renuncia al Buen Gobierno: senador solo puede unirse a grupo mixto o a una nueva bancada por única vez La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUkZ3Qmdjc2JVVHJBUG5qdVE4alZkQUtQMUZHcUV0UGExZ1dmVTAtUHpaSEFaU01vUDdTRDhJRHpoVXNiYjdFbUl0MDR0NFdBa29uXzlMdm10RnNaUlAxc0o2bUNhendRVEF3UkxvWmJIaXk0Z21hUkR3NGMzeXlXb3JoeG9hRmpNYVBqMENyS1MycjhUclVXTV8xUi1lX25SNVZuMml5cHU0SnVuZHlZS1FxalNGWGg4MUc4S1BWS3dMSlE4aUxad3JaQ0o5UDJDSHNNQkFObTloRlloZ2ZCTjdmb2xJdHZsV1g2alBobmNsSE1aWjY5WV9oQ1YwaW1EM1HSAYcCQVVfeXFMTnpZRkhBMmNXeTRfalUwRjNjSUJ0WVNLTWhYaE5aSktxeHFkRm9zTlNYZlBRdFhkdkJYdk5KN0tuUnFKMmZkaTY0Yll6a3lzQWpacTBjeDkxUUZ4NFhrdy1FU21SeTVCZ3BoUUdHcG5mZ2kzU1UtOWVYSGxTNENfMFJva012aGVkVi10cnRiUHJpQU15VVRLTUFjZlZHeUtrd0hFcVNrczhMR01uUlhTM3RfYUxfYkJpRmJlUE83aEp4NS1FempDdWZVTEFfZU1qWmJGQmYxM0pwbFNfVTFHd2lta2xYcHM5QndPTElFSEdGT09mejV1VTlGQzl5Mk56Zk83SFNEMzQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Más de 20 personas se intoxican tras consumir alimentos en local de comida rápida en Ate: municipio clausuró establecimiento",
+   "resumen": "Más de 20 personas se intoxican tras consumir alimentos en local de comida rápida en Ate: municipio clausuró establecimiento La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZVNDQ2pfMGhRMGdxWnVkbGgzaVdGRzA3ZHI2ZVdFVDFwVkcwX0RyaHVNMkZub28zYmp3Z2VKMlZWdGNxOWJESEpGRE4wYzVNTnNJeE1xd2pvcmM4TzZiZGpLc24zWjRVcEtfRUVoWU9vUXNFM3pRdmtpUlBxNnhLbzQ4RFJiRG1RZkhUZVJFaldNaEY4a2hiTE5EU1RlemVzWnNxZWxtOHVXYXhFTXl4eDkzTlRLOFpfVUpjQ08zOTFIWE5LcjVTanJZa1FaRTZ0NThXYXVzc2RPdTBQcThoenBaNTJVSUpTcVc2RUd0a0ZIZlgtalZIbllFcHV1d0FVdG1V0gGIAkFVX3lxTE45U25IN0ZLLS01dWRWNXEzbE5hQk43QnhZbWxpMDV2WXV1TER0SXMzU3EzSDkyZVZfSEYxNmtMUmlDNW5ob0dnd2tNVlZvTHlnOEc3NkQtdE0zX3doUU11VkJJc000eWNsXzdRTXZrVExlUGYtOTdsVHEtdTc5VjNQVUVwUTdrYjMtck9WNm9nckl2T1lFa0NrbzFkUjJUWGtnOC1lZG9JU2ZubXUzQVRINWN2UzBNTWZfRF8zTWY4SGJXS1JzV29zeFg2elZMMkhhUUROQ2tFclNmQXg1eEcxTjBEck1ISWhfa0prZWdJTEUwWkhjeVNpTkFXZnFLU2E5aWZuZ3llNg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Aldo Bravo señala que Jorge Gavidia puede unirse a Renovación Popular: \"Es bienvenido\"",
+   "resumen": "Aldo Bravo señala que Jorge Gavidia puede unirse a Renovación Popular: \"Es bienvenido\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORng4TFVOVnF3WjY5WkE3YXpvcWtfend6clJrSVhQWElXa2pxdHR3aVdrUkxoZTN6SHM4Tk5lc2FudWV1cld1cy11cFlFWjc2UDVQelV5UDNZaWdOWS1UcHdKSkZMdWpLRmxsVlhjWVJQNGtFR3htMDVlZ1FSX0g0Um5fVWU4Qk9mYkdtMDVIcDJSRWJSVGRvNXpoTjQ1cENJUzFGYnc4bkh6dVNDaGZ5bXIwT0U5OFIxSktab3B4Z1dnU3FTRklya0xyeXk0TWY5VjBrdGdCRdIB3AFBVV95cUxNM2xlRlYyeUFhTFV1cFVYQWwwMjVhQlRTZTc5NmwwQlZGZm9IY0VFLU5qWkc3Y0pRTm94TTVDSmE1MlVJVUdjWlRyUEtHUzRFb0xoTXZRbmZPdE5TOTliUldnQmtQMC1VbTVsaGloeHB4X09ZY1VUakVQUlU5ZFVtS3dDd3dsazlFTjNmWGYxdjJnUmR3YUppX2h0bEV5bzlfd3RXNHlxZnpzTk1mcGZteDJJVFB1Snd0ak1JOFE0OG1hMGZwN2lVLS00d2xFTzVpcVFQWjUzc1RVeGZ2?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ejército exige pagar a empresa que hizo deficiente reparación de 3 helicópteros",
+   "resumen": "Ejército exige pagar a empresa que hizo deficiente reparación de 3 helicópteros La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXZZZ1JxVDZZRTBhNmpSOXBoYlZDZGc4by1pS2RvSDF6MjJiQTR6SGgtcFJkQVlLN3dNWG5qdkd0RVdoTFdTNUcxa1E5ZHNCNlBqWTFSZFAyMG5RcGtpLUVzRDlwVTBpdEloaTA3bU9vR0UwUFMtTGFFZTY4OWdrb3docXl1Mi1VYUFjZEFtM2VsXzhkYUdwdEw2bTNta21uVDA3MVltb3h0REozU2FROW9xRzkyeS01OUZERS1FcHl5d0FPWkFJTFQ5YWFSdjF00gHWAUFVX3lxTE15NVU4S3k3cmZVM3dTQ2twUHppcEFVNWxuZHYzNG9OZEVLWmRVZFpwZDFnTTJQSW1YdXJVOVBKWFpoVm9xTVp2Q2VMWjE5cjlMQ2h4aXJEUmhKVWtOZzNZYlRxdTJiTUpZOWs3UklBclNtWkdBZTBPQXNDYUMteXJxMkpwYWY1b3h3S0FXREJ4aGRDb3R0SnItVTlhbEVqSlFqaXRTbzc4aWRRT0w1U1lnUDAzZFFodHZXS3pncXczd0ZqNnJRS3NkQlJUYlNFckdUTk9PNnc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Senadora Milagros Jáuregui busca retirar los huacos eróticos de Moche: asegura que 'son dañinos para la infancia'",
+   "resumen": "Senadora Milagros Jáuregui busca retirar los huacos eróticos de Moche: asegura que 'son dañinos para la infancia' La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRUV5dFY3ajRJdmRmYVdxaXpUaWlpem5jMzh6VFFNV3VVLTJnQmhmN3hCaVdySjdnbENhZ3FnWmxvTXdfVzg0ZHUzNGNlVTRNOHhGR1JrSDl0S3RaWm9DWkJOeE13S01mdF91dExEaWNwLTJvRjNKQjJUcXpxQnRsaWROLVZDQlVxVElfVHNuT0hGT2ZQeTRJcXh3NHg0WlFRcjhwaUtoZFl5dzZzTUN4bF9YYkR3T0pzVnE3cHg2X2JmRG51WlA1SWViS3ZobVhVUG5xYTA1LVJzZUhpcDhTQ3BaOXJ3SHlVdTVheFdqOWZLOENXd1Jqckx6SdIBgAJBVV95cUxOTTBxd1ppSWRVWmFGWWRERnZ6SkxsSEpzckRrVGdQVzVEM0d2VFo3ZGVMNC1GOFBTaGwzZTdUc3BmRE9NWWszckhjM1ZOTGpvUWRmYTZIdVdNOElaMlhTVkxWVDJCbWN2dlFhMTU0UTNfcXhZSGhkWWxTSlVJVlJiR29XVkpoNGJfcF9hbGk2Qm1qVE1BcU04SEVhYWhXNjhmbnlHUEhyNmdac252VFpvRVNuQnBEbEI3cC04SzcwQkJTblo0TEs1VjZvZEhtX1FSelhkYW16X2xxQ0ZFMWhGYVdDSGozcmQxbGp1QUcyckJIUmM3dUN5WEpfaWpGM0ds?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fiscalía archiva investigación por esterilizaciones forzadas aplicando ley de prescripción promovida por Fuerza Popular",
+   "resumen": "Fiscalía archiva investigación por esterilizaciones forzadas aplicando ley de prescripción promovida por Fuerza Popular La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTU0tR0ZRaGpSTXVRQWVOSEc3TEYycjNhY3JHLUVCTElVOE5sUVRrdnlWWmxqdEZUSjFSUXVmRzEtQ05uOXdBWXpZS01zc1d2a0g1aXZBeHN3N1hYNzJ3Mkx6eG9pOEU5WDBXS3ZHQk4xS0J3bUlYMl9oZzlrX3hzQlhhQnpicmc2cVM3cGdnTlVBdzRvTlpXa1dDSVU5Y1pOYmNqR1pVd0pXaGtjZ0dVaW9PWUJ6LWRnOWEtZ1dzbmY0SzFUblpsVVBublFMeF9JYTNfR3d5Nk1IdmNBRVVURFlfbUo3MXR1Z2VvV0t4OS1IbTBqT0c2S2Z4V09aN3BtSXRCbXUxY9IBjAJBVV95cUxQcVJsZGFNSVkxVkJLcGd1Q2NXRXFYeTJuMnc5Z3QxVENKNHBfN3VnNDkwQTFNTkN2ZXhUdTBKMGdmRHhfeXExN3FKVGdEdmsxUms4UjFDOGtBZkZaczdGLXBXRzhDYjlQTzhxcmprRXlHNlZQVkk2VlkybDBjbGpGWjI5b2JBY2k5b2tEbm9jRlBfcF9tSjZta0JjTmJTQ2s5QzVnLVdaUGZ1c1hpOVYzdVg2VXNLbEc1SHRWUVlYTXd2bEx5b1pZZGFpWGJnVmQwbjE1OXNLTmtaM3FNYUVyNzZxUHEtMS04eVhpQmx1YmYzVnhNLTI3a2RFdmlJeHltQ0dnS2hfY09iTW1N?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Trabajo no remunerado en los hogares representa hasta el 25,4% del PBI y mujeres aportan más del 70%",
+   "resumen": "Trabajo no remunerado en los hogares representa hasta el 25,4% del PBI y mujeres aportan más del 70% La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRmg2cVdxRUs5dWR2b3FaazlCN3BhZk9ubUtGNGhIX1c1Mm5lLTZPS3ZsdnJrcEI2UmxqUVJxMEladEZ3d3FoRTFWX1RNaTF3VER2dHBrUy0xeGtCdDV6OWIyWU8xYUxDYjZmMDRNalhXdGNCRnM0MDRuRnQ1QmJnYXpYelNwZkZQZ29DV1ZiZHVadHFudTQ2dXd0b0VMY3hyWThDeUhyNTc5RjdKRWhGTnU1N0prZmdJUnJkdExlRkQwdGxZN1RWYk5DRTZ4bDlkVk5EcUctR0I1aWRQakJQUHJ6NmdGZU1YeXfSAe8BQVVfeXFMUDJtcDA2VF9fZkVCZm44Yy0tYTZRWnF5SW9kZDNPbEViZHI2Zl9kSjZObjdUTzFGa0ZEcDJPdjNMTUZhZDRyWHBhSGpLcUV2RWw5TDZsR3JTVWUxa2dWanVfZEJCTnhkbUFZTWQ4ZUJWZVhLdTdNLVpfc0F2WV9EUlFrb0JuYzlyUlFvYWoyLVVvVFFxeTlDQThWOVZzemJkckVpQmg3SzI2OVJoTFB4bTFCbTNOX0ZHUHliZk5rX05uUF82WUZpeDlocjZRbjExTmRkaTVUVjY3UGlfRWtKU2JsakxSaldFVHNtbVlsVkU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Techo Propio: presupuesto para 2027 plantea recortar 53% los subsidios para comprar vivienda",
+   "resumen": "Techo Propio: presupuesto para 2027 plantea recortar 53% los subsidios para comprar vivienda La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkVzQXZ1TG5TX3NhSTlpeElnYnpDQnZTTDZnWUYwakdwQWNxSFhSYm9HN1RFbHNzczRYaVROR1dvZTZlemJyRzNfc2VNcnpNbWxVc2dkbDJ6MVVIUWNva3ROYXBib09nR3pvRzh0bklEZUVEVlplSU5JNFJYLXQ2QkNNLWYzQi1nODVWd25VSTVzaF80ekhSVXFaVGkwQVh6T0JsR0hTQXYtQXlIa0R6Z3NrVHpHaVFDeWo4RkYxMFNTcWU4V0I5eHpHNV8ycUNSVXFwN2RuTkRMaGJsaDdvd9IB5gFBVV95cUxQVEhkbXBPTGpxdnlmRnFfYTdYemxTbVVCNURSMzRvdVl5WkZ0WlR0OVJ1YmY3cGZsb3dIM21GbTBzS09kRHNjUG1RbHV6UHEwMnN2YU9MX0tYdUZBVnBFZGIydVBVNEpuZTQ2dTJWeWp1Z3dJZFY3MWtZc2QteGd6d0x2N0tfaGdFRFhuRmpsWC11RUZiUVJDdWVjcW05b0JidXlFSWpDVE85VjRwcFg2VFNHdHNmYUdRZkJQUGl1c3pGcW5sOEVmQTRDVDB4TmNfYlFNVzlHRkUzRkdBUXl6ODQzVWFtQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Senador Gavidia confirma que renunciará a la bancada de Buen Gobierno tras votar a favor de las facultades: \"Piensan diferente\"",
+   "resumen": "Senador Gavidia confirma que renunciará a la bancada de Buen Gobierno tras votar a favor de las facultades: \"Piensan diferente\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOak5yNFlnZjNxUDE0Uzh0RnJ4UlVFV2ZKbEVYa2x0RS1qeGFGRG5GU0h3Nk9xMmpNNG94dDVmWlRyZTNCbGZSOXdGeHprak1tbXFLeElneVVkMW1JTHdPTTVuaDM5bFVZT2ZDZHRPZ0VBellfS1I5YVFscWhLbFpyQzBjeFY1OHhFajZNRzZOVjRRTlU2aFZZQmEtaEVkNHZSUllKMUNoYWY4X3dac08xZnlWT25FTkQwbVZCMjlDV3g3M3dqSmk3SEZGYzBWa3BSNmNOTFR3YjU5d1JMQlJ0VGVYY3B0V0xHeHFnMHRqU2tyb1JDX2hibUJSV2NzN3BIMlVqeXUxZFZ2U0d1MFHSAZMCQVVfeXFMT3lCZzRaUS0yaVBWWXE3V0xuRHhLSTI5b01kcF80MWhxTW96SmZWb1hFTEpSQm5BdG1MM29iS09QRmRHY3FuSGdmU2ZkVWhRYjJMZzlLWm1jWHFVMno5NWV5RDZKY3pKTmtJNUVWVllZU0tHeERHZmNSaTRsc2daLTRLc3E2aEwtLUNhTjliMnQtZ0RVX3hGRGlNNUU3NlU0QXVnWnV3cjY2bmc3ZGZ3YTBTYmU3eG85N1UwZHNaOTI4dTM5SkZlSkJ1Ulc4UXNKSjIyR3NhbTYwX1MxRlVHYmtCby05X0wyUEt3NmNxYy01WmFwTVBzZmlEZi1YODZmWGt3OTFRc0I3cFkwVzdWR2hIQzg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Bus de la línea 10E fue atacado a balazos en Lurín: chofer resultó herido",
+   "resumen": "El atentado ocurrió en la avenida Zarumilla, cuando la unidad llegaba a su paradero inicial. El chofer herido fue trasladado al Hospital de Emergencias Villa El Salvador.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/policiales/lurin-chofer-de-la-linea-10e-resulto-herido-en-ataque-armado-noticia-1714796"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy miércoles 28 de octubre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-miercoles-28-de-octubre-noticia-1714797"
+    }
+   ]
+  },
+  {
+   "titulo": "En megaoperativo, detienen a 12 personas por presunto tráfico de migrantes y manipulación de registros migratorios",
+   "resumen": "La operación policial y fiscal -realizada en diversas regiones del país- dejó como saldo la detención preliminar de autoridades policiales y de Migraciones. Los intervenidos habrían cobrado sobornos de hasta 300 dólares para facilitar la salida irregular de menores y alterar el registro de ciudadano",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/policiales/en-megaoperativo-detienen-a-12-personas-por-presunto-trafico-de-migrantes-y-manipulacion-de-registros-migratorios-noticia-1714791"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar Perú y tipo de cambio hoy 28 de octubre del 2026",
+   "resumen": "En Perú, el tipo de cambio para hoy miércoles 28 de octubre es de S/3.45 según el Banco Central de Reserva Del Perú.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-28-de-octubre-del-2026-noticia-1714795"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy miércoles 28 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-miercoles-28-de-octubre-2026-noticia-1714786"
+    }
+   ]
+  },
+  {
+   "titulo": "Argentina: dólar blue hoy a cuánto cotiza este miércoles 28 de octubre",
+   "resumen": "La cotización del dólar blue, hoy miércoles 28 de octubre en el país de Argentina es de $1555 compra y $1575 la venta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-28-de-octubre-noticia-1714794"
+    }
+   ]
+  },
+  {
+   "titulo": "Submarino nuclear ruso lanzó misil estratégico hacia la región ártica de Arcángel [VIDEO]",
+   "resumen": "Un submarino nuclear ruso lanzó un misil balístico intercontinental Bulavá desde posición sumergida y dio en el blanco previsto, en la región ártica de Arcángel, a varios miles de kilómetros de distancia, pero poco más de 600 kilómetros de Noruega y Finlandia.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/rusia/submarino-nuclear-ruso-lanzo-misil-estrategico-hacia-la-region-artica-de-arcangel-video-noticia-1714790"
+    }
+   ]
+  },
+  {
+   "titulo": "Perú vs. Italia en vivo: ¿a qué hora juegan y dónde ver los dieciseisavos de final del Mundial Sub 15 2026?",
+   "resumen": "Perú buscará un triunfo más en el campeonato que se desarrolla en Azerbaiyán cuando mida fuerzas ante la 'azzurri'.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/seleccion-peruana/peru-vs-italia-en-vivo-a-que-hora-juegan-y-donde-ver-los-dieciseisavos-de-final-del-mundial-sub-15-2026-noticia-1714778"
+    }
+   ]
+  },
+  {
+   "titulo": "Real Madrid pide \"disculpas al pueblo chino\" por las palabras de Mbappé",
+   "resumen": "En un comunicado, el Real Madrid sostuvo que \"el club se suma a las disculpas públicas expresadas por Kylian Mbappé, en las que el propio jugador ha manifestado su arrepentimiento por sus palabras y ha reiterado su respeto hacia el pueblo chino\".",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/real-madrid-pide-disculpas-al-pueblo-chino-por-las-palabras-de-mbappe-noticia-1714789"
+    }
+   ]
+  }
+ ]
+}
