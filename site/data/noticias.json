@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-01T06:23-05:00",
+ "actualizado": "2026-11-02T06:42-05:00",
  "modo": "titulares",
- "total_titulares": 302,
+ "total_titulares": 289,
  "medios": [
   "Andina",
   "BBC Mundo",
@@ -21,410 +21,602 @@
  ],
  "noticias": [
   {
-   "titulo": "El FBI atribuye a Corea del Norte el robo de más de 6.000 millones de dolares en criptomonedas a Binance",
-   "resumen": "MADRID 1 Nov. (EUROPA PRESS) - La Oficina Federal de Investigación de Estados Unidos (FBI, por sus siglas en inglés) señaló este… The post El FBI atribuye a Corea del Norte el robo de más de 6.000 millones de dolares en criptomonedas a Binance appeared first on Caretas .",
+   "titulo": "Denuncian que gestión del alcalde de Ate, Franco Vidal, gastó más de S/34 millones en eventos y conciertos: Contraloría detecta presuntos pagos indebidos",
+   "resumen": "La Contraloría General de la República recomendó a la Procuraduría Pública Anticorrupción formular las denuncias penales ante la Fiscalía Especializada en Corrupción de Funcionarios contra los responsables en el trámite de las órdenes de servicio.",
    "seccion": "Perú",
    "importancia": 5,
    "enlaces": [
     {
-     "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-el-fbi-acusa-a-corea-del-norte-robar-6-000-millones-dolares-criptomonedas-1098116.aspx"
-    },
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/economia/fbi-acusa-a-corea-del-norte-de-robar-us-6-000-millones-en-criptomonedas/"
-    },
-    {
-     "medio": "DW Español",
-     "url": "https://www.dw.com/es/fbi-acusa-a-corea-del-norte-del-ciberataque-a-binance-por-6-300-millones-de-dólares/a-79819848?maca=spa-rss-sp-all-1122-rdf"
-    }
-   ]
-  },
-  {
-   "titulo": "Rafael López Aliaga y Carlos Álvarez afrontan denuncia penal por expresiones contra Roberto Burneo",
-   "resumen": "La Procuraduría Pública del Jurado Nacional de Elecciones (JNE) presentó una denuncia penal contra el líder de Renovación Popular, Rafael López Aliaga,… The post Rafael López Aliaga y Carlos Álvarez afrontan denuncia penal por expresiones contra Roberto Burneo appeared first on Caretas .",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmZwYmwzbUtKdkZuNER1OXUtMkszVGVWMXhxZDNEWDVpZEpCbldUU3phaHU4MklXcFlmMmRrd3VrTDNVNmd5X3hzWnJxaWlfa2Y2TV9WM1NLUUx1U3k3WGRqdk0xUjVpaUJhcERwNmFxYzFSSlZiLU1pOVNRQVF5VVlaYUJFblp2ZGZOUFlCZW1qTmpoaFNIamxrS1pYSmlOQ3FmSHp6dWlMZExGN1VOUjI5bHhBQTVXcG9odGJrdm0zQ0NwRUdJVi1LZzZLeFdQQXZCU3kxMjM0QUZqdWhVNjRPeU5fSjdYSUQ5aTlKQTZ1ZUZEa1hDT1dIVdIBgAJBVV95cUxQb1pZNnJhRGNobFdCcE1fSzBSUWwtOUVFZU45VjcwZzFXVmJqWDVxeXBvT29mX1FCaG1fNG1DTVJoTHZxVzVYNGlXbk5mUmg4VFJIQTQwVnVydDBOdFN3NVNVYUZyNXV2Y2g5bXV6ZTVvWm1kT0FFc2pXZWRRNTRGUkJLZE9JbXpOUnBCcHZhc2p5cDZQdzJzTTRaeVRZUUluMV90SXdwand4WnNoZXpMWDJKWF9FOGx4TjljRzNhWldnZ3RndS1zLXFjSVdrRTMyUTdIUUViNjhuQVp2UTZvcVB5MXVnZkNOcW9iWFVoMTE4QS1ULUZCc3FuVWxBUXpN?oc=5"
-    },
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/politica/rafael-lopez-aliaga-y-carlos-alvarez-afrontan-denuncia-penal-por-expresiones-contra-roberto-burneo/"
-    }
-   ]
-  },
-  {
-   "titulo": "SENAMHI: Pronóstico del clima hoy domingo 01 de noviembre 2026",
-   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUk9MUHI2ZW5sbkNhRVVERmpnUGR0YWdQbHo2N24yM3dMMDNIOW50cTRVUmhxRWd5Z3Z0R0ZtQ0RtRlhaX3FsOF9Db2hBTU92WDdsZlZfTWQtNjN3T00ya3djOFNyOHJWYlk5Z1NoOWRzZXlyaHJLbFYyRjZpMllsNlV1ZEZNNFZnODVhV0ltbWNiT0l6UFo4Sko3dGNqWEZGZHJWU3pMRGtjTk0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaHNvYXVCZGNaS2x1bUxrcnlRMzRqR1BJbHhzRDZuaTlUYWhaVnlVN2FxNlpkenh6dENhZVFXaTJvSTE0NkRfNzREQ1htQnI2anN5akVvMXkyY2dZZGtTdmNZZXVPUnVyRlZDTGoweTgxR2tfMm5XdTh1b2R1UENJM1ZzWVlLcGxsRHFmWTdBekFCYmdXMkhhRHBkaFgtR3FLOXlpNmxkMHdkelp0RjdEbG5mYWRGclg0UVQxSWZFR2xCd2p0cWFiT1lpd3pPTHBxNDBoY29NcEticVVqc092R3A4c2FGeE9oMDlQSlh2VVVYVFdWWi1DUUlRSWoteFQ3WnfSAYcCQVVfeXFMUFpQTklwVE9TNUR5bFFabjVvNnpQaGMwTzBXLWh6SWl6bFBReE83R0pTMFFnVDExT2Y5UjNGdHc0cHJEZTZzc2xmdUdHOG9nby1DUzluellWdUh2WlQyTDgxZTVvZVluQnlHYWs5dnJUVmlnbUszaG00QjlRUU5ZbVVDR2hFTHJodEdjbzJuNTFmZ3ZfNGNNWVRoeEYwM2xOMHJTTGQ5bzd6dHJGbDNyUjgtX0QxWEU4UWQ0djZKWVkwdUpmaDRndzI0MTI4UUZMZEpCQ051VkRHNFpwWG9nSG5zY2hqUDRDRE55RTVMLVh3Y3BxbjNzRHFtU2NPR19xOUk1XzhJMms?oc=5"
     },
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-domingo-01-de-noviembre-2026-noticia-1715424"
-    }
-   ]
-  },
-  {
-   "titulo": "Un muerto y unos 2 000 afectados por las fuertes lluvias en las islas Galápagos de Ecuador",
-   "resumen": "Las autoridades ecuatorianas declararon el estado de emergencia en la isla y suspendieron temporalmente los vuelos comerciales para dar prioridad al transporte de ayuda humanitaria.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/mundo/latinoamerica/un-muerto-y-unos-2-000-afectados-por-las-fuertes-lluvias-en-las-islas-galapagos-de-ecuador-noticia-1715423"
-    },
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/mundo/un-muerto-y-unos-2000-afectados-por-las-fuertes-lluvias-en-las-islas-galapagos-de-ecuador-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Universitario vs Olva Latino 3-0: resumen de la victoria ‘crema’ por fecha 3 de la Liga Peruana de Vóley 2026-27",
-   "resumen": "El conjunto de Francisco Hervás volvió a exhibir una sólida actuación y derrotó de forma categórica a las dirigidas por César Arrese en el duelo estelar del sábado",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/voley/mas-voley/universitario-vs-olva-latino-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-3-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1715276"
+     "url": "https://rpp.pe/lima/actualidad/denuncian-que-gestion-del-alcalde-de-ate-franco-vidal-gasto-mas-de-s-34-millones-en-eventos-y-conciertos-contraloria-detecta-presuntos-pagos-indebidos-noticia-1715504"
     },
     {
      "medio": "Infobae Perú",
-     "url": "https://www.infobae.com/peru/deportes/2026/10/31/universitario-vs-olva-latino-en-vivo-hoy-punto-a-punto-partido-fecha-3-liga-peruana-de-voley-2026-2027-resumen-resultado/"
+     "url": "https://www.infobae.com/peru/2026/11/02/alcalde-streamer-franco-vidal-gasto-casi-s-35-millones-en-fiestas-y-eventos-contraloria-detecto-pagos-por-servicios-que-no-se-realizaron/"
     }
    ]
   },
   {
-   "titulo": "Donald Trump \"no ha tomado una decisión\" sobre reanudar ataques a Irán, afirmó Marco Rubio",
-   "resumen": "Sin embargo, Axios o The New York Times han informado de que Washington y Tel Aviv preparan una posible nueva ofensiva que incluiría ataques contra dirigentes iraníes e infraestructuras energéticas y nucleares del país persa, para después de las elecciones de medio mandato de Estados Unidos el próxi",
+   "titulo": "Nueve personas mueren al estrellarse un avión en Florida",
+   "resumen": "La aeronave, un Learjet 60 que despegó de Texas con rumbo a las Bahamas, cayó en picada en un vecindario de Greenacres, en el condado de Palm Beach.",
+   "seccion": "Mundo",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/eeuu-nueve-personas-mueren-al-estrellarse-el-avion-privado-en-el-que-viajaban-en-florida-noticia/"
+    },
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/nueve-personas-mueren-al-estrellarse-un-avión-en-florida/a-79825426?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "A los 20 años, Kimi Antonelli se convierte en el campeón más joven de la historia de la F1",
+   "resumen": "Kimi Antonelli se proclamó el domingo el campeón del mundo de Fórmula 1 más joven de la historia de este deporte, después de que la estrella italiana terminara tercero, por detrás de Max Verstappen y Lewis Hamilton, en el Gran Premio de Ciudad de México. Es también el primer italiano en terminar en ",
+   "seccion": "Mundo",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-kimi-antonelli-se-convierte-mexico-el-campeon-mas-joven-de-formula-1-1098204.aspx"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/el-italiano-andrea-kimi-antonelli-se-convierte-en-méxico-en-el-campeón-más-joven-de-la-fórmula-1/a-79825067?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/deportes/20261102-a-los-20-a%C3%B1os-kimi-antonelli-se-convierte-en-el-campe%C3%B3n-m%C3%A1s-joven-de-la-historia-de-la-f1"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar en México hoy, lunes 2 de noviembre de 2026: tipo de cambio USD a MXN, cuánto vale y cotización de Banxico",
+   "resumen": "Consulta el precio del dólar en México hoy, lunes 02 de noviembre de 2026: tipo de cambio Banxico, equivalencias de USD a MXN y referencia para pagos.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-lunes-2-de-noviembre-de-2026-tipo-de-cambio-usd-a-mxn-cuanto-vale-y-cotizacion-de-banxico-fix-nnda-nnrt-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-02-de-noviembre-del-2026-noticia-1715523"
+    }
+   ]
+  },
+  {
+   "titulo": "Diputada de Juntos por el Perú bajo cuestionamiento por firma falsa y presunta asesora encubierta en el Congreso",
+   "resumen": "Un reportaje de Cuarto Poder reveló que Jacqueline Tapullima, diputada de Juntos por el Perú, enfrenta nuevos cuestionamientos luego de que una… The post Diputada de Juntos por el Perú bajo cuestionamiento por firma falsa y presunta asesora encubierta en el Congreso appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT0RoUllYUFFWVDhSdmZ4eGNUdkZ1WEdyTnpVQWVtZ0xNZGU3cFRqZGt1Y01ZWGJKZkZBY2xEc1N2SDhrazZnWTBZaXRZN1B5NVZ2NWtFTmFDUU0zczd1MkN3NER5YVQxZkNZZ2VyLWZTZUZMRWM1LWUxLVhGUVdteTdDM0ZnU0VOdy1XSHVmYUMxelgxd0M2a2gtQjlZNmF2SzUxM1dRZThLcFEtb0c1OVFCMWpxd1ZKcmE1YVd0TkhaNFY3a2lILUs0ZGdoRUdXM3J1XzEzUlBZU1BVYzZTOdIB5gFBVV95cUxPcGZqV1dpSUk3WlZreWxxQ1loRmFBUFJuNEhqa3F6NW11cGYwTkxocW5DUWF5NjZyb2JsSFVyWFhrVUJpd0ZfT0FSX0l1UEh0WHRXSG5zVnlSY3BGZWNmc3Y5X3dyRWpnM0ZxMTJLR0NHU2xVbTM5cVRHcjB0QlFpY3NBZXhFZXk3WmEyTG1mak5FMXgzS0s1WHh4ZEZqell1NDNiOVRHT253a1NoQ2FCSHEtb1BnWGNtbnJiLVI5ZTZLTDVPbE9RZzR6ZTY1MFhfOWFfRXFZalBzTUpDSWZMblNSSzR4UQ?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/politica/jacqueline-tapullima-diputada-de-juntos-por-el-peru-bajo-cuestionamiento-por-firma-falsa-y-presunta-asesora-encubierta-en-el-congreso/"
+    }
+   ]
+  },
+  {
+   "titulo": "JEE de Huancayo rechaza reelección encubierta de alcalde en San Jerónimo de Tunán",
+   "resumen": "JEE de Huancayo rechaza reelección encubierta de alcalde en San Jerónimo de Tunán La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFNUSDZrTkQ4U29NLW9oUzFBQU1zTTVFLU9MSGlveUVNaVFoMVhxZ3NvSW5XX01DQmJZY3EwdUJTWHhCRzNUNllEY3N1VkdTbTVtSEdqSnZsOEVZUzBxTkZtLWJoWmJkSGJWZ0MwUjNtQlpLNzRHQ1RVN0V6ZUFsYVJzaU5QNnREdHRmMVdINzY3ellCTE03eXlLbkZSMzZzVUFGcFp1aHF5Z2k4bWNSM1BDR3pUWDFDUElJY2pjNjUwWG1EVnUtOEtnbDNfQVlJamfSAdcBQVVfeXFMTUhHYjNoTXp3N19RbFVkakRobWNtcGRzS3AxdzdXNDZDcm80a1dQMVdhU29fVTAtSVRoMUpSbFo4RUpPWTFRVTduWjJhVTJLMXZEd3lUWUg2SkxCbzV3SjZfRnUwcU5iN3p0eGNqa2lUVWVuTzA0VkpVeHRSZWR0dGJsb256WFZtVG1LajNCXzc2djF0MEp6RHpJY3MxQVFwQTNSb1ZjRXhmU01scHhOU2w2OEdWQURUbEx6UHRuWWFsZlBfQnZ1VmxsWHdUZ000cVZ1b0d4T0U?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEsxeDVuYmZyOHN2WGVfTWw1S3FCUU9sZnNZaEswbUx1eDJXMWVxcHlYTDNjdENXQTV5MVNfSXN0MnE0SFZremQ0TF9PRk83eFpjRjl5Sloxd2ZSNXdMcHNvNHMzdzFsRHFWOXRuRHhRSUNTUVl5STdmYmJhOUxVUWp3UHdvdWVHejBOSEJLbUF3MGdzWnBJanlWalJLYjVEUWs3eGNscS16V1NXb2xOZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Tabla de posiciones de la Liga Peruana de Vóley 2026-27: así quedaron los equipos tras la fecha 3 de la fase 1",
+   "resumen": "Universitario y San Martín pelean arriba, mientras que Alianza Lima y Atenea les siguen sus pasos. Regatas Lima, por su lado, no pudo en esta jornada y cayó en la tabla. Así va la clasificación",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/mundo/estados-unidos/donald-trump-no-ha-tomado-una-decision-sobre-reanudar-ataques-a-iran-afirmo-marco-rubio-noticia-1715384"
+     "url": "https://rpp.pe/voley/mas-voley/tabla-liga-peruana-de-voley-2026-2027-en-vivo-resultados-y-posiciones-fase-1-y-fase-2-lpv-voley-en-vivo-alianza-lima-universitario-sporting-cristal-noticia-1713237"
     },
     {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/mundo/donald-trump-no-ha-tomado-una-decision-sobre-reanudar-ataques-a-iran-afirma-rubio-noticia/"
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/deportes/2026/10/31/tabla-de-posiciones-liga-peruana-de-voley-2026-2027-en-vivo-hoy-partidos-fecha-3-fase-1-alianza-lima-universitario-regatas-lima-san-martin/"
     }
    ]
   },
   {
-   "titulo": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
-   "resumen": "Tras retornar a Lima luego de su visita oficial a El Salvador, la presidenta de la república, Keiko Fujimori, retomó su agenda de trabajo en Palacio de Gobierno, donde sostuvo una serie de reuniones con representantes diplomáticos peruanos acreditados en el exterior y ante organismos internacionales",
+   "titulo": "Fenómeno El Niño: despliegan militares en puntos críticos de Tumbes ante lluvias intensas",
+   "resumen": "El Ministerio de Defensa, a través del Comando Conjunto de las Fuerzas Armadas, desplegó militares ante las lluvias intensas en la ciudad de Tumbes. La Primera Brigada de Infantería del Ejército ubicó desde anoche a miembros de la Compañía de Intervención Rápida en distintos puntos críticos.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU52LWFjbHRTUWZOZVJlTEljZDNXT0JTaUxhYWFJNmtLNzhUMU01dnc0b1NWWW5tVW5CdElNb1FBbDU2QmM4Y3pIQ0Y2YlJLTm52THdfMEhNVWdnU0xBYl9VM2I5QWNEeE85SVR5Smp6RmZrM3dhWHF2Y1YydUhQTjNXcWNIODk0M0xxdmJUUVg3TGlnQ0IySVhiTmJyOWdFSlZ2SHpibnV2TkFKdVNLRA?oc=5"
+     "medio": "RPP",
+     "url": "https://rpp.pe/politica/gobierno/tumbes-militares-realizan-labores-de-contencion-en-puntos-criticos-de-la-ciudad-tras-lluvias-intensas-noticia-1715520"
     },
     {
      "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-retoma-agenda-trabajo-luego-visita-oficial-a-salvador-1098118.aspx"
+     "url": "https://andina.pe/agencia/noticia-fenomeno-nino-despliegan-militares-puntos-criticos-tumbes-ante-lluvias-intensas-1098212.aspx"
     }
    ]
   },
   {
-   "titulo": "Ricardo Vásquez Kunze es el nuevo director de la Casa de la Literatura ¿Quién es?",
-   "resumen": "El Ministerio de Educación designó a Ricardo Esteban Vásquez Kunze como nuevo director de la Casa de la Literatura Peruana, con efectividad… The post Ricardo Vásquez Kunze es el nuevo director de la Casa de la Literatura ¿Quién es? appeared first on Caretas .",
+   "titulo": "Bulgaria elige a su primera presidenta: la socialista prorrusa Iliana Yotova arrasa con el 57,7 % de los votos",
+   "resumen": "La candidata prorrusa y presidenta en funciones de Bulgaria, Iliana Yotova, se impuso en segunda vuelta de las elecciones presidenciales con 57,7 % de los votos, frente al 39,4 % de su rival, el europeísta Andrey Gyurov.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/europa/iliana-yotova-una-socialista-prorrusa-es-elegida-presidenta-de-bulgaria-noticia-1715513"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/bulgaria-elige-a-su-primera-presidenta-la-socialista-prorrusa-iliana-yotova-arrasa-con-el-57-7-de-los-votos/a-79825918?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Trujillo: gresca deja tres fallecidos y ocho heridos en el pabellón 4 del penal El Milagro",
+   "resumen": "Una violenta gresca registrada la mañana de hoy domingo 1 de noviembre dejó un saldo de tres internos fallecidos y al menos ocho heridos en el centro penitenciario de varones El Milagro, ubicado en el distrito de Huanchaco, provincia de Trujillo, región La Libertad.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2FNZy1vZVM4N0VXOFRuQ0JCT0hrVGNzamxiUjZIN0pJNDVUeVVxS25GRUJkazBKOFBKdEQzd01heTBqd0Z0VkZKZlZIX0pja3BlUzVaenpsWEJzcUF3YmVjWjAyNURFTVpWWHZvLXczel9iMTdpcFpsb3FXU0FuRGpmbUw3WVZ1N3BOdmZGaXliVk00Q1JMME1oSDFsSUxVNmpVZTliQnU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGRMSlcyYmtfUG1xS3FibFFIT3BhOTBMWWk5cFl6Nmg4NldjUXBmcUFMaHFLNGJ6UmZRTk1aT2dKNEN4MVQ1ZENtQWhpOTJJS3A0a0VneV9ldjJLTW5UaGR2Q0ZKUWx0ZEJtaWMxd2psSnU0Z1NiOHd5TmhNRm9udHBDb2tSVl9qZzJWQXl4T29NNlUybGpRUER3cw?oc=5"
     },
     {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/politica/ricardo-vasquez-kunze-es-el-nuevo-director-de-la-casa-de-la-literatura-quien-es/"
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-trujillo-gresca-deja-tres-fallecidos-y-ocho-heridos-el-pabellon-4-del-penal-milagro-1098193.aspx"
     }
    ]
   },
   {
-   "titulo": "Temblor en Chile EN VIVO hoy, domingo 1 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el CSN",
-   "resumen": "Consulta el reporte oficial del CSN sobre los últimos temblores registrados en Chile este domingo 1 de noviembre, con información sobre la hora, magnitud, profundidad y ubicación del epicentro de cada sismo en Santiago, Calama, Antofagasta, Iquique, La Serena, Concepción y otras zonas del país.",
+   "titulo": "Luis Landauro: Alcalde electo de Ventanilla fue condenado por narcotráfico",
+   "resumen": "Luis Landauro fue condenado en 2011 por un caso de envío de cocaína a Ámsterdam. Un año después, la Corte Suprema lo absolvió por duda razonable",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaktzSkx5OUd1d0dlamV5cXRlbkswQTI3Z01LY0F4dTlzS2c0QmxhdXo4RjFuelBObFR1dnBzTWNZbUNtQWp4YVZZV1pWM284YTZFcmhBZ0M5WWw3aGFIMjZYeU1CNXlNS1ctZkFzUGEzMzd1a2RqY0lqc2t1ZHRJQXdja1IyQkluaXFWYVlWU21aREczbUY5eHBYNA?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/luis-landauro-alcalde-electo-de-ventanilla-fue-condenado-por-narcotrafico-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Vivir y trabajar sin miedo es un derecho humano esencial",
+   "resumen": "En una columna exclusiva para Infobae, la mandataria peruana plantea cómo adaptar soluciones que aplicaron gobiernos de otros países contra el crimen organizado",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/america/opinion/2026/11/02/vivir-y-trabajar-sin-miedo-es-un-derecho-humano-esencial/"
+    },
+    {
+     "medio": "Infobae América",
+     "url": "https://www.infobae.com/america/opinion/2026/11/02/vivir-y-trabajar-sin-miedo-es-un-derecho-humano-esencial/"
+    }
+   ]
+  },
+  {
+   "titulo": "Impresionante video capta el momento del accidente de un avión ejecutivo en Florida: hay 9 muertos",
+   "resumen": "La aeronave, un Learjet 60 que había despegado de Texas con destino a Bahamas, cayó en una zona residencial del condado de Palm Beach y estalló cerca de viviendas y vehículos",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/respuestas/temblor-en-chile-en-vivo-hoy-domingo-1-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-segun-el-csn-nnda-nnrt-noticia/"
+     "url": "https://elcomercio.pe/mundo/eeuu/avion-de-negocios-con-9-personas-a-bordo-se-estrella-en-florida-provocando-una-enorme-bola-de-fuego-palm-beach-video-noticia/"
     }
    ]
   },
   {
-   "titulo": "Cambio de horario en Cuba 2026: qué pasará con los relojes, cuándo termina el horario de verano y cómo queda la diferencia con Miami",
-   "resumen": "¿Hay cambio de horario en Cuba en noviembre de 2026? La isla mantiene UTC−4 y quedará una hora por delante de Miami después del ajuste estadounidense.",
+   "titulo": "El Fenómeno de El Niño y la solidaridad visible",
+   "resumen": "En un estudio reciente de Ipsos, solo un 25% de la opinión pública tiene una imagen positiva del empresariado, y un 63% considera que existe poca información sobre iniciativas de sostenibilidad.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/florida/cambio-de-horario-en-cuba-2026-por-que-no-se-atrasa-el-reloj-hasta-cuando-sigue-el-horario-de-verano-y-que-diferencia-habra-con-miami-nnda-nnrt-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/el-fenomeno-de-el-nino-y-la-solidaridad-visible-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿Quién ganó el Maratón de Nueva York 2026? Resultados de hombres y mujeres, tiempos y posiciones",
-   "resumen": "¿Quién ganó el Maratón de Nueva York 2026? Sigue las clasificaciones en tiempo real, los tiempos oficiales y el podio de las categorías masculina y femenina.",
+   "titulo": "Cuba bajo presión de Trump: Rubio invoca a la CIA, crece la amenaza militar y retrocede el respaldo en la ONU",
+   "resumen": "La ofensiva de Donald Trump contra Cuba eleva la presión sobre el gobierno de Miguel Díaz-Canel, mientras el giro de varios países latinoamericanos en la ONU refleja un nuevo escenario diplomático para la isla. Para Juan Álvarez Vita, Cuba resistiría hasta el final; Francisco Belaunde advierte que l",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/quien-gano-el-maraton-de-nueva-york-2026-resultados-de-hombres-y-mujeres-tiempos-y-posiciones-nyc-marathon-2026-noticia/"
+     "url": "https://elcomercio.pe/mundo/centroamerica/cuba-ante-la-nueva-ofensiva-de-trump-las-advertencias-de-rubio-y-el-retroceso-diplomatico-en-la-onu-noticia/"
     }
    ]
   },
   {
-   "titulo": "Irán estaría dispuesto a hacer concesiones nucleares para evitar una nueva guerra con EE.UU.: Esto se sabe",
-   "resumen": "Estados Unidos e Israel estarían preparando una nueva campaña de bombardeos contra Irán después del 3 de noviembre, mientras Teherán intenta evitar una escalada. Para Andrés Gómez de la Torre, la presión israelí para “terminar el trabajo” y la exigencia de entregar el uranio enriquecido dificultan u",
+   "titulo": "AHORA, Ignacio Buse vs. Zizou Bergs en vivo: transmisión del partido por Masters 1000 de París",
+   "resumen": "Ignacio Buse enfrenta al belga Zizou Bergs por la primera ronda del Masters 1000 de París 2026. Conoce cuándo juega el tenista peruano, a qué hora comienza el partido, qué canal lo transmite y cómo seguirlo EN VIVO.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/oriente-medio/iran-busca-evitar-una-nueva-guerra-con-estados-unidos-e-israel-que-concesiones-nucleares-estaria-dispuesto-a-hacer-donald-trump-benjamin-netanyahu-noticia/"
+     "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-zizou-bergs-en-vivo-hoy-horarios-canales-tv-y-donde-ver-partido-por-masters-1000-de-paris-noticia/"
     }
    ]
   },
   {
-   "titulo": "Dónde ver el maratón de Nueva York 2026 EN VIVO GRATIS hoy: a qué hora empieza la carrera y transmisión por canal de TV y online",
-   "resumen": "El Maratón de Nueva York se corre este 1 de noviembre. Conoce los horarios, canales de transmisión y plataformas para seguirlo EN VIVO.",
+   "titulo": "Tumbes y Piura en alerta roja por lluvias extremas: por qué las precipitaciones podrían superar los 100 mm",
+   "resumen": "Las tres provincias de Tumbes y las ocho de Piura están comprendidas en la alerta roja vigente hasta el lunes 2 de noviembre. El Gobierno moviliza recursos ante la emergencia y la presidenta Keiko Fujimori canceló su viaje a España.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/donde-ver-el-maraton-de-nueva-york-2026-en-vivo-gratis-hoy-a-que-hora-empieza-la-carrera-y-transmision-por-canal-de-tv-y-online-en-eeuu-nnda-nnrt-noticia/"
+     "url": "https://elcomercio.pe/peru/piura/tumbes-y-piura-en-alerta-roja-por-lluvias-extremas-por-que-las-precipitaciones-podrian-superar-los-100-mm-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Elecciones en Israel: los 5 escenarios para formar gobierno tras comicios sin mayoría absoluta",
-   "resumen": "Con los bloques políticos sin mayoría suficiente y los partidos árabes en una posición clave, Israel se enfrenta a semanas de negociaciones para definir su próximo gobierno. Para el analista Carlos Novoa, Netanyahu aún tiene margen para mantenerse en el poder: “Ha sabido o ha podido resucitar antes,",
+   "titulo": "‘Piccolo’ Clemente con título mundial y un récord en mente: “Lima 2019 fue excelente y tenemos la oportunidad en Lima 2027 de mejorar al 300% lo que hicimos”",
+   "resumen": "El peruano logró su cuarto título mundial de longboard y se mentaliza en los Juegos Panamericanos Lima 2027, donde apunta a una nueva medalla de oro.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/oriente-medio/elecciones-en-israel-que-pasara-con-netanyahu-y-quien-formara-el-nuevo-gobierno-gadi-eisenkot-partidos-arabes-noticia/"
+     "url": "https://elcomercio.pe/deporte-total/piccolo-clemente-campeon-mundial-de-longboard-isa-lima-2019-fue-excelente-y-tenemos-la-oportunidad-en-lima-2027-de-mejorar-al-300-lo-que-hicimos-juegos-panamericanos-noticia/"
     }
    ]
   },
   {
-   "titulo": "Alianza Lima vs Circolo Sportivo Italiano en vivo: hora, canal tv y dónde ver la fecha 3 de la Fase 1 de la Liga Peruana de Vóley 2026/2027",
-   "resumen": "No te pierdas el encuentro entre Alianza Lima y Circolo en directo. Sigue aquí la tercera fecha de la Liga Peruana de Vóley 2026/2027 punto a punto.",
+   "titulo": "Polo, un Fórmula 1; Lapadula, el 9 soñado, y Alzugaray es un as bajo la manga: ¿Cómo hizo Bustos para recuperar la memoria del Tricampeón en menos de 1 mes?",
+   "resumen": "La ‘U’ es líder del Clausura con 30 puntos tras remontar a Atlético Grau en Trujillo. Polo, el mejor de la era Bustos, Lapadula y Alzugaray anotaron en el 3-1. Solo faltan 3 fechas para el final del torneo y le lleva 2 puntos de ventaja a Cristal, Huancayo y Alianza Atlético.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/voley/alianza-lima-vs-circolo-sportivo-italiano-en-vivo-hora-canal-tv-y-donde-ver-la-fecha-3-de-la-fase-1-de-la-liga-peruana-de-voley-20262027-latina-tv-sets-y-puntos-tdpe-noticia/"
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-andy-polo-un-formula-1-gianluca-lapadula-el-9-sonado-y-lisandro-alzugaray-es-un-as-bajo-la-manga-como-hizo-fabian-bustos-para-recuperar-la-memoria-del-tricampeon-en-menos-de-1-mes-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿En qué canales TV pasan Universitario vs. Atlético Grau y a qué hora inicia el partido de Liga 1?",
-   "resumen": "Revisa qué canales pasan el partido de Universitario vs. Atlético Grau y los horarios para ver el compromiso por la fecha 15 del Torneo Clausura de la Liga 1.",
+   "titulo": "Temblor en Venezuela hoy, martes 2 de noviembre: hora exacta, epicentro y magnitud",
+   "resumen": "Temblor en Venezuela HOY EN VIVO: último sismo de agosto, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/argentina/donde-ver-universitario-vs-atletico-grau-en-vivo-hoy-por-torneo-clausura-a-que-hora-juegan-y-canales-que-transmiten-liga-1-online-streaming-noticia/"
+     "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-epicentro-y-magnitud-del-ultimo-sismo-reportado-el-1-y-2-de-noviembre-de-2026-segun-el-funvisis-proteccion-civil-caracas-la-guaira-lbposting-noticia/"
     }
    ]
   },
   {
-   "titulo": "CD Moquegua vs Chankas II EN VIVO: horario y dónde ver el Torneo Clausura",
-   "resumen": "Sigue el encuentro entre CD Moquegua vs Chankas II EN VIVO por la fecha 15 del Torneo Clausura. Revisa el horario y dónde ver en directo el partido de la Liga 1.",
+   "titulo": "Sport Huancayo vs Melgar en vivo: hora, canal tv y dónde ver la fecha 15 del Torneo Clausura",
+   "resumen": "Sport Huancayo vs Melgar EN DIRECTO: No te pierdas el encuentro entre Melgar y Sport Huancayo. Sigue la previa, el horario y los detalles de la transmisión de la Liga 1.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/cd-moquegua-vs-chankas-ii-en-vivo-horario-y-donde-ver-el-torneo-clausura-resumen-y-goles-l1play-l1max-tdpe-noticia/"
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/sport-huancayo-vs-melgar-en-vivo-hora-canal-tv-y-donde-ver-la-fecha-15-del-torneo-clausura-l1max-l1play-resumen-y-goles-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Liga 1 MAX online gratis, Universitario vs. Atlético Grau por fecha 15 del Torneo Clausura",
-   "resumen": "Transmisión oficial de Liga 1 Max EN VIVO: ver partido de Universitario vs. Atlético Grau ONLINE por la fecha 15 del Torneo Clausura de la Liga 1 desde Trujillo.",
+   "titulo": "The 50 Best Restaurants 2026: guía para descubrir Lima en 48 horas",
+   "resumen": "Lima se disfruta también lejos de la mesa. En una ciudad donde conviven la herencia prehispánica, la arquitectura colonial y la influencia de distintas comunidades, recorrer sus calles es una forma de entender la cultura que acompaña a su reconocida cocina. Para quienes llegan por The 50 Best Restau",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/video-liga-1-max-en-vivo-gratis-universitario-vs-atletico-grau-por-internet-via-futbol-libre-tv-liga-1-play-dgo-por-torneo-clausura-de-liga-1-noticia/"
+     "url": "https://elcomercio.pe/somos/tendencias/50-best-2026-guia-para-descubrir-lima-en-48-horas-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Monseñor Guillermo Inca: “El Papa encuentra un Perú que necesita ser pacificado”",
-   "resumen": "El coordinador general de la visita del Papa al Perú subraya que el Santo Padre traerá un mensaje de unidad y de superación del miedo. Asimismo, señala que se mantendrá el recorrido por distintas regiones del país, pese al agotamiento que supondría atravesar diversos climas y alturas.",
+   "titulo": "Kjolle por dentro: Pía León, favorita en los 50 Best, y los secretos detrás de una experiencia gastronómica que recorre todo el Perú",
+   "resumen": "La cocinera peruana nos abre las puertas de su restaurante y revela el modo en que la investigación, la creatividad y el trabajo en equipo dan vida a una propuesta que recorre los sabores y paisajes del Perú.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/papa-leon-xiv-monsenor-guillermo-inca-coordinador-general-de-la-visita-del-papa-al-peru-el-papa-encuentra-un-peru-que-necesita-ser-pacificado-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/somos/historias/kjolle-por-dentro-pia-leon-favorita-en-los-50-best-y-los-secretos-detras-de-una-experiencia-gastronomica-que-recorre-todo-el-peru-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Nuevo alcalde de Ventanilla fue capturado por tráfico de drogas en el aeropuerto",
-   "resumen": "Luis Landauro, electo alcalde de Ventanilla, estuvo preso en el penal Sarita Colonia por un envío de cocaína a Ámsterdam. Años después de ser condenado, su caso fue absuelto por criterio de “duda razonable”.",
+   "titulo": "Del silencio a la acción",
+   "resumen": "Durante cinco meses, entre abril y agosto, Capitalismo Consciente hizo una sola pregunta a más de 350 líderes del sector privado, de la sociedad civil y de la academia, y también a ciudadanos como usted y como yo, líderes de comunidades campesinas y jóvenes: ¿cuál es el rol de los líderes empresaria",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/lima/sucesos/nuevo-alcalde-de-ventanilla-fue-capturado-por-trafico-de-drogas-en-el-aeropuerto-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/del-silencio-a-la-accion-por-maria-cecilia-villegas-noticia/"
     }
    ]
   },
   {
-   "titulo": "La radiografía de los dos papamóviles que utilizará León XIV en el Perú: características y nivel de seguridad",
-   "resumen": "Las unidades fueron fabricadas por General Motors en Brasil y adaptadas según los requerimientos del Vaticano. Llegarán al Perú durante la mañana de hoy a bordo de un avión de Latam Cargo.",
+   "titulo": "Verano 2027: El Niño condiciona reservas y planes de negocio en los balnearios del norte del país, ¿cómo van las expectativas?",
+   "resumen": "Hoteles y alquileres de playa preparan el verano 2027 ante El Niño. Conoce sus perspectivas de reservas, tarifas e inversiones y su impacto en los negocios locales.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/lima/sucesos/la-radiografia-de-los-dos-papamoviles-que-utilizara-leon-xiv-en-el-peru-caracteristicas-y-nivel-de-seguridad-papa-leon-xiv-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/economia/dia-1/el-verano-2027-pone-a-prueba-las-expectativas-de-negocio-en-los-balnearios-del-norte-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿En qué canales pasan Cerro Porteño vs. Olimpia y a qué hora se juega el clásico de Paraguay?",
-   "resumen": "Cerro Porteño vs. Olimpia EN VIVO: revisa los horarios, canales TV y dónde ver el clásico por la jornada 17 del Torneo Clausura de la Primera División de Paraguay desde el estadio General Pablo Rojas.",
+   "titulo": "Bosque Guardián: Un refugio donde los productos amazónicos se valoran en la cocina de Gregorio Laban",
+   "resumen": "Somos visitó Bosque Guardián Lodge para profundizar en su apuesta gastronómica pensada por el chef Gregorio Laban. Esto fue lo que nos contó.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/donde-ver-cerro-porteno-vs-olimpia-en-vivo-gratis-por-clasico-de-paraguay-a-que-hora-juegan-y-canal-que-pasa-partido-online-streaming-noticia/"
+     "url": "https://elcomercio.pe/somos/restaurantes/bosque-guardian-un-refugio-donde-los-productos-amazonicos-se-valoran-en-la-cocina-de-gregorio-laban-noticia/"
     }
    ]
   },
   {
-   "titulo": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "resumen": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se refirió a “este ‘meganiño’ que nunca antes en la historia ha llegado un fenómeno tan fuerte como el que vamos a enfrentar”.",
+   "titulo": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "resumen": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que sufre de corrupción y falta de equipamiento. Esta propuesta está casi lista y en las próximas semanas se ",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/"
     }
    ]
   },
   {
-   "titulo": "Alerta por leptospirosis: más de 14 mil casos reportados a nivel nacional en lo que va del año",
-   "resumen": "Esta enfermedad causada por una bacteria registra 315 casos y 10 fallecidos en Lima.",
+   "titulo": "El precio de opinar sobre China",
+   "resumen": "Kylian Mbappé no criticó al Partido Comunista Chino. No habló de Taiwán, del Tíbet, de Hong Kong ni de los uigures. Se rio de un meme que pone su cara sobre la de quien él llamó un “dictador chino”. Bastó eso. En menos de 48 horas, tres empresas chinas rompieron sus contratos con él, una de las prin",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/lima/sucesos/alerta-por-leptospirosis-mas-de-14-mil-casos-reportados-a-nivel-nacional-en-lo-que-va-del-ano-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/el-precio-de-opinar-sobre-china-por-fernando-caceres-noticia/"
     }
    ]
   },
   {
-   "titulo": "Fricciones tras bambalinas: Estas son las disputas al interior de las bancadas del bloque de izquierda en el Congreso",
-   "resumen": "El Partido del Buen Gobierno no es la única bancada que afronta discrepancias internas con la renuncia del senador Jorge Gavidia. Los grupos de Juntos por el Perú, Ahora Nación y Obras también enfrentan problemas que podrían terminar en próximas renuncias.",
+   "titulo": "El dengue y El Niño",
+   "resumen": "El Niño no solo trae inundaciones y destrucción de viviendas, puentes y carreteras, junto con la posible pérdida de vidas humanas. También conlleva un problema de salud: el calor y las lluvias alientan brotes de epidemias como el dengue, que en los últimos veinte años pasó de ser un problema de la A",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/fricciones-tras-bambalinas-disputas-bancadas-del-bloque-de-izquierda-en-el-congreso-juntos-por-el-peru-ahora-nacion-buen-gobierno-obras-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/el-dengue-y-el-nino-por-santiago-pedraglio-noticia/"
     }
    ]
   },
   {
-   "titulo": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
-   "resumen": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió del Congreso bicameral, está la creación de un registro de organizaciones criminales “que empleen técnicas utilizad",
+   "titulo": "La FAO ante una nueva revolución agrícola",
+   "resumen": "",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/la-fao-ante-una-nueva-revolucion-agricola-por-rattan-lal-noticia/"
     }
    ]
   },
   {
-   "titulo": "Trigo limpio",
-   "resumen": "“No confundamos la simpatía con integridad: alguien puede ser brillante, encantador y convincente, y aun así no ser confiable”, dice Inés Temple, presidenta de LHH DBM Perú y LHH Chile.",
+   "titulo": "Se empieza mucho, se termina poco",
+   "resumen": "El Perú recauda poco –14,6% del PBI en el 2025, uno de los niveles más bajos de la región–, pero invierte mucho. Según el último informe del Banco Mundial (BM) sobre finanzas públicas, la inversión estatal en el país bordea el 5% del PBI, por encima de nuestros vecinos e incluso de varias economías ",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/opinion/columnistas/trigo-limpio-ines-temple-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/se-empieza-mucho-se-termina-poco-por-pablo-de-la-flor-noticia/"
     }
    ]
   },
   {
-   "titulo": "Las ‘midterms’ más reñidas: las elecciones que definirán el futuro de Trump",
-   "resumen": "Este 3 de noviembre se sabrá si el Congreso dejará de ser controlado por los republicanos. Si las encuestas aciertan, al menos una de las cámaras pasará a mano de los demócratas, debido al descontento de los estadounidenses hacia la gestión de Donald Trump. En estos comicios, el bolsillo es el que d",
+   "titulo": "Coetzee traducirá a Melgar, proponen cuestionable amnistía para Castillo y revelan antecedentes del alcalde electo de Ventanilla",
+   "resumen": "En el Semáforo de este lunes 2 de noviembre, conoce la postura de El Comercio sobre los siguientes temas. Primero, la traducción al inglés de los yaravíes de Mariano Melgar por J. M. Coetzee y Valerie Miles proyectará internacionalmente las letras peruanas. Segundo, el proyecto de amnistía para Pedr",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/eeuu/las-midterms-mas-renidas-las-elecciones-que-definiran-el-futuro-de-trump-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/coetzee-traducira-a-melgar-proponen-cuestionable-amnistia-para-castillo-y-revelan-antecedentes-del-alcalde-electo-de-ventanilla-noticia/"
     }
    ]
   },
   {
-   "titulo": "“Me dieron una de las noticias más feas de mi vida”: Eduin Caz se sincera y Grupo Firme recibe dos Premios Heat",
-   "resumen": "Líder de Grupo Firme, Edui Caz, recordó el difícil momento personal que lo llevó a replantear su vida. Premios fueron entregados durante una gala benéfica que inauguró la Semana de los Premios Heat.",
+   "titulo": "Que haga las cosas bien",
+   "resumen": "Muchas veces hemos escuchado aquello de “yo quiero que al gobierno le vaya bien”. Nosotros preferimos la frase de “queremos que el gobierno haga las cosas bien”, porque solo si el gobierno hace bien las cosas, a todos los peruanos nos va a ir bien. Hemos tenido gobiernos a los que les ha ido muy bie",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/luces/musica/me-dieron-una-de-las-noticias-mas-feas-de-mi-vida-eduin-caz-se-sincera-y-grupo-firme-recibe-dos-premios-heat-2026-noticia/"
+     "url": "https://elcomercio.pe/opinion/columnistas/que-haga-las-cosas-bien-por-enrique-castillo-noticia/"
     }
    ]
   },
   {
-   "titulo": "Caso Agro Rural: PJ abre juicio oral contra Marco Vinelli por presunta corrupción y Fiscalía pide más de 5 años de cárcel",
-   "resumen": "Caso Agro Rural: PJ abre juicio oral contra Marco Vinelli por presunta corrupción y Fiscalía pide más de 5 años de cárcel La República",
+   "titulo": "1926: Lima rindió homenaje a sus muertos",
+   "resumen": "Lima. Desde las primeras horas de la mañana hasta las últimas de la tarde, fue interminable el ir y venir de vehículos y peatones por la ruta que conduce hacia el Presbítero Maestro. Ómnibus, automóviles particulares y de plaza y los convoyes del Ferrocarril Central, condujeron durante todo el día a",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/1926-lima-rindio-homenaje-a-sus-muertos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Chats revelarían que Pedro Castillo habría intervenido en el despacho de Catherin Palomino: \"El presi me ha dado nombres\"",
+   "resumen": "Chats revelarían que Pedro Castillo habría intervenido en el despacho de Catherin Palomino: \"El presi me ha dado nombres\" La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQmZBMWF4RFo2Mmh6UDhiUjVEa0MzaWRDRjNpZDlDSGl6OTlUZkg4S2hRQkEwMVFKMFlmQUc1MXBXVEVWRDY1TEJzUUJxMjhEb2VOQnNCb1htYTl3Zm5OREozWU9YLVB6dWYzMVZOcEcyakNQdGF6ZlJrWnNtaDNwbUg1QTVRSnhFNlNJSHJXSXVYYWhsYVN1enRGRmx4eXV6RURBT0tkS0xxV2F5VjdGZTRvd2luS0NkRDQ3T1B3QUowTHVqYTZKUEpKai1LWWNhUVE2N2tzWlFLZ2x4WUpEcFNiT0xPQjRLck5VQjhaZW5Ic2RzY2VGMEswRFRNRFQxODdqQUFXak3SAY4CQVVfeXFMTy1ZN1FkdmVrUXY3LVdTX2s0eUpSOXNXZWt3U2xpRXphTGtKcW5DRDliTFp1S09KUWRjSVVqQWhaUGlmOU1mZlNXVllVOG1OaE1EbUZzUHQySjU0LTQtelRXbnBna0Y4Z2luRC1CaWRtYm1wMklMTmpOQ3hvSUdzcEhjbG00Z1pkajdrNXdNZV9jTG5wZklGb3V0MGNBYUpUS0d3ODJRdkpnRnhZSDhKODZ2NHpxMkg4TGJ0SllPdkdQWktpRHlpUFdCeFk5MUZfYzZfMzBwSlpYeDhGSllRRlVDTEVzNEZUMFNIQkQ4bTBkZ3BOVGN1eGdBcS1tV0M4SmhqTGZJNEM4bW50YUdB?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPd2g0ZGFQTmJGRzFJSFZVWmttaEFrYWVsM0FsZUZsWUd4ek81TDhVYVFjV3ZPa2w2a2lKZDZSWDZvNmpXTVhlcExpcFR1Z28tXzV3a0VNWk5ReWlQMmtXdGw2YlNJNS1Yb1RnNUFuVDIyTmFEbnUzRVdKNk9XdHNIOUFiT0Z0bTd0SWs3TXlYTVc2UHFFS0Q3Y1ExRG1uMFZBNS00OUUzSlhpNEN4d0NwT1RpZjJJcEotNnNHNTNDQW5Ba3dJeE5sanJzOERNUEpLRWNDcWY2TzFjRlVoN1JZVWhTeXFvOXhvY3RRX3dVcHYyckp5Vkdsa1B0bTJIRUNySnRF0gGIAkFVX3lxTE8wZHBZa3FrVG42VmdtU3pFWmNkOEhYOHZpOU5DUkhONFRadkhFbGNDclBiX095QlBGdGlsTUlacWUwYm9fMEhpbGtjS0hqQW95ZEYzdW85WExSRmFZVFR5bGNkXzJZczFoc1FVWVhnT3d6RXNYOUh1UHVzS1VlNkN2eWNLdS1mUkstYWxabHNrb1JZeWthcEFPX2dRblNTbV9HSE9DSjlJSEFjcmtEa3FDSzR0NXE4bE9xVF9wa3c2cjg4djRaSHVXU21MWm9QM0tzazZTTjhYNk9YNF84Zm9rRF9MTXJDV0RfR3hxMGtKZkZkdVNmb3hOakpRNHE1bER5X2NIanc1eQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
-   "resumen": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura La República",
+   "titulo": "Las ‘mulas’ que transportan mercurio son clave para la minería ilegal",
+   "resumen": "Las ‘mulas’ que transportan mercurio son clave para la minería ilegal La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVmVkYk9EQmcxUEE4OGVFaHEtRUU2UmFoTHFQQncya253WDdOZjViRHhKTFRzSExqVmhhajhNQUNOUnNMNWVCcjQyMkQ4WThiTjI2RzUxWWFSNXQwU1lhanljQU1CWEFGTXMtanIyNjFseUoyRzM4bklidjdmSnk3aUFQY292czZRbElEeWF1NjQ3WjlweFlLb2NQRjE1SFJ3dktWSnZZd2k4RzdISWJFdDJqZXUtdWU3M3owaGFBQnJ3dVhzLVNpaHNEa2M5dDJ5STBiM0pEV3JnanBJS04wZjdpQkdZb3VOVXhkcFpyTTjSAfYBQVVfeXFMTTd2QXZlejZ0Q2g4dTh0QldqSlZlc0NJdFNVMGtubEF5Qk5TVE0yZ1MyS2hER3lERVVlWDhiMXdzUVpkYkVBaE9Ick9IMTN5bHdWaDRXSlJSTUdqN3Z1VEgzOGF2WktCQXdlYTZ6dEl5enVHa3lLczA4X05GSWc3TTZGcjFkT3FCcEtCTGxvdWdYZ19ka0YyRVpXTDFvbllDZmhyQ0xVRjE4TUFDMjBhWkVpUlhpVTg0MUw3blN1ZFJDbW83X2Y5VGVCck9scDQ3R25BRzAyZ3FXSUcyT21oT1l5RzBYSHNiTm1XYlVxbWxtRkI4WXF3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHpfYldvdFJWY0lmRmVfZ3c4aEZ2VnhZR2xuQ2kxazE4OUVUX1p3eGNtTkVhWjByZGNCbE9KSzRqU0FVQjhvUUVxVUNiNXN1MXQ1THFlYWpzbjJTQ21jSmJLdGNZOFUxRDRiUTBXclFjVW9rQk1GUVJQTGdVa1FxYnY4d3M2Y2lRcWVkc3h1MUJScHlRNzhJMkZUYncwOGN3ekdpT21NbENiQnFTR0ZCOXhGUjlsNnpqNUJtZjBjekUxM0NTWnhIVlBJR0ROemvSAdQBQVVfeXFMT19KdU9uMlBvYURiSG9qSVB6eTdnY2dNOXdTUG1WZkVsbTZVb2xSUmt2Tnd4TDhtNkZaLUw3aVFrNWozbmk2Z3VSdUNRUnE2N0czY1gyY1dxNTVxUERiaTB5bVJpbDlmRmU5cFhZc0d3cXJvS3RxSDNMekVCTTNyWU5keG5rbFlhbW9oRGljT3ptWWppZjBlejZEUDRaMGNUTVpHeEJvdDV0bkdJRjkxNUJVZGpwRkdnU2ZkelNqX3JIUHhVZXlDenJ6ZUlFTm1mSUlCZ2Y?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Inflación en Lima supera el 5% y se aleja de la proyección del BCRP: alimentos y transporte presionan los precios",
+   "resumen": "Inflación en Lima supera el 5% y se aleja de la proyección del BCRP: alimentos y transporte presionan los precios La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTG00MGMydWplZEtJRkNPcU16U296YmFFTHZYVUpGYVJJbTBSNFRmdWprb1RMV0ZCNTJJcTBmbEUzWTR0Ri16SC10N0FwR0ZRT3BndWRZa3QxRGtBT0Z1UExEaDN5QjNNeWNGdm1qUm9jWHQwUXNCNTJseGZId0NXME9LSzhKdmVya3lBRGllR29iMGZFWTg0RnlySVlkdDUwXy1wZ2tfTVk2NEN2bTRmdDBQeUNZRGNsN2x0b0ktUUEtNnNfdWpjdGpPVE9Pb2c5UDRUQ2c5ZklkOHV4cUZsZ2JnYXE4clVoWksyYVdqaDRfd9IB9wFBVV95cUxOSDBydlBPSWcwNW1KNFpTeXFFelM3SGYzY1pqN2tlcU9Wc2hla044eXZXOFo3S3VJNTRoX05ManNjMndyeWZIaVNKajNDR282MFlzVFRPamVQQmhyNW5vY3p3bkQ4aE5QbVJRTjg1Y1ZjZnplbUhQUFAxU1NCMkhxR290VlFmQkFEaHBPdVVmcndDOFBwS3NnN0lYXzIzaW9ydVRnSEJ5alllWFJFaVpVQ3pPZEYtU1dJLV9zT1RaZDRsNGlVbGtJck5MV2NCVG9BRE1TUWExSl9XZUoyQV9qcTV3Wm41dWJrRlV1YU9hX254RFZRMTZn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Congreso: falso asesor de Harvey Colchado ofrecía puestos en su despacho a cambio de dinero",
+   "resumen": "Congreso: falso asesor de Harvey Colchado ofrecía puestos en su despacho a cambio de dinero La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3Jwd3BSXzcwX1cyTDYyVWdfdHRaQ2I4TEtka3Y4Y1Y3WEpnOF9fM092VE9lX3VfYW96b0ZXQjhhbVlHZDh1M3JyeFlvTERjajRKVmtnSWYySG52RXkzT0ZsOEpBVmpFLWZYZ3FRaWlicDVkcmdCaXltSHlFdmNGM0NWUDY1Y1dIaU02ZENVZlQ0cTJNMVpxZ2h4YnhKYndhSllodFFOcHhSVnI5MkdqR2ZDYXA0YnVNOG81YmRIRi16a0FycmdLZjRGYnZBUThUdFVvTzViSnUzdFhJNFHSAeMBQVVfeXFMTklKMWlOSFZPc3YzdjNmWkotQ1A2dktzZHRyeDFsd05WS1BfaU5sQ2l3ZjYwT2EwNk4xM3h6bGJsUTRHUnFYb1ZTQ0VmVmlyT19vZXFSUElSX0ZSbU54QjdrU05ITktzdUI0UkFmaXJYOENoZzBIcG1iZVdWOEpoREx0WHZDcUl3eG5QLWN3XzdienZONXQ3SjFadzdLTlhOdDRoX2NISUUzRkJuLTAtTExrWkRLU2V2dzBwOER4LXFua0pGRjM5SDNic2hGMDF2ZGg4N0tSSElSc2Yxc2pvSUpIbDA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Municipalidad de Piura denunciará al Gobierno de Fujimori por no incluir a región en obras por FEN: \"Han desfinanciado convenios\"",
+   "resumen": "Municipalidad de Piura denunciará al Gobierno de Fujimori por no incluir a región en obras por FEN: \"Han desfinanciado convenios\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcE5UTkhYNEh5QVhYYnJ2a1dEenpqbUgyeGtkem04bkRHS01jd1c0bnNiMFJmQm1Nc2xhaEVJVlBvcXNCd01fcHJwOHRFMGh4bHRrbVZwNFR5SjdCUEJ0YjJaRGIxcjljanBjMTlvY1pHYmN2N0VqSzgya2c4WWVnVjk4YVlKaTFFMFdoaFRXLTFzRHdWeFp4UWpsUklBWm1XLVVmcTFJOUkwRXZNMGhTZnpTYnpEVHljcGxwbTVXQ19sWWx5ODAzRUIzNGs3VHQ5ck9zNGpjaXJnU1JsMk53RDUwRlUxN01hRHJ5ZzU0eHlYWGZMVXFhNnJpa2dRNGdibXFtaXpR0gGLAkFVX3lxTE1fR3M5eTRFbUVEV2RvZDVzYklYaDRLMHpZVDNneHBjd3pJS0UtdERlMThvM01iQlMyeWRaU0s3MHpuVzZvTTRvLXVKSlNOOTlpVVlWZW05dnpBWjZ4Z2FfZklQc1UzU3llT016N2twSDlaa0lidXRoa1NSQ0ZaMmxFemEyVVlFcGh6Z2xKdWJJOEkyd0M0THZDdHR6NHFpaXVjRl9NNW9UcVh6N1ZndXlnbnVWSUltX203NzQtYnd4eXBfNDI4TkhKdlh2X0M2Vk52RHdreV9XcGszOG9IZUNiRDhqWEl4b1J1VFBrUXRoVENJdFBrUy1MZ3RNc2tOeXF4NlRNbmtaSkY5dw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Carlos Espá viajará a Rusia para brindar asistencia a peruanos que participan en la guerra",
+   "resumen": "Carlos Espá viajará a Rusia para brindar asistencia a peruanos que participan en la guerra La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdEtpd3lXNlgxdDEwX1NqMVpSWTNNRVF5V0FQc1pyUHJ4Y3hxM25lYWhCeG9Bb1g2SnlSRGZqY243Xy1HWU5SdHV1Z1gyM1R0NmZnUDFqLXd5TkE2SGRrbmFDUjhzcTNkYXlnbHZyMGFtVjJwdFRSUjBMRDZ2ZGxBTDFvajE0aEdNOTBYSHN4bWJUZmtvSVlydDFjYThnNWF0dldxMDF6NkFMeFJrSmtqVmUtd3dpQldieWpLajRvU3h5dEo5MWExZjBQV1BSVjNMdjBCMjFhN0ptTkt6UGfSAeMBQVVfeXFMUGhzVlFfX0NJZXE5V0dYSnh4MU9LTVlnQmtRQVlDZXZLTzJsTEVIOGIxQmpod0xUNE50VDl3RzBvbVZyR3YxVmtfdk1BT3hEbFU5clpHVW92a1FtY09yWUdMNUZIWVQ4TXNqSm54akN6bkZET2VfZzhmOHZpQkdMWllvLWczazVKcW9TYkVOSnItQy1lRFJIN0w2NEpJcGU0X3JmdThqNVA1c25oTFBBSzV0eGZjMm9Qa3ZfaWtsSGhNQ01pT2RTSXpSTy1GbkZWTS13bEw5OVpVdnZIM2s0cXRhZ3M?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Municipalidad de SJL denuncia ante Ética a diputado Víctor Piñán por presuntamente difundir información falsa sobre la comuna",
+   "resumen": "Municipalidad de SJL denuncia ante Ética a diputado Víctor Piñán por presuntamente difundir información falsa sobre la comuna La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxON3BWclFQa2hUZlNwOWVxMU9pMEE3SExFMVl5ZzhqMnJQaWxtR0w0NUZRQldhMlJFNEs1QVhmd2JQME5tQTZTSEFRUUpHZGlseGFIc2RHWnBuRFBxdTBqVDk3SFltdDhKSExjeFJTQnhnSE91ZFNVYTBYY3NPbm5zQ19lWTRocS1qMzEzdkxneVVpbHpWSlQ1ajBQTFRHa0VDZHJfWDUtRDJaSk5FWktWd3dDYmNmc1VCUU5KTFlYdG9mR2Mzc280VDBvMF80ZDdmdHAtVWJ0Z3JLcE1vMWR1b2R2TGZCZ0M1dS10U1hKYlVZb3VCMUF0WFNibWFnU2lSam00TzJsTWJnbk000gGSAkFVX3lxTE9xdnFMOVU0RVA4bVhWTUVPcmt3YThGb2JFVnZxMFI4M3h4QmZPcmNSVXkxNmFUQ0ZieGx6ajNKOGl3OE16OGtUWDdvQVdyZk1pdWM5OUF4VkktckZpZ2ItSjkteF81ZHlzN2g3d1doemZtLW4yZERvcWxHWFViV0hvRS1YMVN3QzJLeWhXSkdaOUpjUGJyQ0hsYl8xMFZMaFg3Rjk4UlEwc3BvSUZBOFR2Q2xudTRnU2F2R1BMZGg4dElvRkFwNHlGbGsyTEpRbDQ2WmcxYVhZOTVPd01zYk9icXp3WTlvRWRiR1hsOFJ2NTV1a0ZKZWgzUEdObTVwcEtxbnFvOUpKQVlfMHZQeWo2TVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El proyecto de Brasil que desafía al modelo Bukele en América Latina: presos plantaron 4,5 millones de árboles para restaurar bosques",
+   "resumen": "El proyecto de Brasil que desafía al modelo Bukele en América Latina: presos plantaron 4,5 millones de árboles para restaurar bosques La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOV3JHWHB3VGRYeGNwRXVLOGIyT25VUjFIN1A2d0NveFhtMllKcllPa0cxVExwZXZiaE1nalBVRHlNUVJ0Q1J3eG85Y3d2U3BRMl9pQ3RJTXlyaUNzbUh2NXJEbXVoWE9DUzNGN3hxS0h4RHBEd1hONXAycjFxQmtrbGUtandpWVlfZ3l4V2FuNklkSTRCZlB5ME1IbjQxOV9VZG11VjYtNHNrV1Z5WXBnYkVqRXkyWkhPZ2pnS0tpNnhMQ2dLRms0Z3A4MURESnk1eEkwZnVsVV80REY5WlFFUWlZWElTcVR6WlBibklCYmZNUVFtXzI3TlQyMmpFTFdVTTgwUDJ2UGjSAY4CQVVfeXFMUFRRSVZMQllPZFJrS1Y3NXBHRmdoX2Z5N1AtTXRCV0czOUhaV3FKWWxYcndUTzNPR1pBTkl3dTBpcXlDb2R5S0toTklJd0ZZYjUyYnVNeENrd2NkekowV1FCSzczR3lwS2c2ZGt4Q25kd3hXOEFKU21ZMVRIbDZWYmlEOFhJcmNWaFVuQ3B4Njc3V0ZBU3ZvemQ3VlpHLTFua1VEQTJ2RXdLM2UxdXg2SXhMMTc5S3lrb1lHMTRqYWVfR09fd1BuWll6anNYT1cxMm5VSTZKTHNJT3MyRTVlbHBvR0thaFpxemNpUWhfZkM3TG5pWTVVVjVxU2VnZHJ0ZjVkMDM2dVZPVU1aZ3hB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mirtha Vásquez descarta ruptura en Ahora Nación tras renuncias de vocerías",
+   "resumen": "Mirtha Vásquez descarta ruptura en Ahora Nación tras renuncias de vocerías La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbkM1WVJCN1UwdVhiR2VnSmg4SlcyVktMbEZ1Z3pWX2VDZ1ZGNGdUdmJMSWo4MjlaN3ZOYW1uSUFtU1dhX3d2SnV6TTcxSDJnSmIwdnlaT0hiMWthVHJhX2lVemJoOVBOUTU0c3ZseUlCdlk4MVdyelJxUkgzWk1zUGMwYlg3SkQ4eENfSXJXSUpLV1BqV0kxSVV4dkpnMVNIV2pVWk91OWd6d0pFd0I2bE1jQ0loT2IwVnpXR1BocDJpeTNab25ZetIBzgFBVV95cUxQc3VhS254QnlmbFdoRkFUbDNvTkItRXdkMmRLaGo3dUdIM2lRcjNtZjJERG5oYkxwMnRqV0t3R1pCaG5keU9iVFVQOHh1TkJLcm1FX0tIWjNYb1Vkd1pXemsxRUpzcC1FbndTVm44UWJZOHRHZmQ3ZEZyM19kZ0c5NTFER2g0d0p4LUIyWWtHNngyUUJfTDctQW03OGN2c1J2aFY0NzZYWmV3aFNneVBhZEhDaDl3OE94amx3S2xjNERYYkY0Sm9DOHAxbi03UQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fallece obispo de Puno, Jorge Carrión Pavlich, a los 76 años",
+   "resumen": "Fallece obispo de Puno, Jorge Carrión Pavlich, a los 76 años La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0JsTHN4QWlRSzMxakxvYUdnMFRPUWNKVmgzM0VqYTV0Z2xmdTFYZ180WjdqUEFXdTRFNXU5Z1A1WEc3TlVzQnhnU2F2aDM0VWM3c3FVOC1vd0paU2tEckpEOTA0TVVVMmh6M2hUUGJ0NkpmYmVMcG1NaEdJTUNkaHU4dWxNMHg1bkhmTU5IMUpkbFBLWnIyemRiV0hMcnJZMngxVjAyVWNvSUx3ZzdNejUxTdIBuAFBVV95cUxQeXo4eHJlbjhmNXRZalY0N0tzVkpqTC1mOTd2N2pBMVlDbVZacFJKbjZwbEtjT2pSVFRxM3lLWVdXYVZDa1kzUkpMNUNTRnljY2k4Qmd0TFZBYUFzbVdLMHZSaG9rakI1aEFsWmtsY0NfOFBhdkd5RUJ6ay1fYjJ4a2QxcUxEY29OMjZrelBob0FsNHdpaEJVYVY3VWNKTVdRX3E1azNNajJrZmFwSDFhZlprUkk5X3dV?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El crimen que volvió a reunir a dos operadores del fujimorismo",
+   "resumen": "El crimen que volvió a reunir a dos operadores del fujimorismo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2RZQld2V0NIUjBhWF9vSVN6S1FCSWpWeXRRUlNTNnA2d040bk0ya3F5SXBaOW0yTVVWSUgwd1RxUk1WY2hxcERBZmlEMEdQQ3pnb2FPMFoydzk1T1RQWlpEbXpraktSeVJpNWVCM3pZNEpoR1lseUtlT2lmcG1PX2JPT2pBM2w5TXdWT1JwemVPejRFYy0zZE5VczByVjBYZVQ0UlpjM19RNXY4cUZUN294eHV6OUli0gG-AUFVX3lxTE9TdEp5SVJ4bzJVZUxyWHRab0xnSlVzeTc2S25HMWdhTzBzUWRYVjRpczVScUlMcF9Md1Vobk9GMWswM2pON0FYZFl5dTZVbGZKV2VfZnpmbTNNSDdvOVBjdHVITl9iUFVweFl2cGw4cDZHMEFRcF9qNmNCN1BaMFVTMjEzM21iSVQtZlNfQ2dSTlRvMUw0SHlxa2VyMlp2LW9HTENveFhIVFBlN0R0azQwREttNDUtWVMzZlpLM3c?oc=5"
     }
    ]
   },
@@ -441,56 +633,44 @@
    ]
   },
   {
-   "titulo": "Presentan proyecto de ley de amnistía para Pedro Castillo y procesados por protestas desde 2021",
-   "resumen": "Presentan proyecto de ley de amnistía para Pedro Castillo y procesados por protestas desde 2021 La República",
+   "titulo": "El Senado y la tiranía de la mayoría, por Fernando Tuesta Soldevilla hnews | Opinión",
+   "resumen": "El Senado y la tiranía de la mayoría, por Fernando Tuesta Soldevilla hnews | Opinión La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWk11ZnBKQjZhZS1LYkVudU1hVndEa05WWU8tQUE1YVhuUXFlZHpER3U1SzJxUHJqVzFuTGNNZnlaOEtTRXJEeVFPaXFDcjJJQjBOdW5GUnlOU2dpRl9MZUR5RWhLWUpBRXhYRnVLVkVwTHE0eWFNRklCUHB1UVJuTHowc2JId1JTUjFiZkMxZDBVaG1lSmgycWN3MWJpYmNzYlkwM3ZSU2pWc1lWUkp5TGtObTVMUnpFUl92azVLR0xPQy1ubHZsalA0THdseXFpbVZ4WTVLbjdBZExJVHhXcXFmX1VwajjSAewBQVVfeXFMT0pLODhXR3R6VkhacllrSlJIY0V3blcyVE5iUWp6OVJkVGRFM0ZlSEFOYm5MT280MURkMDlURXdMcmE0ZmJmZzRnWUIxeGxkdFhteTRYVm0yRWV4dko0SVBDUXpBNnkzY0otQ1NDekViSkx6Y2haRGQ0bFZBR0RBT2FEbC1GMG5MeEs4b1VFNEkyTktJZ2QybVFsT3paV3dMVzlSbjNjYk5EdnZaS3pUbk51RHRCS19qalZNYUI4QjNuSjVvYkFZcm8xU0FZQ1dHZjk2WDB6NUJzeHpSTkppYnVTdDQwbTZEYzdlSmM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWhmZHpkNUtoV3BkNmtDM0lOVWN3SU1aMmVFSDItVjJZaHd4bWVwVlhRMV9tNWlKNm9aazdIZ2oyRDNQNnpqNE5oYzJWTWdPME9zb3E5clhsWTlGUE9oVGloM0VoMWF6eVRWUGYxaVRNZm1vWFJ1cTVyQXJpN0NpTVNYVHRRMmJJT0M3YnlONUIwdXMtYWl5TVQySE1taEd6U0VIRVdQSV91cVUwTXdwZGVjM3NkTmRXaVJ5TmRn?oc=5"
     }
    ]
   },
   {
-   "titulo": "Transportistas tienen hasta el 30 de noviembre para solicitar hasta 70% de devolución del ISC por diésel",
-   "resumen": "Transportistas tienen hasta el 30 de noviembre para solicitar hasta 70% de devolución del ISC por diésel La República",
+   "titulo": "Pietro Sibille se sincera sobre la lucha que sostuvo durante 30 años contra las adicciones: \"Ya no podía más\"",
+   "resumen": "Pietro Sibille se sincera sobre la lucha que sostuvo durante 30 años contra las adicciones: \"Ya no podía más\" La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEFiOHVVRW5wSGNQRXdrUE5UeGVNMG81d2VsWXJIZmUtZmpyWDRLdnZVa3NoODYwaU1pa3lhNi1ybHpIUVQtcnYyTVByV0FLLURTRGQ5UHRNMEdnaTZvSnYzb2lFUWdpaXk1YW9uQXpFQTBIV1BjQUJrYUhwdFFPLVlnaTJxZjdmTkg2eGdpYVlIVFZSQjVDSXg3SUl3dm8zamk2cW9RRGxXNWVSWXZ4MG9OVlFuYzB1emhjOWVLZ2drZ21KdnR1aHNWbUdEeWdjaGR1WUVoMFY2c1FfNnN6SFpn0gHnAUFVX3lxTE1rNXdqNVNUb212aDVFTzBPWklvSUVlSDVzR01xR0R3UWk5Xzh1bVR1OHpTZDJmU3lQY25pbVZZWXdUeVJfMExSVVBIQkpuSDNPa2ZBdGpqcTJuR2NIWTRaX0ROYTVxQjJsaUpTdFJzTkR3cDEzQkpJTHJPQWhFTGUxT1J4b1haNVhmSC1JZ0gzQ0c3ZmtUVjFtQV9JS0ttOUJRaXVWX3F5TjY1bTRnc1RCUGltYmJVUHRUOGZUV2FXakpTWldXa2sxb21nMkpsOHNLVlNOWHo3a0RWcFRCQ05Dc3l1ajI5SQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQVRRRV91N0tNWTI4NUpnZEprTjg4bUMxX0QxREF3bUh1Wm5vNlllNk1HR0NoTEQxN29qZENBbHpweXBzWlh1STJfR3ZVbjU2TklKR3hsaEpld2xVNF9ycUZVMHUtT2cwVGNYbnMwS1VHQno0NjBnVU5iUE5SSmNpVS1ReFZ4MTVCeTZoWldiNnhHS0o1d3dlRW42dzBJbjZqeHV4b3hNSUIyYjQ1OC1VM2UtZVZHektGTzh4RnVkNGllRW5LNnNzR3NuTlV0YVUyVVo0YUtseTg4dnBOMTVRSTVPS1RlenpubFJnMnp4eTHSAfYBQVVfeXFMTWs1WlBzTVFzRjBUbEhDSEt6d2ZzbFpZd0VmOW40MjAyZHcxSTRqLW9EMmNvbW5NYVpES0k3Mm5OSGt2RFZ0Zm42MlNXbHpOcmFBdlRQeDM2czVkZ2dtQjYtaDdXdWZhY0pUWnpDb2JqV19QR1M1MlhkSllrSWZETmZBM2hKc0UxazZiTWhIXy1BWTBkR1JOZ0xQeXdmRkRpOU8zRTRjWV9hX25yOHhEb0luaUo5aWktVktLUlV4ZHZIcDREVHBlVU5yWGZ6UWNRci1xLTAtMjhsZ19ESUNqVXp4ckVIN2FkTEpvSm5HSFhER21DTVRR?oc=5"
     }
    ]
   },
   {
-   "titulo": "Detienen a técnico de la Marina por la presunta instalación de antenas ilegales cerca del penal Ancón I",
-   "resumen": "Detienen a técnico de la Marina por la presunta instalación de antenas ilegales cerca del penal Ancón I La República",
+   "titulo": "Tabla de posiciones Torneo Clausura y Acumulado de la Liga 1 2026: resultados de los partidos de la fecha 15",
+   "resumen": "Tabla de posiciones Torneo Clausura y Acumulado de la Liga 1 2026: resultados de los partidos de la fecha 15 La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZkVfRXdEcG9odERfVjFRM2lnekM5YlZNUDRhQ1NkVkRfWF9CVnFzTTk3MS1yLUhYaFFwcWNnZUpkbjFNSVVHd1FHSF8xMmRVa3h4MGJid2dCUnRLMlRXRkwtNEdwdUlHcnpKanBfZGRTQkFrZnRqdTM0NERoRHJXS09ESGYyUWlfSWhXN1N0NGdPdW0zSjMxZ0RnTEc3TDVtUWhyUzNWb05TeEdCMmI5NDVWRjRtejdSMWpwR1FORHhFZ281YTRMZEU5TFpSelJRNXQ1djJJV0Q1WUFOMlA1cWRyV19vWVZ4S2fSAe8BQVVfeXFMT0NaY0lpelRUY3pzQnQ4U3Q4TUJGUXF0RnV6XzU4UFJNaWRQUWRwaXhTU01SRFNQMlJXT01rLXdzRHdPZjlSYVFJMmh3Um92NEZwSVI0bmV3clUtVl9IV0ZDSUhQQUhGS3BXVlFSdGtPcnN6VFVYcHNMMzNVekVOT3BueW15SGtmWWdPdG9RU2QxZHVHSkNOZWJ6dng5dHhYemlMbmZzVTBmQ0ZYWVJhN3RmYnBLZTBlWkRLZ3hNMFAtMnA2WEVlTjNoVTdINjdCMlE1NlVkVW4wS0lFX2hMaHE2R2QzTm1UaWpNQUJEUFE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWp1dV96OFoxMGw5djFTUDZFLTRKVTRvWWN0bFJQWkNQYTVPRlZsc3Y2R1dEUWNZWWhuaFZhTUJZQzNlSlNVZ2V2VGtLSnpHa05CQThtR3hVX0I2alVpdV9kWFlQOFJla1UxNll3ZktrNlNHT0trTUk2bjBaNGdOclNxLUVJak5YVUw1MEVFOTlheER5TTBXUU9qOGpHalRpdkM0X2FaTTJ0S0htcXk5eUhTQnA0TmNxWmx3TmppWEIza05GSUtxazBTM2ZsMVlvLUHSAdcBQVVfeXFMUENMcW1TWWx6UVUwOTBBWWhBWUxpVFRXenVYRUE2MHFNcEZKSGhYamVEdkRPNE5wMHh1QmFGX2E1VWh3NjVNajJzUXBwT0xEY0JKTTNWSFVEZmtPejBDcy1qazM2VXNkbnFGMGJNbVhwdGFEUldjZHg0SzMwWTN2UDZxNWJHbkZqV21Oc1Y4eXpEVks3WmdzU2k5UWFXd21STWdXa1Y2MkJiLWViTmM4dHdLVVJKRVlVOXBQZXFPRFhBaTQ3TjNOREdGbGthaUZhY1RBZnFqLUE?oc=5"
     }
    ]
   },
   {
-   "titulo": "En defensa de las mujeres campesinas del Cusco",
-   "resumen": "En defensa de las mujeres campesinas del Cusco La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUZKdTN1MEhWRFAzRWduYm9vYTdtSVliVkh3eGc0SVVTTDFQcVBJd29EdW85R0RXVjE2ZXgtUXE1WE9fRkJvN2RiVWZURUM5dk5sb3dwUUpjdURSNk93MVhjaE1DQXkwT2hYaFJrMkhOcHpoanNSQkZiR3UxRUZyWkZRWWRWMW9qZWVZRW5GaGMyMHBRajYzdEg1Ui16RkotT19OVGs1Y3ZMQdIBrwFBVV95cUxQV2xRamFwV0FhQ3Z5bktHMWNLMV9rQ2lQWUxqX0ZKS1ZjSEdZM1BleGFXeHZnRlhkT2pKSUE4amxLRWlrWFFfSVFXWERtdlJLeDJNdWpQc0xHZ0ZSbVo4TlQ5MW12TEtXM0pRMWwwc0lsbkhqUFJkZk4wdHZTdm1oUGtRU1ZmTkZVMEdYckFESmkwTFFIM2MzdE5vRzM3RTJWWlBNUThiTjdvTFpqQnlR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Cronograma de pagos del sector público noviembre 2026: fechas de sueldos en el Banco de la Nación",
-   "resumen": "Cronograma de pagos del sector público noviembre 2026: fechas de sueldos en el Banco de la Nación La República",
+   "titulo": "Cronograma de pagos del sector público noviembre 2026: fechas para cobrar sueldos en el Banco de la Nación",
+   "resumen": "Cronograma de pagos del sector público noviembre 2026: fechas para cobrar sueldos en el Banco de la Nación La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
@@ -501,278 +681,122 @@
    ]
   },
   {
-   "titulo": "A los 77 años, un hombre temía no terminar de restaurar su cabaña en las montañas: hoy vive a 1.800 metros en los Alpes para preservar su legado familiar",
-   "resumen": "A los 77 años, un hombre temía no terminar de restaurar su cabaña en las montañas: hoy vive a 1.800 metros en los Alpes para preservar su legado familiar La República",
+   "titulo": "Carlincatura del lunes 2 de noviembre de 2026",
+   "resumen": "Carlincatura del lunes 2 de noviembre de 2026 La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdk01b1hpMXlXR2VXVDNkRTM5Qmo1QURPV2FlTkhDM2h6UzZ4d0hwU0xBazREWS1sVW1Ub3pSR0NZYUpfTmo0emZJVzVrb3RvNHByc3I2Z3Y0OEtoUnRCOTZqVVpmTlZxZGlVYmhMUGZhc1E2aXVPNkNxMC1RdVFWMTJYVGU3MDhqSGNfcE9aaUZTN2ZyYlpCNllEUzdDSUNzdVJsY2d3dmRfbFgtemxpYXg0Z2VoOTFOM2pRV0FvR0UwMzN6cHc0YVJsVnBOaFlQc0V6QXZfZzgyR3hVZGZFTldZbzlWYlpzN2lUNGc2LXBTSnhTcmVxcWJzYkVSV0VSZkHSAYcCQVVfeXFMUHRCbWtnV3pOY3BCazlweGk2dXZoNlM4Um1CYjMydlUtcVdNUXgyN3BvQXJYZlk4WHFqN0dPb3VJbHNzeUtrTG5MNzU4N19IVFh3ZDJpbGsxWVN0d3U5cG45T1JWZWRoaUdyeDFDd2l0alJDMGtON1ZyNnByV0FfRFVFa2dkSnVNMC13QktZMlpiM0lkOE4yQV9OSVZuVG5oMi1vUV82NXVnVXF2dEoxNS1lN2lkLWpISFJnR2ZleVJBY01kM0ZhazY4cEJHeDFrSXlRWTFGYzJUVWo3cDlOM2YzNkJkQTRCd0pOcnlmWXJXZHZVZ2NnS1k0dnNld0I4U0JGZnl5NXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkJhZGtPa3BSLURCNG5YdWlXV2s1VUEwMy1VUnAzNzJxMEJST3llY0hTMnRsTFBueFFja1h2RmJZdnZEVkZnRy1kN3c0aHg4Smw5cTNST0c0X2V2anliVkNyak1CQllwdHFrbC1NeVZvUzRJYi00MU1KQ05lUUtEN1BsZ0p1X0lhT3VXN2dzSWdBZG1JWkpsYzNsTFNZdnM?oc=5"
     }
    ]
   },
   {
-   "titulo": "Leptospirosis alcanza récord de 50 muertos y casi 14.000 casos en Perú: Lima en alerta por alta letalidad",
-   "resumen": "Leptospirosis alcanza récord de 50 muertos y casi 14.000 casos en Perú: Lima en alerta por alta letalidad La República",
+   "titulo": "La peor noticia | Revelaron que más de 150.000 inmigrantes aceptaron salir voluntariamente de EE.UU.: ¿En qué lugares fueron detenidos?",
+   "resumen": "La peor noticia | Revelaron que más de 150.000 inmigrantes aceptaron salir voluntariamente de EE.UU.: ¿En qué lugares fueron detenidos? La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSUU4SmlsN0xqejhJYk5sV0QyaTR1MzJ0c1BIbHBjcG1zUlE5aVBPS1JVLVFHa0RJZ2V3LWJpblZ5c09zOXFQbFl0Ym1QY2pCWGVyZW5UTWh0T3BvbFpUTDF3YXpYT3ZLc3UxNmRybjhjSVRyUmxrZEJUckM5cjA1WFpiTWthXzlEZmNaajV4Q3dCcTRuNUdORFV1OHJXSkZXOGlpUGIxLWZGVkQ2b2ZPX0dYN3pMUjExNG5iemZ2NTZSODNBWElVV1NidmdtYWMyblZDVnR6RS0tLUhsa19sbGs0MXRFSEpva1HSAe8BQVVfeXFMTkJISmFRd1BrUGhfSTQxT3p3QTZPUzVOVHJCdWpGR3NodnBoYUszY2FFcWZGOEs3dFFOR0R3Q2ptYU13U2hLNk84cGgtQ2JqeHRKRW5ncjNLNnZMTUxjTmZOTG9aaVdNZG1LOGdJRVlmN0NKQUUzcDdPNWljamZjQ0NldVpwTndTODVCeldsQzZtcVFnVTBtdVN3LTRDOXBEUXN4SVFUU1NQZ0ZyZXdmb0xzTkk3bE94VGRWN2ZZek9SX0ZiNkpHUXhIcFdnMnhJdjlCRnpQbXhFQm5KelF5TFJueVRIbG1GVmNMdnF0U2M?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNM0VNcE95QndBeW1UM3pJbWw4c2Y4a2dXbl9IdEgxT21iV0w1M19wME9sZVZOdWtQaE9hRWx5VWVMVFVVZFFnX0d3OTFDZ2tGVmlkNFBULUREM25IaHBJbjltTldKSFN6WkwtSjZsTFo1MXdNN05jdno5Zkk1Wk9QZ3IyaDVMc3k5aUxwV2xGMVJjUlJfeDVuN2llVlhSQlhEOHo3QTlxYlI0eW1Gd09zQUlvQTRtUWdSZ0w0MDVya3o0ZXJqU2t6RXNGUEVBb3dScjlTVy13QTEtSU5xNE1pbzFOdFhfYl9VbExvMjNEa1VvU1BmelR0M1hLOFE4cEdxTEExSTVEcnJvU0FZNHFn0gGUAkFVX3lxTFBDczdUS3VqakZKeVVaa0Vwb3Mtb2V5UThSVUp1eTNkNGJMR3BYVXd2NzVJUzY0VzJfZnBhUTRhMnhYTzBxVHNfQkRRNlpZU25ycDdkNFkzYlB2OThsV21mTWlyOXVzSEMxU1F6ZVZ5WWZwd2stZFFPVVA1Y3RMRUF1YkdaVTdMaFJ4ZUVZeE55My15MnVIQWtMTEtEdjg0LXhWSWlWZlZaZ3FvT3p0RlotZW5yUEVDcTl4Q2JWZ0dvYU9HU2hseWtQSnJxdDM0RGxkWXdkRE5BVG5CakhMY1JyNW43MWJjWU80NzhVSV9GSkRReUNQandELVlIZWVjUlVSeTNIaFp6YUJFZFhnQnJVTnoweg?oc=5"
     }
    ]
   },
   {
-   "titulo": "Corte de luz masivo en Lima, Callao y regiones del país: revisa los horarios y zonas sin servicio entre el 31 de octubre y el 1 de noviembre",
-   "resumen": "Corte de luz masivo en Lima, Callao y regiones del país: revisa los horarios y zonas sin servicio entre el 31 de octubre y el 1 de noviembre La República",
+   "titulo": "Buenas noticias para residentes en Nueva York: Entregarán alimentos gratis desde el 2 al 5 de noviembre",
+   "resumen": "Buenas noticias para residentes en Nueva York: Entregarán alimentos gratis desde el 2 al 5 de noviembre La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR01HTU9zbnNOVFpYRXFWZnpqVEs2V2FIUzdNMGc3M1Boc2k4ZVdMNlR0VEVZQXdLZEFEc0I2NHI4LVdiU05Nb0s2emRRTThiLWdWNnVCbjRPSW0yRXNzQTBDd0tuX1U0Nm9aV2R4ZHhDb0hPdmc2ZFhicmppZTRXOW53bU9wRjVaMWpLZHR1T1JaMkhhXzFCSl9OOVhCMWFjZFNHZ3Z0aC04LUtYTzVhcmxmb2JIQ05oUDBwOVl6OHB0WjhvN2EzbXN0UWZpUzFXUE5BSFRfTkh0b2RXNmFCczFOZTJ4bzVKMHA4WWhGMGY1RVZvMlhXMnFSSGxpUUZVQ1ljdHN4dkdOSi1KZDh1dGVuZzdpSHlQ0gGeAkFVX3lxTE4wVTZxajFZM09RbUdPcTdxUDE4ZEpfaDl5aTgzc1AzTk43cmVNaXBJYUpfLXRnbmU0SEJzQ3FBTW9qVmk5TGo4V0NhcS1TSmZMbVhaaE5uTi1rU2M1RG5qVFJqM3VDeC15UXJjc3dsOERFeUdibGQwb192VGRBU1U4M1FDcllyR3IzRFVxQ1M0QklBM2tnYVhiVHN4TFFDQU5RRTJCak5JWnRNb211UGZDV3A1Y05kWHdwODB1d0s3cl9VUm5pM2I3VlFkQVdNejNMLVhfd28xVi16dDVzTk9yOTJmMHZJNy1uNERTdG12dTFpSDJ4WU5YQXZxb1lWS0J0Ti1tRndYWS03VmVHSHRQalY4Rm15b3NsbFUwWHc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa0kwV0drSlVxS3FyVXZRS1BHVlhCQzljTHB3TVBGTDN5dG1tUjlldU9lUXhzajNpMjNxWFlidFFscTJsM1Vhc2tpcHVOTWRjRTFENXpJMmJPUjJJRWlWWTlKbW9ZU3g2S1VPQlQxcTl6NUZ1RS0xVnFVdVRHbzgybzFrNkdGa01VRkh0X2t4OHdFQ2syZzRveTh3enFWOVpBRUlYTE5RVGZjSUV3bXZHVk1YT0ZJaVdTV3pBNmNWU1JLYVoyempBek1qbTBYaE82dEMzUU9kNXhoanc5ZTZlOUNHaVNzeVEwREVSQ0Z30gHzAUFVX3lxTE5LeWdpYlVDVTlkaUhlWXdaWjdvRDB5d3NtWlUzTkJmUHdzS1ZrTEpxRmF6bnptcURURmtUTVRNYUd3bFMwVkRXSDd5TVh6Vk82QTNRbURjQ21oV2JOV04zaUVRamlrWTVvbFVkbWdRNktFNnlrUlg4eTdfeldSaWpDYkV5MDV0NW0td0Vpb3dySExzZms1dzA0MXFNMTVEcV9yWmFlTGdkb09mMnhMdGFZVzI0MS1ZcjBRMFZ0VTR5aTRtYjRjb1BIUVV6T05KUjlCamhrUjlCaDJaQVJKM09FMGtvb3VZNUVZR3E5bkxGOVpMWQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Temperatura del mar en Perú: mapa diario de El Niño",
-   "resumen": "Temperatura del mar en Perú: mapa diario de El Niño La República",
+   "titulo": "Terror en Walmart | Supermercado sufre gran pérdida de US$1,2 millones: Así fue la gran estafa organizado por 6 personas",
+   "resumen": "Terror en Walmart | Supermercado sufre gran pérdida de US$1,2 millones: Así fue la gran estafa organizado por 6 personas La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFbnRpbDFWdUxJQWlNaXhMVk84dmpnai0ybWt5bk1sMWwtN3NQbTdoRURHTXhMQVNuSEVKeWJjdExublp5Nk9FRElBLVpDMkRpQ3FyRlI1WUlaOG93dkRIRFY1eTFwQkZ6Rmd3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWVlNM2JvMXAtSU5wWnFyN1NCTU0wR1Rqa3czT2dLUE5ydEdJWWYwenlYWTl2aHotc2taaVl6X1RTTzliNDZuMTdQZ19XZENvdmpzSkpYYkp4TmpBWElQOGR5V05FeG51eF85eHFKc01waHM1c2ZPc0RLam9vMVhxUmFKRUZaVlNNWk9BLTdrb0VuNWE1RENsaEJIQ29ZVkpXWWxaamx2VEdBbnRzR05qZkxva2dGbjJKbmVzN1FzLXNhZHdyOTJpS3FYUzY3VFlPRElMSUhDcWRzUXkwYlNROUlkdmM0aDRUMHNFNVg5cDFteW9waEdNbldzN2I3UjTSAYQCQVVfeXFMUG9qNkxHRGhlWGExSmR0OWZIYnhpRDI2b3dQTmo3SnB4WjZUaWsxT19saHVXNm5jTTM5a1JQYkJoRDVCcGVDQzZkQk55X3kxc3FWcHBPbHYxUkdfMTJLeTJiN3JJS3l5bXZvOEplRmQ5aVVfRkN6MEw3RC1sQnI5QU1pUlNzX3VmT2FPZ05rVXdrS2lsLURpT0RvLWxTSmQ1UjRtd0x3a2pIeW4welQtdm5MZXFlbkxKajlNZmVqWm9IOF9qb09PRVVlR0NRcG9GXzZmREZmVVRVZmFsQ1VPUXhNcm9hcnM0MzVQZXYwOXlBbWdreU54bFhGVzM1QUlrdHpGYVo?oc=5"
     }
    ]
   },
   {
-   "titulo": "Partidos de hoy, domingo 1 de noviembre: horarios y canales para ver fútbol EN VIVO",
-   "resumen": "Partidos de hoy, domingo 1 de noviembre: horarios y canales para ver fútbol EN VIVO La República",
+   "titulo": "Atención inmigrantes legales e indocumentados | Estas palabras pueden ayudarte ante una detención migratoria de los agentes del ICE",
+   "resumen": "Atención inmigrantes legales e indocumentados | Estas palabras pueden ayudarte ante una detención migratoria de los agentes del ICE La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSWFPTFFfOGtuMWFuU080TXliQWtKSi1NY0pZZU9EaDJDV3ZhQkxSWi1mZVRlNXVRYUF2OERrSzQ4V05DcXRNWGlHR1N2dXZyWmRNZVhTYWlsYWZCT2VsT1VUTGhlQXFlTnkxMWhCTzMta0FQdE9wbDRuNDBQaHVraXNBMVZTNER3d0pFWDZjSU9hMS1mVDRTSXhlNnpteGtJbjZ2V2Y3SkpGNWRLTnNQeFBIVGlwbTZBRnZqaTM3U19uamE3RGFjVEFjLWXSAdIBQVVfeXFMTTlzbWZiaElDRWFZeDY3RTVIY2laM2J3T1dRdUZZekt0ejlPdUZKTWxHdFBXOTl2NUNfMTFqTmxfd3YzNUZ3TkMxblBaM2ZYNG9RdUNMelBzdGZWWXN2NlZaQnI0SmFLd1NjUzlHckZFR3BPNE5qVWFtVXU1LWdaY2hIZFBleFhqQkNwa0c5NGMxdjJaNnotaXlWMWNGcWd4M3M0U0tyZ2VXRkVCUGtVLUxaTUNRRGZpdzdCSU1yTlExdE53alBrbGd0VERTNHNvZDh3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbVpNWTV6QUJua2NwZWJCM2RIUFFvY08yVnJFRlRHWWVEb3FhWVlNa3ZxQzlCY0tPSkN3TWtoTDlaSEZnOUxWQnA4ZElXS2FGanpjN21LMjBPekwyaC1XYVpQLTRDYlItT29NTk5USDZtR21qMl9POUk0MGp5RzNPQ1NhQkRTNU5YRWxLUTRfbGtuUERyUEtaWnBFU0dqNUtKUmNPU21Nd2V0aG5pcGZ0b1VJekpPSjNnd2Z3UFFlZXIwUlJISzNlWVMySGVEc1k2Qzc4bEhqMzU5NHFYQW9uWHAyQXY0YUxmdmRpUnQtTDlMVjFtV3VDTjdlVWctcTZXcVRLb295dV9zTE1xZ2pxd3otYXc?oc=5"
     }
    ]
   },
   {
-   "titulo": "Excelentes noticias para inmigrantes en EE.UU. | ICE ya no podrá ocultar información de este grupo de extranjeros detenidos",
-   "resumen": "Excelentes noticias para inmigrantes en EE.UU. | ICE ya no podrá ocultar información de este grupo de extranjeros detenidos La República",
+   "titulo": "Atención beneficiarios del Seguro Social | ¿No recibiste tu pago? Así puedes reportarlo y qué debes hacer antes de llamar a la entidad",
+   "resumen": "Atención beneficiarios del Seguro Social | ¿No recibiste tu pago? Así puedes reportarlo y qué debes hacer antes de llamar a la entidad La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeUhST29HNlZTMXlBRnRxdWxYUWpza1ZyUnMwWHdDMFkzRFRjS1dBQlNCUDJpRE0zMDZhbWlreGI3TE13X2VvaFdkR2VXcUt0dWxSLVY1MGVqNGxRMTFkaEpvOTRBTHNad0FjZmh3QXNSUlRnV3lKamNqamxWQ1M1QWVTSVhGTy1iY093VUl1blFYWl9VS2RuLTdkOHZQV2lYeFFKVmVRNkFsckRCUXBGOGJKQ2I0MWpmZ1RHLXJZbGNvZVFoX1hiTUJhamtNUGZMLWJVaXg5SWQ5akxTRGxUdmF0ejRIYXQzWXRVNGFlVE44X3RraEFmTGEzZlZXQU9vVUQzeGhB0gGLAkFVX3lxTE9fazVsNkVoZWh0Ti1Fc0Npb2RFbS1WQ2tFcllRb3F0UE5ZNnA4XzRCUnpJZzk4YkxZaEdIVzZGNU9NcjhjbEJWX2NkaUxYRk5KTHlDclpuTzJpS19ocFZDYXpBUlhWQ3NlUWFDZWszb1VOUGZFNWdwRlYyR3NKU1RyQ0puQmhCQ2plRTc4ZjlhY29GMzkteGp6WUgyRkRORWFlUVdVcEVzUzFvREhEUEp1aENGTmZOQ3UyalRVSTNubWtlOW5IcW55TVFELWkyaWhEejNqa0JKd2N4d1laNnFORGNnamFyYUhubVQxQ2pidTI5WFRUV1BGU21CZ01IajFpYkJ6RnZkTVFydw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYWVmMEp1VzRJQ1pMeWNtaVlwemU1RXB1MzBpZ0xmQ0dIM010ZWJXVW4yVzJlYl8zVUQwVlRQa2JZdHAtMDVUUG1XVDJqa2h3ODU3WHJWaU1PYVlmX1Z4bWppWFRHY0x3NHhGS1VTMTM0QkxwVy1zNXhla01ob1AwNHNRanJLWFZYT1NJbU5DRVJzbWZuVnRZc0I3dGFjWmJPeDNxVWFweWllY1hkYWxtb1B4WWJTdldidFhpNFZLeTBxcHRxa1VmY0lhQUxsLTQ2R2JRaVY1N3RWRHVZaktuQWYtY0ZtV3V3SnBGOG1EamlBWDV5WGlCc3RxVnhfeGl0eVRES1RSTGtyT1ZGQVhJdGZ1Z9IBmAJBVV95cUxOdGM2ZHdtUXB2U09LUURSYk04ZE5SZ1I5QzYwVnlRbUt1TWFxbmdhVEszZ0dGR3RiR2o0WFJuMWwtMml0U19hUENISnQ0dFBObUg2ZloydGdFTjFvN1ZfVFJWSVhTUDlXd0FnbWZaM1VZQXFrakZrdG9VRFNMdkRwSzc1RlhjYnlZNXBfUmtxTnMyRkpZMng2cU9LcHd0TTYxV3lLR1BmN1VYSHpUdTJuOHZFVUVJeS1GenhzMzVoUGRQZnROQnJrZmtBY09uOXpjMEpLODF4Ty0tZFdtdUpMcHdBLXUyc0lrZElmbHlkT0xHSVc2VkNDX256QlNPRjc1Mk81MXJiQ1B3ZHpfQUh6TkFIeWhncEp1?oc=5"
     }
    ]
   },
   {
-   "titulo": "Alerta en Walmart | Joven se dispara dentro del supermercado en EE. UU.: Esto es lo que se sabe",
-   "resumen": "Alerta en Walmart | Joven se dispara dentro del supermercado en EE. UU.: Esto es lo que se sabe La República",
+   "titulo": "Partidos del lunes 2 de noviembre: horarios y canales de TV para ver EN VIVO Liga 1 y Serie A",
+   "resumen": "Fútbol EN VIVO | Horarios y canales de TV para ver EN DIRECTO los partidos de HOY lunes 2 de noviembre del 2026.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd1h3dXdMaUZUUHlxbkdMYTVUSXNlQVlDNUZBVV84YUlYbmRUeFJtLVppbDZjMG5BX1pMNjVkdFNTdmtKdlQ4THZrVFNhNjRRQjRwR1ZhSjQ1aHNMSjh2dGRUdXJiOWxRNTFzUFJkd1JhYzJPdWJoRkdEZzhqQjJVRURaa3ljcmxpWmZRclJsaGxlN1Y0X1QtMUhYWERnUUFYdjNNbVVWVDZnZ212YmJvdHdmOW1TcjFocFVsY0NUa2xOV0hoRjdWaXNfTHh6aHVXalBmVTVPYndHRVZCLXd1bVpNZW5CdU85NXBNbHoybGNTLW1pdVJoUi1FbHZtUlnSAYQCQVVfeXFMT1RRaEwzb1dQRFZ2enJNQm92WEtrSGx0UGlqNGNPekNqRXFJVGdvM0EyOVFJbmNrSEdLZ1BvNnpNZm9HNWZ4UElzaUthcDh4dGZMWEtwRUpNQ0UydlhYSy11ZFRZVUViYUU3TGM2ZWtaWVlORUtOeGM2eDQ1ci1jOVVjdE5hbS1uOUZLUXNsVzFRcVg3WVNaeGYzRUxUelFHaVVhV21oSG11NFc0alNCMk9IRThrNWJBYXZlVUpRVEppQ1dqTFZtaDEwWG1lV3c2S2hOcW8tZDZtNW14NUlEZXc1YkMwTWRYSXBhUjZhQzktM05jREpIOFdqSUwtNHBtSWpDbS0?oc=5"
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/partidos-del-lunes-2-de-noviembre-horarios-y-canales-de-tv-para-ver-en-vivo-liga-1-y-serie-a-noticia-1715521"
     }
    ]
   },
   {
-   "titulo": "No más arrestos del ICE | Está ciudad anunció que protegerá a trabajadores de un sector clave: \"No entres\"",
-   "resumen": "No más arrestos del ICE | Está ciudad anunció que protegerá a trabajadores de un sector clave: \"No entres\" La República",
+   "titulo": "Ignacio Buse vs Zizou Bergs EN VIVO: ¿a qué hora juegan y dónde ver la primera ronda del Masters 1000 de Paris 2026?",
+   "resumen": "Ignacio Buse vs Zizou Bergs EN VIVO: sigue la transmisión del encuentro por la primera ronda del Masters 1000 de Paris.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRjNqWHhOZ2JHTGFXVThneGpLbUxuUnd1NFJsdnZoN2pWWGxxRHFYOUtEdXg5MDJVRVZfS3ZXZkdWRW1oZ0xORHEtalkxaUxiYTI2YlBPN0VETkZwc3VrX3RrOW9LU0Y5MU9vdnJNcXYxdDVKV1pTZF9qZDE1YlJJRWQtcm9VeUFqQ2RnRnM4c05nRkNBcDhHRkxLaGFpMkpmdi0xSGFrejJ4QjRmMjhLNTlhVUNmenJHNldMb1RRa2o3bWczbUNRZGFjQmJpSExFbUVlQnVlWmdheHJRdVZwTWVkckJsSVRGRnljc0dFY9IB9AFBVV95cUxNQ2duaGttaUp1VkhESEgxNm9QZUtsTnVBbG5YaHJWejFNUVRhYUFIWlg0ZnEtTGdQcjdGZ2RhSjZXV215OHdhTE1sZlJIaVpseXY5SGkxQTBmOXZZbXBCOFRhYTBoM2VjV0YwdWptb29Ec2tmSVNrRGpNeW5ONFNaV2I5bEhDYVI5ZVZvTklJY21PeTlNYWtXcGEwYlpicm1TVXo4eTlxcVZjVHZDTTEtQ0h5dkJUM2QxVm9HWWk4MnBncFNHWHBUOFFrUk5JRmxOSDJ4TU10ekNiQTNHZ2lId2I2dUFNYmJtcDNZdGlEMC13VnFz?oc=5"
+     "medio": "RPP",
+     "url": "https://rpp.pe/tenis/master-1000/ignacio-buse-vs-zizou-bergs-en-vivo-a-que-hora-juegan-y-donde-ver-la-primera-ronda-del-masters-1000-de-paris-2026-via-espn-y-disney-tenis-en-vivo-noticia-1715464"
     }
    ]
   },
   {
-   "titulo": "Piura: \"Hasta que no estén todos presos, no habrá justicia\", dice la esposa y madre de las víctimas de Castilla",
-   "resumen": "Piura: \"Hasta que no estén todos presos, no habrá justicia\", dice la esposa y madre de las víctimas de Castilla La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOazRTMEJGOE5kRWlWSmpHN2kxY2R2emNTTFNfRi1pemMxX2pyUjlwU241M1RncHFudVRaVkd5dnhzOVpqRG9YekV5cFBQSHUyNlEwWUd2clRrYkdIckRvcmpKa2c2YVZkVTEyR0FfWXpIZDBjOFJJTWRrdWJyVVZzWHhBcmZTYi1DWTViQk1HRW5Id2k4Qi1ZZm9fNGYzS2J0bXJMOHFJT0VKa1FiTVlTZ1BhSkJHUnNCX2ZTYm93dnRlTk95Si1zSjhiTnl1SlpsRldjUkNwQUg5YkpIOGVkQndINnpsRFAtTk52N1dFQXBRVDBfMVR5SmNTVkxQdlIwTlVXMdIBigJBVV95cUxOeF9jX1BVUS1TZllrVUJXNE5NdFBoMXFWdTh5V1JtdkpweXZlMVhrTlFmWk45eTJHVlg5N21ueDJqX3lMV1RtaUFVV1hjUXB3c2QtNUdzZFd2LW5oTkw5Zm55V0NOcUJOUWRTb0Y0c2RIMXBWVTF1eGViZXpvTHVacE5aakdSa2FmcHJKNkYyLTZUZ3U3cWlkcDZjaTlSSjlLYzhDVS1vaHJKZ2F4dERvX0xXVVR1T0psTWRzdDVKS1doNkRmV3kxd2ExWHBNeVZsZVloSEg1azM1WkYyRXFLWS1TbmVTQ2J4ZXZ4MVRrSEhkMUJDRk5DYzQ3VzcycHBDazYxcTQxeGMxUQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "La decisión de la Fiscalía: entre la contradicción y el miedo, por Julissa Mantilla",
-   "resumen": "La decisión de la Fiscalía: entre la contradicción y el miedo, por Julissa Mantilla La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHRxZHluQTgtNi1NcnZTZzl6bWt6ajhxa09hS3NLZ3VucERYaTRpYUhJVlk5NW5QalduU05IbTE5Wm1WU2JKWXFZbFBtbG00Rk5IMWJNOG9KMDg5OEtodDhpQ2VuZWVOT2ZOUDhLWnFja2g1c1F0VklSVDRrdDVHbldZTGxSVmprcjR0T0s4dXN2VjdWdjBEbUZsbDI4aTh0RXBGQmozWW9GcjZHNHdPT3RFTGZtcmvSAbwBQVVfeXFMTTB6ZVlnRWZvOE9RakhSenVqX1JWQnowWXpJN0NiQktmXzBiOVMwOTNUMktOcFZFUWtUY0xTd0xhRm5sdDQ0bWlKS2l3RVdWT2pRa3psS2JtU3pIZHNkbHA4a1NSczhMMzRxOVpIMDVZUFpfdmRSQl9CT21ocFVRYVU3aFJpU3V3RnQyU3N3bmhLdklRa2c2MXZMRzdNaDNfRVNPazF5RzI4bi0zcjg1UXFKTXlTUkVOdUE4aUw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Excelentes noticias para inmigrantes en EE.UU. | Juez de California prohíbe que el ICE detenga a extranjeros solo por su aspecto físico",
-   "resumen": "Excelentes noticias para inmigrantes en EE.UU. | Juez de California prohíbe que el ICE detenga a extranjeros solo por su aspecto físico La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQN2xiZzVoLWVsV1JqOHpYOUhEaHl6dkMyaDZBdC16M2J2dkQwdzI4T2tldE5sLUJiWFlqVDVCWE8zNFp4bzcwTzJuUzJpeWpldU5kUVRLZkJBTjQ2YVhHUk05S3ZpMWgwMHM3bU9CS2laY3hzckNLVFFTcThjSzRnQVB1Y2lab01ickM3QVZyMWZrclc5clhfcGJDOGxqN1NWVmRtM1ZzV29jbGtlQnJUTVd3VlZqVmtVQmpFYy0wYS1hU3I1VmJabDAwcVdER1NwcUdGN1lHdDlIc0NsTWFXUHhfZFRUcmVMV1BCWmo0eVlNcDRKZlhUM0Y2ZXloSkxIWE1CUVJYSzFwVnFPOHlRdzNqUXEwYnPSAZwCQVVfeXFMUFQyOHhKZkdYdWkyLTMwOWh1aVBtSmVkbU1FQWtlYzlJVl9BVDlsMU5XdThjTmpwemhxT0k5dExhTVRHNGlLaFZiTDJ1RlFEMWxBakU3Sm5pWVRTY29sc1k5dmF1c09YbGc3UG5ubnA1eXpDY2VHMmNkQU11UzdrSnN3ZmdHZnYtRVlEWjBPTEk2YmpITzlCenVGQ0ZqemJwU0lCM0ZfRW9JeGYwVS0xekR0YUhsZ1oxQUFFSFJ1MlNrMXE2c0hwc0lwN3FiWDc5QklIOFQ5NXVTRzFUSlJ4SE4tVFN3XzktbmhWenFKTmpfZ1RaamJMeUI4bU95bGtRTVJpTTNjejJBc3l6cGtiaXprWm1uRm9BZm1hOU4?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "La diplomacia peruana ante la exigencia de su tiempo, por Óscar Maúrtua de Romaña",
-   "resumen": "La diplomacia peruana ante la exigencia de su tiempo, por Óscar Maúrtua de Romaña La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcm1JMkg3NkhHdVhmVWc5TzMzT19MaTZhU3VLV2pKRkRaYVFUd0F4UTNIUzVpbEZCNGNUVVpSZHNmcTR0NnlndUluMFkwaXBPbFdiNy1qSVE1bDBiN1lkaXhhOHlGX3kyUktDNlZJOXJxMTFvejNSUXhZbWxoZmJEVDdkRGhHVzNvS2ZFSmtfU0lFSzFQNjJ1MHlOeHE1ZlJ5b05fNFVYTnZkQ1d4R01xZDUxMjFVeVo4OWd5aWlaMjNxeDl0VG1DMmVBLVZpZEtoRXfSAdcBQVVfeXFMUENaZkExNHFtdmtoMmdpOUY1b3JocWwyak9FMTdJQXV6aGRYSmptZnBKbVVVeVhXNDdBYV8zcTFoUmRpT0NUbHVLTlc1WDlSZGIwNHpBeFNKdmtqeEtGSGRlM0c3dUVjYzVZMVVqWEIyTGxtcUc2QldLLTBCUUFEUXpBc0loN25pd2gwYzBnR0Z1Yzg2N0d1OGV1c2ZaS3F0ZGFyZ0RiX3JYaDhiYUxwMVdGMXg2cXprMGFvNlFxYWNuQWZtZFlFQWR1Vmt3S0J5OE5Zd21GQU0?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Alerta máxima inmigrantes | USCIS reveló la insólita cifra de acciones migratorias que va realizando tras la llegada de Donald Trump",
-   "resumen": "Alerta máxima inmigrantes | USCIS reveló la insólita cifra de acciones migratorias que va realizando tras la llegada de Donald Trump La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNUw4cEVrZ0g1blc1SzdjWFRQTlh2TVQxd3Fhc1NuMGc5SThRdW1naFlkYUZHcHJwUERhaVlHYlFjNEpEVW5YRVlSY0NhZmZEQTM2N1I5V2Rxc3lxYjh4U1FqeDlUMjBhMl80Nmt6NXN5VmFBQ1N5TDFJM0M4MkFOZmxZVTZBLWVFb1RDUWdEaENFTTN4NHhRcTJlbmc1OExLeTUtVktYcTMxS2ZKUURudjVVcDFlOWtWVGxHWDdQdEFhS1NQOTJMOTJIN2x3TUg2ZWh1d2N2dnZIM194bkpMbWZjS2tyUFVETnU4ek9VM0lhamdPLVhGQWUySHFfbTV0YmhVSmRBNEk3VmJVTW1hU1J6cVVCQdIBmwJBVV95cUxQNmJwcVdXTHdqTmFKdDdCUkFJeEo0cjFnaXlPVFZBZHlkbnEtdHY1ZjNxTnZVNHlvRDNnbTZ2SHBPNjFmM3N4VkdWbGU2S0g0TmdfcnB6OTFSMEZ1OElJOGhDUGZFd0N1Tm05TUhiVDJDeHBvTlFOaGVTUWtSRndUUFpUUXRxNWI3Z2NRbG9mWlZKSVNpUmRWNGl5c0tXNVhTX3I4SzNFS2VLem4wbXBrbEV0UE1Kakxqc1hKYTBrcnNvaGFsdFZWakZBOVlXelJRVW5uS3I1aE9IU29KMEFCQUxHZGx2SUNYZC1lbW5fbG51WGJlYVE0ZDJKaGhEcFFyMzJSbHgzWnB1RzlkMkQzX1ppNGhrTUI1TkRr?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Los peruanos necesitan una política de seguridad, no una foto con Bukele, por Juanita Goebertus",
-   "resumen": "Los peruanos necesitan una política de seguridad, no una foto con Bukele, por Juanita Goebertus La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUVY2SnpNclBxWHRPdmVIajNvWGNvSjJYU1F6djFWSGpvdWNKTmQwUmxITXlyTnd6UlNFMDlRWnU2bUVWYWo1M0hYc1k5SV9STzAxTUlNeTFTTFNNS2ptU3cwRU0yRFVxSk0zdHRNcVJOQk1tLTctTUFHVDdlVWF1Zi1KODZqcXVzZDJmcHdNOEUwbWNzTXFvMlRubFdLd2xEbHZKeThnSm5abnFBQnpaY2NYVzRzR0RyZ0VVY3ExajNmaVlBSXFiZlBMOFNYN1ZZRmtCc01XcWRGbTBpU0pSbThnMNIB6AFBVV95cUxPc0FibTJDcnJ5bWZzSEh1QmxnenVQdUVtaU93OGNyTTNOb0NTWDNwLUtfc19tc2pMQVdROEtfMFN6RC1LN09pNV9sR1lGTk9kdDVKc00zSlNkdmpsQnYzQkxXVzVCMFBxb3liVHJCaHlZOEhaaGxpRWpwdWZwcUdNelZuSDloVWNNSVRpNjhkRkxiWHRCOUtvUnQ1d1REUjFsa2UzanNxdUlKZEFnNW9UV0ZXRml3SXNPZXkyUWl4UnUxZHlVSmJ2RDJqNmViS3BqSDhZVHJERGlLckpOLWpaSmJ4U2U1TDZT?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Cartelera Cine en Lima y Perú hoy domingo 01 de noviembre",
+   "titulo": "Cartelera Cine en Lima y Perú hoy lunes 02 de noviembre",
    "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-domingo-01-de-noviembre-noticia-1715425"
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-lunes-02-de-noviembre-noticia-1715524"
     }
    ]
   },
   {
-   "titulo": "Temblor en Perú, hoy 1 de noviembre: magnitud y epicentro del sismo según IGP",
-   "resumen": "Actualización EN VIVO del último sismo en Perú hoy, domingo 1 de noviembre según las últimas actualizaciones del Instituto Geofísico del Perú IGP",
+   "titulo": "Universitario vs Atlético Grau: resumen y resultado por la fecha 15 del Torneo Clausura",
+   "resumen": "Universitario y Atlético Grau jugaron por la fecha 15 del Torneo Clausura. Conoce a qué hora es el partido y dónde verlo EN VIVO.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-31-de-octubre-magnitud-y-epicentro-del-sismo-segun-igp-live-3683"
-    }
-   ]
-  },
-  {
-   "titulo": "Cúal fue el último temblor en México hoy 1 de noviembre según SSN",
-   "resumen": "Cuál es el ultimo temblor en México y CDMX registrado segun el Servicio Sismológico Nacional (SSN) hoy 1 de noviembre del 2026. Consulta los últimos sismos EN VIVO para México aquí.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/mundo/mexico/cual-fue-el-ultimo-temblor-en-mexico-hoy-1-de-noviembre-segun-ssn-live-3684"
-    }
-   ]
-  },
-  {
-   "titulo": "Liga MX: Los dos goles de Henry Martín no evitaron el empate entre Club América y Toluca FC",
-   "resumen": "Club América vs Toluca FC se enfrentaron por la México - Liga MX. Aquí todos los detalles y resumen del encuentro.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/ligas-internacionales/liga-mx-club-america-no-quiere-soltar-el-liderato-ante-toluca-fc-noticia-1715267"
-    }
-   ]
-  },
-  {
-   "titulo": "Lambayeque: balean a una panadería que era extorsionada en Monsefú",
-   "resumen": "Según los dueños del local, los delincuentes, a través de mensajes, les exigían S/15 000 para no atentar contra su vida.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/panaderia-baleada-era-victima-de-extorsion-monsefu-lambayeque-noticia-1715421"
-    }
-   ]
-  },
-  {
-   "titulo": "Al menos tres gazatíes murieron por ataques del Ejército israelí",
-   "resumen": "Las zonas orientales de la ciudad de Gaza y las áreas al oeste de Beit Lahia también fueron objeto de intensos bombardeos de artillería israelí en las últimas horas, según la agencia oficial de noticias palestina WAFA.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/mundo/medio-oriente/genocidio-en-palestina-al-menos-tres-gazaties-murieron-por-ataques-del-ejercito-israeli-noticia-1715422"
-    }
-   ]
-  },
-  {
-   "titulo": "Tabla Torneo Clausura 2026 y Acumulado de Liga1 EN VIVO: así van las posiciones en la fecha 15",
-   "resumen": "Conoce cómo se mueve la tabla del Torneo Clausura y del Acumulado disputada cada una de las jornadas del campeonato.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/descentralizado/tabla-de-posiciones-del-torneo-clausura-y-del-acumulado-de-la-liga1-te-apuesto-2026-resutados-posiciones-universitario-alianza-lima-sporting-cristal-noticia-1697586"
-    }
-   ]
-  },
-  {
-   "titulo": "Áncash: menor de 11 años falleció tras presentar síntomas de dengue en Casma",
-   "resumen": "Con este deceso, la región de Áncash registra su primera víctima mortal por dengue en lo que va del año.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/ancash-menor-de-11-anos-fallece-tras-presentar-sintomas-de-dengue-en-casma-noticia-1715420"
-    }
-   ]
-  },
-  {
-   "titulo": "Liga MX: CF Monterrey empató con Tijuana y Hugo Cuypers anotó dos goles",
-   "resumen": "CF Monterrey vs Tijuana se enfrentaron por la México - Liga MX. Aquí todos los detalles y resumen del encuentro.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/ligas-internacionales/liga-mx-por-la-fecha-15-cf-monterrey-recibira-a-tijuana-noticia-1715236"
+     "url": "https://rpp.pe/futbol/descentralizado/universitario-vs-atletico-grau-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-15-torneo-clausura-2026-via-l1max-partidos-de-hoy-noticia-1715280"
     }
    ]
   }
