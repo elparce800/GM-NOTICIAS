@@ -1,0 +1,799 @@
+{
+ "actualizado": "2026-11-05T06:46-05:00",
+ "modo": "titulares",
+ "total_titulares": 321,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "Corte de agua en Lima hoy 05 de noviembre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-programado-del-5-al-7-de-noviembre-zonas-afectadas-horarios-y-reportes-de-pluz-distritos-de-lima-y-callao-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-05-de-noviembre-distritos-y-horarios-afectados-noticia-1716017"
+    }
+   ]
+  },
+  {
+   "titulo": "Así se cotiza el dólar BCV hoy, jueves 5 de noviembre en Venezuela",
+   "resumen": "Consulta el tipo de cambio oficial del dólar en Venezuela, publicado por el Banco Central de Venezuela (BCV), y conoce la cotización vigente de la divisa estadounidense.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/dolar-bcv-hoy-en-venezuela-conoce-el-precio-oficial-de-la-divisa-segun-el-banco-central-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-05-de-noviembre-noticia-1716024"
+    }
+   ]
+  },
+  {
+   "titulo": "Ignacio Buse vs Nuno Borges: día, hora y canal TV del duelo por octavos de final del Masters 1000 de París 2026",
+   "resumen": "'Nacho' eliminó a Daniil Medvédev, top 5 del mundo, y buscará clasificar a los cuartos de final del Rolex París Masters ante un rival que ya venció en Copa Davis",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-nuno-borges-en-vivo-hoy-horarios-canales-tv-y-donde-ver-partido-por-masters-1000-de-paris-2026-noticia/"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/deportes/2026/11/04/ignacio-buse-vs-nuno-borges-dia-hora-y-canal-tv-del-duelo-por-octavos-de-final-del-masters-1000-de-paris-2026/"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar en México hoy, jueves 5 de noviembre de 2026: tipo de cambio USD a MXN, cuánto vale y cotización de Banxico",
+   "resumen": "Conozca el precio del dólar en México para este jueves 5 de noviembre de 2026. Revise el tipo de cambio del USD a MXN en los principales bancos y ventanillas financieras del país.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-jueves-5-de-noviembre-de-2026-tipo-de-cambio-usd-a-mxn-cuanto-vale-y-cotizacion-de-banxico-fix-nnda-nnrt-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-05-de-noviembre-del-2026-noticia-1716025"
+    }
+   ]
+  },
+  {
+   "titulo": "Ica: JEE proclama a segunda regidora como alcaldesa de San Juan Bautista tras presunto intento de reelección encubierta",
+   "resumen": "El Jurado Electoral Especial (JEE) de Ica proclamó a Rita del Carmen Guerrero Cajo como alcaldesa electa del distrito de San Juan… The post Ica: JEE proclama a segunda regidora como alcaldesa de San Juan Bautista tras presunto intento de reelección encubierta appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNkhwUnNEXzZRYmxxM09TdTIwbWl5Y0gtdncyU1YxZzFsWkQ0dHFGYW1kQUY4VWpxN09XV3B2bUpMMndkc19xMFBQdWkwTzZoOGEtVGpYRk51RTF1SWZhQ1FpRmtVZnRzVmJ4em9KSV9raE51YXNGMnBnR3h5bEhlZi1lS19BekIySEMxRFZtRkpnSE1ZSHp1RXI0SEhYdDV3OEhlWWY4cUh6aFJxWVljMlh4aXRoNWhMSlBJeE01NTRWQjVyWk4xa0dXNGVzQ3NMQ2wtYk0zRzNaUW1MYVJHbWxKMlRzeVZHTnIxeU0zRkxJLXN5TXZGVNIB_gFBVV95cUxORVN6elFuTEkyaGFVb3IzN085YTVqdWYtZ00zVzg0UlZrLThrQnhtR3RNWlZkNlIyRGlWZHhSeE42aUhJNEZqUDUybmY3T1dwY0ZSZEdOUHEyTWZDVVZqeDJYNHNFcW9EbXR0eHJaaURWVUgyY1lxY3UwWDlRVkFSQ21hR2c0NWEyRnJvbTFVTEFYN3pLd0hnQ3hDVjZjdEVqMVNqTGIzUXJMMWwzeXhMZ3V5NjNMQmdaY2xwaUQwcE1LSUpMTUw4dGh1WXlESG5DQXhkMjFSblJneDlVT2xDcXpCT3l4ZjEyNnljUGpUMmVEYjd2dEx4cXRHNG0ydw?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/nacional/ica-jee-proclama-a-segunda-regidora-como-alcaldesa-de-san-juan-bautista-tras-presunto-intento-de-reeleccion-encubierta/"
+    }
+   ]
+  },
+  {
+   "titulo": "Disponen tolerancia laboral para trabajadores de VMT, VES, SJM y Chorrillos por lluvias",
+   "resumen": "El Ministerio de Trabajo y Promoción del Empleo (MTPE) informó esta noche que los trabajadores de cuatro distritos de Lima tendrán tolerancia laboral por dos horas en su ingreso del jueves 5 de noviembre debido a los efectos de lluvias en Lima.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/disponen-dos-horas-de-tolerancia-para-trabajadores-de-vmt-ves-sjm-y-chorrillos-este-jueves-por-lluvias-noticia-1716023"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-disponen-tolerancia-laboral-para-trabajadores-vmt-ves-sjm-y-chorrillos-lluvias-1098685.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Corea del Norte probó un nuevo sistema de misiles antiaéreos y simuló un ataque contra un aeródromo [FOTOS]",
+   "resumen": "El régimen de Kim Jong-un dijo que la prueba se realizó para verificar \"las características técnicas y de diseño\" del nuevo sistema, así como revisar la fiabilidad de nuevos materiales y un sistema inteligente de guiado múltiple.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/asia/corea-del-norte-probo-un-nuevo-sistema-de-misiles-antiaereos-y-simulo-un-ataque-contra-un-aerodromo-fotos-noticia-1716022"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/corea-del-norte-confirma-que-probó-un-nuevo-sistema-de-misiles-de-defensa-aérea/a-79859673?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Asador Etxebarri fue elegido el mejor restaurante del mundo en The 50 Best 2026",
+   "resumen": "El restaurante Asador Etxebarri, ubicado en el País Vasco (España) y liderado por el chef Bittor Arginzoniz, fue elegido el mejor del mundo en The 50 Best Restaurants 2026, cuya ceremonia se realizó en el Teatro Municipal de Lima. El segundo y tercer lugar fueron ocupados por Gaggan, de Tailandia, y",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/gastronomia/actualidad/the-worlds-50-best-restaurants-2026-asador-etxebarri-de-espana-es-elegido-el-mejor-del-mundo-en-ceremonia-realizada-en-lima-noticia-1715993"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-asador-etxebarri-fue-elegido-mejor-restaurante-del-mundo-the-50-best-2026-1098683.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV recorrerá las avenidas La Marina y Brasil en el papamóvil durante su visita a Lima",
+   "resumen": "Ethel Pozo contó que, cuando tenía 13 años, sintió ilusión por Bruno Pinasco, quien entonces tenía 19. La conductora recordó esta anécdota durante una conversación en el podcast ‘Sin más que decir’.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXgzVEtBMFNEenBybmhHV0lXRFNtdXZ0TVBhRFE3WGhvUUJkdWVncExWOW5fa0w1NGRIZXpieVYwQkdBakVER1lKLUlXWmdCcms2dzZnYVBZWGxaODdEMzZFMmpmemJVNkZNNTd2UXgzd3NSajUzelBITW8xUUN0ZVJZODNNcTExa2I4ZnlsNU1nQXpyWXRERUxuRTR1dFBrbE4xMEhRbw?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-recorrera-las-avenidas-la-marina-y-brasil-en-el-papamovil-durante-su-visita-a-lima-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Gobierno fija meta de reducir la anemia infantil al 50% en los próximos cinco años",
+   "resumen": "Durante la firma del Pacto contra la Anemia, la presidenta Keiko Fujimori planteó fortalecer las visitas domiciliarias, la suplementación con hierro y los controles de salud de los menores",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVdBWXMzWHRaMFNhZjJaUmZfSDdFdVNTUWx1R3hQdnNITlUwUWhaWlNqeER2YmNlMXBObGZ3OGw4WFZSZEJybVkzVUZFWU5RdUR0S2djYjVmV1B2U3cxVE56YkN2cW5BZGM3b3hueUo2UXF1ejIzaFJjb3RLTXZyT1ZISjBFUUx4cEdsTXFmaUl6TjRPWUE?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/gobierno-fija-meta-de-reducir-la-anemia-infantil-al-50-en-los-proximos-cinco-anos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Patricia Juárez resalta la estabilidad en los primeros 100 días del gobierno de Keiko Fujimori",
+   "resumen": "El impacto del fenómeno El Niño podría representar una afectación equivalente al 1% del producto bruto interno (PBI), advirtió la senadora de Fuerza Popular Patricia Juárez.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/patricia-juarez-hace-balance-de-los-primeros-100-dias-del-gobierno-de-keiko-fujimori-y-resalta-la-estabilidad-noticia/"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/05/que-hizo-keiko-fujimori-en-sus-primeros-100-dias-de-gobierno-las-cifras-de-su-gestion-presidencial/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué sigue para el Gobierno Trump tras la victoria de los demócratas en las midterms?",
+   "resumen": "Donald Trump ya ha empezado a dibujar cómo será su relación con el Congreso después del vuelco electoral. Sus primeras declaraciones dejan entrever una estrategia que combina dos posiciones aparentemente contradictorias: utilizar el poder presidencial para bloquear las iniciativas demócratas y, al m",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/watch/cm369lj9g433o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/video/20261104-qu%C3%A9-sigue-para-el-gobierno-trump-tras-la-victoria-de-los-dem%C3%B3cratas-en-las-midterms"
+    }
+   ]
+  },
+  {
+   "titulo": "Corea del Sur anunció una misión naval para ayudar a mantener abierto el estrecho de Ormuz",
+   "resumen": "El Gobierno surcoreano descartó el envío de tropas para intervenir en la guerra entre Estados Unidos e Irán, pero insistió en su compromiso de proteger el transporte marítimo. La unidad naval antipiratería Cheonghae extenderá su área operativa hacia la ruta estratégica",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/corea-del-sur-apoyará-a-mantener-abierto-ormuz-con-misión-militar/a-79859771?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "Infobae América",
+     "url": "https://www.infobae.com/america/mundo/2026/11/05/corea-del-sur-anuncio-una-mision-naval-para-ayudar-a-mantener-abierto-el-estrecho-de-ormuz/"
+    }
+   ]
+  },
+  {
+   "titulo": "Vance atribuye la derrota republicana a la guerra contra Irán",
+   "resumen": "El vicepresidente de Estados Unidos dijo que si alguien cree que perder el Senado es un costo aceptable, debería decirlo. “Todo el mundo sabe por qué perdimos”, agregó.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/vance-atribuye-la-derrota-republicana-a-la-guerra-contra-irán/a-79857934?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos"
+    }
+   ]
+  },
+  {
+   "titulo": "“Un Trump acorralado puede volverse todavía más irracional en su política exterior, más agresivo”",
+   "resumen": "La derrota en el Congreso deja a Donald Trump con menos margen para gobernar y abre la puerta a investigaciones y a una mayor resistencia dentro de su propio partido. Analistas consultados por El Comercio advierten que el presidente podría pasar de ser el principal activo electoral de los republican",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-pierde-el-control-del-congreso-de-estados-unidos-como-gobernara-en-los-dos-ultimos-anos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El Comercio y América Multimedia organizan foro sobre economía, inversión y reconstrucción tras El Niño",
+   "resumen": "El Comercio y América Multimedia realizarán el 9 de noviembre un foro sobre economía, inversión y reconstrucción tras El Niño en la SNI.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/el-comercio-y-america-multimedia-organizan-foro-sobre-economia-inversion-y-reconstruccion-tras-el-nino-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "LG: Demanda de aire acondicionado crecerá entre 10% y 20% por Fenómeno de El Niño, ¿ya se quebró el stock?",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/lg-demanda-de-aire-acondicionado-crecera-entre-10-y-20-por-fenomeno-de-el-nino-se-quebro-el-stock-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lluvias extremas y decenas de litros de agua por metro cuadrado: Piura y Tumbes en emergencia y Lima superó una marca histórica",
+   "resumen": "Las precipitaciones alcanzarán su mayor intensidad prevista este miércoles 4 y jueves 5 de noviembre, antes de disminuir el viernes 6. Mientras tanto, las lloviznas en Lima provocaron nuevos aniegos en Villa María del Triunfo y el colapso de desagües en Villa El Salvador. Especialistas advierten sob",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/piura-y-tumbes-bajo-alerta-roja-que-tan-intensas-seran-las-lluvias-y-que-se-espera-para-lima-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Las avenidas clave durante la visita del papa León XIV: ¿por dónde pasará y qué zonas de Lima y Callao concentrarán a los fieles?",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/las-avenidas-clave-durante-la-visita-del-papa-leon-xiv-por-donde-pasara-y-que-zonas-de-lima-y-callao-concentraran-a-los-fieles-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lotería Manizales: revisa el resultado del miércoles 4 de noviembre",
+   "resumen": "Lotería Manizales de HOY: sigue el sorteo colombiano, en qué horario se juega y últimos resultados de la lotería para este miércoles 4 de noviembre del 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/loteria-manizales-en-vivo-resultado-del-miercoles-4-de-noviembre-numero-ganador-del-premio-mayor-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Enrique Stiglich, rector de UTEC: “Nos reconocen como una opción para reclutar talento en tecnología”",
+   "resumen": "El 15% de sus egresados trabaja en grandes empresas del exterior y participa en proyectos de tecnología de frontera. La universidad también busca ampliar su impacto más allá de las aulas, con iniciativas orientadas a atender desafíos del país, como los efectos del fenómeno de El Niño.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/enrique-stiglich-rector-de-utec-nos-reconocen-como-una-opcion-para-reclutar-talento-en-tecnologia-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuándo se paga la CTS en noviembre? Calcula cuánto te corresponde cobrar este 2026",
+   "resumen": "El depósito de la CTS de noviembre se acerca. Revisa cuáles son los requisitos para acceder a este beneficio, qué trabajadores pueden cobrarlo y cómo calcular cuánto dinero recibirás.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/recibiras-cts-en-noviembre-calcula-cuanto-te-corresponde-cobrar-este-2026-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Sorteo Sinuano EN VIVO: Últimos resultados de hoy, jueves 5 de noviembre",
+   "resumen": "Lotería Sinuano EN VIVO: sigue la lotería colombiana y conoce los resultados del sorteo de día y noche.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/sinuano-en-vivo-ultimos-resultados-de-hoy-numero-ganador-del-sinuano-de-dia-y-noche-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuántos feriados tiene noviembre? Conoce las fechas y los días de descanso del calendario peruano",
+   "resumen": "Conoce qué establece el calendario oficial de feriados en Perú y descubre si habrá nuevas oportunidades para disfrutar de días libres durante noviembre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/habra-feriados-en-noviembre-revisa-los-dias-libres-que-quedan-en-peru-este-2026-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Corte de agua hoy, 5 de noviembre: estas son las zonas afectadas en Lima",
+   "resumen": "Corte de agua: Consulta aquí los reportes de Sedapal para conocer qué zonas se verán afectadas por la falta del servicio de agua potable y en qué horarios.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-hoy-lista-de-distritos-afectados-en-lima-en-que-horarios-no-habra-agua-sedapal-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Perú hoy, jueves 5 de noviembre: dónde fue el sismo y magnitud según IGP",
+   "resumen": "El Instituto Geofísico del Perú (IGP) informó sobre los últimos movimientos sísmicos registrados en el país. Conoce dónde se ubicaron los epicentros, qué magnitudes alcanzaron y cuáles fueron las zonas donde se sintieron los temblores.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/sismos-de-hoy-en-peru-revisa-los-reportes-del-igp-y-donde-se-localizaron-los-epicentros-magnitud-y-mas-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿A quiénes les toca cobrar su pensión el 6 de noviembre? Revisa si estás en la lista de beneficiarios",
+   "resumen": "¡Atención! Conoce el cronograma de la ONP por apellido, las fechas para otros regímenes y los bancos habilitados de los jubilados",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/quienes-son-los-jubilados-que-cobran-su-pension-desde-este-6-de-noviembre-via-banco-de-la-nacion-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Dónde ver Magaly TV La Firme EN VIVO hoy, jueves 5 de noviembre?",
+   "resumen": "Magaly TV La Firme EN VIVO: No te pierdas el programa de Magaly Medina. Consulta el horario, señal tv y avance de este lunes 2 de noviembre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/magaly-tv-la-firme-en-vivo-sigue-hoy-el-programa-horario-y-donde-ver-en-directo-youtube-atv-online-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Rafael López Aliaga: ¿Cómo se han pronunciado los JEE sobre casos de presunta reelección encubierta?",
+   "resumen": "Los Jurados Electorales Especiales (JEE) de Áncash, Ica, Junín, La Libertad y Lima Norte proclamaron como regidores a seis candidatos que buscaban volver a ejercer como alcaldes, en casos que involucran una presunta reelección encubierta. En cambio, los JEE de San Martín y Amazonas optaron por procl",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-como-se-han-pronunciado-los-jee-sobre-casos-de-presunta-reeleccion-encubierta-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Resultados de Loto Plus 3932: revisa aquí los números y sorteo del miércoles 4 de noviembre",
+   "resumen": "Loto Plus EN VIVO: mira los resultados y números del sorteo del sábado 31 de octubre, que tiene un pozo de $29.300.000.000.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/argentina/loto-plus-en-vivo-hoy-del-miercoles-4-de-noviembre-controlar-resultados-del-sorteo-3932-loteria-de-argentina-tradicional-match-desquite-sale-o-sale-lbposting-ar-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La intervención de Ueno Bank: cómo una crisis financiera desató una tormenta para el gobierno de Santiago Peña",
+   "resumen": "La decisión del Banco Central de Paraguay (BCP) de intervenir una de las entidades financieras más populares del país ha dejado a millones sin acceso a sus ahorros",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/la-intervencion-de-ueno-bank-como-una-crisis-financiera-desato-una-tormenta-para-el-gobierno-de-santiago-pena-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Resultados del Quini 6 del miércoles 4 de noviembre: controlar cartón y números ganadores",
+   "resumen": "Quini 6 EN VIVO hoy miércoles 4 de noviembre: Controla los resultados del sorteo 3423 de la lotería de Santa Fe y descubre si te llevaste el pozo acumulado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/argentina/quini-6-en-vivo-hoy-sorteo-3423-del-miercoles-4-de-noviembre-controlar-resultados-jugada-y-carton-tradicional-desquite-sale-o-sale-loterias-de-argentina-lbposting-ar-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué sucede si dejaste de aportar a la ONP?",
+   "resumen": "La ONP informa que no se necesita volver a afiliarse para retomar los aportes y así acceder una pensión",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/no-aporto-hace-tiempo-a-la-onp-que-sucede-con-los-aportes-que-he-realizado-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Si me depositaron S/100 de CTS, ¿dónde invertir para obtener una buena rentabilidad?",
+   "resumen": "Si me depositaron S/100 de CTS, ¿dónde invertir para obtener una buena rentabilidad? La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXdVOUZYclBJckNMNTJPZEN1UmdUZE01VnE2N0lRZVdWUDg2dzRCc1RMUGlIOThUUUVEU2tDLXpYQ1Nwb1dnY2hoS2hoZXBaMmktNjhLODFVY0NlS0NrT0RodWFlYW9fdW95VVlidG90RU1YMkZKcVU5UFBGNm10cW9oU0toQWlEbko4TldTNTRHTHlPMnNEcF9aNFlBOThXTFHSAacBQVVfeXFMT0djaVZIcnFtWFBQYnV6MGVZNWRlTXpvZDhhVU52NlEwWlpaR3BCZjY3cnF6UUFiMHJ6YXhvRUF0SjNzS1JPN3F4YmRpM3BFeDZjNmd2aGxTbUx2NHZmTTRISnJUOExRU0VWeTcxMkNyQ042MGJFODJPYjc0LWxwQU84eGJVRnNzbGVzLTk3aHhHM3ZEZTBaUHdhcDk1NnI5VEJTcXJzQ3c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Más de 23.000 serumistas se exponen a emergencias de El Niño, pero no reciben ni un sol: presentan demanda al Estado para exigir remuneración y seguro",
+   "resumen": "Más de 23.000 serumistas se exponen a emergencias de El Niño, pero no reciben ni un sol: presentan demanda al Estado para exigir remuneración y seguro La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQLWl1RFRKdkFHNzZEc3oxZVlvMXNOWTU3LXpKc0ZnR1hVcE8wb0x4WTBvNURYWmtqeE1yaW5qUTk2U193b0RILVR2XzZJc1FXLWZyZE1FazBXc1d3WFhxZGs3dTlwNzdYT3V0bXFnVnRveU9QNXUwOXk3RnExZmZSdlV5elZBSHdVWWNES3JhNVgtclVGeDFkbXZhcXJkc3hQbzg4THkyRHN3MHdMVWJTelFzMjFZOHhrNkdTZzJyYnF3akxBcjZuOXRNdlFmSHFHcVl5dkx0OXY1X25YcDhkUkpBMF9sejhfVnNzU19PQ3JoWVFaTURLb0d1MjBuM2FhUE5iZnNHemRNaVlTV1FHeWdQNnhfeElKei1XcTZNX2tyRlnSAagCQVVfeXFMTzBTREhiYUxiVVRXcjJIUGlEUmtaeUFMWS10TzZPeTZMM0Q5WFpOSGRyMVl5bW5JMGd1OVpwd1IzWWpKQXdsbWJOR3hlUFY5UllPeFZQUkFfdzJYZXRuU3B0N0Q1VG13akk0NGZiaWdlWEVhWExnZVVjSEp0RjRTSnpXc1NhRXNRSGFxajJrM3Z4NkhRZFZrWmdDQ1ktYTJwNEQ4RTZfLVctM2hBbWhMRHZabHFkLV9ZQ2dhTEloMW91Qk1WWjBPLXA2YV9LdFltLUd5RE9SUG1tR1NoTzFNR3R3ZkNNNEh6Qko1YkVvY05sNmhqcURid1BrS21QMmJic0x6c2pmV3FScXE0aDRyQXI0RHdvcUg1bWY0S3JCUFNkRmVwcTBhQVY?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Julio Velarde advierte que alza de combustibles dificulta bajar la inflación y prevé impacto temporal de El Niño",
+   "resumen": "Julio Velarde advierte que alza de combustibles dificulta bajar la inflación y prevé impacto temporal de El Niño La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN0dwdmFLTXBvcTFGeUFPbmFnZ1lxQ3pnekhmLTJzQjdsLV8wcDRSeDBGMHZpc0VrWG1TczYxRkhyQTFuazMzUl9OT19aX3BvSGVqR0ZDQ0UyZS1VaWdMRS1YN2NFLV9Sdko3VDdtN3BYRTRzdXBKbXVDaUNtV191eGx2Qk5xWXdiMTRRYjJtVXRYZmp5OWhoNzREZzJaTU9GWkxNWkx4cUdwVWdXYlkycFIteHNpd1pIc1k4R0tyTlR3QXk4N09tREVuVEZkOWsxcjVIOVJPR2dJTkFQa1pKRGZ4eDEzMUlpaUhydV9nYjJHUdIB9wFBVV95cUxNRWtLb3pJT1RtVThUci03WmI5cGpFNzA0UU5VUnRVY084LVpZbWo1MnpMNW1XQ3l1RFhGNUQyU1hUeGNWUTFOcy1WelR1V2lKUDZSRXl5eTk2SGlvRnVSQXYxU2dnZXpjTzdpWEZMYkFuRVZwRlVadlp5UlhWNDFwb2taU2pNbktKbXpXRS0zb1NyWlVGeV9EaUdxeFdwNkU0aUZJcnQwYUxRU3I4NTlyTmU2QVMtU1JhUmdWUXBuYnRHQUZJZ1JLeExDRHd6TWlEM1ZYUW02VUxsb2hhMll0a2Q5SG0tTndGYW9JRG9VUmdtblhSOG9R?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "\"Son una tira de inútiles\", criticó Jaime Quito a los ministros designados por Keiko Fujimori en los 100 días de gobierno",
+   "resumen": "\"Son una tira de inútiles\", criticó Jaime Quito a los ministros designados por Keiko Fujimori en los 100 días de gobierno La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUE16Sm1ZaFBJQW9oVUVxR01qd3Q2bmZuWDhWZDN6Ui1VcDh4N1JFN3hKUHRHeGVManNSUVF4SmNYaFNYRDBOZ2ItVXMxd3Z5RUR0ZWxOSXhCeE5odG5kWGdCdUdZbVNCd2VxbFBQaDdxTVNjUmxaQmx4ajdtRGFaa3RQTEwyb3pwMzBfQ0JfcjBGVWc5ZWxONjMxWWRjUkF0R0c0MDJuQklQMmJDVFB3RTNRRldJUGFiaWlEcHNSTzk1UkI2aFc5Ull1Y2d0c1U3N19aVnhteG5JcTNCRGtTVFdVbVNPOUJteDVvc1hCdG1tVU1hOXFRWmIyUDZDQWN5bldheNIBigJBVV95cUxPbWYySUNEaVNSaXF0N3loMER0WkRZZVctY2lYNFZiVXZTb0NoSm9qVFJiUllzbV9nM0VrVk44MXNkQkhxQnNzTGx1TmZQX0FQWjFiY1Q0bkF2RlpMeUZOZ0V0ekxzTHVJOURmZmhvUVZPZGt0U0xfWlhDeW1DT1YwZ1pxeEhQQlk0ZjVrcDRabHNmWFotR1RJVEVyVHZ5MVozektpUkpOZ19xNG51MTFWVm5QS21zbE5haUhMZloxVDJkc29qWFVNcXVnOFNIOS1PYmlrdGRldmFmY24zdFMzTWtZTnh1em5iRU1KUy1ELTRqVW4zWEVTQzFDX1lER25vVDVaWnVaUVZzdw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Indecopi: empresas de transporte no pueden cobrar penalidad por postergar o transferir pasajes con 24 horas de aviso",
+   "resumen": "Indecopi: empresas de transporte no pueden cobrar penalidad por postergar o transferir pasajes con 24 horas de aviso La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcS1aVmNrOVJfOVlLeUdKOHBUaUJMN19ELTZpcUhKVmpvZFA0YXRCMzF0VV9mT3d3UzJ4TUlzdzZuQXdGODZLTEw1R1Y0NUhGNko3anNwSEF3TnlVY1lrLUhqclItRjNwTktpUUt3dlV3SWtwRFRabDZUTF8zSGhjOGVSRTQ1VmQ2ZVdoOUJBQ0RHd1ZGSkM0WDBEeTZYSzR3UnB3X3NpMGN6QmxuSDNvc0ZxSGQ5UUJzWUxfSFUtVkstNk5Wb0ZqOWhsNGdhVW9UaEk1SzFMdWVaQ2ktOWdNR0NZVzZ1M2RPbHdsU1g1Yng2RU9vRHNoeNIB_gFBVV95cUxPazc0d1hJMUNnX0pPRlA1d19aRUxXcWd4ajdNVlcyXzd1b2dMbEQ3OW02RmZ3OGVuWXVTbzJ6VGx5bVEwbDZfRGhvVDVxclN0RmxpaFlnWGVUMkFfN25HM3RKMEh1RUg4cE13b1JFWURsUmRKX3hjRHR0Qm1taC1RXzZpMlFRczdCS2ZrY2tqVTBsdWVpdzNYOTRGVXBiZ2gzdnVUei00YTRnd1dfM3VpVGpHMmlOb2tDLWFWeWdRV3hnWGZ5UkxYUjE0VUhvd1N3RU5IaHdVdXJRTjVyNXQzZVQ5RF92aExzMndiVkFwVlhyT3ZlS1NJYzBJUVdNUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ruth Luque respalda a parlamentarias tras altercado en Tacna: “El poder se ejerce con responsabilidad, no para evitar el control”",
+   "resumen": "Ruth Luque respalda a parlamentarias tras altercado en Tacna: “El poder se ejerce con responsabilidad, no para evitar el control” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVXJIaXJMc0JXV1dpczNWc3pJNEU2Mk5YLWthc2lRSGNTcUNObDEzZmVXalpINkRvYWJSWi1RTUliZjVkdmw1eGthQzVfVVg0ZXl3ckxRQ2NHVU55RTlQa3lOZ1RmRjYxQ3dPdE40ZzMxZlpGVzFEUk5TRDBhbXZWYkJmb2Y5ZVlDVTJvc1MzX1NSUEpoMnFkdk0yRnNsd1lGc1MwSHFYWlBYTVdMcnV0UElBVVV1SURvd0NKNWNPZzc1ODNiRmwtVl95cE1pbjVvRzI0c2hxNVotRXFmeVFNLUhfOXhiTWJDb2JTcks0NzY1UVA5TWthWHdxVEdtNFlDckgtc0FHcmg1bURmU0HSAZMCQVVfeXFMTlZmeWROZnlpVGpKUlJ0dFAwRWZHZFBDNXZEQUc3RExQYzNoajhxcER4YmFIenFDMnJCOVFhVV9mQXhmbU9iWVNOR1VPcS1CaFF1d19vN1ZTYzRVN2xYdHJIaVBQaERudVdqWk83WlpCbjdLMW5LNURmMVU5VXhDbWY4SzJRTXRTLTdzMm1hVVRpa1JuWi1zSUFkYjNNckRwS2Nqc2VTVEhjSDdmVHgwb3BJMTBjUWh6MUpnNDhxTnFLOXJZdnRNX3NINlR2UnpkU1RGcGZLWTI3R2RjM0tGcEpybmZlNzZOVGZBemRkbE0tTDByZ2hlR3hCZWhJa05vRkk5WXBUd0dsZDh5LWxlazZZRGc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Puno: Rubén Quispe Capajaña gana sorteo con moneda y se convierte en virtual alcalde de Conima",
+   "resumen": "Puno: Rubén Quispe Capajaña gana sorteo con moneda y se convierte en virtual alcalde de Conima La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQmMxWXF2VXJYMW9YZXZyX01IbmZ1ZWVVaHNWZ2cyR1VaRGtIeWNpdG9nVjg5Z01ZZHNyQmJGakFac0h4WlloTWNGdDdRY0RKT0tVUllHUm44RTdfazAzNUoxRWpBUXRIbmdhR0otYUZiR0YyMnpTQm1Rb3RCVnh1dzd3bmo2OXladW1iZUcySVlkbDhGOXJCZkJTUUlMWnNHeWFqVWZNQy1WcE5XLXUxN0xGYmR2U2dLS052My01VXVoWElZb3ItUzMyX2xiTFAtVGVLaHhVUTZtd3hJUmozaTRPd9IB6AFBVV95cUxNTUVFZ3Rkdi1scjZQd1ZGNlh1R0tFcW1jc1RKVTg2NGxaWFZfVE5YcDFSUENlaGUxUmNsNUVwWmk0VTZFZDVaVk9KQi1zODlUYjlWdXZzRnRYN0kzVUYtMXBBWVFyNGp5OUp1OWFGSGxlM2o3R2pvQXNESHdIMGxGX09ybVl4TUQ2UHJucVpNZTA2SUtMSlNhZ3FjYXRMcGw4dVgtb1hmNlk0LTk0bnpUVmQ1eU1MNGdVRHJJZlVncjUxT3AyTkdXM0RwbENGZzB4eE52dUhIWkVOLXp3V1FMbENRTFFlOEJ0?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Luis Dyer sobre emergencia por dengue: “No queremos que los hospitales colapsen por temas menores”",
+   "resumen": "Luis Dyer sobre emergencia por dengue: “No queremos que los hospitales colapsen por temas menores” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGpGX096RXliYmdVallqS0RuUm9ONUdrdm9UTXkzcG9lMHliTEk3Z3lRa2xaQ1FveFo3MS0yc1ZNT2ktTkhhOFN3QVNUYk5YcnJtS2stZWNYVWl2cHVnR25HQ1owUXlmejFrbDJ2LVkzVHlmRkxoaERwNkdNYjZzdkhrVC14aFoxWXBwZEc5ME9CU21oY3gxOXVMdmNicUVGNW9ZSlRhVmNZRnRLSEdBS1NVeUxKaktjaTZLQ1dxWXJkZGlsaWpaZWIyQzc2ZERwZDBWQ3VKSXJOSTI4d05ZYUFuVUM?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Tráfico en Lima: accidente en la Panamericana Norte genera congestión y desvíos del Metropolitano",
+   "resumen": "Tráfico en Lima: accidente en la Panamericana Norte genera congestión y desvíos del Metropolitano La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXFFWExxNHhZTlFlRU9jZUZSOG90NEhqOVlHeUd5UlRyNUVOZXRUemtyOWpVUGhqUGcweTBtRS01UFkyOVZZZkNTTTBibFZOclEzMVhTWW5qNk9VcXBkQXpuUVV5U0tjOC1vdWhMRm1IUkhXa3VxUEthTEtZUjZhMTVqSXVacmhOYTdFdmJrbGFmZy13dWFsZW0xRWdaMktjX2laUWN3Z2hhR3NCUVBYMVZvb2pZVHlzaGQyelRMRkptYkkzSGlmTEtqeWh1LWREVmQ0eWpLaUdfYUZENm5v0gHkAUFVX3lxTFA2UXJPaU1YR1R2dzhDb1FxdnRlWFRZZThvYUhLWGZPUk0tOFVDdTNldzFfZzJPVWlPNGlFQTV2ZVF6NThhNG5UOXlObTl5ZlAwZ2V3SzVUbzlEV09xMTRRWXVtUzNzaVNpeWc1ZF9MV3ZFWmRwRXdQZmR6SXdlQ0pDcVNnVGQ4OENSMW5rY3l0TFNhTF9Mall6czNqdjFfTC1UalpRT1NLd3JnWVVLanVjN3BKVGdSdW1icDVnQmVQbnFtS1RRSEpZcGxPRnQ2VnVKSjBoWEVqeExpX2wyV3Y0MHIwYQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Zunini tras la victoria demócrata en el Congreso de EE. UU.: “El Perú debe ejercer su soberanía y actuar sin tutelas extranjeras”",
+   "resumen": "Zunini tras la victoria demócrata en el Congreso de EE. UU.: “El Perú debe ejercer su soberanía y actuar sin tutelas extranjeras” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSl9PWVg1NFBjd1l6TzdNbkhIRXZUUEx5eF96SzRqMy1lVkhBLWZ4VkhBdW5rUUFHbTVIYkxucFVJUm5uWnNyU1ozZWtQZVQ5aVpBX0VNMjBzZkUxRmxDNGxxZGRTNkJQQmF5OXY0dzVHbUJqam5jbnMwZEpPN19VcS0waktDOTVySmFmUHdlSXJLeng0d2lMVEdYY2xObUtKRnIwNzJSaGR6WEotTWE2ZTlkYUNzRzdHbHhsLXpoOXh0Sk85T0VTaGctcDFfLU9Sd01RTU1xc3ZwNk9IR1NrZ3BUSjEwZkU4cC1BRmplTGVTOWlRN3FCdVgzRUs2SVZvVjFtcGVMSDJ0OUZv0gGSAkFVX3lxTFBSdWk3dGwtYzEtRmZ0MVFJTUV6Z095MFI1b3JSakNPOVVkU1dSR1pXTlUxS0tIR2Jzck8takZUNVFDOEFkeV9qVldRRW9iT1Rfell4UGpnSkRJUUllS2dJZjNYNUxXN1Jzb1B4czJWZDJTdU1yOEx5ZjBxMzNCR3BsZ2E5MFh3N1EzRjZtNjdBZURjQTVORDRYNlZiOE5vMHlUOThkUzlwYXVjTG9ZbmZfUVJmNWV5SExjandPTVN3R0VNdkcyMmN6VDQtc1JZczN0NVRDV3NFWTdEakkwcklXejI4Y0tfTDRmVERpWDFXSUNMb0U1R3hNd1hRRnJJSUZnZ2tQYlY1TVgzVnhJVENxa2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Betssy Chávez reaparece desde México: “Estamos en una época en la que se debe de resistir”",
+   "resumen": "Betssy Chávez reaparece desde México: “Estamos en una época en la que se debe de resistir” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORV8tVVdPOFUxMmpDVDQwb0NpUUw2cnZYeTRZVS1WTV8yQzFGMC1TS1c5TkJYeWg4RWpqd0h0dXFqRllpS3JuaTBiNWhJY0xMSzhsN3lXVEZUdjB3WGNLbnNURTE5Ry1XYlBYS3NmNkdGOXg2dHNsVjVpWjNFMkh2X3hBU1RjZTAtVkZiS3JKWWNuYnJzQ2hiMlNpRmVjRXgtSjZhR3VZRUl2N0J1b1hwVlRLRS0xNWJWSjVhcnJQSWFRV3Z2QWNhdXZ0SlR3aFFpQ0J3QXFDUXFrd9IB3wFBVV95cUxPbGpwUlhFNy10MlJVR0laaHZsNS1CWnZlbnJranhGdUdjN0JTa2xvUUcyR0x6V1F5ODhfd1hRXy1ERW85UUxnWnRBQThwOWJhVF9hU1BZM3JfelZTOFRxSlVNQVVSYUwxYng1Mm55bG1TSmFzMnV1S19Kd1lGeC1Xb24zWlF1VlRBUC1HQmd5d0NWOFN0QXhKcnRZYkVXcjlpeUgzRzBwekRQN1BvYmM2b1djSHVzZ1RlWEdSWmFaaEIycEt2b2FudDFybzIxcHluUXFtREFQWFZsVnlpeXpV?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Alberto Beingolea: juicio oral por presunta colusión agravada contra ministro de Cultura inició este 4 de noviembre",
+   "resumen": "Alberto Beingolea: juicio oral por presunta colusión agravada contra ministro de Cultura inició este 4 de noviembre La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNT1hfbEVSOWgyVXRaVEptYklRc3pXVzFlSWRNek1ZVWJObjdvYnI0TENoWnlPUDNuNk9lNmZJbFJNbGpSSzlLY19jQlRHYjBKNXN3Y3lSeGYzR0RDTGpMUFZTZlRxVGVIQWZ3VXBQc1BuZUxudm9TSlN2Tk05QjRCZkRKQnIzR3NhNHdZUkhGRWZZb1A5UERTMEpmOU9PdV96X1dPVDlhbGd4TGdSdmFwaGlIRVV2MnlWLUZCR19tUTVXamFqSU9oWnRSNkRLaVdSVGpucHVYRklRd29mVHdIOUQzVDJGbHNMa1h5cExIblhRa3dueFV5YTVOTXQ2emfSAYQCQVVfeXFMTmNCY1oyYVBKQUpMejRlb0lHalFyQjJrSE95MmRtbjJpMllxLTczM0ZSTExlSU5yRnk4cTJuaXYtMHJpQThOQTk1OGZTRVNIM2hjSktRaUp0TEQwbElvSGtUcVdmWU9uendZZWdQV3VHS29HeWpJMV9oY1g3Z2IzQTNSM0ZRTTB4NF8wT0NZNm1qRUpPdDBaZ1FnbzZoVGpCd2k4a1pwRnViaGRoUk5Gc1MxSFRaQjg2YmI0blM2dkYwclo0eUNVUGd6VjhTRzdGeVlCRVJySk9RUlZ0RFBMcXlVRXVfTDBlTnZQU25BWC12VmVtZTB6azc3SmNFaFRJR0M1OS0?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Indira Huilca respalda a Svieta Fernández tras altercado con alcalde de Tacna: “Es una falta de respeto a la ciudadanía”",
+   "resumen": "Indira Huilca respalda a Svieta Fernández tras altercado con alcalde de Tacna: “Es una falta de respeto a la ciudadanía” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPM2tPdTZVZVBGM29oNk93TVM5TzBrMkFEUGNKUllCNlIxV2tsX2Z3QjQzeFFKNEIzWWUxY0xxQ2w0YWx4M2lKdEhBekZpNUJZSUxKeFpnX0xlRDN2eGw1ci1mM29oQ1dFUmdVWnY1b3FfNXgyaTJhbWhzS3ZsMGgxelJ5Ukw2VmRpQWM4TDNtLVo2UktpS3BtS1UyQ3FuSUhPTFE0VFdnRUxiQ3RIdzh5NGMtY2I5YUlGSjNndVJ6U19IdUl5TC00QXBab0d0eHJSQ2FDYkdMajM2UWFncDZzdFctc0lrdmozSGhsdW1wQk8xQlI2Rkl3SDN1M19hTG5yY1Rn0gGIAkFVX3lxTE9Xbm4tdzREVFFKWHlabDEtQWN4LVBKMW9CZUlrNC1KRzFRRkFmS1pEUzNFTWNBSVhndjlFYlVxZ0Y0MldQdGJqNUpEcEcyT0NXM2J1TUk3RU9LWXd0R29wNTI0dnRGR3pFdmtWeW9oaWw5Nml6ZElQQ2RJMkdmamthc3B0WWVIdEgwR1NrRmVsNVBybl8xZHpibm1MTzJreDBiRWEycEpHaEoxbVp0QTRlN2hNTDI0R2pPX3F5VHdJa0tfSHJfbUluX2hOeDVXWXB2UWFWd1gzLU81XzNsbkpnYWY4eHZXTS1nOFVNVFdNeGI2eWNjek9WUjFNVVlwc0FTd2gyaWYxYw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
+   "resumen": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUlyOFJMYWgyaGJKaXJSekpBdmZTSllob3pKXzdxTTNNT3VYUjh1ZnZhUFJ4OGNTVlhlQTVIWEw3NzYybU9tNWkzdzA2V1A1eW5mcUNKMXFqa3VHdDJveDlaRlA3N1pSRTdfajI1MGItOE1WOXlHLTZmNlFtd0EtMGRnbXUzVlNOdnVocnVkTEh1ek5XdTNndHgzQ1l0Z3VkaHBYVzg3ekdTa3VxM1oxZTB1V2tuRDZ0czFrUmlTTTdaWVZ6OS1WdzJhaHQ3d1ZBUk1saWhabEJlcTI3OGIwWU4zUW3SAeoBQVVfeXFMTW91OWhVODZQUWVTc3Z6NjZueXIySTJIVU95Z3laTE5BaUttdFNrVW9oQjRTUkQ5aHZyQTBvWlItczFjUGU1cHFMZDV6T2JMZXhDazdZbVBwTnJoWjZjUVB3SC1ybnBfYkZUWUIzOTVLa1dPMmlBU0tYQ041bFhkNTVNYlA4Q3RBMGNiMmVxcE8wSGhqeGNsMkkyeW9UNGhiTWZRVWhkVmtmSkNRUzdzYkdNS29lYnhTRnNuMnVTTFFza0plWkt4SHUweEI3cFdIYWpMaWJud0hMTG5sYmVHei0xd3gza1ZhaUhB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Demócratas derrotan a los republicanos de Trump en las elecciones intermedias 2026 y toman el control total del Congreso de EE.UU.",
+   "resumen": "Demócratas derrotan a los republicanos de Trump en las elecciones intermedias 2026 y toman el control total del Congreso de EE.UU. La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNktHbXM1Q0ZXVTlfc2lENnNWLXg1b1JBRmhHSFN6eW8yYzVVQ0I4bDNJSEJzX2o5V2kyZjU3ZUYtd29Uc2VQeWhlaktoYkVDWFBCekNoYmRXbzFpd2NBN1FfbDUyd0RQaEN3UTV4dDIwbDYwdHhHX2xuVHZZVWlCT0xwOUhGUE13VDlIRWYwMU90bm1kcHlxcldhMzk0b1kxdmFnZEYwVDR0NTFBWkxnUHpDNmZoWE1NVDMwcUQwMC1TX2hDX1ZvWk5RWl9UcVg4N0dzeXdab09RRzhfZWtmNTY5b2tpdHRFSEJWTGJmVE9NZDRmYktHS1VwTdIBgAJBVV95cUxOZGUwbXpWekQxTVlUcjgycmc4aEd4Zm16cHZMNGhqXzZENVdBVjBTc1ZZZEdHLUFPdWUwOFM2cENhM1RNdnpUTV9WMkp4Um5qVDdfR3hzd0k0dkc2d2VrdS01ak1QVFdSNWZsZUdaWmxXaWlrRGFZTzBhN1JuR1R0NzBlWHBRcHhkT0owQlU5QmNPaGVQS0dpR0lHaFZmYjdPWXJlUlFkODRsWGJ0SW82RkpSUzdET2tMOGZxMWtfTVpCSTc5V3ZvbEl1RXRXRkpuMndadHVobi1LUjJtdS1HUDZCSTgtU093dGp6c3pVZmZsLVRETnFHS1AtVjRuMW5I?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Presupuesto 2027: piden CTS al 100% para CAS que cesen por edad y bonos para trabajadores de Educación",
+   "resumen": "Presupuesto 2027: piden CTS al 100% para CAS que cesen por edad y bonos para trabajadores de Educación La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMkk2QWdkWkpFblhxdTNDUzcxekVySEdxR3dWS01STWtseGN6anpFLTN1LWZFTE82RVNremVSWTh0ZzJjdk8zM19nS1pPREkxTldrLVZYU2l2cXplbU1IZUxNR2pjRlBWd1JOSFp2bWVCcWFpMHpLSDNuZ2NMbDUxTklyTUZwUDAyODlTNFFReEFWLXlLRHFvV3U3OTgwY0VybFpqbXd0b2M2VkxrM084c0hWclRqRmJnUnB1MFNQTHZ0Q3ZtNzdkbEVEQUpMOTdRMGR2aDR5REdvOGlYMlZVSmh2eG03TzZQVlpGYdIB8gFBVV95cUxQZXpISHgyOU1RRUF4aVhLVXpoVmctZGFFeVl6QzNzMGZkcjZ6eTZWcHVtSEtvekNiVkVnOTJLTjk3aWtIV0pPRFl2dGlVWmJtLXV0STJXbHZIZFd4cFNMeUJoa2lKY3pZMmJBajFiX1RxcEFqWEZfRjYzZ3VjY1JadmNpYmczMkRNcER2dDM0WVFlOHcwczFnVUtaeUpvbWd1X0ZfMkd2S01iR0dLVlVidkFVdFh2VEl2SnZPY2pUb0JoM0dLdzlRbTdpc2dMbkNwb2VSaVFTdGdjMHNPNElXT3NRZnZULTN2N1ZCcGFyOTRDQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Petroperú pasó de perder US$355 millones a ganar US$144,9 millones entre enero y septiembre de 2026",
+   "resumen": "Petroperú pasó de perder US$355 millones a ganar US$144,9 millones entre enero y septiembre de 2026 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHhkdHMwWXlLVkUxMUpqUk5uTFo0LUZKR05ULUFNYlZOOTliVXhLN3p1d2FOWHBHWDJMT0ZsR2p5dWlKNWNpMDk1SkZLWWhERWpEYjkxc1JzdzZxU2ZpMmNkQml2ZkRoelRYc3RqR2xzTU5wZUh1bC1YSVFHVVQzRkVlNEo1WVUxb1JrU3Y5MzlycVV2dkpYdVNHRUNhMXNiVjVOaWxDdjdmUmItTmFObzZkWHZkZHpHNzFZdkJaRzlOTElLdVRmQjY3OFFvckNMYUZkSE9qcDFSMzQzZVUyOdIB5gFBVV95cUxQLVd4T3ZzUWVtbFhFMnYxdEpuMlRfNGtMbWdqWC1EWWUxZ1ZfaW1kTEhBejJrVEM2WlJhbEhXd3VicjBPalUtT1lTS0xFQVVfa2xnR0hUUWQxTnNrcFhNMF9rT09LcWJOUjNhN1NSMjNEUFlDTzVRTDlYaElCdGdvWGNicFpKWDE4WF9QdU5zZUlxWllla2IwOTVZbWdNeEF3bFUxWlBDNl9fUVJjOGhQME5rdUJWMDlfMWxFMllsQzkzZmdUdjFOZXduOS0xc0ZaVHZiZHFacUJfbW5jT2pnbU9LUnZIZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Trump acepta que la guerra contra Irán causó la derrota republicana frente a la 'ola azul' demócrata",
+   "resumen": "Trump acepta que la guerra contra Irán causó la derrota republicana frente a la 'ola azul' demócrata La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRGt0QTYzTUxjUTN1YW13VVFjMjNROGhJYXJmZ29uRHRKT0hCenhOLWRTU3Z0bkVpcGRQeFFfSmVRNHJVcDNLMmsxT1dSa1pyaWkxVjBHWlJsS0dSREFjbGJQMXZnS2VaUzEwd2otel9FRzJWUjNvSlNNOS1aOWNYZm9lbTB0SnYxR1ZUWW8xbVFURVg5Q1hFMEpNaHhubG45cVQ3RlduREMzYkJtLWk4c2VaR0E3dmJZX1NQNkpvN2lvY2lxb0JQZmNfZEd5NkpJU0ZaSlAtVl91NjI2TlRoQdIB5gFBVV95cUxOMm8tUlBmWWJtV3NZaW4zeHN1cmdaUEZMRTlpWFlBa3R2QXhiU3RKcENock1ZdmNDVDByRE9RZzc1VEt3c2N3Z0Jmak5WN0ZtWUdpaDhyRDdROGdpRDdXRi0xdzM0WUZULXh5YkdXSC1INDlIZ2Uta2l4N18waGxjNWx5WEZXOVBEXzJrdjNpQUx0OW5YTU02SndQZVN0cG9NRENqM2hJX1RNa0VydmdSSlpUTWJPd204WnNKSUFhVjhIaXBaajF6Ny1uM0h4TmFESTNseC0tMk1wejhHUnVmdFlRR05OUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Niño amenaza con reducir hasta 3% los salarios reales y golpear el consumo en 2027",
+   "resumen": "El Niño amenaza con reducir hasta 3% los salarios reales y golpear el consumo en 2027 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQnVpcmhnUWNlWGZVeF8ycktQUVBWeEp3Yl8wVXo5aEFGZHB6aDJyQXU1dC1xUFpuNHNRR3dNUlBTMklUOGY2VEM0LXd6THFaN3lIUEd3UnJjYXJMTU5fLVh1cEprZm12aVluY0U0UE5GOVg1UGNwU2dJNWNZaDFIeU45SmtPaDF5N0VWQ2hjQjVrdkg3WDRROTVHa3d0NFU3RzVUSGkzcnMtUExhMnM4N1VMZHNqUjVHaWJnQlFYcGNYWVpWcnkzOXRWbTBtbXotbXpmZmxQZ9IB3AFBVV95cUxPYmxISmhERTVnSUkzQkhqZEd1Q1NYRWhBMURpbG9tc05XVVQxakJ5OF94MGZUdkFwUlhmR01weGl2WFhWOGNpYmg2NVB6QUEtZlZqeWdjWi1udzVXX2JMay11cG5BTG1yZ0txNTd5ajZfMlFIN1FlNU5Td3ZQcWh3dnhWSXFXVXQ0UDhmMGdHcEIwOTVRaFpFdlFpT0hlRTROUEpCVjJKdDNYT21LdlotQ3BrclBfNVpIXzQwOFRPWXZYbkZzRXVqNlFfVkUxeW15eW9BVEhrNktENjdw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Niño podría duplicar o triplicar el precio del limón y elevar el costo de otros alimentos en 2027",
+   "resumen": "El Niño podría duplicar o triplicar el precio del limón y elevar el costo de otros alimentos en 2027 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdzY3UkNyWEpjRzdDQVZEV3V4Um9YUnhZVS1CcjR3TXVBUHRjUTIzZHltYjJhaVJEaERFRnZmRjlvNjB6WGFsZzRfc1ZZMVh0YnBiOS1TUzdRLTJ2RlFONEZDQTdUQjlqcEVaVmNJQjI3cnAzVE1tX1dhbFhHY1pXekRLeDNCXzZNVmFHc0V3Y1ZnWmlZQWIyWlIwWHhVUkpBSTg2NnNObGdFNk1JX1FlZlktU1dwRkU1SU1yN0VTSkNzNXZqZXdkNTBuUXFCQTl2TmNXdmJ2TURLOG9xVEJjQ2NsYW1sZF9MOTBaT9IB8gFBVV95cUxPMjVnbG5STVVvbDl3OWotWHVmZzhVdjlieE1NZ1VYV1R6UjhfTXZvNHphc3ZCQklkX1dVTEtLTERad0V1VnVPa2NzNGo4UTM4SWhCZENHck9DN1NRWVFkOXBZUlowS0lfU2tRaGdIWHJrc2ZUdmFtSXkzS3p0dVg4Z3pmbHBodVRId3F6TnVlNG5SNV9TdVBreExqSHFKSk5WX2QxZ0ZidmpNd2x2dkg1cG5lVk1hMGxFdEVhcE5JaWwyZ21KTFhDN3VFUmZQbU15bVZwTmpwenBjelVzOWhHTGstMGI2bEhiTnRLLWNKdk1pQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Senamhi emite alerta roja por calor extremo en la costa: temperaturas de 38 °C y radiación UV elevada hasta el 8 de noviembre",
+   "resumen": "Senamhi emite alerta roja por calor extremo en la costa: temperaturas de 38 °C y radiación UV elevada hasta el 8 de noviembre La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUC05bTZxcF9wekR2VzJpcENjS3JFVUJCdDgtRFlhV1lCVlVNcUxDcHRIN2NwZlJZTlNJbTkycmlTTGNHcnpRRlFfdUJoczVrZm9VR0s0QURic1J1ckM5NkFzT1FyMjV2TG5ta01VczhNejQ0LWZ1dXVBRzEtVjVpY2tXOXZBZXQ5MWF4MG0zV2trSG45Y1dkN2VlaUtKMk5McWVmN3RKODFSX09FS2hRYkoxVldTRXVld08tamdFdC1QWGFSc0R4U3E1OVhuMG82ck5MaC1qWDE5c3R6aG5SdWpMRFh6LTjSAewBQVVfeXFMTjRhclU1dVZQMExwblBtbVBYNG5Jb2YwTnJKeVRFMlBDU01QR0tIckVHbVdzYklTOFFrMHNZN1E4ZmZXQlZXLWtpR092VWlyNXBkZWt2LWgxOERJNm1VZnA4Q2hJX2duci1FNU9tMm1mUUZYZENhMExtdUdNZmFueFBSbmROQUhQUTVGX1ZJX2hscU1tWnlPdmxhMlY5TFZPU3R0RHlaQmxQN2xtSkFyZnNuMU9fcGw1Ykd4YWlfMTBvRlV1MFdTVHpvVkpxT3NoVEhqVGtuX18xUHFvcEF1UC1BVnB6OFVrMVp4YTg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Indira Huilca sobre amnistía para Pedro Castillo: \"Yo creo que ha sido procesado con serias deficiencias\"",
+   "resumen": "Indira Huilca sobre amnistía para Pedro Castillo: \"Yo creo que ha sido procesado con serias deficiencias\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTmVUMmJUbzRkcElyYVJEOXNnQldxZXlkalpqUGZlQnk1UDJxSXVGdlEydFBUSzkwX3FIZ0tLYXZxaEc2VjdUU2tyUm9PNWxuYVhnalV6Mnk2QXBrbG9kb2p1TVg3VDNJQjRpR1NKTnRnY3FVSUNPZHJ6OEN2ZExSRVNTT0hORkM5TDBrOHdnUDBqM0hKOXpmdjNIVGpja2VESnhockl4NzNzREVwemk4OEZUUUZDNkZhdEhuSWFlbXZYZ0JVNzA3Z3FncHFKaGVDb1VQRFRuOWJpWGV3ZnAtSGtaR3VWVm91OEdWMUFpTdIB9AFBVV95cUxOMkcwMWViLXBXczBCY2VEelpxeWtMYVUzZFdLRjRnanhtWHdPbkJCbXB4Y2MzWEJ2SkVuSml1WFRVQUtOdkduSnBXTWFpZ094ZnBvbVBoZXJkdl8tUXJON2dKNFNLWE0xQ28tdW9ia1dLWEZsQmp5U3JjRXNHd1NveFE4MlJCOFhNeEg5c2RSZzVKMl9LckpFcDRhQ3dMbVJKTmRLMjNPTWRzWkpabFVhT1Z2bTJHMkdtdk02WXhoT3RkQ3pGazVJZjRiRVFKNkpDdWY3bnZ4V1ktcEY0RWk1SHBuZ1Nwa1ZTdDRJZDhBcFdjblJp?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ranking QS 2027: UPN destaca entre las universidades peruanas con mejor reputación ante empleadores",
+   "resumen": "Ranking QS 2027: UPN destaca entre las universidades peruanas con mejor reputación ante empleadores La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZWl4d0NMbHlDWjluQ1hMTXh1WmxWbmFHODlwdHYzVExrakhOMm1BTVNVaFNybHl3c1JiWWFMZHdqYWQ5ZlBKc01SeTdLX2pmRkRhVmJlT3lBaUdTT0NxVzlFR1pmdzRqOW9yZGpzcWhYcTJHdHBaTXNOMnJhdVNBckc5N0RraTJtNXlhWVNZSWpScmFsRTQzWGhKbWhHZUcyWjVMdm9mNnV3ZnJ5QncxRmZWWV9ITEVndG1DRzItdUNNcWp2a21SMU85VGxvdkpMOHRjT1FQV0t1WG13Ny1kU1NKONIB6AFBVV95cUxNVjI4UW9BYmQ0YkpocFc3djRSeHVUUDZOMllweV9PZHlBbUN1aEZNanhJM1BJTUFlNVpLXzRDYTBpQkFZUlY5TElvOHhEX0c0VXlCenp6T2JDSmlCLXFZTTgzQmxnR1hQTnUzODFYVWRqeFM2d2pVTzlab3ZtOWQ2MlphdE1FUDdhMHNMTGFFWDY2aUEyLTZEVDVxRWQtSlFPamJBWVdrTjVGSWJKZDlwbzIwMTNTU0lzWmZJbjJ2cS1iNVR1cWkzaHkzYTd4MnV5Y2MwaG5EblRvVE03SWN5d0VsSWlXUFNW?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Becas Docentes: más de 65.000 profesores iniciaron su formación gratuita",
+   "resumen": "Becas Docentes: más de 65.000 profesores iniciaron su formación gratuita La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkxOMlBEUHNETjdMelpib2NlT2tLTGY1bUI1OGRaTVpUX2Y4UGRjMndhQ3dDY3U4eXZvWHcwc0I1SmpneUx0Qk9Sb2NINENua2RLU3FkTGNoZ2w5VXdBU09GbkQ0VzRSSkptTWowbkpQdUtTYURiZVVpMzBhc29Vb0x3dkt4OFk1OUh0bGdsd2ZkOEkyMUJab013T3Rydm9DSnZaNlBUbkk0bjJpNF81cUpOWUhIQWRmOW9KMEpIVWkxZ0laVEHSAcsBQVVfeXFMTndQNk0zbzRjN29LTEZ5czgzN1NMQ2M5ZHQ2Z2xtVEFhdFpiNTA0YXBaN3BHVVRxSFlENFBMV0ZWaXV2UkVNMEwzdjMtVnBzWC12V09qYTdpOTdHSXZoemVheXg4aG1TZ0tTWWtVVF80N3lZSHJCRmxOdmJOUjkyZUE2YlY1bnhiN2RSUHUwOHpMcnN2UFNWN0pBMkNmWDRUakxJTFJudzktcWtQRFZsUENzMjlpbHFxQVkyNGpXZDYtdmV6MC1vRFBoNUU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "VMT: baipás Nueva Esperanza sufrió impresionante inundación tras intensa llovizna en Lima [VIDEO]",
+   "resumen": "El agua empozada prácticamente ha convertido el paso a desnivel en una piscina. Varias cisternas han drenado el agua durante la madrugada, pero los esfuerzos han sido insuficientes.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/vmt-baipas-nueva-esperanza-sufrio-impresionante-inundacion-tras-intensa-llovizna-en-lima-video-noticia-1716027"
+    }
+   ]
+  },
+  {
+   "titulo": "Una nueva oleada de falsas amenazas de bomba afecta a varios vuelos y aeropuertos europeos",
+   "resumen": "Por segunda vez en la semana estas amenazas afectan las salidas de vuelos en aeropuertos de diversos países europeos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/europa/una-nueva-oleada-de-falsas-amenazas-de-bomba-afecta-a-varios-vuelos-y-aeropuertos-europeos-noticia-1716028"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy jueves 05 de noviembre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-jueves-05-de-noviembre-noticia-1716026"
+    }
+   ]
+  }
+ ]
+}
