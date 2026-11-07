@@ -1,0 +1,807 @@
+{
+ "actualizado": "2026-11-07T06:26-05:00",
+ "modo": "titulares",
+ "total_titulares": 315,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "Santiago Peña es detenido en Paraguay tras ser destituido por el Congreso en un juicio político",
+   "resumen": "El expresidente Santiago Peña permanecerá detenido en su domicilio y deberá comparecer este sábado ante la Fiscalía de Paraguay, que lo investiga por presunta lesión de confianza, tráfico de influencias y administración en provecho propio, tras el escándalo Ueno Bank",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/santiago-pena-es-detenido-en-paraguay-tras-ser-destituido-por-el-congreso-en-un-juicio-politico-ueno-bank-noticia/"
+    },
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOS1Ueks0NWRiVHdocHlGV2lRN19xX1FIc1hOazN3TENQOGtTeGpFRnNpQUs2dzNvWDdER1hjMkxGWjFRN2YwNDJxN0FBOWdINnJFYnhLbG9GYzBYZmI3d1R4bUN4NklIakxhNXBibm1sR2NPNEo0dF9QQVdMOWxkWVhianRrNVNQeUJ6ZXJ0VUpoQTFXY29hb1pCWWFvQ3FyWll6ZTlDVHhYenhSeVkzaXdDbGpYYm9RT21tOHRtSjNZd9IBxwFBVV95cUxPOEtHWDNBbzRxdEpwY2NsYjJMeHBJcGVyZ0QzZC1lbVNlR1o3X1ZzOFZiaEtZLVR5b2JhVW1SS0poeFN5cjhQcVB0YjJBd0tRUF9XZjJoaE1qMFZDb0MzVjdnZVRTOW9sOFNhYU40dHFxUFptd3JnVlRTZ0tFcnpDb2RXTW1sU2czRlFTSmJsUEo1Y2hjbmROZ2JSSW9lalFscFdWckh6Zlh6Mko0VW9fc2MwRUwySlJIVDM5UGs5Q0xGVlVuY1Uw?oc=5"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico"
+    }
+   ]
+  },
+  {
+   "titulo": "Paraguay: Pedro Alliana jura como presidente y promete compensar a las víctimas del escándalo bancario tras la caída de Peña",
+   "resumen": "MADRID 7 Nov. (EUROPA PRESS) - El nuevo presidente de Paraguay, Pedro Alliana, se dirigió este viernes a los afectados por el… The post Paraguay: Pedro Alliana jura como presidente y promete compensar a las víctimas del escándalo bancario tras la caída de Peña appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/pedro-alliana-jura-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-noticia/"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/mundo/paraguay-alliana-asume-la-presidencia-tras-caida-de-pena/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Partidos de hoy, sábado 7 de noviembre del 2026: horarios y canales para ver fútbol en vivo",
+   "resumen": "Partidos de hoy, sábado 7 de noviembre del 2026 EN VIVO: revisa la programación del día, horarios, canales de televisión y dónde ver ONLINE los partidos.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-sabado-7-de-noviembre-del-2026-horarios-canales-tv-y-donde-ver-futbol-en-vivo-online-gratis-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/partidos-del-sabado-7-de-noviembre-horarios-y-canales-de-tv-para-ver-en-vivo-liga-1-y-laliga-noticia-1716461"
+    }
+   ]
+  },
+  {
+   "titulo": "Caída de ladrillos genera fuerte congestión cerca del Trébol de Javier Prado en la Vía de Evitamiento",
+   "resumen": "Caída de ladrillos genera fuerte congestión cerca del Trébol de Javier Prado en la Vía de Evitamiento La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSGt3LWxVRE9aNVl3RXBua1VLZWJ3MG1SVDhybmJKRjlFWFB2ZEZid2ljT25yUFBoUTJHUUhXWkwxLXZEOW9XWXBiUVNUMmliWWZTYmNLd3JVMnJGVnZrdGFHejhEeXlUb1pfZGlUY3pEbzBQVkViTno1MVNvZndsMGR5RU1kdUxJTlVkZHBBd3djQ09QVnZIeHFHM1hnQXFfSjhSWkZCa00zZGFiaEFCOTVjMFc4YkNXLWZaUm9ha002UTZhTFZoVEVOTk9zREdNQUJQV0FXcUVJV29HUHgtVFVQTVd1d9IB6wFBVV95cUxOa0ZoTF9HMl9KV21rZEtoR1VNR0pqOUdEQllQYjZnNlRrQVJHZzJvSEh5R1pIejgwNmc3V2RSTHFPcHRjUXMyZnNvOXJTYnlaZ2x2Z1lmYXBCbWJENUR5SmNmd1dwTjhDTWRSaG1zNG81emxYeFhNeFFwNXVtSVU2M0U4TXY3WTQ5am90akd2RFY3UEIyaFVsaWtWYW5TRE1HSzJWb3FpQ1pTWUZZVlRVZEVEMzFMeGxKZWlYTWVXXzhoZGM5dEFTeFZXT3VUX1g3b3BTM0I5bzNWVUNpcWNiemZPM2djdmVIWld3?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXJQWXR2eTQ0NkxnMlJ3c0FKTzBRUFNwMHBuMHczb1RmdDdRWHBXZHNFVFNtY0o2UDBMZ1VXUkdzYi0yeEY2OXBNdDVBc3dIRWhQNmZxSEZ4WTBCSUs2dDdDbC1hb2RYd04xd2ZuQnVwMnhFODVLLVloUURIemtFOW1GQ1ZPbXJJMkdwUmMwWU9UcV9fYzlN?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Estatua de 14 metros del papa León XIV es ensamblada en el Callao: ¿cuándo será inaugurada?",
+   "resumen": "Estatua de 14 metros del papa León XIV es ensamblada en el Callao: ¿cuándo será inaugurada? La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQenhTUHJhUWZtR3JKNEx3bzVON010Z0pUYnFkMlB5RkxjOHdYNnRWY2tWb0NpMUY0S0lzaW1xcWRFTG5RN2dnSmZieW1ERC1oX2NVVVZDczV4N2ZXYUQtREl4cm9oM0ZLTGlvOVpXckxKYlVuZHNNRThBOVdBOHdTRmc4WV9pbW5veGlnc2Y0LVdnakdkeHhsbTN4WEowNElUc0lvT1R0cEU3bVdZaWRyNXo1c1FRWUcyeE4wekZiMXg4amZKYm9sODUxaU5POTJDQzlMTtIB2gFBVV95cUxPdVdMUlJiZHpENEM2WEZyZlI4ZmdTeTliUlRVamtPaEZKcEFoNTdydF9DNjZwWG81Y3lnUkMzTXBrVmxSTmxKX0RzQUVaaFRpRmhGMFNZQ3V1WDBRUzIwbjJyQXhBbUxfdEJDZk9BMmRVUmVTVGVvTmZEb3ZCNUhnUGxjRDJhbnVudGdyalJBTFQ5TDhEMmlhUldldEstc1ZXOWhtc3pyc05tcHpMLWpWZENyRzdCZW94dy1VTUZZRTRiRkZyUmo2OWltQmlYMUhjOGVOOW9zdE5Wdw?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZURjb1pNcEx0cFRvckxDM0dvMEE0SDhPdi1NY3FFV2dKY1VKYmFad1FrcW96RjJmd2lXQlg3SUFJdEc4Z3JTWTFMYXJfYlJKTGdZeWQ1NjQ0bWQzRTVVUE13Yl9oRkJya1ljR3lpWmRLblRrRmFwb00tXzU0cnBjeFZDYTlBMURwa2Q5UHZ5WGVIcHZrZVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Casa Blanca mantiene proyecto del arco del triunfo en Washington pese a revés judicial",
+   "resumen": "La jueza Tanya Chutkan había bloqueado la construcción del monumento, mientras se revisan las impugnaciones sobre la legalidad de Trump.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2dyWENVUDdpbHBEZWltelZZd1hfX0ZHOUdLb2QxVFJDWDZDMThVX2xNVEhqc19zcDBXZEtUcGxuaERlQ0lyRGhDMzJzVWcxaXlrT2FnSE9Ja0dYVkxjVXg2R3RHOXl5UFZwTGFwcnBtNUMyVGQxODlldTJTZk41X3dWa0NDTkkyZDVrd242Y3k0aWc1NHBWSzY4YjJIczVJMEhOZl9BQ0RSZUFZbTk0SzhZWFBtcGs?oc=5"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/casa-blanca-mantiene-proyecto-del-arco-del-triunfo-en-washington-pese-a-revés-judicial/a-79882868?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV reunirá a 52 mil jóvenes durante vigilia en el Estadio Nacional el jueves 12",
+   "resumen": "Unos 52 mil jóvenes de 16 a 35 años se reunirán el jueves 12 de noviembre en el Estadio Nacional para la esperada vigilia de oración junto al papa León XIV, informó hoy Mario Casaretto, gerente de Gestión del Riesgo de Desastres de la Municipalidad de Lima, quien anunció un plan de seguridad muy est",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/vigilia-del-papa-leon-xiv-con-51-mil-jovenes-en-peru-contara-con-16-ambulancias-en-estadio-nacional-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-reunira-a-52-mil-jovenes-durante-vigilia-el-estadio-nacional-jueves-12-1098965.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Informe desde Montevideo: así será la agenda del papa León XIV en Uruguay",
+   "resumen": "El papa León XIV inició en Uruguay su gira por Sudamérica con una agenda que incluye reuniones con autoridades, encuentros con la Iglesia local, una visita a Paysandú, actividades con el mundo de la educación y una vigilia de oración en el Estadio Centenario. También presidirá una misa en Florida an",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/uruguay-el-papa-leon-xiv-recibe-las-llaves-de-montevideo-yamandu-orsi-visita-noticia/"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/video/20261107-informe-desde-montevideo-as%C3%AD-ser%C3%A1-la-agenda-del-papa-le%C3%B3n-xiv-en-uruguay"
+    }
+   ]
+  },
+  {
+   "titulo": "Caja Huancayo impulsa monumento de 14 metros en homenaje al papa León XIV",
+   "resumen": "La escultura será instalada en el Parque del Niño “Gaelito”, en la Costa Verde chalaca. El proyecto, promovido junto con la Municipalidad del Callao, busca rendir tributo al pontífice y ofrecer un nuevo punto de encuentro para vecinos y visitantes.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/publireportaje/caja-huancayo-impulsa-monumento-de-14-metros-en-homenaje-al-papa-leon-xiv-noticia/"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/publirreportaje/caja-huancayo-impulsa-monumento-de-14-metros-en-homenaje-al-papa-leon-xiv-en-la-costa-verde-del-callao-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Paraguay: Policía detiene a expresidente Santiago Peña tras su destitución por el Senado",
+   "resumen": "La Policía Nacional de Paraguay detuvo este viernes al expresidente Santiago Peña, luego de que la Fiscalía ordenara su arresto por el presunto delito de lesión de confianza. La medida se ejecutó minutos después de que el Senado aprobara su destitución y lo dejara sin fueros, en medio de la crisis p",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion-noticia/"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/mundo/internacional/paraguay-policia-detiene-a-expresidente-santiago-pena-tras-su-destitucion-por-el-senado-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Senado de Paraguay destituye a Santiago Peña como presidente tras escándalo por Ueno bank",
+   "resumen": "Santiago Peña fue declarado culpable de “mal desempeño de funciones” en un juicio político celebrado en su ausencia. Como su sucesor asumirá su hasta ahora vicepresidente, Pedro Alliana",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/senado-de-paraguay-destituye-a-santiago-pena-como-presidente-tras-escandalo-por-ueno-bank-noticia/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Dos muertos y 16 heridos en accidente de autobús en este de Francia",
+   "resumen": "De los fallecidos, uno era menor de edad. El autobús transportaba 43 personas, entre ellos 15 escolares que iban a sus colegios.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-06/un-autobus-interurbano-se-estrella-contra-un-arbol-en-el-este-de-francia-y-causa-dos-muertos-y-numerosos-heridos.html"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/dos-muertos-y-16-heridos-en-accidente-de-autobús-en-este-de-francia/a-79874925?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+   "resumen": "Diversos líderes empresariales de la Confiep y de sus gremios asociados nos dan su opinión tras los 100 días de la presidenta Fujimori.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/balance-de-los-primeros-100-dias-del-gobierno-de-la-presidenta-keiko-fujimori-peru-100-dias-de-keiko-fujimori-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Tigres UANL vs. Cruz Azul: a qué hora juegan y cómo ver partido por Torneo Apertura de Liga MX",
+   "resumen": "Tigres UANL vs. Cruz Azul EN VIVO: revisa los horarios, canales TV y dónde ver ONLINE el partido por la fecha 16 del Torneo Apertura de la Liga MX.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/mexico/video-tigres-vs-cruz-azul-en-vivo-gratis-via-tv-azteca-azteca-deportes-futbol-libre-a-que-hora-juegan-canal-de-transmision-y-donde-ver-por-liga-mx-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuándo empiezan los días libres no laborales en el Perú por la llegada del papa León XIV al Perú?",
+   "resumen": "¿Cuándo empiezan los días libres no laborales en el Perú por la llegada del papa León XIV al Perú? El Gobierno de Keiko Fujimori estableció días no laborables compensables en varias ciudades del país con motivo de la llegada del papa León XIV al Perú. Todos los detalles, en esta nota.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/cuando-empiezan-los-dias-libres-no-laborales-en-el-peru-por-la-llegada-del-papa-leon-xiv-al-peru-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Marco Vinelli: “Hoy los indicadores de El Niño son mucho mayores que los anteriores”",
+   "resumen": "El ministro de Desarrollo Agrario y Riego advierte que el Perú enfrenta un Fenómeno El Niño de mayor intensidad que los anteriores. Explica qué regiones están en riesgo, las acciones de prevención y las vulnerabilidades de Lima.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Advierten que la crecida del río Rímac podría afectar los accesos al aeropuerto Jorge Chávez: ¿qué deficiencias concretas detectó LAP?",
+   "resumen": "Un diputado, un ejecutivo de LAP y un científico coinciden en que el río Rímac debe limpiarse ya, pero difieren sobre cuánto riesgo corren los puentes modulares.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/advierten-que-la-crecida-del-rio-rimac-podria-afectar-los-accesos-al-aeropuerto-jorge-chavez-que-deficiencias-concretas-detecto-lap-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿En qué canales ver Inter Miami vs. Charlotte FC y a qué hora inicia el partido con Lionel Messi?",
+   "resumen": "Inter Miami vs. Charlotte FC EN VIVO con Lionel Messi: revisa los horarios, canales TV y dónde ver ONLINE el partido por la MLS 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/donde-ver-inter-miami-vs-charlotte-en-vivo-gratis-con-lionel-messi-a-que-hora-juegan-y-que-canal-transmite-mls-online-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿En qué canales ver Boca Juniors vs. Defensa y Justicia y a qué hora inicia el partido por Torneo Clausura de Liga Argentina?",
+   "resumen": "Consulta los canales de TV y plataformas online para ver el partido entre Boca Juniors vs Defensa y Justicia por la fecha 16 del Torneo Clausura de la Liga Profesional Argentina.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/argentina/donde-ver-boca-juniors-vs-defensa-y-justicia-en-vivo-hoy-gratis-por-torneo-clausura-a-que-hora-juegan-y-canal-que-pasa-liga-argentina-online-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué canales pasan Real Madrid vs. Valencia: dónde verlo online por LaLiga?",
+   "resumen": "Revisa qué canales TV transmiten el partido de Real Madrid vs Valencia por la fecha 12 de LaLiga desde el estadio Mestalla.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/espana/en-que-canal-tv-transmiten-real-madrid-vs-valencia-en-vivo-gratis-hoy-por-laliga-como-ver-partido-online-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "“El King kong del Papa’, ‘Papaletas’, viajes y polos: estas son las cifras que bendecirán la economía por la visita de León XIV",
+   "resumen": "La designación de Robert Prevost como Papa León XIV no solo fue motivo de júbilo para los peruanos, sino que también abrió una oportunidad para impulsar las ventas de las microempresas, dinamizar la confección de polos y hasta reactivar el consumo del king kong, tradicional dulce de Lambayeque.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/papa-king-kones-y-papaletas-asi-se-mueve-la-economia-peruana-por-la-visita-de-leon-xiv-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Qué canales pasan Sporting Cristal vs. ADT: dónde verlo online por Torneo Clausura de Liga 1?",
+   "resumen": "Revisa qué canales TV transmiten el partido de Sporting Cristal vs. ADT por la fecha 16 del Torneo Clausura de Liga 1 desde el estadio Unión Tarma.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-tv-transmiten-sporting-cristal-vs-adt-en-vivo-gratis-hoy-por-torneo-clausura-hora-y-donde-ver-partido-online-por-liga-1-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "ESPN Premium hoy en directo, Boca Juniors vs. Defensa y Justicia por la fecha 16 del Torneo Clausura",
+   "resumen": "Transmisión oficial de ESPN Premium EN VIVO: ver partido ONLINE de Boca Juniors vs Defensa y Justicia por la fecha 16 del Torneo Clausura de la Liga Profesional Argentina 2026",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/argentina/video-espn-premium-en-vivo-pelota-libre-tv-boca-vs-defensa-y-justicia-hoy-online-via-espn-tnt-sports-disney-plus-max-por-liga-argentina-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV bendijo al Perú a 30.000 pies de altura: así fue el viaje papal contado de primera mano",
+   "resumen": "Durante un vuelo de aproximadamente 14 horas rumbo a Uruguay, el Papa agradeció la labor de los 83 periodistas a bordo, se acercó a conversar y recibió obsequios, entre ellos recuerdos enviados desde el Perú. Los comunicadores transformaron la cabina posterior del avión en una sala de redacción.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-bendijo-al-peru-a-30000-pies-de-altura-asi-fue-el-viaje-papal-contado-de-primera-mano-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Rosa Crovetto cumple 90 años: fiel lectora visitó la redacción de El Comercio por su cumpleaños",
+   "resumen": "La fiel lectora visitó las instalaciones de El Comercio como parte de una sorpresa organizada por su hijo con motivo de su cumpleaños. Durante el recorrido, conoció la redacción y el archivo histórico del Diario, y recibió un ejemplar correspondiente al día de su nacimiento.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/rosa-crovetto-cumple-90-anos-y-celebra-mas-de-cuatro-decadas-resolviendo-los-geniogramas-de-el-comercio-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Examen de Ascenso Docente 2026: consulta dónde rendir la prueba y a qué hora debes ingresar este domingo 8 de noviembre",
+   "resumen": "Examen de Ascenso Docente 2026: consulta dónde rendir la prueba y a qué hora debes ingresar este domingo 8 de noviembre. El Minedu habilitó una plataforma digital para que los docentes consulten su local de evaluación de la Prueba Nacional de Ascenso Docente 2026 con solo ingresar su número de DNI o",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/examen-de-ascenso-docente-2026-consulta-donde-rendir-la-prueba-y-a-que-hora-debes-ingresar-este-domingo-8-de-noviembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Talarico, sorpresa tejana, una crónica de Fernando Vivas sobre el demócrata que gana un escaño en el Senado de EE.UU.",
+   "resumen": "Los demócratas demoraron 38 años, dos más que los que tardamos en ir a un mundial, en llegar al Senado en Estados Unidos. La victoria es doble porque junto al escaño de James Talarico, la latina demócrata Gina Hinojosa ha ganado la gobernación del Estado al republicano Greg Abbott que postulaba a su",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/talarico-sorpresa-tejana-una-cronica-de-fernando-vivas-sobre-el-democrata-que-gana-un-escano-en-el-senado-de-eeuu-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Cristina Bendek: “Vemos los mapas como una ciencia y olvidamos que los diseñó el poder”",
+   "resumen": "La escritora colombiana Cristina Bendek es parte del Hay Festival Arequipa 2026 con “Otras historias del Archivo de Indias”, un proyecto que suma los textos de diez autores de la región inspirados por un documento resguardado por el archivo sevillano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/eldominical/entrevista/cristina-bendek-vemos-los-mapas-como-una-ciencia-y-olvidamos-que-los-diseno-el-poder-hay-festival-arequipa-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Venezuela: magnitud de los últimos sismos reportados hoy, sábado 7 de noviembre",
+   "resumen": "Temblor en Venezuela HOY EN VIVO: último sismo de noviembre, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-en-vivo-profundidad-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-este-7-y-8-de-noviembre-de-2026-segun-el-funvisis-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Loto Plus EN VIVO: sigue aquí los resultados y pozo estimado del sábado 7 de noviembre",
+   "resumen": "Loto Plus EN VIVO: mira los resultados y números del sorteo del sábado 31 de octubre, que tiene un pozo de $29.300.000.000.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/argentina/loto-plus-en-vivo-resultados-hoy-sabado-7-de-noviembre-2026-controlar-sorteo-3933-y-numeros-ganadores-loteria-de-argentina-tradicional-match-desquite-sale-o-sale-lbposting-ar-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿El “modelo Bukele” es aplicable acá?",
+   "resumen": "El “modelo Bukele” en seguridad comenzó por retirar alrededor de un 20% del personal policial, sea por corrupción, vinculaciones criminales o por edad. En el Perú es difícil retirar a policías corruptos. El régimen disciplinario tiende a absolverlos y, si son expulsados, el Poder Judicial suele repo",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-modelo-bukele-es-aplicable-aca-por-jaime-de-althaus-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Visita papal promete impulsar economía, pero suben los costos de transporte y preocupa la infraestructura de Lima",
+   "resumen": "En el Semáforo de este sábado 7 de noviembre, conoce la postura de El Comercio sobre los siguientes temas. Primero, el impacto económico que podría generar la visita del papa León XIV en el turismo y el comercio. Segundo, el alza de los precios del transporte en Lima, que golpea el bolsillo de los c",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/visita-papal-promete-impulsar-economia-pero-suben-los-costos-de-transporte-y-preocupa-la-infraestructura-de-lima-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Alcaldes con resultados",
+   "resumen": "En menos de dos meses, cerca de 1.700 alcaldes y alcaldesas asumirán la conducción de sus distritos en todo el Perú. Lo harán en un contexto desafiante, con realidades muy distintas, pero con una expectativa ciudadana compartida: que sus municipios sean capaces de responder a los problemas cotidiano",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/alcaldes-con-resultados-por-augusto-townsend-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El nuevo camino demócrata",
+   "resumen": "Esta semana se han escudriñado casi todos los detalles del triunfo arrollador del Partido Demócrata en las elecciones de medio término en Estados Unidos. O, mejor dicho, de la derrota aplastante de Donald Trump y cómo la economía terminó pasándole factura al presidente republicano por acciones provo",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-nuevo-camino-democrata-por-gisella-lopez-lenci-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "1926: Se divide el Partido Comunista ruso",
+   "resumen": "Moscú. “Nos negamos a renunciar la más mínima parte de nuestros principios y opiniones; nos negamos a tragarnos esas ideas que se nos quiere imponer”, gritó Trotzky al defenderse ante la conferencia del partido. “Pero, aunque no abandonaremos nuestras opiniones, no tenemos intención de agravar las d",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/efemerides/1926-se-divide-el-partido-comunista-ruso-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Rafael López Aliaga no será alcalde de Lima: JNE aclara que otorgará credenciales de primer regidor a reelectos",
+   "resumen": "Rafael López Aliaga no será alcalde de Lima: JNE aclara que otorgará credenciales de primer regidor a reelectos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYnRHaXlEeWlQVS1falpQZmpZZGRmVUxNYVFyQ1RwQXl2ZGE3NjVJeHdZdmRaSXdtNzNZWlJQYzlvUXRmYTRwOEpNcGtxTGd2NWh6amVWWG81X3lqWmdGZGFwVjloSFN0NnZsQzY4Z2hfb3k5dFRQUkczemV2bUxVRUpsOW1WZ0MyaG8yV0ZWbEM1UEtib1BEVmctc1kwNkJleHozUERGYUZBU0pUbTRlaExfOXhfcnRrQVFtbFJhOHdCeUtwWmd3Z3E2dXlXdUxCOGk4Qm1YcExVQUFPbG8xTTcwbmRBVm1pMkpWSG5GbnFJZ2tFeHZGX1ZR0gH_AUFVX3lxTE1QWGtKdEcwVURWZl9LWDhxOVVuNFNVdVpTN2Rhc0ZycE9HRE5BRkRzYVFnUm9BSEZSMG1lX04xdzBaaUdWTEpGTEhzaS13aXFRR0F5UE4tUmZLN2tyN0FtODZwR2tHRTJEOWtfanhJd2VaLWZIcXNiM3Q3WVl4UzhSTnNzMjJyQ0VadlB3TG1fVF8wMHEtTDVJSlF3YVlIYUFhTmUySVNrc2dfMVgzYnlXczR1dDRGVjJQaGJHb1dOTWtuTnk3R1JSS0FESXhuUjlDZ3ZaUUJpYkVPNVdlQ2N1M01RMGdpX3FWaS02V1NReWNJQW9kanVVVWxSRUJ0QQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pasantías en la Comunidad Andina: abren convocatoria para estudiantes y egresados hasta el 16 de noviembre",
+   "resumen": "Pasantías en la Comunidad Andina: abren convocatoria para estudiantes y egresados hasta el 16 de noviembre La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMnpzZGVaYWRkWS1nT3AzZVI2NHg4elN3NnQyamN2YV91dC1wVzctZW1nN0pWakpYOTBodE5mM2xTS1BqSWlBenFwUkszcDZjaE14R3l3YWZBam90dHM1OEVTZWp6WG1Bc3ctWlBFbnptbDZvZjM0d2tVM0tCYTY5MGtSUUt0c3dXR0FpbVVITnZLcnRwcUNfM3E3dVJDOVdwZU40NVl1eEk1R1FLRDZIQTlLejFVejNiWmtPUzQtMWFfMFg0ZmFLSFdTWjhFYmYxS001Z0p2dlJfNmI4TmRxLWwyOU5vYmtXSEo00gHwAUFVX3lxTFBwbTZ4T3pUeG1ZTUpxQTFuSGwyR0JDVXl1alg2NEIwZG9DUzNrS0FpOFh4ckdIRXdfTHEtSFdoVUtnaExjX0w5b21ia0lHcjFwWk1mVTNIdHdOdHBhZXlySjRySGpDeFFpMVBSVFNvVnBuNlg1ZGFJNlMtVkVZSzczdEZVNUEyMEh4bmJ3Q0hvbFZHZFlTR1RJV3RqeURxcHZYREhjcV8xTFZ1M3hJUS11WEhUUDJmWmJ1dUYxVTlwVDVOT2hmX3lFNEJsbHRWdlFuSTQ2QlY0cHhhbkEwc1NfNWEwcmZqYlpkX05ZaFpqRw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Presupuesto 2027 excluye CTS al 100% para CAS que cumplan 70 años y bono de S/3.000 para personal de salud",
+   "resumen": "Presupuesto 2027 excluye CTS al 100% para CAS que cumplan 70 años y bono de S/3.000 para personal de salud La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnlMWExTdm11QWpZSWdvbk9uN25lMVJ0QmZRNEdGbG96QkRMTE5GbWphWU1tS0dvS3c1enIwTVBNUzNMa2lNSDNPTVo3TXZZamg2SnljRTJfOXV5VThWZXZoTVQ2Wk4yUjViLUtlU2Fldmx6TUJsdm81SzVjMEdUMklPZ1JFOEI1M1Z1YXA5NzdGR3dHYmktb2xUX21QQU04dTlZdEcxX1NCYUh3TTJ5M3p4VEhYbW1ZXzUtMGdiTUxUc24xY2pTSGNFMEtuU191X1dUaFViRy05Ml9RN0FVWHBXTlVTWGNZ0gHuAUFVX3lxTE5MZlZlNmNISk1BN2NuZTY2NUVVdXFWdnhjdmI5VUZxTzZ1M2diNEFuQTdDOTZMMEIzOVhXb01MYkdISTlZb3lVdld3YjJwendhTFNHTDZQUjhlR0dIREdPYk5GNDhsbnBobFNEcFZGMFkwdG1TZDcwVkZBVnNIOG51XzN1V01peGNjMmRudldLbFVkSVBLZDBiVklfQnd0UzZVRDBxVFRmVUxsQ2dadmIyZVN5UG9xZ1ZIRkhpTkJvVHVUOXBRdmliN2Z1WDVISy0xYVR6MGtmMV9JbWRIVVNTbFVLdUdqbGtEeUQzR3c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en Lima: Metropolitano y Corredores adelantarán su horario para atender fieles el jueves 12",
+   "resumen": "Papa León XIV en Lima: Metropolitano y Corredores adelantarán su horario para atender fieles el jueves 12 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0xiZ2NzQTd2WWRaLXMxWFdVV0J1Q0pjV20xaVo2RDJlRTNoeGlHSXZxSHpTeDdFeTVFb1N2UE5TNjFUTElUd1N1cHcxemtjaXFjd1R4blFwMk5Fcml5SnQxUkxQbU1iZTlrUkgxRnpHWk5PUHZWWmszYjhRaHliZGlIcTBSeDhWMW5Edlp0WUtWVkZRLWhZMDJjZHAwblJBLS13NExNQVk3Y3BHZ3NxUDUxeWg5bUNJeFlCZFBnVXpBcXhJZEFIX0tOS3J0YmdBbEZ2S0M1THZVd0RzTHkxQk13bzU4QU9rLXfSAe8BQVVfeXFMTjhiWlpRT0o0a2lmeXRuaXhyY2hCMjNkOFpXc3Rya1lnTUp0ZGFnaGRwdUdlbmktZHc0a2dBNnoyZHZqRGZuamJmMmJ4SWRjRHVnYkloRnROSThDbnFVUno3QlVucjFxUTJxaGFHMS1MQlVJWmppcng0b1Boa3pUNm4xODd5R2JNTjRVa3BzWkJBdm14RnhhcEtWZE1TNjJWaGFuUmgxYUE4Smg0bUlpR19KZThEM0xnYkdVZ0w4VEY2TFFXdm83RDNxX0x3b0pHUG5JT1NLWm41VHpjWDdpWEJ3ZmZZUjZTZlFJX2gyVUU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Defensa del agua: vigilantes ambientales impulsan ley para reconocer su labor frente a la contaminación",
+   "resumen": "Defensa del agua: vigilantes ambientales impulsan ley para reconocer su labor frente a la contaminación La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYnNVUjhFdmpIcDdmOXZ6RDVyOGo3THFKeWk2eU9IR0wtNDZBc2hCdTAyeG1qWExlUHJlam45UXBHWW1ONnhlLU14emEyQUM4eDVfM3pTUWdOMDRfcEdNb21Va0pRZzJvWFRQZEVtcXNUNUNPekNwSW9IRXNraWxDVXhqM0RUT1RNNzgxamcyZ2IxbERkalI4OG52NFNMZ241M3pWZTdXWkZuY1k0aHpHaGN1NldZTko2ZTdTeDJGQ0dLNFFGUXBKd2NDQVFPSGlpT19HT2NiaWFrVlZtTjNsbGxVT1o2dGPSAewBQVVfeXFMT1Bqei1fOGtfMTM0LU9FYThDSEJOVkxCTG5MV1lrWHkxcVpsYTRzdHhNOTZ2Wm5IQnNTeFM4Y2EtREFEdGV5czhZY1FlUEtKZDdpZmNQZW5rUHhDc2t3ajhYTTVGUjFPV1d5MXl6bS1sY1BCQmNMWDcxMXM2Z0V6VjFyQVdKMFhWMnpjaU5BYmpUOTlhcVA2RUdacWxMbmJsT0JCT3NDOVVhWE9kbW1RUk9ETlZzZDYzTzViRDVuR0picFRFd1NZRFJZRnFMRWJmazRzeG1zVnk0UWJCMExhQWVLX2FlTUlLclYzRGY?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Perú y China cumplen 55 años de relaciones diplomáticas: los avances comerciales y los retos para fortalecer la alianza",
+   "resumen": "Perú y China cumplen 55 años de relaciones diplomáticas: los avances comerciales y los retos para fortalecer la alianza La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWE5ES3VLNFRQdTNDbDN1SXRHcVBvRC1mb0hMRnM2TF9fd1pLYnAxRVBraExwc1hEb3pYbWl1a29JaUpmYklVRWtVeDdhdGZrOXoyODByMWZtMGFqR0szNXpWY3lCTDJXZW5IRlJXVTgyS1dOLW4yZHZSYVpPOGhRdzhuZFdxTDdRZEE1ZjlqRFFxU0xtUzZpNFNqa2JfV1ZEMlhWU0xlbmhIbXNnQnNRWHA4bHhjMlFaZnFjUFRQbmxpMzd5NUpKYUhueDlXUEQ4a2dBNGltNUZrOXY2Q0I3REZRUkZWNk4zcnZmYW13LTZCY1hDNlhVYVN2dFfSAYICQVVfeXFMT0pLbXFRX2ZrWUdIdURMYmJ3U3pmRVNkbTBrRUE3Um9WOHJwdlUzSlNwUGVIclVvR2psNEJ3amdjUldWV3Z0Q1FEQ0pEZG8tWlpEQWFlN0RCY2RtNnBVTEl2OGEyeWZtNy1GM2ctT01xRW1wcV94V2l0VlgzcU54ZFF0SVdjQXB0QkpPMTRqQloxbzBOVGtkeFRONWdGeDN4U0lLdUQzQjNUckZkRlNvV2ZlaU5hcUtQbVd5c29BYmx4Mm56TUtHVlZ4NmhVMlBOQ3ZKeG1PUlJ0MWJxaEhRWjlyNkphRThXNWEwRW4xT2M5TUMxZFhvRFVKZldYVjl5dXFB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Vigilia en el Estadio Nacional: mapa, puntos de acceso y transporte disponible para el encuentro con el papa León XIV",
+   "resumen": "Vigilia en el Estadio Nacional: mapa, puntos de acceso y transporte disponible para el encuentro con el papa León XIV La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd0pYZDB2aEZyODMyOFZLcUVHakxmQzYyeWpzLXVPVTRtRUdzUlp6dkJrc1JyaG05WHBBb1lPc1VsUGxCY3NUWVlrZk9WQ195V0JHdVAwNWY3bUhDeGVKdkE3clZMYmxvakpLN2FqVHYzSkhwcnB3SS1qZ1BYbHAyeVdHZERIRHBQdGZuSFVQNGUxSnZtVjZiQzNPV0tlcXZzUVd3QUF1MEthUE1Xd1N5aVFJUjVXdUpTak52dVFERlZfT0dJMFdKOU9MUU14UVljSXpET2hHZlYwejBIZFk3WVpPMGFsb1FSYWV4dFNHemwyZ1NoQ0JKbNIB_gFBVV95cUxPRm5scjQzSEZkaVFDYm1WOElXT3hPWFJwYmw2dkFKS2tNOWZkcDlqSURSRDlQcjBPYzZYRmctY0dzY0JVeHZLX1lEOXd6NHY2cnRfLVMtRlZwWTFIRDNfOWFGNWZPVmFfbGlOaWJyalgxWktmNkdTdENNNDJUbWRiaUoyMVhvZkdPS2FEdmpETENwRlVWOHNURUJPRFdjRFpTM2ljNDVhbDFRWXpuLTduYm5JM3ZTMDFsVG5mTm1oa0pndF9JMV9sQ0FWd1pIdlJMRF9tcmN6anVWU24yenVuRzhHOXB1NVZLYWFYakxFb1FuRUtfdVRzdGoxM0tnQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "América Latina en el top 10 de The World's 50 Best Restaurants 2026: México y Perú conquistan con su cocina creativa y sabores auténticos",
+   "resumen": "América Latina en el top 10 de The World's 50 Best Restaurants 2026: México y Perú conquistan con su cocina creativa y sabores auténticos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPb2xyRTRZMVBUaFZhMXFJd2NWaUxRS0FpMm5OLWxvQnlzZ2p1T1g4SklOR1BETU5tNkJ3UTZBQ0JsR0ZyVlU2ak1rOS1oazU1dzBfZDY0M2ZhYkNweTdQczZQemtndXlYNFhuaXNVV2Z6UXpXOHFhaU5nVnhMRkFOelQ3SVlLakV4V2JRb3RzWXFqWVprbS1PanM4SkU2RzkwTGZOR1RJUTNUd3BXWXh0NHhqMWJnUEZYZmFZcm9PenFHR1VObE9HR2dmR2JmWGhOM01UVFItQ1hyUXFDeERzZ0NuOW1JSUJoTXpwUFlzZ25xV1B2TGx4UVZRVl9jV0dLcnIyZzdKNVphdklRcW5r0gGUAkFVX3lxTE14cGg2SWZOWVc1cHdVbWRBb1B2bWJuMlhna1RDOEREc2NjQnpXa2VUTm5OMTk2bjlseXR2NjJJODRvblcwOGZhWDZrc0NMQTNXNmtUaXFLRVR2VmlwZWpWNXc3S1RVNFZvQ3czQWNJcl9xTkpPeDV5dXVLMzlOMGJDZTJ0RXRFS1Q2Wm14YjM4TkxEX1dsSXFzR2I2M3dRNktzdTdnMUpJcDJoSFdQRHdUaEdMVWlOblhPWGNLZ3h3d3ZCZXV1MGlkTTdYSVEycmpVZkZMZnBlZ3hiY09DdjR6VW9VNkJRVWhXcGpsZkh2YzNzMWpCU01TbmVBdDlad1o1WGdPNElNY2dmSzdEQ2VFX2N1WQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Conmoción en Cusco: hallan sin vida a niño de 8 años que desapareció mientras jugaba en San Jerónimo",
+   "resumen": "Conmoción en Cusco: hallan sin vida a niño de 8 años que desapareció mientras jugaba en San Jerónimo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORlUzQUNFNGs3eVM4SEdWUzgzRFVXOE9MZmpQWlFRZHFxNVg3SzRNeDVIYWdPVms4WndGN1ZXWXE1T1ZTV056MGZ2VkU3c09uWFRCX21jQk1nQ0RSamFETjgxdFFhLVBGbVJCb2VJWmJJYkJhU0VMQmQ5c0FoWnZPNEFtNjdZRFk0MnZvYkdteGExX0phN09qbFFnejlraDEyRXNNVlJVV2RrODBoaC16dENJV1BYZEV6NXVDdTdHU2tlNjF5Y3NRdDBLS2dYb0JRLVNQbGp1cVZmVmlDUVh6ckJRZ9IB6AFBVV95cUxPdU9fMkswaTduUEE1WDdHc29wMlUxOVFRamlHZGNpYmR6VHZyLWp3RnhWWVNWWENBQ0lwUW93Y29QLVhuNGhvTDM1V3A0MXdhUG9BTTBDZTVTRWxLYWVPeFlCXzJtWEp4Wl9VY1RUeGZfa1g2X294TE5maXVBWFdfbi0wMThRd1NnakphaUlEcWZSYXQwU2tpY1JHMUU1dG83Yk8xazlXcGtWNEl5dHRNX2pXdHdCUmpjT2NiUWkwMGk3QjNyeFhDaVFtMXM1MlNYUWJNblJiT1RjZVdWYXIwVjU4RW5OdE45?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Chiclayo: aumento del caudal del río Zaña arrasa tres puentes artesanales y deja aisladas a 3.500 personas en Oyotún",
+   "resumen": "Chiclayo: aumento del caudal del río Zaña arrasa tres puentes artesanales y deja aisladas a 3.500 personas en Oyotún La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT0hpcmhoRnR1VXpvVUprVHcybWdreDNvU1owNGZiemYtOTRHa21wbUFYeXVsX0tBOTJrcU5jVnBnTFY5OGpNdXJhOF9lWDVKVDduRktaMTRpMk1uSGw0Mk16blR0X3JUc01jOTdfMS1iOVhSdWFNY0VzMGZ2ZkRYcEU2QkRRbXlZRkJMdk5GR282a3JrQmc2ZW9odGFpYUxsc1BlbFpTRkRnWEhHVzFZYzI4YVE5V1NOdWlwX0JSeTFyQXZtbzN0dFkxN2FIc1l1UUJJZ0VUSm02cXFHQUs3UkJRMk41Q0FIVk1oT3Z0OTFXYzhpVmZB0gH8AUFVX3lxTE1rZ1h1bWxoR1FYN09vckRfN3hLa3VuZlpKZ2RXRllueWxQWmlKa1REV2M2X1hVYnFER3BmcjdMQ2dxanlMcmRJQjNsaW1uZnRTOGdQN3pYUmVrc3ljRGY0WmVveGpmNkg4Z1JiRGNFVl9tblhhTE5zS0IwMkl2WnB4ek9yMms0bTlSWG5LNkZfbE9wcUI3U1lnQ2Rfc0NHZ2RQWEdmVFoyX3FWNFF2bUFnNTFJYWszclFQS3ByZ3ZvS2FWaEFwdGs2bUpRMHA3NVdDN3RkRnVhLUY1cEY4LWd1U21lNjRRaWhZeFRjcjF3d2lpWml1SmhUdXRrcQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Puno: dirigentes y gremios exigen amnistía para Pedro Castillo durante audiencia de Juntos por el Perú",
+   "resumen": "Puno: dirigentes y gremios exigen amnistía para Pedro Castillo durante audiencia de Juntos por el Perú La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcUZ5RDMzZ0RmcmVNQzB3ZFNweC1FZW5Qc25QOXhnenNZUTlFeDFWN2hob0xjWGR4TF9IZGpBeUxMYmpDb1N6SWJ1aWVkNDI1a2M4T2liRUtLVFVyanBfTDhWcHVaaGFDeTdrVXJ2TUxURTZ5ei11YTBCYTY3VG84eG53dmJzZWJSMURsU3E4bmZxQlVyWlZfb3RWNklzek1iWXVjVWJXeGVCMjFqMFNhUEU2SGlEQ3c5TGZmbGJIMkJ3N0FUM3I5Y1I3RUJmTUppMTBrdjM5TmtINXZrQWR4cHJRajBhbzJRZ2p6Njh30gHzAUFVX3lxTE8wUFVOMVE4UHhLYVU2YXlkNFhlc0dYWHNSYWM1VXFIY0JFaF92TWhpOGE2OEJDNGNUeVl6YngxMzRCQTdOaVVPQTVQd1A1RXY5cUwwVmEzY1dhQThMdmtvZmdXdFV6WVU1WHVVMzVsUld6UjAtdDB1R0RreWhidWJGZTRNYTZfd0RKdHI4dEY1Ync1d0ZjRUpQZlFrSW1YM191U1BRT3dnS0JxTTFDU1k3cHJBRlY5d1R3MThrRndnaUV3b3lMa1hIZG9ocEZXWWJObEctQUNEcTJMMk04dXE0Rk16b21NVVRKS3pWUHdmV29icw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Siete JEE proclamaron como primer regidor a nueve alcaldes que intentaron la reelección encubierta",
+   "resumen": "Siete JEE proclamaron como primer regidor a nueve alcaldes que intentaron la reelección encubierta La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcjNmclJFeEtWV0NqbHkyc1Q1UWZhZzIzOXdTakk4ZnRsUG1VNzYtODFPeS1yQUwxeHU2R3hLNDlQX0NFQmVYVE1IWnpKeDZ2VEVHTmhhaEJnVTFkN0JDWlZPUDhwT0IwNnIzM2k0ME9xLWxPQ29SbFRfS2ZOMHNZOFZzRnhHRjA1cFhpZHdMbDdWcUpHT25GeTVJME9DbnpZRmNKb0dFN1pIeVoxRFBwWGFUSnVEalppam83bjUtM09WRndmN0w4SFNvc2NnX212MUtVMzNEelVBWXh3UlBLSWw4Qk85VXhNbmF1TVZYeEpQNjVNRWFSR1ZxWWR2RkxWcHfSAYcCQVVfeXFMUGdDaDRoSlJDRmlkM1l1LTFMNFhrZHl0ZTdmNzhkNkpXU2lCRk03bG1xemt3RW5SSE9laWxNN0VQZHI4Qk92VC10Zzk1cjRVamtZR3ZJNF91NUNLNk9RZmtrR1FjSUJ6OHROZXQwemdxQ3l0Z29VbUl4bzR6ODBOTTBIdlBFcG1kQ1ljNE5YSTlfOEkya0VpTDFyZDYteFFCTk9kNThfc2VxTmQtaXZFcWZ6VGZEdmVkN0sxYXFBUmR4Tkp6bmF3X0ttNWhUS2J6Z2pOdVdVR2tTR2kzWmlneW15OHpZcnZYVk9OMFRqMGJUYTRxYi1FRjVLTUtmVWo4emJSTG1CYjg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "JNE cierra el paso a la reelección encubierta y no entregará credenciales de alcalde a primeros regidores",
+   "resumen": "JNE cierra el paso a la reelección encubierta y no entregará credenciales de alcalde a primeros regidores La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPblI0UGNoMXRjVlVWeWJTSW5yZVdRNHpfUmRpUnpKdVJrT29tZkNIT09YWW84NXFlb3NDa1h4cWtZUWdqQmQxTEpDOWFleUtsb2lNUWJNcWZNbjhQekx3cW9LUTVPM0pIYmJyYWhGRFR5N0ItX056Rmh4T1VvR1YyLXB2UjhwSkFOTEhYaEhhSW41VG5MN3BYa0UzR1lmSGtrSlc1N0JCM09oTmd4c1JqNmpfeE9YdU9HdmxfRV9OV3JfS2hjVGRaZm5wZzRtMHJYVGVJZk8temVjM1ljM2Jxd2hTb09ZNGNwTUJxcElfa29Pem0w0gH6AUFVX3lxTE9PZHJaMURMSDhYZDhMR0VaWlkwVnk1UTg2bk5TSndHbzZHYlU4SlNLVjMza0JxZk5PMFdXYTZJS2VuMHMwUVdVWjhVbE9QdkpSUG9oZUVTT0I5eF91ZzdwUXQtUlVYRm9IckVWMVdVQVFWUTREclJ2YUJLT2pTZnFlOTJLdWYzejMydlBad2dhTUpCQk1XcHRNZDY4eGszT2RIY0tGa0k1ZFRQb2t2NlRwYXB4eTRHSmN1bmRFbkJseEhCYXUtb3llQ1A4YUMyZmQyS2ZUVmE4SC1QenF6SWxJd0RYMndBLXB1MUJtSXE3OGk4ZUJ4SzQ1dXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Lanzan colección de estampillas por visita del papa León XIV: ¿cuánto cuestan y dónde comprarlas?",
+   "resumen": "Lanzan colección de estampillas por visita del papa León XIV: ¿cuánto cuestan y dónde comprarlas? La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdTFRREV2bzE0Q0VtM1E3cmFIdmJBYVpUWHJabTRMWi1odG9wbnBWdmVDS0ZpREVFVGtDLXNYSEpfTDVxUnUwRVByNUJxY3JaTDFjTHlsZ0pHSUdqcUdRVTlfa0lNYUFyc0NITzByeXpTX1dTdkIwX1dxSEp4WGJ4enVHNGRsQm5HTDZRQ1NSaEVQaTB3MTJCZ0NkeV9vRnRfUndBcTBOVGNrYzczVHBBQlVIS2k1WExGNXBBOWVvOW1Zc2hBeTJtT2NpaTdiU1ZxNHNlTF9qMmpWeHJq0gHiAUFVX3lxTE5qZFMwdXQwSDV1MFkxb0V0dGtnOTY0M0FVUjlzcFduTENiNWlUcGc1VzZjOGhUX3g2TENNTzV6U2VBcHc0ejdxWW9HMjdoY1AyblE2TzB0RnRyLUVSV0pfY3BsUnB4RVFNdFBCTG9DeTlaR0RIUlJYeGZsbHBxM1U3SEhnNjFjcE1Sd2s2VHdVX24xelFWbzlHNnRrSFNHd0kxYmo1ejlxVXJTWWFjWlF0dXM2V295YnBtaU5SU012QjFnUWc1ZU9NNk1NVTBib3NZbTBLRVhKazBsSkNLYVBVYlE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Te quedarás sin agua este sábado 7 de noviembre? Sedapal anuncia cortes de hasta 12 horas: revisa AQUÍ los distritos",
+   "resumen": "¿Te quedarás sin agua este sábado 7 de noviembre? Sedapal anuncia cortes de hasta 12 horas: revisa AQUÍ los distritos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWNJTzFKNE1lRUxoaEpva3dUb28yNkRmOWZpUWJzUDFtbGIxbTRhMXM3TV9pMDVpeF9vbjhCYm14Z0tiZlNtMkUyMUxFZ1FOSFM0NDdHdy0zTDMyQ2hVVmNmYXM1SzEwUXVlNlRjeDVqZS1KM3dfSnhKVUJzTHE1NjBydmdKNS13OU9FWlV1VDA3UkVNckJ3cEk5b2ZGTWpfYWpucEl4dExVU3dxMi1qTzRTRkUwc19vMVpTT2UtWUphNW9pUzdWbTV30gHPAUFVX3lxTE9ENzdGbnVfejUwMHN1d2xnY1ZvOXpxWGpTME1mSFh1dzVUUXJ1cG1UWjZqcnhodjhJaFkwY0pEazQ3MUtCMDE0OEN3V29yaVVPa1hFTG5DRFNKNEN4ekx2dFl5MnpIcnZWUmM3dnFZNU5OT3U1TEl6eUZvVjFNMmVFZzlOcnJlRjJJV2poem1PYnExMTJsUUIwUW9kOWoxZG5VRHhPcXh3d243NVJjTHJHQTRTMkV1U1VweDFFV3ZtWDBWQjNqZUhacnFGdDBGaw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Congreso: dictámenes para derogar leyes procrimen a la espera de ser debatidos en el Pleno de diputados",
+   "resumen": "Congreso: dictámenes para derogar leyes procrimen a la espera de ser debatidos en el Pleno de diputados La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWpRTlNiTjhnTzh4NHRmWkk1MmtBMFJRUHNVTEZTRVhLS0RUcjl6YXBkc1B1MjhfZHpFOFVuMHFYckhWcDctOXNkRXpFTERnYzc5QTI3YllIeTI1dEJ4TDJaNlRiM2VQNEtuTW9xb3V1LTlDRm01VzRzQjZORXU0Wjc1VnR3MVVSYmtvbF9pa2t3dEQxdmd2TXI5M3dBcDZpVnVidktNVDM4OFl4NGp5ZnJlOEprMDNzQ2xmSmNmOGlPSmlxU2VBUmZ3cU5iSWd2MVEyRTRBYzd6SkwxckFQLURha0NkOXNGVTV5dVJLQdIB9AFBVV95cUxQMnJZLUlGWFpMYVE1TThsN0FIaUVXX1Rya2ZGaEx6ZkE2N25aQzhqWGxSV2pvc2E1TmRUX3lPLWFZbjNUUkU3Wlk3OE91eUpoOWdvbVpSSzgtUnpEWVA0di1QMEtvVkxGOFVqRlJkTUdrZW1JRHdmZktsOHplVTFzSlRMbmJ0RWVOTGYxZ3B2bUdPS1B3c1JQMkJIRllvR1BCbWNLek4zVXdLcGVLNWMwVHFnYzFRVTdyMzB4ejVrR0Z3aWhVMV9tMW45eFVDcW9aeUY3RWY5UDBBajUxMzFpOGx3VUJZVXRlUE1VTFBGR3pTSUUz?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori anuncia mejoras en índices de crímenes, pero cifra estaría alterada por subregistro del Sinadef",
+   "resumen": "Keiko Fujimori anuncia mejoras en índices de crímenes, pero cifra estaría alterada por subregistro del Sinadef La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcFIzbll4Y0p6ajZidWtTeGVKY0Q1NEZaa3VfUERuREo5NGZxTFk0S0Fac193enh2dVFMVHYwa2lIaE5ENnZnUTAyRjZkYVVRcVgxLTA1ZWJUNlN1RG03UnNEUzA3cTVvd2g3ZDZfdVVRaW9fWjdiUVJLSHprX2VyS09HVjFhYVFwZlRRMU9CSlE1TXZGdXFaWnJUQ25LVTh2MHNOWm90Vm5TZUVGUVdBMFBWR3BITGl4VkJTcDdNVFNjTFNFcTNVYldQVldiSHBMN29XbW9MYU5UeUZ2SFJZNFRPSi1TbGhxYmtDZ3hRcUQ5YmpUZGdiQUpFbmR0LWfSAYQCQVVfeXFMTzhyVFF4RXdVR1lycjR5TWNNS3VKeVlGbDR6TUxMazh2UUN2OG9IbFlpUDhoM3ZJVk5LT2lraW1JUzM0TllyX2pfbFpQYWlIUkxmQzM1RnB0eFlyOXowdHEyZGZKUU5pOExiNk5mSGdkVm0yNkRsekx0RkJiVG1zVTJNcmZlYlA2dzRnVThXVXNyel9Dd2NqQVdzVkliX19rQXhaUW1USDZEclN0eUtBYzRmLXZZb1FWMUpveFF2d3VwaUJNZHYtRDVQUzRmdkFxV0ZicW4yeVk5ZlJqa2dHa0w5bXNpWG9BWTFpbUJQUGR0RXlpSFZlVmMtVzdJektTblFTd0c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Banco paraguayo vinculado a escándalo político patrocinó encuentro de extrema derecha al que asistió Keiko Fujimori",
+   "resumen": "Banco paraguayo vinculado a escándalo político patrocinó encuentro de extrema derecha al que asistió Keiko Fujimori La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWczcmpoMk80X25FOG11ZHplOUp1eEdIcTZBRzZOQ2FGT1RfMVAtWWhobFIwNmJKbVZ2UkxiQmJab1RYN01YWFRGZ2NYSHNvS2FjdVN1WWt2ODQ0Zkt6bHFhUVlMOTRrMndrVzZJRUx3M280MTNKSVo0Wkt3OFlqRk0tOXVJbGRWSEYyaUFjdWo2NEZJZWNiUWhjZ05BTWFpZ1E5a1BWYms1Y2xzaTRSTjhUVV82UjFHay1KZGh6SGUwdzZ4bFdIbUF4WTUyLWU4akF0eU94NVp6b2hPaEh2YWppWWRLWS1MTWRHa0lLZHZ5amVnalVKNkd2Zm5CWWZT0gGGAkFVX3lxTE8tSXJ1alBjQWo0WTg3eG1ua2lyQ08ySFhKYVc3dDhrMmdTcHJKN0hQcHJfQW1LLVZ2RVRiNDV4c3gxNm91N1RkSVB6eWtrWUR5LW5zQl9zeFhqc0hHTlVUX2lxYXV4WGNYV2hjYURuQ2pJRDZkRFQtaTY4bWdkQnVBelo2SG5OTlgyTXB0VmtBQU9HanZmei1CZUF5SUV3UjUzbHgzNHZfNlQ3OG1JQUQxYlV0cjZYaEZqUV96Y3ZSa2JEMjVjRHN2VEhFSkZEejRwdllhQmxNTmxLa2Q2NnNfVDVKQmRBZVd2S2p6YlFPWkRfUldmS3JfMU9MaDYxSGxnSHJHWUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Aeropuerto Jorge Chávez: LAP alerta riesgo de inundaciones por crecida del río Rímac",
+   "resumen": "Aeropuerto Jorge Chávez: LAP alerta riesgo de inundaciones por crecida del río Rímac La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONFM3MW1oV3ZTYUF1aXJjQWd2QW5UYWVsUzRTc3E4dUpvWU9fSFhLYjZFdXNrSm03RkxvRVM5Uk1MaWN1M0RUcjgwWklfX2FqZjdkbEgwckpmb0szdmxzeHdMeG5fc3MxRkY3QVZSUTVXS1pTak9VSU04VHpkV0czZmsyM0NlQzU1Y0lEODhQcGZPc0JQNUJ1X245N2pLWTNPakFxTjRoRk15d0F4M3lZbkdqN1UtZUxCcE5heDEtbG9MbWxPSlY4bmthbTFDQdIB0wFBVV95cUxNbXpNb1ZCZl9VbGdVdE5iZ1B0Z0lfeC04eWlaRmNiLUQ1dXRqazZuUGd3UHZ6SjRUY1FnV013ZDdGTm03Z3NiWWVqczAzNFR0MnFXM0VvVVJpczFpYnJiRlpVcmhIYXR0TU81UWgxSjV1WDdRVk5xN0YzdVk2UWNGc0lySEJTSGRSWjFNeVVRNmUtNFhVaWJHTW81c0xsVldzaldxY1FMcWRLbTh2V09PZng4VXc5cW1nVk0tbzd6T0U3dWhWcW93MnpXYzVkcU5aOFFF?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Lluvias intensas dejan 324 damnificados y 808 afectados en Tumbes: Senamhi prevé precipitaciones hasta el domingo",
+   "resumen": "Lluvias intensas dejan 324 damnificados y 808 afectados en Tumbes: Senamhi prevé precipitaciones hasta el domingo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTmZfSFV0cXFHVHo0SFE4a2VQZ2NxUE95NmpyOWlRdUFPdVNOblFQcW9IVXVFdFhib24wdGVxbXZVN2Jqa252UmxaZ1dxOTRWSDBFWEF3aXNzcU9mU3I2ZXQzLWgwTVpUMHpLeGxtMUlnNkxlMUdWT242X0dwRDlwNFdZNUxVT3M4bXdZUUpSTXVIeVpUUmtuaHZGbHpEbUVpLWJ6LWx6cjJSQmo2N1dWWUpZeTJEcmVUUzJEemowQjFvai1mNG1ZWTkwazRyODQ3aG11WTdqQXllLWZQM2Z0emlQS1I3TnZiaTR6eG10SWhwQ2Zl0gH6AUFVX3lxTE0ybnZuWU9fdENBeHNGMlJ6NjZVX2o4UWpMaXByMkI5OGk1NFZHV2oyclNtRHdOMmFQTzM3ZXA1Unl0S0pVRzdCaEltSkZpZUdHTFBaMkYtYWFtS1k3ZnR1LVR1MnEzTER6NnRyWE5Tb2VLaHRIWFpJMTlIMjZwTExNM3VoSW5jUm9BYko4RGFGRHZDWjZYdm9wZ0JMMkNsTldlREpLTF9ZVVdad21SOE1zeEs5MHl0UTA1Nm1qcHRkczl1dFlRU2ZUU0JmOWw3Rk1zSmRZZlZUTTVMUmFlQndlbWNfUF9TMkl1X2pMdGRiRnh1SFZzUHdVYlE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Franco Vidal ataca a la prensa tras revelarse que su gestión gastó más de S/ 34 millones en eventos: \"Manipulan todo\"",
+   "resumen": "Franco Vidal ataca a la prensa tras revelarse que su gestión gastó más de S/ 34 millones en eventos: \"Manipulan todo\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaEdZZ192MkdaQTd5Tm5zelBtSEI2OWxvMjlCYVQ3S3hjakhmZ2xwbXNjOHlORTREYi1CNUQ0OU5RblRyeGFsR0hZVjFTalB6dHEwTTRweW41bDZIb3hCRzR2TDVYSEVlTkVtMVIyN1M4a2x4WW4tWXZCcU9ZMGFsQWtGT0d6WlZvSFJZcXNyMGUzbUtKVS1HTHRxY0xENWprekJPcDE2UDd5Y1lQOXVyQ2hDamgyVkJjaGNCRlJ0aGgteDVHUWx6a3VLOU52d1lTLWt0TldPYlBTcnR4bG9PXzZsWjY2Yml5NkM1X1BObV85OHJk0gH6AUFVX3lxTE1pMDBzX25qMXR4UU5mV2t3QXBudGt3bHlpN2JlQXV6MWZVd0pnLUFzdm5LekpicWNUdnFwZEZlbHBqcEtILUNyNXFkMVpkYmU3ZHJFM2MyQmVERmU0TTlpNGVkR2x5Q0R2Q0pwaVZYR3RZdktPNE5JNXJGR0NfRGUtS0NkX1l2UDVyc0xUX1RNRU9MbEpCRFZlT3c2SnFXbWRucXYzNFF4YVZ3dmI3UERrd1VjUHV3TzB0QU1qdnpVWG1ualFDeG9EVGhFTXB5TUxkVWtJcmZfN2UxRWI4c2ZtdzVPVzNrQVVadnUxWUdocEliNVM3MmIxTHc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Elmer Cuba: feriados que caigan entre martes y viernes serán trasladados a los lunes desde 2027",
+   "resumen": "Elmer Cuba: feriados que caigan entre martes y viernes serán trasladados a los lunes desde 2027 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGJoMEJrU3ZHTDNHR1o4SXAzT0dQdGwxbmVhN3R5R19GUXVYaEt2al9IZzdTM2lYWHpkSHJtQ3F1cGZtTFJiM3N1WklicFVhNUNsaFN1THF1clp0Z1pWSWZvaDMzb054akFUSXV5STFHaXJReG5UMXV1X29pTkNUREJ5TGJwS1NlSHpCeE5BZHJ5VTNaTWpTWDNDVmVQU1FLQklRRldxQklCQ3RvRGVLYkpRVFc1cndvbWk3NnEyMFI0Zk15c3JWeHpRa1NJYTlGWUxXYkxmSHhIdktwQ0Q4RG5xMFPSAeoBQVVfeXFMUFFESnI1a1E5ZHZRN2tnSEpwUmFQMVg0eFhFLWhIRDMwVnd1YmhhamM5aWo0dkZNN0dMOE1TZXZFeVQ0bkpEVG0xaW1UT2NROGpBX25qYnF1S2NOaU5MTGYyeFZVUk5XRG55OTZNV3ZSLXJrQVc3WjJaSDRhbmNPaU9IU0I3Qkp2UXNYQnFURUpyYlNHNUV3TkhLSUFRakJha2FsUV9jdk9NTzNmTDRwbEJVMm5TMUo2VWFZT2plcE5nRGR2WjMtamRWR3BQbV9OaVgyS3VpLWo5dU9vV3hFV0tBaEhZM0lJRE9n?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Liga de Francia: Le Mans recibirá a Mónaco por la fecha 10",
+   "resumen": "Te contamos la previa del duelo Le Mans vs Mónaco, que se enfrentarán en el estadio Marie Marvingt el próximo domingo 8 de noviembre a las 11:15 horas. Bastien Dechepy será el árbitro del partido.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-le-mans-recibira-a-monaco-por-la-fecha-10-noticia-1716489"
+    }
+   ]
+  },
+  {
+   "titulo": "Liga de Francia: Olympique Lyon necesita sumar de a 3 para escalar a la cima",
+   "resumen": "Stade Brestois y Olympique Lyon se miden en el estadio Stade Francis-Le Blé el domingo 8 de noviembre a las 11:15 horas y Jérémy Stinat es el elegido para dirigir el partido.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-olympique-lyon-necesita-sumar-de-a-3-para-escalar-a-la-cima-noticia-1716488"
+    }
+   ]
+  },
+  {
+   "titulo": "Liga de Francia: Le Havre AC luchará por vencer su racha negativa frente a Lorient",
+   "resumen": "Le Havre AC y Lorient se enfrentan en el estadio Stade Océane, con el arbitraje de Aurélien Petit. El duelo se jugará el domingo 8 de noviembre desde las 11:15 horas.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-le-havre-ac-luchara-por-vencer-su-racha-negativa-frente-a-lorient-noticia-1716487"
+    }
+   ]
+  }
+ ]
+}
