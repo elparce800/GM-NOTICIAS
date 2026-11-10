@@ -1,0 +1,812 @@
+{
+ "actualizado": "2026-11-10T06:43-05:00",
+ "modo": "titulares",
+ "total_titulares": 314,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "El INPE remueve del cargo a director del penal de Barbadillo",
+   "resumen": "El presidente del Consejo Nacional Penitenciario, Abraham Lescano Salazar, dispuso esta noche la remoción del director del Establecimiento Penitenciario de Barbadillo y encargó su dirección al servidor Claudio Lino Andia Nina.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY282RnN1ay04cEVZVHUycGhiZ05RQTZKZ1pHYWpNLTMzOGYwUFpFTXZFYVQ4YXBac0ZiMVhmczNnYWNFQzlaY3RqUVVHdnlJQnJtaS1RcElYQW9TdTlYRlEtMDVLY1A1OVdtMkdjR2ZPOGloam5zNXRuazFZaTlhZmxCUVZZRlZGQm51bWpwUHZ1eVAtc3ZXaUVyMFdRVHBzS2fSAacBQVVfeXFMT25MZUJHcEFwdlg4N3FUV0NDNF9HRVdpSFdISThQV1JlTU9yaDc5N09EaE5LVVhlUEdJc09TOHBCM19rRlB3WXdtcDkyODhMUm43eFNidHh2M1phSTYwZGJWellzTnlmUUpwelpKLWdZd2JwSXFEUm94bENjVlBNejB4T0YtUVo1bFVXM2g3X0lOTGdrRjRyYlUtZHhmZ0Itc3Y3cWZJVVU?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTRnX3cyMjFUZTY1QzA2WlNWc0FCTjV1Mjg2elpEWG96dFhKVDBHak5nNWVlUDZoNTJXV2wxdlI5OFhrRGhPT0RfS2VWNDVYWXZWX2Q0UTF6eDN2NlIxVWJpVE9ZTWgzUWt0QUxUQWFtd01oejNfTnBrZkJFQnZ0Vk9FWlRiSkRObUdJaFRMdF9Pd3BzT1NvZU1kQ0hzNklWQTF0UDl6TzE?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/inpe-retira-del-cargo-al-director-del-penal-de-barbadillo-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-el-inpe-remueve-del-cargo-a-director-del-penal-barbadillo-1099284.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "IGP Temblor hoy, martes 10 de noviembre: Epicentro, magnitud y hora exacta de sismos en Perú",
+   "resumen": "Último sismo en Perú: El Instituto Geofísico del Perú (IGP) mantiene el monitoreo de la actividad sísmica en el país. Conoce dónde se registraron los últimos movimientos telúricos, sus magnitudes y profundidades.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-reporte-del-igp-epicentro-y-magnitud-de-sismos-donde-fue-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-9-de-noviembre-magnitud-y-epicentro-del-sismo-segun-igp-live-3699"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/10/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-martes-10-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en el Perú: conoce las rutas y avenidas por dónde pasará el papamóvil",
+   "resumen": "A escasas horas de la esperada llegada del papa León XIV al Perú, la organización del viaje reveló cuáles serán las rutas por las cuales el Sumo Pontífice se desplazará a bordo del papamóvil, repartiendo bendiciones, así como los puntos de encuentro con los fieles.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/leon-xiv-en-el-peru-conoce-las-rutas-y-el-recorrido-del-papamovil-apuesplan-ultimas-noticia/"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnFwMmlKTkZTUG1NYm9VNWRPdXFZNzZoS0tHNFRtT0Y3d3lyMnI4QWQzUHlzLThXVXU2NVd4b0FrZElKWWpkNm1JSEhiVFU2dVVaUU03UHhkUkpmYWJhdWNFazRKTnZoLTJSSEtOMHN3YkYzcjA5OTdMZlM5M294ajFwZnc3MXdlVXlsX0tnSWhlUFJuRXg4VlloYw?oc=5"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-el-peru-conoce-las-rutas-y-avenidas-donde-pasara-papamovil-1099234.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "\"Epstein me violó más de 200 veces\": los nuevos testimonios de mujeres que fueron reclutadas por un socio del financiero mediante una agencia de modelos",
+   "resumen": "Una mujer afirma que el jefe de una agencia la envió a sesiones de fotos en la casa de playa del delincuente sexual.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/eeuu/epstein-me-violo-mas-de-200-veces-los-nuevos-testimonios-de-mujeres-que-fueron-reclutadas-por-un-socio-del-financiero-mediante-una-agencia-de-modelos-estados-unidos-noticia/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cq0mem48n7yzo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "La Fiscalía de Paraguay trata de abrir una bóveda oculta hallada en una propiedad del expresidente Santiago Peña",
+   "resumen": "El allanamiento se enmarca en la investigación por el caso Ueno Bank, cuya crisis dejó a millones de clientes sin acceso a sus ahorros y precipitó la destitución del exmandatario.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/santiago-pena-la-fiscalia-de-paraguay-trata-de-abrir-una-boveda-oculta-hallada-en-una-propiedad-del-expresidente-por-caso-ueno-bank-noticia/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Corte de agua en Lima hoy 10 de noviembre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-hoy-revisa-los-distritos-afectados-y-horarios-segun-sedapal-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-10-de-noviembre-distritos-y-horarios-afectados-noticia-1716942"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori solicita permiso al Senado para viajar a China y Japón",
+   "resumen": "La mandataria tiene programado asistir a la 33.ª Cumbre de Líderes Económicos de APEC, que tendrá lugar en Shenzhen. Luego, viajará a Japón, donde sostendrá una reunión con la primera ministra Sanae Takaichi.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQnpYTkZNSENtOEVtd21MOWNfc0NLaWg2Nk5hSVFGMG5OcEp6LTlqNDVfejU3UVB4ajVxZnhNeGJYTDh6aFN6NUFYZUFqVlo4ekpGamphbWhuUEFhTmk0LUpCbjJEWEd3MFhmMWdiSzdyVEF0bWYzSmpLLUxaUVY1dlhBWEdwTlFHdkh2NUI3OWpweWxBd01SMEFHN05jUHAxUEpfUDA3c05QZVJGTjBaT2dWZG41RG5VTUEwb29UeXRFczk4YTJsaXdHVk05Vm82VDNaUW5BNlkxaUlpdWNmZ2ZScDFKQUlhVzFSVGMycGtwZXJKR0ZhdVBTWWcxM3Z60gGGAkFVX3lxTE1wNEVKSG9BYmtoWGlkODEzMDRNeXhVWXlyZFNncTNqVmZLcjhLMzh1SGZOZm9xbzJxMkpZNzF1NDNINzBLd3F1V0ljcDlwUUEzQldyaGlaN0duZFZGQTQxME50OW9ua0d5SHBQRWZsLWtHNU1XRF9MSjJYSE5SdWN1MlVnOTAtZDVFMHlXRzJnamJOVlFXdUQ1YXctSVFqbGp3WVpuUWpqWXhhYXFVQW51ZnBvQjZjbXN6NHN1RFZCUVdYWWFpaGwxc2JhRjBBb1RwQ2VCcXdpNDNFNEUydk5vZU4zZEc1cHF5QmVobWlsQ1NfQV8wb1NGcmhaWkl3bW5oUmNER0E?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-china-y-japon-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Retiro de CTS al 100% hasta 2028: presentan proyecto de ley en el Congreso para liberar fondos por el fenómeno El Niño",
+   "resumen": "Norma Yarrow, diputada de Renovación Popular, presentó un proyecto de ley para ampliar hasta el 31 de diciembre de 2028 la autorización… The post Retiro de CTS al 100% hasta 2028: presentan proyecto de ley en el Congreso para liberar fondos por el fenómeno El Niño appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFBTWG1jV2Q3VU1ZamUtdk0zM3VSc0wxc0lleDNuM1daREF3dVh3bGtQcmIxZ1FmYjAxMWMwRGlxa2NlcVNpNWpaWEVTWFFQZG44el85S0dpTG9lZ2o3dC13MzJLUUJxcUM0SGVQZUlGX1ZrcVlWUS01QkFsU2QzUmVsT3BRM3V5UndQdTgxTGxnWTJqdHFHTElyTU9tMHhOOEZwMmpzTnFOanRzZUNQUFRfZ1hBTUhlcWJHeHZBX0FxSVlmX0HSAcsBQVVfeXFMUFp5eWpKZWJMSGxIa3ZmdmNRckxpeUZjWlR3WVVWcVZvcURoVVZiUi1YSFZSU3Q3cDROUFlDekVPYXNHUm52MjBQSWdELU9oa3hMZncyZjdyby1FNHpyWlVybG5GOHpDM19tQzZaelhlbWNDZ3VIMkwwaUIzazlkRWUxcDlZTml6MnJPeWZjbWxUNmZTQ3RZaTBpWExhdk9QTWMwbEExUEFfcVlLQ3FWaG1rSWJNcDZUYk9uUFM5ZkFJRzVWTVB2U0dGY1U?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/economia/retiro-de-cts-al-100-hasta-2028-presentan-proyecto-de-ley-en-el-congreso-para-liberar-fondos-por-el-fenomeno-el-nino/"
+    }
+   ]
+  },
+  {
+   "titulo": "BCRP lanza medallas del papa León XIV por su visita al Perú: conoce los precios y dónde comprarlas",
+   "resumen": "El Banco Central de Reserva del Perú (BCRP) puso a la venta dos medallas conmemorativas por la visita del papa León XIV… The post BCRP lanza medallas del papa León XIV por su visita al Perú: conoce los precios y dónde comprarlas appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbFpvVmJJdUY5OHFJOGpCODlaU2k4MEg0NDZfYTduSFNTaV9XQlNnRUFta1k0X0RxWUR6elJOSzVDaGZtMnBkUE1UTjhFNmQ3MG5ZR0dkTkRUVnZ6X191Zmd1YUVycGJNU01lM19sS1JPeEl6RzBCclcxVTQwSnNDYzJWUU1PTmMxOWR1d19fRVF2dGxXQU5COF9xSG85TWxOcG9IRnJhUW5YZ3I2eElDbjVTUDd3eHVyZWhqRFNDU214OTFPd0RWdTJidHZnaWJXcDhLUF9LQk1NMXpMUnp1Qk95Tlg4VnNjU25mbGwtOXVlenZwRlVITmdNT0w2d9IBgwJBVV95cUxQRThwdzRHb29NQlBELTJxQlBCWkJUdk9FQWNyMkR3aFJ2dlY5MVdaeUFLTlNza2pyZW1pZzlpVElSWEpBUG9JUVVtNmFGWF9hTWk1bmRla2U1NVJmMHlKYnItVWVsRUhJdGN6OVZCNWg4X0MxN0wtX04wejVGYXpJRWVOdF9HRW4wWGtnU0VEZzVHLTRLMV93RGJxZzByUjEwUmJEaGhEMW45bkllTG1rNkcyY3FzclNObFRUeG5teHdLcm8zZU5wMUN1VEdhVWQzLW1iZEg5X3dJcGJvNHpjRmV2VkJhRGd1R0diVmpuSTZRZVZRV3NhbFFHWFBEQXZoTlh3?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/economia/bcrp-lanza-medallas-del-papa-leon-xiv-por-su-visita-al-peru-conoce-los-precios-y-donde-comprarlas/"
+    }
+   ]
+  },
+  {
+   "titulo": "El régimen de Corea del Norte probó un nuevo torpedo de alta velocidad y prevé incorporarlo a su Armada a partir de 2027",
+   "resumen": "La agencia estatal norcoreana KCNA indicó que el lanzamiento “es parte de las actividades obligatorias de los institutos de investigación científica de defensa para llevar la tecnología de los sistemas de armas a una base altamente desarrollada”",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/asia/corea-del-norte-planea-desplegar-un-nuevo-torpedo-de-alta-velocidad-a-principios-de-2027-noticia-1716954"
+    },
+    {
+     "medio": "Infobae América",
+     "url": "https://www.infobae.com/america/mundo/2026/11/10/el-regimen-de-corea-del-norte-probo-un-nuevo-torpedo-de-alta-velocidad-y-preve-incorporarlo-a-su-armada-a-partir-de-2027/"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar con caída en Perú: Así se cotiza el tipo de cambio hoy 10 de noviembre",
+   "resumen": "Mira los valores de compra y venta de dólares en casas de cambio online y mercado paralelo. El Banco Central de Reserva (BCRP) y Bloomberg reportan los valores, mientras Sunat tiene su ‘tasa de cambio’ propia",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-10-de-noviembre-del-2026-noticia-1716951"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/09/precio-del-dolar-hoy-en-peru-cotizacion-de-apertura-del-9-de-noviembre/"
+    }
+   ]
+  },
+  {
+   "titulo": "Callao: Develan la estatua más alta del Perú dedicada al papa León XIV (FOTOS)",
+   "resumen": "La escultura en homenaje al pontífice fue presentada este lunes en el parque Niño Gaelito, donde se encuentra instalada.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFFTZnBmYk1fT2dyODdpb211NDhFVVV0SEFxSmZFTlVyakRQWm03b0ZzcENhcVY1d3pWTTNGRXNmVmp5WE55VjZCQ2gyZkJvZDhOMWk4VW0tYmd1SkhtbmpJYTJtT3pMWU9fZ2pTTS0zN092eS1kai1tallQbGV0eWU1bnBNZXJ3MkdYeU1tekIwN3BEaGY2eVZZM0pIOGFfSXc?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/callao-develan-la-estatua-mas-alta-del-peru-dedicada-al-papa-leon-xiv-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Francia acusa a Irán de hackeo contra frigoríficos de supermercados",
+   "resumen": "Francia acusó este 9 de noviembre a Irán de estar detrás de una serie de ciberataques que afectaron a los sistemas de refrigeración de cientos de supermercados y otros establecimientos comerciales durante octubre. El ministro de Exteriores, Jean-Noël Barrot, señaló directamente al Cuerpo de Guardian",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-09/francia-acusa-a-iran-del-ciberataque-contra-los-sistemas-de-refrigeracion-de-cientos-de-supermercados.html"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/video/20261110-francia-acusa-a-ir%C3%A1n-de-hackeo-contra-frigor%C3%ADficos-de-supermercados"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en Argentina EN VIVO HOY en Córdoba: Últimas noticias del Sumo Pontífice",
+   "resumen": "Papa León XIV en Argentina EN VIVO HOY: ultimas noticias y más noticias del Sumo Pontífice.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-argentina-en-vivo-hoy-en-cordoba-ultimas-noticias-cuando-llega-donde-estara-rutas-agenda-de-su-visita-a-buenos-aires-cordoba-lujan-y-mas-noticias-del-sumo-pontifice-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en Argentina: Pontífice defiende a los sindicatos frente a la reforma laboral de Milei",
+   "resumen": "El papa León XIV estará en Argentina del 8 al 11 de noviembre. Se reunirá con el presidente Javier Milei y desarrollará una agenda centrada en la justicia social, el bien común y la atención a los sectores más vulnerables. Su visita incluirá encuentros con trabajadores, internos de una prisión y com",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-argentina-en-vivo-hoy-domingo-8-de-noviembre-cuando-llega-agenda-de-su-visita-buenos-aires-cordoba-lujan-javier-milei-y-mas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "“La mangosta”: un Mustang al rescate del viejo ídolo de acción Liam Neeson | RESEÑA",
+   "resumen": "La mangosta: reseña de la nueva película de Liam Neeson en Prime Video",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/la-mangosta-un-mustang-al-rescate-del-viejo-idolo-de-accion-liam-neeson-resena-prime-video-the-mongoose-streaming-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Roberto Sánchez busca la prescripción mientras llega la instalación de su juicio oral: los detalles de su recurso",
+   "resumen": "Roberto Sánchez busca la prescripción mientras llega la instalación de su juicio oral: los detalles de su recurso",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/roberto-sanchez-busca-la-prescripcion-mientras-llega-la-instalacion-de-su-juicio-oral-los-detalles-de-su-recurso-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El clima en Nueva York dará un giro esta semana: qué días lloverá y cuándo se esperan las temperaturas más bajas",
+   "resumen": "Consulta el pronóstico del clima en Nueva York del 9 al 15 de noviembre de 2026: temperaturas máximas y mínimas, días de lluvia y cuándo llegará el descenso térmico.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/local-us/clima-en-nueva-york-dara-un-giro-esta-semana-que-dias-llovera-y-cuando-se-esperan-las-temperaturas-mas-bajas-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Dólar BCV hoy, martes 10 de noviembre: ¿Cuál es el precio del dólar en Venezuela?",
+   "resumen": "Dólar BCV: Consulta el precio actual del dólar según el Banco Central de Venezuela.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/precio-dolar-bcv-hoy-tasa-oficial-y-tipo-de-cambio-en-venezuela-dolartoday-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en Perú: hay 200 mil entradas gratis más para misa en Base Aérea Las Palmas",
+   "resumen": "El Arzobispado de Lima amplió el plazo de inscripción para obtener entradas gratuitas a la misa que el papa León XIV celebrará en la Base Aérea Las Palmas el 16 de noviembre. Las solicitudes se realizan mediante Ticketmaster y cada persona puede obtener hasta ocho boletos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-en-peru-amplian-plazo-para-solicitar-entradas-gratuitas-a-misa-en-las-palmas-gira-sudamerica-2026-apuesplan-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Buscas un auto a buen precio? PRONABI subastará 16 vehículos este 23 de noviembre",
+   "resumen": "¿Buscas un auto a buen precio? PRONABI subastará 16 vehículos este 23 de noviembre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/buscas-un-auto-a-buen-precio-pronabi-subastara-16-vehiculos-este-23-de-noviembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Tabla de Liga 1 2026 EN VIVO: Acumulado, puntajes, resultados y partidos de la fecha 17",
+   "resumen": "Tabla de posiciones Liga 1 2026 EN VIVO: resultados, partidos de la fecha 17 y clasificación del Clausura y Acumulado. Conoce aquí cómo va cada equipo de la liga profesional de fútbol peruano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/deportes/tabla-acumulada-de-liga-1-2026-en-vivo-puntajes-y-posiciones-del-torneo-clausura-resultados-y-partidos-de-fecha-17-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio de la gasolina en Lima hoy, 10 de noviembre: ¿cuánto cuesta el galón de regular, premium y diésel?",
+   "resumen": "El reporte del día muestra diferencias de hasta S/ 4,70 por galón entre los precios mínimos y máximos del diésel. Conoce los rangos del gasohol regular y premium y cómo comparar grifos con Facilito antes de abastecerte.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuanto/precio-de-la-gasolina-en-lima-hoy-lunes-9-de-noviembre-cuanto-cuesta-el-galon-de-regular-premium-y-diesel-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Semáforo",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/semaforo-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Habrá paro de transporte en Lima este 10 de noviembre? Revisa qué rutas podrían suspender sus recorridos",
+   "resumen": "Si el Gobierno no atiende sus demandas de seguridad los transportistas advierten que podrían convocar a un paro mañana martes habrá movilización",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/que-rutas-dejaran-de-circular-en-lima-por-el-paro-de-transportistas-de-este-10-de-noviembre-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cómo limpiar el caché oculto de tu navegador y duplicar la velocidad de tu PC?",
+   "resumen": "Rendimiento y velocidad: Descubre cómo liberar memoria RAM y reducir el uso del disco en pocos minutos sin perder información personal. Esto es lo que nos cuentan los expertos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cual/el-truco-definitivo-de-los-expertos-para-limpiar-el-cache-oculto-de-tu-navegador-y-duplicar-la-velocidad-de-tu-pc-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "por Janice Seinfeld",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/por-janice-seinfeld-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "por Martín Tanaka",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/por-martin-tanaka-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Retiro de CTS 2026: ¿hasta cuándo podrás disponer del 100% de tu dinero y qué cambiará en 2027?",
+   "resumen": "Los trabajadores podrán disponer de sus fondos de Compensación por Tiempo de Servicios (CTS) bajo las reglas vigentes durante 2026. Conoce hasta cuándo podrás retirar el 100% de este dinero y qué cambios se aplicarán a partir de 2027.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/retiro-de-cts-2026-hasta-cuando-podras-disponer-del-100-de-tu-dinero-y-que-cambiara-en-2027-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en el Estadio Nacional: Cómo acceder a las entradas GRATIS desde Teleticket",
+   "resumen": "El registro por Teleticket está anunciado para este lunes 9 de noviembre, desde el mediodía, para jóvenes de 16 a 35 años. La vigilia será el jueves 12: conoce los requisitos, el procedimiento para menores de edad y los horarios de ingreso.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/entradas-gratis-para-ver-al-papa-leon-xiv-en-el-estadio-nacional-revisa-el-link-de-teleticket-y-como-conseguirlas-hoy-para-vigilia-de-los-jovenes-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Quieres evitar futuros embarazos? Así puedes acceder a una vasectomía en estos 75 hospitales del país",
+   "resumen": "¿Quieres evitar futuros embarazos? Así puedes acceder a una vasectomía en estos 75 hospitales del país. El Minsa puso en marcha una campaña gratuita de vasectomía dirigida a hombres mayores de edad, mediante un procedimiento ambulatorio, seguro y de rápida recuperación. Todos los detalles, en esta n",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/donde/quieres-evitar-futuros-embarazos-asi-puedes-acceder-a-una-vasectomia-en-estos-75-hospitales-del-pais-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Feriados en noviembre 2026 en Perú: ¿Cuántos feriados y días no laborables tiene?",
+   "resumen": "El calendario peruano de 2026 contempla fechas especiales durante noviembre. Conoce cuántos feriados quedan este mes, qué días se celebran y si habrá jornadas de descanso para los trabajadores del sector público y privado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/que-dias-seran-feriados-en-noviembre-de-2026-consulta-el-calendario-peruano-actualizado-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Atención, fieles: ¿puedes ingresar a la misa del papa León XIV mostrando tu QR desde el celular?",
+   "resumen": "Atención, fieles: ¿puedes ingresar a la misa del papa León XIV mostrando tu QR desde el celular? El Arzobispado de Lima dio a conocer los requisitos que deberán cumplir los asistentes antes de ingresar a la Base Aérea Las Palmas, donde el papa León XIV presidirá la Santa Misa. Todos los detalles, en",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/atencion-fieles-puedes-ingresar-a-la-misa-del-papa-leon-xiv-mostrando-tu-qr-desde-el-celular-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Francis Allison alerta de que Jeanette Alonzo no juraría como alcaldesa: “Un enredo originado por López Aliaga”",
+   "resumen": "Francis Allison alerta de que Jeanette Alonzo no juraría como alcaldesa: “Un enredo originado por López Aliaga” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHgwQU95bWpPM0FuWHRRQXFGOTB3NkdzRE9sZGNZWXBQUmc5VS1RWUlpajVxMFdoWHVBejNtZEhORlRZSUV2WDI2Z2sxYU1xMkJOWlc4LXYxdFNMTXkzZnprbV8zQndVOHMxUElmc3pTand4MktxVWJJa0h3dk1Wc2Noa3pMWXl0VXBoeGFoWkdFeDBKMXZRS2VpVE9PX1ozVDhCWU4yYkp5VTNJZzhTSFF0LVlBVkx5bjFnNlo3bWZSTFJrTWo1eEtrelRPdl9HU2RXSjdVOWdDX1B0Xzh6Y3Jxc0lLSmpWbjR1MEZtci1fX0FFeG5sRVp30gH_AUFVX3lxTE5GMGstU2plcEktSkZLOVVrc3p3S2w4bG9TQ2dMRGtLWll5NTV1RHdjMHhQdDJoaXVEaUJVMEpJNGdMX01UWTI0OFNFb3dJcF9zM1ZYeUN2Z25rZHRoOFdBb3Nlc0hVdzBMaHlfUHkyck1VQS0yX2habVBkVU9RZTlZWnpPSmJUblNCU0ZYU2xnX2VsSFFfXzI3UDBuUHZjUTRlOERqTjRzSjRDNlA5QlhmUlhxcndoUXVYd3lEeGlnWjNCTlZ1MkgwWTFkeFYzcW9DUHNwakxma09oZVg5VmhtOWI0VFdBeG9OaG1ZUUVEWVE1X1lqS1ZaeUJjVDd0VQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "A casi 10 años de El Niño Costero, ningún sistema de drenaje pluvial del norte está terminado, advierte Capeco",
+   "resumen": "A casi 10 años de El Niño Costero, ningún sistema de drenaje pluvial del norte está terminado, advierte Capeco La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSTVhemJ1SUUzUzZjV1gwWUstUFZZS3gxUGZJVmNYR3p5eWJ5bFpIdTIwcFVIM2pHb2cweTk1aVk2T1lWRTh0dDQxVXNhdmQwb0owSzlwaGFhOHdmOGozWDdfWmhWeEp0MzNDVFA1Z2dnTUhGcHdhb3NXWEc3TVg3THFtZmJQVzJpc1BZNkQ4NXJFMlVGUFJSSmxQTHcxVXpsVDVhdVp5akFLWnBBS2lySXJiWmY1eERPOUxfRHo0WC1IMndBMmJLQmV5LVI4cE1WRWZIMkExUFl2V1hBekRfZkk1V3lqS3ZYX29raGQ4cGlQaDloelU40gH8AUFVX3lxTE9HV3Q0TGcySGtwT1JMQ1RHQ192RllURk0wQlhEeWZ0X2ZiTm1ROTFiVXpoekNlREFzeG5MNEhBUzRGbVktMFQ5ZGJqUFE3LWJGUXNOU2Y3OUZUR3g3UUhrbUhsX0tlNkRHRnNJWlQ4SFF6S2JwelhTQ0RVUUlvczlHTlRVMjRJcVIzd29BMmVwN0R2ZDQ4NU0yOXNURVZUdG9naDZ0c19hVEI4bXlsM0JwV0VBck00bTdsNEEwVnVaNDVSU24wWEx2MWtKdTRKN1dESVg3dnE5cWFkMGp6S3RTNlBTRHFEbVFSb25IQ2Nob3N4emFpU2d3UVUzWQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "MEF propone flexibilizar despidos de trabajadores con mejores remuneraciones y reducir aportes laborales",
+   "resumen": "MEF propone flexibilizar despidos de trabajadores con mejores remuneraciones y reducir aportes laborales La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmtndkVmTXp4alU5RUdxcWZ2MlF1Y1NKSE8wbU96ZkVkUmJGMzZhX3pWMUZqYlc0UVJZaGhwem9uemloaUFualJJbWVEMnpCM2o1Q3FnY0tRVDJrYi00TFBDeEEzd0lqVzJmZDBWdjB5MVpLN1g2NDZWTkhvcXNtbWpyVmlEb1hlWXF3UzRmaHJtYUZudU9mckFZOE01dXY2RDV5X0txUTdTMXpDQmlsTVNCeTljYUY3bmRUZW45Vk9tcVhxUXRQTnJGOXh5TFZVTXY2bG5nWHVnZVVLYjI2ZHB2NVRQclViSnBfbTZfSdIB9AFBVV95cUxQd2NzZm5mOXFfbDJIMm9DYzllbFlZM1g3X0N1eklTVXo0V0pybkt0ZnN5T0hiNGVQTmxMNkl2bEU2NXY0RWJMVWY1V2dYZ2NQaHp1ZFZwWDAxWWw1dTZrbXdSRi1aSGtYaE5VbDJzV1ctTnVDMmpMZkFmOXYzZFc2a2pyM0dPNXNxSnBVbURXUEZwTkFnWVd1Vm9TTmJDOUUzb2pLdEpTQ2xPQktNMm9ad1M3di1ubDFqQkRTcHRqUC1KTlJPYUY4dHZDYVpvUncyMW44dkdZeWdSTzVOaTVOVHJNdWFsQ19mS3hjNzdQbnlfQnFY?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
+   "resumen": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNXdTbk1LN2hFWm1jeXFHZ19qNHhMeE14TlJMUEkzYUlmSXhFcFF6RFUxQWFJZFQwcVlGSmR6ZF8zOFN0YlI1ZnVDblMxRTRsSzN0SWxaWGFKXzZBOFU2SlE5Qkdac1BwZ1FZMXBSVWdSX2gxaHpRT0JkQXh1VDY1Nk10MnNzRzBLVU1HZ3FHRlI2RkRMcWM2RGtQMDJMb01pcmVRMzU1bmo2emlpczBIeFo3VGxneDFibF9DZm1DNEl3SFBHZGxOazZiWkZ5X0Z1LUN1dEVkOE00OGtmZnlKb2xhVk1DTmgwTmQ40gHwAUFVX3lxTE1SLTBhVkxoQXd0VnduQ3ZhQUhmQ3VMZU5GNnVKZEpGY1JsNFB1Tm1zOHZhR0JWcmRFY25WVWRSOVRWMERqajM0U2pJZlJUaUNRSllHSjhFTnhrYjUxXzh0MmRydS1ZbUR5SHVRUkJDYWNFcDdnQWk4OEFvMDVyNklzOV9CdXp4Z0JIM09vMXF3SGdpWkJMVlBhX3Q2amN6UW1BN1F4S3dOYWk1eFp5UlJxeU5lcXNMQ3NfYU9jczNwSmF2bVF6R2dtX2drLXhnUVJtSXNBa1pESG9zSjZqTFh1alRkNUFzRHdtS283ek5WeA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Bernie Navarro: \"Perú es clave (...) Hay interés en invertir en infraestructura portuaria\"",
+   "resumen": "Bernie Navarro: \"Perú es clave (...) Hay interés en invertir en infraestructura portuaria\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjdGVTBiSVQxRURCaHJVempqM0EwSGZETEdWb3gxWG1fUEVvZ1Uta0piSFl3T2RXLXpsMzNONlVtOWtObXVOV1B4Tk9mYTRsRGVUR0M0U2xtbzZwUmFDMGJiWkVUYlUtSGhXSjd1eXdqLTZlNmdaZGUzYUx2bEg0NDUxNWhITVdBX0RRNkpPeU5zR3pXdHpGUXVVNXpMSHM3YUlSdnBOMjN3Wk9oY0IzMzFxMDhoV0l3QVJZT1JtZTdsTHlQd2FqcmNxUHhfYkNZRTBv0gHYAUFVX3lxTFBUNzVCNDRfd0tQYWlWeWVjSFJVSDI5S2NDNk9jOUpuZk5Sa2VaakxGcWppc2h1emdWTi1wcVFXMTY1SkExN2M3NkYwY2cxUEg4d0d1Tm9KUWU4amtTbU5zdGdmVmNiek5oV1RVSkc5RnczUEJnanBkTlZ2bVJqWEZDOFBTcUhFdHg5M0U0aVBRTkM1YkNJRkh6OURadEpxR3RkUzlQLVJQRU1tYW9ENXhxZFphZVRKT0hiTWphMkJ6c1JzbU1CRlJQbDZLcmVWOUY3NUNzY0x0Tw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pleno de diputados debatirá este martes la derogación de tres leyes procrimen",
+   "resumen": "Pleno de diputados debatirá este martes la derogación de tres leyes procrimen La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOERBSnpJOF9SRl93Q3JrTnNiWWgzenBPbmNiOWxpbE04eGZSckxERlhmNmNUeUtDVjVsdEw3cGl6Mk91eXBnekJBbjhWdDFvNDdwbVZWS0hYVzFWRzNyQ1NkOHBRTFh4ZmtHZEhYU2hYR2ZHWXFYdEJMVjhXM2dyOVpxRzF6MG5UMGVxWU93b0lSS1FlUlFWMFY5eEV6THRWSE5uLUhMaUJ6UEE1NzRQMzVsSjFHRU1aSUl0NjZ4WW8xYUFpN1Z6aGxiaWN5UdIB0wFBVV95cUxNdDdlNkE0TXR6NENuUUpPS3Z6MnNHSVJRb19ycjZ3MG5OS1BEanBKSGV0M0NfSlh5NU5Hc21sMElFdGdXbHZGT2g1VGU2azhmSVRmUTdqWHRraGtpWkJVRXF0VGlCU20tSDNDVEw2ZE1KTVVvN3p1OS02MnlwQnJJdEFjb01qNXBUbXNBMTNqWG51ZF96by05TjhEbnFUcm5hMzV6cnU5RkxteUVZRUtWNTRkVWY4SjdYdUZSZFdrS3BIZnNkVEgzUnUtQzFSaDVjQVdN?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Prestar cuentas bancarias para recibir dinero de extorsiones será castigado con hasta 15 años de cárcel",
+   "resumen": "Prestar cuentas bancarias para recibir dinero de extorsiones será castigado con hasta 15 años de cárcel La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZkJsQXdDbWpWTU1nNUFQZ1k1Y0V3ZE9QM19SVS1rMU40U21QYlh5bDY1bHdpNUxvRVE3TmpQQXB5cTlPOFdoVXM5djhReWxuZjctWXFNYTU1cFgzU255V2JJbGdxS3dpNEpJVHJoRXBlakUyVENWRUlUTVNlSmc2U0hvaTVSMjRROVpjMy1kZWFuaEoxS0N3dmtpMTZzZ3F6UDQ0YTBuOE5iTHJZMHBXR0xDenRsMDBYR0RBYVdmMThEREExa3JXcEctWHkyU3BudUl4djR6a3dzUjhFLXVqZnZUX1FrTFQ2dGc4ZjREcHDSAfYBQVVfeXFMT2p5Tm4yQ215cUNjYXVIZUV2eVQ4SlgwUXZoT1NsZ2pEMmtHNGNZUy1tUmwwaGRqX05EdjYwdkplODZHMzFmVUQ4ZTBJM3pCdU54VTRfc2pwLS02cm1qQWRzbUczVERaNlFqdHFaeEg3c1FNS3dkbE9udE9TZGdsb1VrSmRZdHl2WDdaMkdSTXRFU2RyMm1NcUJYaVRma2dwMmI2b3hJbXRXbTVKRm8wYTVVR1I0TGVqaXdycHVCQUp0b1NfSXlXR3dQN21GbUM2MF9yVzBHZnhRY050QjFXV21ody16c2NJenhobFNEcWtHWUJjRXN3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pedro Castillo: Director de Barbadillo será removido por contrato de su hija en despacho de Juntos por el Perú",
+   "resumen": "Pedro Castillo: Director de Barbadillo será removido por contrato de su hija en despacho de Juntos por el Perú La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMks3eXRDYndSZksyVm05MzJpVmVwV1dOZlplM2JpZ2t2cDk4Z0kxajA1UXJqM1VZUHdvVGZqQnRZdDhwTjZqMzRQNzhBQkZNTmFuaUFLUUY0NW9ENUk3Vl8xNGZTaTFZLXhFeHNRQ1VsMG5LbEM1anlxMXFRM2FPRVExUUZWcTNJbGdSeUZwOUFqQzFPelkwYlR3SFFCdnZVQXgtUTdjQnFFLUdkcTZIaEpDaUhCZTAwdFYxWHQ2R1lST0laNHBvN29JSmppemRvY1BxbXdSbWpKaE0zUjFFajFGcE1iUkU2Q3JJTEJ1WjNKVFBmU292akt2eTTSAYICQVVfeXFMTnJZaFlOQlg2TGE3WXZvWDhUYjBHeXJvVFAxTUdEU1YtNGcxN291WlkzRTV0alQxQkN1eDYtVGNUZERIZGZlb3VRanNtZTREaWhzajM3SnM3LWVSQkdnZWxBdDBnYVJUNnR0OHA4bktzb05fLW9uczNyOUJHcXV5TUpwdnJkNWQ2T09xVjNlOHkwckItVXFhcjVIV3Z3dWk1akNHS0hxUF9qV050U3BQc0ZPSldkZHJDUGR5aDZpVFAtQWJXMEw2anloVjhrWkZORmRJTjZja3EwVmg5UkUtQW81LXpEUm5LZkpneVNjb3JPcF9zQ3kwZzNuS1JRVXZ5bGpB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori asegura que su Gobierno rendirá cuentas, pese a críticas por sus primeros 100 días",
+   "resumen": "Keiko Fujimori asegura que su Gobierno rendirá cuentas, pese a críticas por sus primeros 100 días La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWklNWGlybEdqUHdYWXRxY2xIT2M4d0pCZHNEenVOSTAyTlZralRhU2F3QllxeHNPZTZVY3RXeXJDaHRJYzFSUkgxUHZGMTBpR0NPdjdaQ3BTMjZMT08tVHJneHMzd29RNDFWR1o2bGlRaXF1UkJYVVNXdTVQVjZZV0g3NVhmdko2aDhMaHp2YTg3c3dBbzN4Mk85WnllSk1FRENyWFpuLUk1dGRWNzNzcXdpVmtOYTZ4ajlmMGdETnJwelFkMkRTRmtuOENwUEU1WU05WmdDaUd5YnFMVFF0bC03czVfaG_SAewBQVVfeXFMUDNoQlRLZHo1YWV3eVV1Y3JZdDZjTzdfeGFhblFKS1VMX01fc3FNS3BnQVlEYU1hQ05SOTh4UzMtODJiYWxocTA5ME12Ty0xQkpuQmI3VnYwODRqdTdSQkZaUkFkSjBIS2NLaXRRZVl6aWdUSGJIdVdVR1BVMXZfb3dJTy1Kei1KcUxDZkkyRTRLQ0ZUNExzaDR0bjZ4dEoxeDBGQmlCTDNfTzhuY0dsWDZKS0VtYzRSU0pka0pMZU55VzhLT1B5MERkS1hFd3RMNjc1cm1rZG9pU1N6SmNLX3JFMGxzRDQ2elBGUTk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Cayara: Corte Suprema descarta amnistía y ratifica condenas contra militares por delitos de lesa humanidad",
+   "resumen": "Caso Cayara: Corte Suprema descarta amnistía y ratifica condenas contra militares por delitos de lesa humanidad La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYllGdDZZMGdmbW9QSlVkdUUtcHZwNHJRcWVValV3UnlrOWlPd3l5b3IxQTVWemRBWFRYd09aMUF1YldZeTdPejVoeW1IVllnU282Nl9fZVB2RkJYVGhpMmJxWl8zcXdDVmdIU1V4R2hlT3MyTFNJS01vbDNnbDJvSTNmMV9sZ1NELURtNF9BTGdMLXlRZm5DenI5V25mX3pkLTZ0OG1JMUd6RTc3Y0dSaVk4QmRCRmFuN2o4Rk1zREtMNWRXZWM4UEpPUk1vbnM0QmIyUmJYQUw5SUJMZ2xqT2ZKMTRURFVYTTVQYklUbEUtTnhZU0o1dmZ30gH_AUFVX3lxTE5la2ZHd0NxdmtqMmN1anBlUldwNmNhSHFaNTlLTEVmdkhBbGtXV1F0UG51ZDhuMzBXbW1XUzdtV2pHaWNXME1heDg3eFAyUzdackNjVUZNZV9aVlR6WkdVQ2c3QzZseEQ0aThEclVLYzlRbHN6MUVsQkZ6RUx5UFpMczFjZHdSUUNVcTlEQWRKZHpMTWw3VHFVV1JjVWtGelp4c1E3c05Va1UtRnUwSWJYR25pWmw5Qk1UekdQMHFKRk82SVBMMGp3OGlqdFU0OFI1NFVqREVwNnJnaE15SEFidDlWRGZEN3E3bXJnTlVXMzlab3dYWFRQQUJvUnFOMA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Luis Galarreta descarta rumores de su salida y califica de “chismes” las especulaciones sobre su reemplazo",
+   "resumen": "Luis Galarreta descarta rumores de su salida y califica de “chismes” las especulaciones sobre su reemplazo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTlozel9qa2lFdUxnZ3JVSEUteVdhU0NzaVQ4TzctelhfTFZYd0JvYkdPSThSTXBhd0QwT0lrcGhqVTA5OUpRS0RZbTZQeXVwUTJqbXFCV2pEbjVTZW92TE05ZGJwOWI2VkRmdE9WOXpjMDE1VHRjWEVVU1JpNzhsUExXd2JaRWx3VUFHVXpIallkaU4tWG9CU2pjb2owbFhxWTlmXzVmVUxRb1VUS1NqY29DdUpFNTExb3BVTFJ3dkVTTWIwODg3VXR2ak9oWVRIa2VHcXc0d0dic24wNGc4THVEQkRFcUlHMzJ3cmtOSW1IUdIB9wFBVV95cUxQRzZoZW5Td2J6QmkzbE1vVnJfV0RjeFduUFNaV1BuRTZhLVFpN0NqdVBwdUV2ZFp6RDBscHk4dHhLV1RITVg5LTMteXpqaHBVcHFPX0xMODk3Sko0Q1pmT0Z5MGd4Tlh0bjFvNGRROEowSW1aMXRpMy1iNnpZU0dlQjVzWGtSd1N0VFExb3R3ay15X1g0cnd3MUxwVEh5NGxvaG9vYlA5NzZnMlA3T2M5VlFKSHhiQ2xHdUpxUzBTZkxjMndYcGk4ekt1cmNMenpkVWNUNTdOTjd2OThYU3hMbEpjaGlWamozRkFMeDc1TkR3VE5SRExn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "“Íber Maravi no estuvo en el ataque terrorista a la comisaría de Vilcashuamán”",
+   "resumen": "“Íber Maravi no estuvo en el ataque terrorista a la comisaría de Vilcashuamán” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTk1WM1dOa21peXRQQWtnWnptWVBVRmFxejJqTFJTQWVsRFVrWERBMVRBYXFRRWI2Q3FGMWp1X0R0RTJBVHk2TlJaN3JsZUhXdDAzM0FzVWx1bW1SUnBHYUNCU3pueXNWcmhKdWFuNkwtejZfZlA2aDVUUnZuclBZeEZjdElfMUtGVmwxekw2TXl0bUFscGtQZWM4bHRHaGRsQTNHLUcwdm54d1JCSmFWX1B2THlYTDNveHJQREFyNkZjWnJ2RkVHbHNGeTXSAdIBQVVfeXFMTjVCMzc4cFZNVkE0SW9FRzJiSkNxOHp0akFJTDd5TVd4bUNqaEpubDVGNW1PcWJ3OTNYSks4VWRndEdJdWI2anF2SkMzTmFERGo2OTNMSHJMSGZySWZIbmpIaWlCSWcyYXpoUzFHcUl2SDdNdFBUUlg3MXhjb1dVZWw5eUNBUUp2TGFLR2NDNVNKaHdPRXdYS2RGSjJXVWlXX2xQTjdBeDh2bkU4cTQ1cGRYOFJuMWx6NWtrdkR5OFozaXFwdC1iQ1BOZzdLbWZLa0N3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Gobierno modifica la legítima defensa: ahora se presumirá que la reacción del ciudadano fue racional",
+   "resumen": "Gobierno modifica la legítima defensa: ahora se presumirá que la reacción del ciudadano fue racional La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSmk5elpMV0NLZ1pCTWtIdVExSzVWSTNSVUVYQzBXcHBCeU5XUGszM1dPdEZOOFpSbTJCakRJUVlvRjV6aEViUW5qZnYtX2lXZGxtVEZQVXNGTlBYNkhXcjYyOXhOYXlwVTExY2RNcFNVN1FlOEhYaGZ3OFVXR01KT29lbHRrS0F6LTJ5RGpsYV96M2JmWC1Qb2pnamlZak5lWGtmWTU5bmt6QllhOUlnNXZ6U294aGxjQTZic2I1cEVTMkp5bTJwSU02OU1IWnVraEptQnQ1UHJzX3NNVkd6NFc1RHFrMjBkTHNZ0gHwAUFVX3lxTE81WjNMbVF1WmtPZFhwV1dXUVZjRFFCVkQ0NFFHam1uOVVhZVVNV3M2XzBFUUMzaWNjSmhPa1pBUkl2OGYzR0FmZWhQdU9oZzI1SXBtdEZDZFdEX09zZ2I4RlZ3S0Z4VjhQU1o1VmlMOHNpeFpEWndqVjd0Rm4wMEp6dTBkOUxjNWpOSXlBNGJkMndsREpLT0VyYnI1b1N6VFExTDRKS25CdXVVbVJlZ2tSdHhvMG5Wa05mdEhIZFRuSjNLMXhNdUx5WGxYM0hrMEV5MjM1dDV0dVctNWkxS1lycjVNMXZKeGlIY2FDWG8tdQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Congresista fujimorista es captado en fiesta durante su semana de representación y emergencia de El Niño",
+   "resumen": "Congresista fujimorista es captado en fiesta durante su semana de representación y emergencia de El Niño La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY3Itd0xtOEZobGJCbVhwQ1RZekRkN1lkb09kdlRMNjVuTkE3czR2RUxNMTJhMXZzZHBqNnh0d3BjUDV0MFZsaHdDY2dfY3hmZFZsTzM5TTQ5YnYtUmI1akE3d3I2elEzMURsOHM1Q05STGZLd2ZQcS1saEVHOW5EbGlzaTBOaXp2YTVIdW1oMWdhODRmRExPRTR0WnFUckV6TEtlYl9iMnhuLVFsamRJdldiSExpOVhJS3l3bnRST2FNeWZ4NUxVa3N1Qk1PYTIyby1uWDZxOTRIMHZ5LWhWZEJLSHpfT3BEMng0SENhZEgzd9IB9wFBVV95cUxQZ2F3em9IRXBMd3dTYTdxXzVUMmFRNmptNlJUVktxN1I0eG01REVVOGxfUk1HWG12VEItR01ZSmw4LURSbXBremNBOHhBaGNaLTBKT2VpMVdtM0lTS29yWENQSWJORHZsRHJOQzJ6RjZUVGJ2WDk2TWF2MThfc3ZVUHp1RU0yVXJGblo3V3NSTWVkcHNvVlg2UUh5OEVXSEpwaTNkQk1wbnNBUkZDRlRwWGtmYjFoM1JISWMxQ19RRW44bGVqWWJhZF9ITllEb0t3UFNNQkoxMFVkRll5V3J2UDdlX1JQVWJvN0pkWlY4allTOWpUd21z?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pedro Castillo: INPE removerá a personal de Barbadillo tras revelarse contratos de sus familiares con JP en el Congreso",
+   "resumen": "Pedro Castillo: INPE removerá a personal de Barbadillo tras revelarse contratos de sus familiares con JP en el Congreso La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRzY0VllTT1l6dGc2NHROamdzSTk0T25lN3R2dVNBNWpfaF9VZ0RLWUhpTVdpMXNRZkQzdkRBYWpMZzdsb2R1RzVxeXNLcHlNd1dWOW1hbFROUS1ieXBVRmVBVWxfVEs5NF9oRmRyT1ZBN0hKMEF3c1E3dnROUElZNlBSUl9BU25pTWQyVTNraDlETC1hYjVsZEVHYlR6aEVaYlo2V192UjRUcFdScUlXX1FXYXRnR2llQWtJY0RCUnZoa1lhM2xGZUIwZlFNUV80Y3NWVnp1RExyZTM4OUVqZkg5MkZYc2ZhUGNCczh5VU_SAfYBQVVfeXFMUHN4aF9ZRWFZaXNVTGJHdGxOMHFHbFZfYmp4clNLQUszd2F2MzZUTWlRS0tvUFR3NjF4ZHctVDk4YTBHODFodDdKaThRVWROYzgxei11X3QtUkFNeDlGdnJhWmd6Z0hyU2paNWttZzN6UmtRUVo1OHV1dkV4djJEQXM3Tzk2dFZQV0ZPVHBnOFdMX2xfSEJ1SS1TZTFOMXVna1ZnSlYwYzAxSDJDUWlDNGxBazY5SUdzSnJzYTF3TDh5VVBSNk5GcVhVdXdERkp1aUFITHhiNFlmMnY0eTVSS3lGaFNYWkpVR0Z4WUJ1SzVoSHc1R3Fn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Petroperú: cuestionan entrega de Talara a operador privado pese a recuperación financiera y piden fiscalizar crédito",
+   "resumen": "Petroperú: cuestionan entrega de Talara a operador privado pese a recuperación financiera y piden fiscalizar crédito La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLUhVX1c4MGVQdTE5TzVwZlM5VW0tWW1BNnZyODJVMEk0OVFDcEQ2a0E2Z1ZuaHVrc2d2WmlnY3l6c3BmUEdLeHZhU01NZ29QdXpsNzQ1NzlpZ0c2SkFwdFVQZnRzZlB1T25MY0RDTkNtOXN2UGJieUtUNmFpZ3RPX2dPcnFTY25HTnQtN0sza09fOU5BWGQwSlo0NnpXOHhKZ0VFRWFxWnlhN0NXaFQzUE1IZm1KaHhmbkFRQnJ5NnZ0NEM0Z1dVbFVKcHhxTHJrWFdkNGdsTjFyWE1RbVlnby15eTd6RzA5bGRvTEkzWmJsUExaX3BBVdIB_gFBVV95cUxQcmt6cGtMeHhhaHF4R2xYcDlSUWRFR1U5Nl9XbVVqU3JCdV9CWlFOS2duaHlZSlgyYkVHRlRmeW11MmstSWFUeVlNLXFiTXpyUkxaQlV0czBLdWVSWmdMY3ZFb2xxbTk1TXZ5VjVCUGJBNUhraE1kSUFiaE9GQ0pmLTBtYjNMNG9Od3ZYeUtyVkgydjBRTUloX3NuN2dZWWtPQWZ5WFd6YVRtSFE3QmRKZmZtamU0dVhCcXBCc2E5LUhfUlBZc0FVNTU0Rkd0VWhPVHBncTRHUC15SDM3R3hQNm9VckFrZm56c2ZoTlNqNjdPQ2JkdDRaSnN2QUlxQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
+   "resumen": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlpDWE4wQWdHQnZvbHI0WTczTkY3TDVkQ0dZc2FMenBXcmJrclljWkR5eTV2Z3Zqak0ydDlKV2FEeVpPc0piM25lOF95TE5SR3I1OV9zTXIyZ0xXODJqTnB4ZUVGM29wVW03WDRxMndIVEFCeDlKYUpHZVhfQTE2ZVJOaUM4VHBhZlNwdUtLTnNqZzZpN2FNVlpwUkRLNFhZQUp4d0JNUURTWjdQdkVjbGEwNnpUVmwta1YySFpWR0FoTUF3bTRCeEVkTjliNTBTRHBEZE5RcEUtWWVTcHhvajRycWloT2tUek9MZdIB8gFBVV95cUxNSnIxNEFKUXpzWFRjUFV6bDRvb0RnVXNWYjY0VmpYUDdYOGtVdnZkdlo1TmgzZ1JZN09VOXVyVzBRaGdGLXZMZXRiZnR1elBzX0VVNmd6dVhEeDBoWGFFaEtTUUtEd0FaZmpJRGg1d0tPQ0hGbzlQc0l0NldWTUVUS3NmZFFxYmJaWkM5RHBLZE9HRlVYS04wWDlqbE9DNmVuMEJjTVJNT1BsZ2xBUFljLWk2YldsZHZhX0d0N2R0bnV1YzhFZlptWWVZb2xSOFFBNlBYVWVwaGtETF9xNWhKLWZHMEFtQW5DUU9fOFBYNWprdw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Margiori Mejía Alva sería la alcaldesa de San Juan de Lurigancho en lugar de Jesús Maldonado",
+   "resumen": "Margiori Mejía Alva sería la alcaldesa de San Juan de Lurigancho en lugar de Jesús Maldonado La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMHctSFJJZ3MtMmZwMC1HOUZNWHNXUFBqZE9RTURld1h3NHdJQ29UdS0wQV9PNnVOUkkxS2xkN3F2V2VRZVNUU01SbzB1alY0YUlUMEd4SFhKdkZjV1BmZnB2d0RIRldxUWZHZ3gwdzNaVVlMMGN4bE5KU2laLUhSR3NIZ0dlY1hzMVB3dlVFTXhwREFlTXlpb0JsMHgycnJGenFrWm8wVW9mMTE3bVNjUlE5ekd5ck8tejc4ODg2eXpNbEdJNzVVR2xhUlc0NmlLcTFPeENxYmZfTUZzM2FEUXNn0gHnAUFVX3lxTFBCSk02VkNJWG5IU3YzbWJsMW5lek1obENqOHZCYVlsN001YWR2a2FydXBtWEFIV2dsbHRBU2p2TTNBU1JaNXZSY2x0Q0s0SmxMU1E0TTB0VE1aemNFdThfQmdqTlVHWVdEbDV0bUJHY05PSk5VbDZ1NG4yYzZrRl9NOHRMQzJFSGFBbUc1amRZcDBsNDVUQWx4STVFUkdZU1pNdmUzNXMzbWFKRk00NGcta1hoSDBHTGRxbUZ6TkVNdGItQnBHSDhYSFV3NmhCd3l2WjVERE9kQzExb3FfaVd2bWRZOXN2OA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Los viajes de la presidenta, por Oscar Vidarte",
+   "resumen": "Los viajes de la presidenta, por Oscar Vidarte La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUhjWDZjNm5qN1Fna0JmUVZxcG4xZWxkLWF5UjUweTdOMS1IZWpnRlNxOG1COWc4ZHY3QWJvajllUUhMNnFoR0FtM2R1TVpRd1hOdll0T1MxSmhQQ3FpWFVMaTVLb0w2S2ZqNHp2aUthd1VUUU1mWHVjaUpNRHl3SW45b3hSd2xlT3lYcGZQd1g0Yks5NG8tTzZQcTRtRkdySFHSAacBQVVfeXFMT1g5T2twdTJCS0tmQ1N0cENEQk5UMnhoWVBTUXpYaTBZdW5Telc1MWlqTG1JWWtUMFBJX0xaLUh4cGhkeHNObjRMM0JuQi1PYkJLRWVoT2t4UVpfOUJuTVBLeHB0REtxaGdJN2ozVEl4VVpNQ19BTGlZRWo3NjM2bUVXbGlXdUh6MUZrdGtyWWFWLWNpTWJBUWVqZkRLUHk1bENwZ0pOSGs?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Rosa Bartra: “El modelo de El Salvador era inviable a primera vista”",
+   "resumen": "Rosa Bartra: “El modelo de El Salvador era inviable a primera vista” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY05OcUMwTnNTdUltR09CeHdCdjk4UEZFNld2R0RjWUY1TnBwMnFsc0V6al9kcDk0dHBpWnkxTTM0Uzl2dG5aYlBpTnZKMmZrb3ZiWWhNVVVUelViZ3haTWhFQUd1d0FldHZxY1JlWUdlTklMVXZHRU9nWmRfc1paM0ZpT0w3blpDVnp2cW85Z3FxN0VrcWUxdG9leG1oZEhVdHozTV9kN1hzaUR6dW9nRF9LTEVTZnNhc2hTNWNR0gHDAUFVX3lxTE9nVlFBVi00eWM3OXI4MWxMV1dXa2YwdlZPLUZyYkNJTGgzdWxZbkxyci01Sl9JYi1rRTltc0JCVnVSSTRQQWFoaW1YdHg1TTJUREJFOThpeTZHMnNUSG56SEZHcmt0bkdraE5KYTQ4Y0lITWxvY3lHOENYRkFGUWlwbVlVSlZMSF9RY1owc2VmTWw4aTJCTzFZc0xxRnpVY3hmU2lzMDhIX2d2RW1QT21BWG1JbElEMGdGSm5DMGNaRWx3WQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cusco restringirá el tránsito vehicular en principales vías por visita del papa León XIV: revisa las zonas afectadas",
+   "resumen": "Cusco restringirá el tránsito vehicular en principales vías por visita del papa León XIV: revisa las zonas afectadas La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZTRrYS1HMDhBM3UydThMOHFpQ0h1SUpydGJ5c3psLVFIN3lUakZod0tOVEcyRmJnY2xWcW40MF9EV1FJR2RsdGQ1bml0Q2hua1VibmszTDNpaEhPSnE5MktQd3R2TDcwMHAxZFJDRUlRZEV2TUpYcHNiZ3QteElMUmI0cXFzUTMzcHlFQkIzZ1NKV3NJV09IazhfWkEzV2dFMDFQX1hHOEd5WmZHdjZTTlkyWFA1NVhXTUVrMEJkOUVNSkM0QXpzSjZDVG5OUEF3X1BRc2FBZ25VMWRJUTFheHkzRzh6MjlWOEhCYjVwY20zT1N4TWVrRtIB_gFBVV95cUxNZzRFUFBaSkVfNVVKUTE3bkdISzFIVFVXN0xRUEVTQXY1QmJWVnZLNlIzeHIyRUszS1Y5RlhnQnhHbVdySmJEY1lYMnNrb3FyN3B5U3I5WFBoZWpYTGNTckM3SHpsaDhka3dSOG5pbmw5NzdQNXpEWG1mSmZ4WjlZVHNQa29QUlRwMWFnWkxoR3dwTWpfclpyQWhYSXBWTUx0T2lZa3lzS19LdXRHYWlIV1gwTk0xQUxmZEtBdWhVbl9reVRRR2hTQjlLT3JwSFFINDM5Ni1Gam5feFZacmJrTnRybDZLdVFZcExjcHBRRVVzWlpvSkJaSFZSQk44Zw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Colo Colo campeón de Chile: Vozinha fue uno de los más ovacionados en los festejos del ‘Cacique’ [FOTOS]",
+   "resumen": "El guardameta, de 40 años, fue uno de los más ovacionados por la numerosa afición que llegó al Estadio Monumental de Santiago, donde Colo Colo celebró su estrella 35.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/colo-colo-campeon-de-chile-vozinha-fue-uno-de-los-mas-ovacionados-en-los-festejos-del-cacique-fotos-noticia-1716956"
+    }
+   ]
+  },
+  {
+   "titulo": "Tailandia limita el ruido y el calor que generan los centros de datos en nueva normativa",
+   "resumen": "Con esta regulación, el gobierno de Tailandia busca limitar el nivel de contaminación que producen los centros de datos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/asia/tailandia-limita-el-ruido-y-el-calor-que-generan-los-centros-de-datos-en-nueva-normativa-noticia-1716955"
+    }
+   ]
+  },
+  {
+   "titulo": "Japón: condenan por acoso a una mujer que le dio 14 \"me gusta\" a un tuit de su expareja",
+   "resumen": "La mujer, de 33 años, recibió una sentencia suspendida y el juzgado determinó que hubo \"un delito persistente y malicioso que infundió miedo en la víctima y que no puede eludir una condena severa\".",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/asia/japon-condenan-por-acoso-a-una-mujer-que-le-dio-14-me-gusta-a-un-tuit-de-su-expareja-noticia-1716948"
+    }
+   ]
+  },
+  {
+   "titulo": "Santa Rosa: conductor de camioneta terminó herido en choque con automóvil en la Panamericana Norte",
+   "resumen": "El conductor de la camioneta tuvo que ser atendido por personal de los bomberos, para luego ser llevado a un centro de salud cercano.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/accidentes/santa-rosa-conductor-de-camioneta-termino-herido-en-choque-con-automovil-en-la-panamericana-norte-noticia-1716945"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy martes 10 de noviembre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-martes-10-de-noviembre-noticia-1716953"
+    }
+   ]
+  },
+  {
+   "titulo": "Un sismo de magnitud 3.7 remeció la región Loreto esta madrugada",
+   "resumen": "El epicentro del sismo se ubicó a 41 kilómetros al sur de Barranca, en la provincia del Datem del Marañón; reportó el Instituto Geofísico del Perú.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/loreto/loreto-sismo-de-magnitud-37-remecio-la-region-esta-madrugada-noticia-1716952"
+    }
+   ]
+  }
+ ]
+}
