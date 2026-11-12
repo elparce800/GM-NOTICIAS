@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-11T06:46-05:00",
+ "actualizado": "2026-11-12T06:48-05:00",
  "modo": "titulares",
- "total_titulares": 316,
+ "total_titulares": 313,
  "medios": [
   "Andina",
   "BBC Mundo",
@@ -21,116 +21,80 @@
  ],
  "noticias": [
   {
-   "titulo": "Burneo defiende criterio del JNE sobre reelección de alcaldes: \"Nunca íbamos a avalar ninguna reelección encubierta\"",
-   "resumen": "El presidente del Jurado Nacional de Elecciones (JNE), Roberto Burneo, defendió el criterio del organismo que impide a los alcaldes en funciones… The post Burneo defiende criterio del JNE sobre reelección de alcaldes: \"Nunca íbamos a avalar ninguna reelección encubierta\" appeared first on Caretas .",
+   "titulo": "Perú y Chiclayo: la emoción del \"reencuentro\" con el papa León XIV",
+   "resumen": "El papa León XIV volvió a Perú, el país de Suramérica en el que vivió durante varias temporadas como misionero, sacerdote y obispo. En la ciudad de Chiclayo, en donde estuvo a cargo de la diócesis durante más de ocho años, sus antiguos compañeros y feligreses recuerdan su estancia y se alegran por s",
+   "seccion": "Mundo",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/luces/musica/grupo-5-le-cantara-al-papa-leon-xiv-en-su-despedida-del-peru-noticia/"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261112-per%C3%BA-y-chiclayo-la-emoci%C3%B3n-del-reencuentro-con-el-papa-le%C3%B3n-xiv"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori da la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
+   "resumen": "La presidenta Keiko Fujimori expresó su emoción por el retorno del papa León XIV al Perú y le dio la bienvenida en su llegada a Lima, donde miles de fieles se congregaron para recibir al sumo pontífice durante su visita apostólica.",
    "seccion": "Perú",
    "importancia": 5,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRE92eldpb29SOVJwZm5IV2I4Y3dOUnd1aHhVNmJsTjl3bzRsTDV6TVJsOVVmTTdxU19BTGpndDNjOXIyODRyM0RubzRWU2NZaDR4dGEzRGNsWjZDTDVIcW0xWTFxSnVkcUN3ZVBFNXdza19IdzYtQ3prVVpXNFlSZ1k3OEJhcGV2bDdVeWxJeDNfUTFhcTdaalAzZlREVk56RTNGUjJCVkJMWkxYNU80RHBmSDNGdHpQMWc0U2c4dkhPNnVqYUY0Sk1xYWtYb3dfT1NJ0gHYAUFVX3lxTE5mQVByQXFfdzROTzd2WWdYMFduU19Lb083VzdWS3Y4UkpWeThTTU9JSWJWMFdSTFMzbU5Sa1hYdHJ2Ym9OOEQybEtwVGFBeWNYdVpONGdnd1J5SmpxQUFVdk8zcTFJUjk5M2FhTHBhRTJ4aEFRalF3MEJyRTVrTW84MFVCS1JEcVZZRTZjRGJVMnZCUUFxR3dYUk9VQnplc2ZMM1M0NmhwS2dCbVpjSDdIT2NXWVI5M196QkZjVzdXeHVabXVFNXFpQlZaRHJ1UFpZVTVFYnFjSA?oc=5"
-    },
-    {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0RxZ3phRGFPeWMzMmlKdFZRZ1ZzT3RuYTkzU01HQ2l5ODBfLTA3aW9tUTcyYWxnbldqLWpQTl94NUc0TmxXVkJBNDVTdGpIYjRJbTVqU0pSRW50Vm1vVzctdWxfSGZwRU5FVnR3eTRMQmFRRzg5Q25pVy1JZFIwdXhFRUpDbzkzemR3aVBweVRmbEJvSlZJ?oc=5"
-    },
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/politica/burneo-defiende-criterio-del-jne-sobre-reeleccion-de-alcaldes-nunca-ibamos-a-avalar-ninguna-reeleccion-encubierta/"
-    }
-   ]
-  },
-  {
-   "titulo": "César Astudillo anuncia despliegue de más de 37 000 policías por visita del papa León XIV",
-   "resumen": "Más de 37 000 efectivos de la Policía Nacional del Perú (PNP) estarán dedicados a garantizar la seguridad durante la visita apostólica del papa León XIV al país, programada del 11 al 16 de noviembre. El resto del personal continuará atendiendo las labores policiales a nivel nacional.",
-   "seccion": "Perú",
-   "importancia": 5,
-   "enlaces": [
-    {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkRJOGpNZmk1Tkh0RmtmRFRDdUUzQ0hpVzVpcThFNnBhVG9KYXlZV3IzcFlsaWtmQUEzZktjT1N4ekZocXhaZ2ZBdm1LSGRZWHd6MjhQWUV2djZrTUVPeFh5dUNZbVhhVVB2elZjTG9zRTRCb0ZTTk5OOXJEMVRoR3R4bnFoUUQwMm83QklPWHBTUHhrTWhFSTlfZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5"
     },
     {
      "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/lima/pnp-despliega-mas-de-37-000-policias-para-garantizar-la-seguridad-durante-visita-del-papa-leon-xiv-noticia/"
-    },
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/economia/visita-del-papa-leon-xiv-al-peru-atraera-a-mas-de-850-mil-turistas-e-impulsaria-hasta-40-las-ventas-de-las-pymes/"
-    }
-   ]
-  },
-  {
-   "titulo": "El papa León XIV hoy en el Perú: ¿a qué hora llegará y dónde aterrizará?",
-   "resumen": "¿A qué hora aterrizará el avión del papa León XIV en Lima y por qué avenidas podrán verlo los fieles durante su primer recorrido por la capital? Estas son algunas de las interrogantes que despierta la llegada del santo padre al Perú este miércoles 11 de noviembre, fecha en que comenzará su visita ap",
-   "seccion": "Perú",
-   "importancia": 5,
-   "enlaces": [
-    {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUJIZHJDTTh2NjVFLV9HMFFucks0WnBjci1zWE5uQjVyaXFWNTFob3gtbW8tWXlhaW5lY3BLbjFoOTU2SU00UDVJVUoyS1ZrOFpWUHJfblRhVW5jeXNaNTRtTkl6Zk9Pa25HQXdBdjUzTHlCR0RrSW9tejVoRWZTX1N5Nk4zZ2Zz?oc=5"
+     "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-el-peru-necesita-reconciliarse-fe-senala-keiko-fujimori-en-su-discurso-teatro-nacional-noticia/"
     },
     {
      "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-el-papa-leon-xiv-hoy-el-peru-a-hora-llegara-y-donde-aterrizara-1099343.aspx"
-    },
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/nacional/a-que-hora-llegara-el-papa-leon-xiv-al-peru-y-donde-sera-la-bienvenida-oficial-este-miercoles-11-de-noviembre/"
+     "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-sostuvo-audiencia-con-papa-leon-xiv-1099593.aspx"
     }
    ]
   },
   {
-   "titulo": "Estados Unidos retira aviones militares de una base británica por amenaza de Irán",
-   "resumen": "El retiro de aeronaves estadounidenses de una base en Reino Unido se produce en medio de las tensiones entre Washington e Irán.",
+   "titulo": "Sloviansk, la ciudad devastada del frente de batalla que Rusia quiere que Ucrania le entregue",
+   "resumen": "La BBC logró acceder a una unidad especializada en drones que protege la ciudad de Sloviansk, en el este de Ucrania, de los constantes ataques de Rusia.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/europa/sloviansk-la-ciudad-devastada-del-frente-de-batalla-que-rusia-quiere-que-ucrania-le-entregue-noticia/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cqdj1ww3pd4lo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en Perú: agenda y actividades para este jueves 12 de noviembre",
+   "resumen": "Su Santidad llegó al Perú este miércoles 11 de noviembre. El programa oficial del Papa indica un calendario lleno de actividades, misas, reuniones con autoridades, celebraciones y mucho más. Consulta aquí lo que corresponde al jueves 12.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/europa/estados-unidos-retira-aviones-militares-de-una-base-britanica-por-amenaza-de-iran-donald-trump-ultimas-noticia/"
+     "url": "https://elcomercio.pe/respuestas/papa-leon-xiv-en-peru-agenda-y-actividades-para-este-jueves-12-de-noviembre-tdpe-noticia/"
     },
     {
-     "medio": "El País",
-     "url": "https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html"
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-peru-mira-aqui-su-agenda-oficial-del-jueves-12-noviembre-1099547.aspx"
     }
    ]
   },
   {
-   "titulo": "Irán designa como “organizaciones terroristas” a la Armada y la Fuerza Aérea de Argentina",
-   "resumen": "La decisión responde a la medida similar adoptada en marzo por el gobierno de Javier Milei contra los Guardianes de la Revolución de Irán, a quienes Argentina acusa de estar detrás de los atentados contra la embajada de Israel y la AMIA en Buenos Aires",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/oriente-medio/iran-designa-como-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-de-argentina-noticia/"
-    },
-    {
-     "medio": "Infobae América",
-     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-regimen-de-iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-de-argentina/"
-    }
-   ]
-  },
-  {
-   "titulo": "Papa León XIV llega al Perú: actividades programadas en Lima para este 11 y 12 de noviembre",
-   "resumen": "Dicha programación prevé una recepción en diferentes puntos de la capital el martes 11 y el miércoles 12 de noviembre cuando llegue el pontífice",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/que/visita-del-papa-leon-xiv-horarios-lugares-y-actividades-programadas-en-lima-para-este-11-y-12-de-noviembre-tdpe-noticia/"
-    },
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHExOUZzWl9CVHVSNHR3cUdKSndPaXdwVkVBWVA1UTlJZW05MU5vajhXMkNxN1pZS0RxODczR18wTF9rY285ZlZGTjJBUDFfX0VwbFVwN2FWMGhJbzFZS3BRSmdRNi02TGpvMWVtNkVMaUNHNDJxWVhQTnFJWlFvX2dETWlxZnZTUTJHMkVVS18weDd6T1Y0eHJ0OW5XZU56T3pyWXUyRENMZVRRV3FHSmhOQlNUU2NwTTBlWHZzd1NQUXZFVkZxUWtrQ3EzcE9FZXVaZ05rZmk1bEVVLWJUWnlRME1fVjB3dU5j0gHwAUFVX3lxTE9tR2ZhWFE2ZG1rMWJJc19IdkRYVlFDUEVoR041X3JlZDVqSlUtdU90NGR3NnlMcFJaWHR2T1cycWVzLVpWSXhvRWtIa3ptcVJkaGNoZHRxRjM1ZkVTZnpsVkM5MDRKclFCWlRmc2o5ZkNVZU1BUjR4UGNtUUwtcmNxeXpWc0wtWFRPQUtyalBzTF9KLXBTa3AzWFdtOTZTSlc1emF4WFFsZ3RfZDVCbWxrV1FCRXQ3cjVoODVTUktMbERSa1BoQmw4bWNoOEV0MDRycGxabWRqLUVuR3ZtMGF6dzRNMUdiZjJ2VFFEVmgwTA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Cotiza el dólar BCV hoy, miércoles 11 de noviembre en Venezuela",
-   "resumen": "Revisa cuánto cuesta el dólar en Venezuela, conoce el tipo de cambio oficial del BCV y compara su cotización con el precio de referencia de Dolartoday.",
+   "titulo": "Argentina: dólar blue hoy a cuánto cotiza este jueves 12 de noviembre",
+   "resumen": "La cotización del dólar blue, hoy jueves 12 de noviembre en el país de Argentina es de $1550 compra y $1570 la venta.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
@@ -140,35 +104,67 @@
     },
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-11-de-noviembre-noticia-1717157"
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-12-de-noviembre-noticia-1717372"
     }
    ]
   },
   {
-   "titulo": "¿Cuándo llega el papa León XIV a Perú? Conoce la hora y el lugar de su aterrizaje",
-   "resumen": "El pontífice regresará al país este miércoles 11 de noviembre para iniciar una visita apostólica que incluirá diversas actividades en Lima y otras regiones. Conoce a qué hora aterrizará, dónde será recibido y cuáles serán sus primeros compromisos oficiales en territorio peruano.",
+   "titulo": "León XIV en su primer mensaje en Perú: \"Puedo decirles, con profunda gratitud, que regreso también a mi patria\"",
+   "resumen": "El Sumo Pontífice afirmó que su regresó al país, donde vivió la mayor parte de su vida pastoral y adquirió la nacionalidad peruana, \"tiene un significado muy especial\" para él, por ser esta tierra la que contribuyó a su formación para llegar a ser el sucesor de Pedro.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/a-que-hora/a-que-hora-aterriza-el-papa-leon-xiv-en-lima-este-es-el-horario-exacto-de-su-llegada-al-peru-tdpe-noticia/"
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/leon-xiv-en-su-primer-mensaje-en-peru-puedo-decirles-con-profunda-gratitud-que-regreso-tambien-a-mi-patria-noticia-1717344"
     },
     {
-     "medio": "Infobae Perú",
-     "url": "https://www.infobae.com/peru/2026/11/10/manana-llega-el-papa-leon-xiv-al-peru-hora-de-llegada-lugar-de-recepcion-y-agenda/"
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-puedo-decirles-con-profunda-gratitud-que-regreso-a-mi-patria-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La presunta espía china del caso Nvidia está en Pekín, según Bloomberg",
+   "resumen": "Alice Huang, empresaria china vinculada a Nvidia, es investigada por posibles lazos con espionaje y desvío de tecnología hacia China. Pekín rechaza las acusaciones de EE.UU.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/china/la-presunta-espia-china-del-caso-nvidia-esta-en-pekin-segun-bloomberg-noticia-1717356"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/presunta-espía-china-del-caso-nvidia-está-en-pekín-según-bloomberg/a-79925330?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV en su primer discurso en Perú: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
+   "resumen": "El santo padre indicó, además, que la democracia requiere reconocer que ninguna persona tiene todas las soluciones y que las distintas posturas \"no impiden compartir una preocupación sincera\".",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-en-peru-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-noticia-1717345"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-su-primer-discurso-en-peru-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-noticia/"
     }
    ]
   },
   {
    "titulo": "Papa León XIV en el Estadio Nacional: cronograma, puertas de ingreso y objetos prohibidos",
-   "resumen": "¿Asistirás a la Vigilia de los Jóvenes con el papa León XIV? Este jueves 12 de noviembre, miles de jóvenes se reunirán con el Santo Padre en el Estadio Nacional, en Lima. Conoce en esta nota el horario de ingreso, los objetos permitidos y prohibidos, además de la hora de inicio del encuentro.",
+   "resumen": "¿Asistirás a la Vigilia de los Jóvenes con el papa León XIV? Hoy jueves 12 de noviembre, miles de jóvenes se reunirán con el santo padre en el Estadio Nacional, en Lima. Conoce en esta nota el horario de ingreso, los objetos permitidos y prohibidos, además de la hora de inicio del encuentro.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/a-que-hora/vigilia-del-papa-leon-xiv-en-lima-revisa-a-que-hora-podras-ingresar-al-estadio-nacional-tdpe-noticia/"
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDgza09Td1dwaWQ1cE9iaUlOZmNIUFUzU1d2TkNzODVDT00tWTBmX0RlS0UxTlpWMlRhVC15N1IxaFY1ZlZ3bGdWbGFmVTRqcFd3ZW1fQnpkY0VwTGtmX2tLV1FoQk9Nck9yNWJHTExDYnVCVUJGbXhyUHAwWGo3bU9hMi1Bd3JOcVpJMTJUU2RVQU5r?oc=5"
     },
     {
      "medio": "Andina",
@@ -177,175 +173,99 @@
    ]
   },
   {
-   "titulo": "Corte de agua en Lima hoy 11 de noviembre: Distritos y horarios afectados",
-   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-11-de-noviembre-distritos-y-horarios-afectados-noticia-1717147"
-    },
-    {
-     "medio": "Infobae Perú",
-     "url": "https://www.infobae.com/peru/2026/11/11/corte-de-agua-hoy-11-de-noviembre-en-lima-y-callao-sedapal-suspendera-el-servicio-de-agua-hasta-por-12-horas-en-seis-distritos/"
-    }
-   ]
-  },
-  {
-   "titulo": "Minedu: calificaciones numéricas en conducta y rendimiento académico regirán desde 2027",
-   "resumen": "El ministro de Educación, José Antonio Chang Escobedo, sostuvo que el sistema de evaluación aplicado durante los últimos 16 años terminó alejando a los padres de familia del seguimiento del rendimiento escolar de sus hijos, debido a que las calificaciones expresadas mediante letras (AD, A, B y C) y ",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/politica/gobierno/calificaciones-numericas-en-conducta-y-rendimiento-academico-de-escolares-regira-desde-2027-anuncia-ministro-de-educacion-noticia-1717132"
-    },
-    {
-     "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-minedu-calificaciones-numericas-conducta-y-rendimiento-academico-regiran-desde-2027-1099444.aspx"
-    }
-   ]
-  },
-  {
-   "titulo": "Keiko Fujimori niega desaire al papa León XIV por viaje a China: “Jamás se me ocurriría”",
-   "resumen": "La presidenta Keiko Fujimori descartó que su próximo viaje oficial a China y Japón represente un desaire al papa León XIV, pese a que su ausencia del Perú coincidirá con las actividades finales de la visita del pontífice.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1hrelJOWk5Wdm55QWp0RlpmWXhmOW56dmpCamd2V1Q4dHI0N29OQUp6VlBzWnJQTDNNNW5sekxyRFlWWXdZdUJRSXlxWTNtcVp3VmZRbFFhbUJVTTkyS0VsQXI0ZEp3QjZSaHJvNTNhWktiY19LaHQzRkhNWEF1X0I4UnY0SmpPODBudndpdFRmMXhHWWl3azhQSjF6ZHlpNHY3blllT0pNdjdkN3hhTlR3YzlodDlWMk1SLWlR?oc=5"
-    },
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/keiko-fujimori-niega-desaire-al-papa-leon-xiv-por-viaje-a-china-jamas-se-me-ocurriria-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Multan a Meta por incumplir órdenes sobre trato igualitario a Lula y Bolsonaro en elecciones",
-   "resumen": "La justicia de Brasil multó al gigante tecnológico Meta por haber incumplido órdenes sobre un trato igualitario en sus plataformas al presidente Luiz Inácio Lula da Silva y su rival Flávio Bolsonaro durante las elecciones.",
+   "titulo": "Canciller chino pide a Rubio preservar la estabilidad entre China y EE.UU. antes de APEC",
+   "resumen": "El canciller chino, Wang Yi, advirtió a EE.UU. de que la estabilización de los lazos bilaterales “no ha sido fácil” y pidió reforzar el diálogo durante una conversación telefónica con su homólogo estadounidense, Marco Rubio, antes de la cumbre APEC.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "Gestión",
-     "url": "https://gestion.pe/mundo/internacional/multan-a-meta-por-incumplir-ordenes-sobre-trato-igualitario-a-lula-y-bolsonaro-en-elecciones-noticia/"
+     "url": "https://gestion.pe/mundo/internacional/canciller-chino-pide-a-rubio-preservar-la-estabilidad-entre-china-y-eeuu-antes-de-apec-noticia/"
     },
     {
-     "medio": "Infobae América",
-     "url": "https://www.infobae.com/america/america-latina/2026/11/11/la-justicia-brasilena-multo-a-meta-por-incumplir-las-ordenes-para-un-trato-igualitario-a-lula-y-bolsonaro-durante-la-campana-electoral/"
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/wang-yi-pide-a-marco-rubio-preservar-la-estabilidad-entre-china-y-ee-uu/a-79925094?maca=spa-rss-sp-all-1122-rdf"
     }
    ]
   },
   {
-   "titulo": "El bloque opositor a Netanyahu nomina a un exministro aliado de Eisenkot para presidir la Knesset",
-   "resumen": "MADRID, 10 Nov. (EUROPA PRESS) - El bloque opositor al primer ministro en funciones de Israel, Benjamin Netanyahu llegó a un acuerdo… The post El bloque opositor a Netanyahu nomina a un exministro aliado de Eisenkot para presidir la Knesset appeared first on Caretas .",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "Caretas",
-     "url": "https://caretas.pe/mundo/oposicion-a-netanyahu-propone-candidato-para-presidir-la-knesset/"
-    },
-    {
-     "medio": "Infobae América",
-     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-bloque-opositor-a-netanyahu-nomino-a-un-ex-ministro-aliado-de-eisenkot-para-presidir-la-knesset/"
-    }
-   ]
-  },
-  {
-   "titulo": "Primer ministro de Haití agradeció apoyo de El Salvador tras ataque a un cuartel de la banda 400 Mawozo",
-   "resumen": "Alix Didier Fils-Aimé, jefe de Gobierno haitiano, elogió al presidente Nayib Bukele las operaciones contra las pandillas y afirmó que la cooperación con continuará para recuperar las zonas bajo control criminal",
+   "titulo": "Un bombardeo de Israel mata a seis personas en un hospital de Gaza",
+   "resumen": "El ataque, que ha causado además 20 heridos, llega cuando empiezan a remitir las fuertes lluvias que han anegado decenas de miles de tiendas de campañas",
    "seccion": "Mundo",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko?at_medium=RSS&at_campaign=rss"
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-12/un-bombardeo-israeli-mata-a-seis-personas-en-un-hospital-de-gaza.html"
     },
     {
-     "medio": "Infobae América",
-     "url": "https://www.infobae.com/el-salvador/2026/11/11/primer-ministro-de-haiti-agradecio-el-apoyo-de-el-salvador-tras-el-ataque-a-un-cuartel-de-la-banda-400-mawozo/"
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/un-ataque-israelí-mata-a-seis-personas-en-un-hospital-del-sur-de-gaza/a-79925101?maca=spa-rss-sp-all-1122-rdf"
     }
    ]
   },
   {
-   "titulo": "Reino Unido interroga a militar estadounidense de la OTAN, detenido por espiar para Rusia",
-   "resumen": "El militar, de 41 años, estaba destinado en el Cuerpo Aliado de Reacción Rápida de la OTAN, en Inglaterra, y fue detenido en una operación conjunta entre Londres y Washington al ser señalado de espiar para Rusia",
+   "titulo": "Irán amenaza con atacar bases militares de Estados Unidos en Europa si son usadas para agredir su territorio",
+   "resumen": "El secretario del Consejo Supremo de Seguridad Nacional de Irán, Mohsen Rezaei, advirtió que las instalaciones militares estadounidenses en Europa serán consideradas objetivos legítimos si Washington lanza una nueva ofensiva contra la República Islámica",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/europa/reino-unido-interroga-a-militar-estadounidense-de-la-otan-detenido-por-espiar-para-rusia-estados-unidos-noticia/"
+     "url": "https://elcomercio.pe/mundo/oriente-medio/iran-amenaza-con-atacar-bases-militares-de-estados-unidos-en-europa-si-son-usadas-en-una-nueva-guerra-noticia/"
     }
    ]
   },
   {
-   "titulo": "Las señales de Trump e Irán sobre el posible fin de una guerra en la que “ninguno ha ganado”",
-   "resumen": "Las declaraciones de Donald Trump y las señales de apertura de Teherán alimentan la expectativa de una salida diplomática a la guerra, pero analistas consultados por El Comercio advierten que el conflicto sigue lejos de resolverse: ninguno de los dos ha ganado y la tregua podría ser apenas una pausa",
+   "titulo": "Sinuano de hoy, jueves 12 de noviembre: revisa los números ganadores",
+   "resumen": "Tú puedes ser el siguiente ganador del Sinuano. Revisa aquí los resultados de la lotería colombiana de este miércoles 11 de noviembre.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/oriente-medio/guerra-entre-estados-unidos-e-iran-las-senales-de-donald-trump-y-teheran-sobre-el-posible-fin-del-conflicto-israel-noticia/"
+     "url": "https://elcomercio.pe/respuestas/colombia/sinuano-de-hoy-ganaste-la-loteria-conoce-el-numero-ganador-resultados-del-sinuano-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Parque Arauco, dueña de Megaplaza: así avanza el plan con Minka y sus proyectos en San Juan de Lurigancho y Jesús María",
-   "resumen": "",
+   "titulo": "Senace: “Tenemos certificados estudios ambientales por US$18.800 millones en lo que va del año”",
+   "resumen": "La entidad estatal busca certificar una cifra record de US$20 mil millones en el 2026, pero sin rebajar los estándares ni descuidar la participación ciudadana, remarca su presidenta ejecutiva Silvia Cuba.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/parque-arauco-duena-de-megaplaza-asi-avanza-el-plan-con-minka-y-sus-proyectos-en-san-juan-de-lurigancho-y-jesus-maria-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/mineria-senace-hemos-certificado-estudios-ambientales-por-us18800-millones-en-lo-que-va-del-ano-noticia/"
     }
    ]
   },
   {
-   "titulo": "De los Andes a la Amazonía: ¿cómo reinventar la gastronomía peruana y adaptarse al cambio climático?",
-   "resumen": "La llegada de The World’s 50 Best Restaurants a Lima puso nuevamente a la cocina peruana en vitrina internacional. Pero detrás de los reconocimientos hay otra competencia que involucra investigar nuevos ingredientes, trabajar con comunidades, desarrollar productos y encontrar alternativas frente a u",
+   "titulo": "Cierre de agencias del Banco de la Nación: estas son las sedes sin atención por la visita del papa León XIV",
+   "resumen": "Oficinas de Lima y Lambayeque modificarán su atención los días 11, 12, 13 y 16 de noviembre por la visita de León XIV. La medida no implica un cierre nacional: revisa las sedes afectadas y las alternativas disponibles antes de salir de casa.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/dia-1/de-los-andes-a-la-amazonia-como-reinventar-la-gastronomia-peruana-y-adaptarse-al-cambio-climatico-the-50th-best-noticia/"
+     "url": "https://elcomercio.pe/respuestas/tramites/banco-de-la-nacion-cambia-horarios-por-visita-del-papa-leon-xiv-conoce-que-agencias-cerraran-y-donde-no-habra-atencion-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "De la creatividad a los negocios: ¿qué cambió en la publicidad peruana para ganar 16 Leones en Cannes?",
-   "resumen": "Hace 27 años, Perú consiguió su primer León en el festival de creatividad más importante del mundo. Este año alcanzó un récord de 16 reconocimientos y dos Grand Prix. Detrás de ese salto hay una transformación en la industria con campañas capaces de generar impacto en los negocios y la sociedad.",
+   "titulo": "Reniec ajusta sus horarios por visita del papa León XIV: estas sedes atenderán hasta 12 horas en Lima",
+   "resumen": "Algunas oficinas de Lima atenderán hasta las 7:45 p. m. este miércoles 11 y jueves 12 de noviembre, según el anuncio más reciente. El horario no se aplica a todas las sedes: revisa también qué ocurrirá en Piura, La Libertad, Cajamarca y Lambayeque.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/de-la-creatividad-a-los-negocios-que-cambio-en-la-publicidad-peruana-para-ganar-16-leones-en-cannes-noticia/"
+     "url": "https://elcomercio.pe/respuestas/tramites/reniec-modifica-horarios-de-atencion-por-visita-del-papa-leon-xiv-estas-sedes-atenderan-hasta-12-horas-en-lima-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "NL Buenos Días",
-   "resumen": "",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/no-flujo/newsletter-el-comercio-al-dia-texto-introductorio-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Recorrido del papamóvil en Lima: estas serán las rutas que seguirá el papa León XIV",
+   "titulo": "Papa León XIV en Lima: ¿Qué avenidas y rutas recorrerá el papamóvil este 12 de noviembre?",
    "resumen": "Conoce las rutas, calles y puntos de encuentro habilitados para la visita del papa León XIV al Perú. Revisa el itinerario detallado en Lima y regiones.",
    "seccion": "Perú",
    "importancia": 3,
@@ -357,79 +277,79 @@
    ]
   },
   {
-   "titulo": "¿El mes de noviembre tiene feriados? Revisa cuáles son los días NO laborables en Perú",
-   "resumen": "El calendario peruano de 2026 contempla fechas especiales durante noviembre. Conoce cuántos feriados quedan este mes, qué días se celebran y si habrá jornadas de descanso para los trabajadores del sector público y privado.",
+   "titulo": "¿Cuándo se paga la CTS 2026? Revisa la fecha límite para acceder a tus fondos",
+   "resumen": "Los trabajadores podrán disponer de sus fondos de Compensación por Tiempo de Servicios (CTS) bajo las reglas vigentes durante 2026. Conoce hasta cuándo podrás retirar el 100% de este dinero y qué cambios se aplicarán a partir de 2027.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/cuando/que-dias-seran-feriados-en-noviembre-de-2026-consulta-el-calendario-peruano-actualizado-tdpe-noticia/"
+     "url": "https://elcomercio.pe/respuestas/tramites/retiro-de-cts-2026-hasta-cuando-podras-disponer-del-100-de-tu-dinero-y-que-cambiara-en-2027-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "De Juan Pablo II a León XIV: cuatro visitas papales que marcaron la historia del Perú",
-   "resumen": "Con la llegada de León XIV al Perú, nuestro país recibe a su tercer pontífice y suma cuatro visitas papales desde 1985. Un análisis de ECData revela cómo han cambiado los recorridos, las convocatorias y los mensajes de los papas a lo largo de cuatro décadas.",
+   "titulo": "¿Más o menos? Perú tendrá cambios en los feriados del 2027: conoce cuáles son las fechas",
+   "resumen": "MEF confirma cambios en los feriados de 2027: estos son los días que tendrán nuevas fechas en Perú",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/ecdata/leon-xiv-de-juan-pablo-ii-a-leon-xiv-cuatro-visitas-papales-que-marcaron-la-historia-del-peru-chiclayo-papa-peruano-noticia/"
+     "url": "https://elcomercio.pe/respuestas/cuando/mef-confirma-cambios-en-los-feriados-de-2027-estos-son-los-dias-que-tendran-nuevas-fechas-en-peru-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿Irás a ver al papa León XIV en Perú? Estas son las recomendaciones y objetos que debes llevar para evitar problemas",
-   "resumen": "Permanecer varias horas al aire libre puede exponer los ojos a radiación ultravioleta, incluso con el cielo nublado. Un oftalmólogo recomienda lentes con filtro UV, sombrero y atención a las molestias que pueden aparecer después de la jornada.",
+   "titulo": "¿Cómo es la residencia que alojará al papa León XIV durante su visita a Lima?",
+   "resumen": "El pontífice se alojará en la Nunciatura Apostólica, ubicada en la cuadra seis de la avenida Salaverry. La sede diplomática de la Santa Sede será su lugar de descanso en la capital y tiene cuatro espacios públicos cercanos restringidos.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/que/vas-a-ver-al-papa-leon-xiv-en-peru-estas-son-las-recomendaciones-y-objetos-que-debes-llevar-para-evitar-problemas-tdpe-noticia/"
+     "url": "https://elcomercio.pe/respuestas/papa-leon-xiv-en-peru-donde-se-hospedara-durante-su-visita-a-lima-y-como-es-su-residencia-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Quini 6, sorteo 3425: conoce el pozo de hoy, miércoles 11 de noviembre y sus resultados",
-   "resumen": "Quini 6 EN VIVO hoy miércoles 11 de noviembre: Controla los resultados del sorteo 3425 de la lotería de Santa Fe y descubre si te llevaste el pozo acumulado.",
+   "titulo": "¿Cuáles son los días NO laborables por la visita del papa León XIV en Perú?",
+   "resumen": "Visita del papa León XIV en Perú: ¿qué días serán no laborables en Lima, Callao, Chiclayo, Cusco y Pucallpa? El Gobierno peruano estableció días no laborables compensables en distintas regiones del país para facilitar el desplazamiento de la población y su participación en las actividades programada",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/argentina/resultados-de-quini-6-hoy-11-de-noviembre-en-vivo-ver-ultimo-sorteo-3425-del-miercoles-y-controla-tu-boleta-tradicional-desquite-sale-o-sale-loterias-de-argentina-lbposting-ar-noticia/"
+     "url": "https://elcomercio.pe/respuestas/cuando/visita-del-papa-leon-xiv-en-peru-que-dias-seran-no-laborables-en-lima-callao-chiclayo-cusco-y-pucallpa-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Juan Bytton, secretario general de la visita de León XIV a Lima: “La llegada del Papa es un don que nos permite respirar de otra manera”",
-   "resumen": "¿Cómo se prepara la llegada del papa León XIV al país? Conversamos con el padre Juan Bytton, secretario general de la visita a Lima, quien comparte detalles de la agenda y los desafíos de la organización.",
+   "titulo": "¿Qué zonas de Lima y Callao no contarán con luz? Corte de luz hasta el 15 de noviembre",
+   "resumen": "Corte de luz del 10 al 15 de noviembre: Pluz Energía dio a conocer un reporte completo con horarios y zonas afectadas por el corte de luz programado. Revisa las avenidas y calles afectadas en cada distrito según el informe.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/somos/historias/juan-bytton-secretario-general-de-la-visita-de-leon-xiv-a-lima-la-llegada-del-papa-es-un-don-que-nos-permite-respirar-de-otra-manera-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/sin-luz-en-lima-y-callao-del-10-al-15-de-noviembre-corte-de-luz-horarios-y-distritos-afectados-pluz-energia-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿Cómo será el viaje del Papa León XIV al Perú? Conoce los detalles de su vuelo",
-   "resumen": "Conoce los platos que comerá el pontífice cuando llegue al Perú así como las particularidades de su desplazamiento por territorio nacional",
+   "titulo": "“La fama me hizo llenarme de soberbia, narcisismo y vanidad”: Fernando Luque dirigirá obra teatral para el papa León XIV",
+   "resumen": "Ante el papa León XIV, en el Estadio Nacional, Fernando Luque dirige hoy una obra sobre cinco jóvenes en busca del sentido de la vida, quienes encuentran a Dios.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/como/asi-sera-el-viaje-del-papa-leon-xiv-al-peru-conoce-los-detalles-de-su-vuelo-tdpe-noticia/"
+     "url": "https://elcomercio.pe/luces/teatro/la-fama-me-hizo-llenarme-un-poco-de-soberbia-narcisismo-vanidad-fernando-luque-dirigira-obra-teatral-para-el-papa-leon-xiv-en-lima-teatro-noticia/"
     }
    ]
   },
   {
-   "titulo": "Sigue la Tabla de posiciones de la Liga 1: puntajes del Acumulado y Torneo Clausura",
+   "titulo": "Cómo quedó la Tabla de posiciones de la Liga 1: puntajes del Acumulado y Torneo Clausura",
    "resumen": "Tabla de posiciones Liga 1 2026 EN VIVO: resultados, partidos de la fecha 17 y clasificación del Clausura y Acumulado. Estamos a solo una fecha de finalizar el Torneo Clausura y con ello definir al próximo campeón de la Liga 1. Revisa aquí cómo va cada equipo.",
    "seccion": "Perú",
    "importancia": 3,
@@ -441,194 +361,134 @@
    ]
   },
   {
-   "titulo": "El cálculo político detrás de la pretendida amnistía",
-   "resumen": "Hace unos días, los diputados de Juntos por el Perú han presentado el proyecto de ley 00719/2026-2031-CR, por el que proponen conceder amnistía a las personas investigadas, procesadas o condenadas por hechos vinculados a las protestas ocurridas desde el 28 de julio del 2021 hasta el día anterior a l",
+   "titulo": "¡Atención, nuevo corte de agua! Conoce qué zonas serán afectadas este jueves 12 de noviembre",
+   "resumen": "Corte de agua: Consulta aquí los reportes de Sedapal para conocer qué zonas se verán afectadas por la falta del servicio de agua potable y en qué horarios.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/opinion/columnistas/el-calculo-politico-detras-de-la-pretendida-amnistia-por-natale-amprimo-pla-noticia/"
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-hoy-revisa-los-distritos-afectados-y-horarios-segun-sedapal-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Mérito y meritocracia",
-   "resumen": "Son dos conceptos vinculados, pero de distinto significado y efecto en las relaciones humanas, en general, y políticas, en particular.",
+   "titulo": "Misa del Papa León XIV en Las Palmas: ¿Cómo conseguir entradas GRATIS?",
+   "resumen": "El Arzobispado de Lima amplió el plazo de inscripción para obtener entradas gratuitas a la misa que el papa León XIV celebrará en la Base Aérea Las Palmas el 16 de noviembre. Las solicitudes se realizan mediante Ticketmaster y cada persona puede obtener hasta ocho boletos.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/opinion/columnistas/merito-y-meritocracia-por-francisco-miro-quesada-rada-noticia/"
+     "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-en-peru-amplian-plazo-para-solicitar-entradas-gratuitas-a-misa-en-las-palmas-gira-sudamerica-2026-apuesplan-ultimas-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿Hará frío o calor durante la visita del papa León XIV? Senamhi publica su pronóstico",
-   "resumen": "Seis ciudades del país y miles de fieles se preparan para participar en sus actividades religiosas, pero es importante conocer el clima que nos espera",
+   "titulo": "Papa León XIV visita el Perú: ¿dónde iniciará su recorrido en papamóvil?",
+   "resumen": "El papa cambiará de vehículo en la basílica María Auxiliadora, después de recorrer Faucett, La Marina y Brasil en auto cerrado. La organización también precisó los trayectos previstos para el jueves en Lima y los desplazamientos en Lambayeque, Cusco y Pucallpa.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/que/lluvias-o-calor-durante-la-visita-del-papa-leon-xiv-senamhi-revela-el-pronostico-para-estas-ciudades-tdpe-noticia/"
+     "url": "https://elcomercio.pe/respuestas/donde/papa-leon-xiv-en-peru-en-que-lugar-abordara-el-papamovil-para-saludar-a-los-fieles-y-que-ruta-seguira-en-lima-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Rafael López Aliaga: ¿Cuál es la situación de los otros 20 exalcaldes que postularon como primeros regidores?",
-   "resumen": "Los JEE empezaron a aplicar los criterios establecidos en la resolución del JNE que le cierra las puertas a la denominada “reelección encubierta”.",
+   "titulo": "¿Qué comía el papa León XIV cuando era obispo de Chiclayo? Estos son sus platos favoritos y el menú que pidió para su regreso",
+   "resumen": "Los recuerdos de quienes cocinaron para Robert Prevost revelan su cercanía con los sabores tradicionales de Lambayeque. En el comedor de la diócesis no pedía un menú especial: prefería compartir los mismos platos que los demás sacerdotes.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-cual-es-la-situacion-de-los-otros-20-exalcaldes-que-postularon-como-primeros-regidores-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/robert-prevost-que-comia-el-papa-leon-xiv-cuando-era-obispo-de-chiclayo-estos-son-sus-platos-favoritos-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Juntos por el poder",
-   "resumen": "En la historia parlamentaria, el uso de la planilla legislativa como agencia de empleos ha sido una constante que se agravó en el último período unicameral. Este Congreso bicameral no será la excepción y, a poco más de sus primeros 100 días, ya se revelaron dos casos, siendo el principal aquel en el",
+   "titulo": "Huelga general en España: una crisis que se acentúa y que puede definir el rumbo político del país",
+   "resumen": "A menos de dos semanas de las elecciones parlamentarias, manifestantes tomaron las calles en la primera huelga general en 14 años para protestar los costos de vivienda y de vida",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/opinion/columnistas/juntos-por-el-poder-por-martin-hidalgo-noticia/"
+     "url": "https://elcomercio.pe/mundo/europa/huelga-general-en-espana-una-crisis-que-se-acentua-y-que-puede-definir-el-rumbo-politico-del-pais-noticia/"
     }
    ]
   },
   {
-   "titulo": "Presupuesto 2027: sindicatos rechazan restricciones a la negociación colectiva y convocan plantón frente al Congreso",
-   "resumen": "Presupuesto 2027: sindicatos rechazan restricciones a la negociación colectiva y convocan plantón frente al Congreso La República",
+   "titulo": "Resultados del Quini 6, 11 de noviembre 2026: un ganador se llevó el Tradicional",
+   "resumen": "Quini 6 EN VIVO hoy miércoles 11 de noviembre: Controla los resultados del sorteo 3425 de la lotería de Santa Fe y descubre si te llevaste el pozo acumulado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/argentina/resultados-de-quini-6-hoy-11-de-noviembre-en-vivo-ver-ultimo-sorteo-3425-del-miercoles-y-controla-tu-boleta-tradicional-desquite-sale-o-sale-loterias-de-argentina-lbposting-ar-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
+   "resumen": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko Fujimori hay “confianza empresarial”.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/confiep-y-camara-de-comercio-de-loreto-destacan-que-hidrocarburos-en-la-region-dinamizara-la-economia-del-pais-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Mozart en un balneario limeño: “Così fan tutte” vuelve a escena",
+   "resumen": "Ambientada en la Lima de los años 60, la ópera de Mozart y Da Ponte vuelve al escenario con elenco joven, orquesta reducida y una pregunta incómoda sobre el amor.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/luces/mozart-en-un-balneario-limeno-cosi-fan-tutte-vuelve-a-escena-teatro-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El 72% de peruanos desaprueba la labor del Congreso, según encuesta del IEP",
+   "resumen": "El 72% de peruanos desaprueba la labor del Congreso, según encuesta del IEP La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUU8ta1NDeHp6WURBWVMwcG5LUTVudHZUV2VtSzYwMU9SVmYwa2gzS01HM2VXYmlrZWJLVWVKamJXV19ORjYyb1hUdDE4SkpVQ1VtTkN4UmZReDFGOEFfUXd5cU9sNnRYMGdFWXYzV3poSEZNSXRseGtTVkRjakpfWVNXVF9uQ1lOaWZXZjRpc2RNYnZoSjFFWnBmdlp2NnFaN1pTbHlmdmNOdkFJNEJFaXBlbTJudFFwNkRZSjlfVFU5TmpOa3hXSnJfQnc0M1BQYTJNYkQzU19kTGx5aS16UDdpSUx3RXVSOWNUdW0xWk1BdElnbV9OUXNuS2JBRk9y0gGGAkFVX3lxTE1nMVUyNXJJTm9vbl80Ynl1ZktwWVY0Qk9zMFk4RTFTRVBvSDBWZHpWb3FzSXRaZjZoSVgxV1BTMlgySmRGUFluRUQ2cXdqc3MzbENOWHU2dmdTc1lDTFZabmJxbDlCTEhwZGktdld6ajhNUTVLTXl2ZUxpU0d1cEFYMWpjdnRYNFJ6UFNHNjE0V3JyMHhWTVhXYUVvNlRRZ0N4Q0FzUmZ1XzcwU0RGN3JQaGdyU21CTE1GZk9EcTZPamVDSG1pNmhtS1FoOWdWWUcwT2RWbG5Qb25oMGZRU3hPUWFHOUNNT0JaQzNfRnIyMmNaY0VzR1ZkVVBITWdpNVBsa2E1M2c?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3pJalEyUWFDRHk3VzBZNENZcVJRcVZwc0NSYWYtY3p4UGNPSEoxY3NJSWRxS3RQWDRmbWJKTVBrdlFVUTNnOGR1MmFKZ1MwQ1JMamlYdjFRYnVNNlgtLVY3WTRrZ0NQNXNXRUZiSFBCM2NzWFlRTXNraE9YbWV0X3NrdTNNQ2lmbmNEd1Jhalo5MThRQTc3Yy1aN3EwSndPUzdMUFJpU3poUjJtS1NzX2R1NHE4Q0tlOFZxVUJzLTZoTndHWmN0cNIBzgFBVV95cUxQdU95dF85SnVicXl3UWdIMllaV092ZS1ocFgyUTZkRTVaQTQ5WkY1RE1DTlNRTm5nYmcwcmVmaUtSalotVkp3b1YwVmtYM0tWeVFEcFVkaWpXM0ppZTlKaUtaT3FFd3UtbHJsM2o1cU1KSEhuemxGQ3huZnRyNlkzbXFVVGliSjZzNGFLMFlKaElyT1pNYU5LX3RON0RiaS1PYzVaYnFZRnNONjFrb3FXTmN5T1NkSzFvRDRGMDR4djJLZ0JZQ0tyM3JHclRUQQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Presentan moción para investigar a Fernando Cerimedo por su rol en las Elecciones 2026",
-   "resumen": "Presentan moción para investigar a Fernando Cerimedo por su rol en las Elecciones 2026 La República",
+   "titulo": "Teletrabajo: más trabajadores del Estado ya no podrían trabajar 100% desde casa",
+   "resumen": "Teletrabajo: más trabajadores del Estado ya no podrían trabajar 100% desde casa La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWlRa1BnVEJyN0g0REUycC1ZVXJtemxJbjNmV3RyT29XblB5NEdDeGppS0M3X0xaVGJzb2c2WVc2Q2RrOGpfajlldzRROXVaazF1WklyclZ0Wk1fb2R0cHgyQlBQZTFnVUszOFlpelYwaHBvVFZhcll4dHZyOERpUzg4cWYyZU9VQVk5Y0N4aUpsUjd4OFh1LXVDU0NRWEF4X3N1SW5RVTVSSjNQbi1fenFLUkJtQ09ueEw4aDh0MVhTdlZnODh2eGpCZWRCeUZYa0VZOXFsckRRZ9IB3wFBVV95cUxQWnM0U3o3azNIVExGRnIxRWRUVThmeW82Nk5Xb0V0bi1JVWxyUVlkZUhuR0I2R0prTHNKSjNSeXZfRG1JVU5qd1AtVFpBWW9jb0dCSkVkNHVZSXVsN1JPQWpuVnBqcGEwc2x4RnpTT3RCNktGVHJUdGZmeFlDN0dyMzhfZ2h6b2xFSWRfY0pOT2NKR1k2a0I1OEtNaWFSQ1QzNGxzVE03RUJvRzYtbC0zZ0F6R3NlcFpFeTlISEdncTBMSFdBaFVSdk44MW52aEFMR0h5Q3hmelBKM2oydkF3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlIwWUZYX0hONTA3LXh6dmhFc2YwUFJUZl9ZeG1QRXpGLTZFd2pZeVhORk9zOFBqNnpLcGZJYS01TnJBTlQxcmRDRGxqZ2JFanpWVUhOekYxY0VlSzhSd04tWjAzZGlrNjU0LVVWUGhwVklObWVHd285M1dvRXJGY1hWLVBXU3FkOTlTWVc1VFRYTkNkWXdpcFJKQzA4bnNVa25QRFBiTlh4Y2FiMXBwaThPUHBnZ1pPYl8zclBNQTdsS19GdE40YUpzUUdad9IB0wFBVV95cUxORTcyVVByTTY5b0ZMdV84OW9jMXhFci1EeXN1b3VnQWJFbEt5LTBzdndDenI1aXdCRXFsRWE1T3hPa0dYQkFkb2J2SjBKd1FydVl4MEZYWWVnRFpoYXpFVWpNNVdEMFdmeEwtY0ZaWkpWOTlRbEVrbHJkYS10eUtoZl9DX3V6NUtlU1JZLWRFekNsUUx6d1M5UkpMZ1ZoWkk5MjVqRmZKazdnMjlRUl9iUVRpcmhfWlZDRU9tQlFsOW9ha1drWkNzSnV5aTNmMWw3Z2lJ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
-   "resumen": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\" La República",
+   "titulo": "Papa León XIV: la economía debe estar al servicio de las personas y las empresas generar empleo digno",
+   "resumen": "Papa León XIV: la economía debe estar al servicio de las personas y las empresas generar empleo digno La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPei02OEk2RjZZT2dXb3BXT2VRSXIxUVNBV1ZyczhMTVpEQlBwVk5MaXc0S0VfWk54ZkZHZGRPMDg5Y2JEaUZWSUluUUxuT0FyRERxWEE3Q2RTcWJJZGxrNEJWR25kTzg1QWhiOEd6OU9NZ3hoY2VvdUFUVXJxNXVPaWxMcDZEZVVhUU1POWtTYjJjTkFYN3pFc1VoY2R2QUs4RjJfSTJEenozejM5M28tMTl2ZTZIM3pLVHVpUmp5Qnh4aEZYdlRtSndOVkxYbGpNMFBtcjVQRdIB3AFBVV95cUxOLVRHcDg5MHI3eDVIdkhYanQzOWF0NU93bkhPTGJCeHhMWDQxckJrS294QzRGOXpVbEljT2MwcDJfTlN1c1lCdFdETUNEdHpRQjl5akMtaF83Y3RrdHY2OHo5MWVrVE5mY3VPekhvd1RjRk1LMWxGdVhKTkI0OURQUzBUMFdJUlJQQlMwMWRLVTVlaFRpbVBodzdldkY1M092UzVWYmlTMHN3MVpXTmFVanp0WkNkQ0lpNE5EMmZQUmxrZ3ZvT2J3dVFPSHY5aTJGdlNHdEY4MFU2Z1dF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Pedro Castillo se presenta ante Diputados por informe que pide levantar su fuero y abrir investigación judicial",
-   "resumen": "Pedro Castillo se presenta ante Diputados por informe que pide levantar su fuero y abrir investigación judicial La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTzItZHBNZThDNEUyMDlNNkFydE9KR3ZHQTFWS2hNR3ZwdjNPWWk2VHhDYTFReTJqTlcyZ2hqbzhid3BadFRMeU1kYmZfUFZJUXE4NUEzakRCcktJUkRnSnJuUk4weGs1WUZDbjhyVHE0T2gyTVAxdEo4M1AyMEZlN1BHdWpDNDFDVjVhX2tqMVBnTlQ5clAtNjRLRnFGTUZzcEtKMTB1ZFBTU01VbDZjRVpoUHU5TC1rT1FaN3diY1RHbW15cldwWWVBMUtSZ1I5RGhybFBkNWhlMmV3dEdiNm40T1hEMU9WR3R4b0RIeXo2Uy1QQll5alpKd9IBgAJBVV95cUxQYlNoTXJHWjlkdy1ZclZCNEJBYmhyOVV0T2txcmRqeFJoMHRTZ2lCM2RuX0haQVVrWl85UXZRbHZPaV9OUndHeVg1eXh2WHVHMnRReUlzVmlJeVJObFhfejAxRmRQLUI1cWdRdU9rNnBWbW5BVWtMYmdLYTJZbjFJdV9XRF95Tm1sR3l2bVk2VFBfRnAxSnVWNzBGRFNOQUNYMlotdDE1VXdoWjN2Y1BObjlyMU90di1YaXA0M1pYc2kwNDIyRE9CN0VaWE5LQS1IM1ZGb0M4Mm9Vc3RCazJiVHplUmVITEc5NGt1S3ZGVl96aDY0YTVGakw3N2E3RXhM?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Testimonios de expolicías de Vilcashuamán desmienten a testigo que acusa a Íber Maraví",
-   "resumen": "Testimonios de expolicías de Vilcashuamán desmienten a testigo que acusa a Íber Maraví La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTlOSWxPeHFLRUg3ZnpQUWJvQmFINHV2bmwyRGhDV2lZSnl6VDlVU3NVRERORU4xcUdDYjB3bFk3S3R6bDJSQllxYWpSRkdaTUtaRmV0dGktSWVDb1Q5ZzI0M0FTNWFXMFJZV2NOVnBjY09rdFZkcmJlWTlHVElqQVVGd2kycXZjNjVaS0tXaVJWMUJjSXplbnFwVHdLSnJLQUxzQlJxd1F1enhaYXFqQ2hFRVF1X1RxS0tGN3dHQ0E2M1ZPMnhmUk1BWdIB0AFBVV95cUxPV0RsYkNZRllreFFzenczbHFiOEtUdEo1LU9qZ2lSRFVJWlJJV0cyUWVqTkF4SS1ZTElDWGcycU9QNFZ2VDM0N0RNaC0wQ1dpQ3pQSzVLOHoyd0x5N3VvNVE2XzFySjI3WkJBdnU0RWNTNXdCSXI3eUFnX3VYamZxeFFoTkdlUm04TzVwazNuV1BhcGVfUlpfa1U1LTRUajlPUXNpZmtFU1NjUUhSQ2JHT0ZmTlhIOWg4bHBXNWpaVi01R1BUc3AzQW9GNEJlaVdt?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Esposa de Pedro Castillo le pide al papa León XIV visitarlo en Barbadillo: “No ha disminuido nuestro sufrimiento”",
-   "resumen": "Esposa de Pedro Castillo le pide al papa León XIV visitarlo en Barbadillo: “No ha disminuido nuestro sufrimiento” La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONnpTNUxwV3U4ZzZyOGwtNWlJOGNTNTBsUHkyVTJqamJNZVl2RWdCYWVkeExIbTRiY1FIc1U3WnhkRTdlZUd2VlBLZDNqS1lRWllXbUw2Q01PZWJfeVlSeVBWQWttM3ctdl9yTG83bkFKTGNUTlFHaGt5ejN4UG1OTUVxVllESVkzMUpnUERDaGNCTlJhMGlreW5BVDFQeFhhT2hzb1R0bEVTOGk2WHBhcm14cEZCNF95NUVQT2R3b3h4a2lSNERGd19ZSjg5dUdzX3ByYmFRRVhOQVI4TXNGT0t6b1JiUDhBT0hsdzRKODN3dFpZV2pSTGxn0gH_AUFVX3lxTE4yU2EteEo0RUIzMWVnM3dySnVvd0dWY011TUxyWnNUck5rd00wRVQyd2NnYzlrR1ZCYWxXeDZPZnoxMmE3UUpRd0pNSDVGMUYtV3RDNjFtYVdfTTNZdk5pMkJRejQtWEFRSE1sVWJWYlVCNFE3U2NYY25LVXN3aVE4aHVabHBDcVZjWE1pMjM4ckZXMEZENlB4ejVvenVTLVZwOF9QSzh1eTVGaWREWGhHUmQ1Q19MS2lubmw5YUFvX2Z6NnlVUnNlNF9aTzBFVF9kUWZ0dXdFYjY3b1l0S3RtUDNhVkpLUlduaGFsZVRGdGs3SGgtckNOV3Bvb0hWbw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Francotiradores, drones y la Guardia Suiza: así protegerán al papa León XIV en Perú",
-   "resumen": "Francotiradores, drones y la Guardia Suiza: así protegerán al papa León XIV en Perú La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ3llRDFXQXk4VWdacmVTY29ONjhRZElTeVlRM3FKWFo1QkQ2bFN3c3g1TGFFeExLTXhPV0ZXcl9wMFNGVXZCeng1UDNmZ21SR0lvMGtZT0NCWmhSb19yLWpkbHRTNG5SMkJ6TE9IemxpZDBabWZjV09ERk1hUmE1YmJwcWRfbnljUy00N0xiM1lUM1l6UmxPZ1RhYXlMRTNDbzVKNE95dk83Yk5MbndjRUlRZ1lkdzl3aGFrcTRXREVaTFY1MDM4WU9Vc2VyRXhPbUN2eXJlUE0wWmNTSmNGTlVTYS1oWkpEVjcxctIB8gFBVV95cUxQQlNERTM4ZnFNT2F1TWlUdms0M1lRaXlYdGxELUdCc0luSGZKSEZDVnRndDlFRmI0ZjliVWVZb3VqcXNhd3RtRHp5SzFWRC1jaTN4R2lLa3ZJQlhTQjE4M1lSTEdaVWYzRjVVQUVld3hkMjNtRGdZS2tJUVJUX1Rpdm9LMTNPSEdwaTl4dzNrdmJ0amZmZW1zQU9taFRnZzVBQWNLN0Y5OE1wUVpDT0w2QjNrSHl4TWV2X0VGWlBOZVRLbXRhZHhhTUpKM0dNRUdUeFExbFlKNUhsbUt4c2RZVGNXeW1ZbndSWHZQaEtjLUdmZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Cámara de Diputados aprueba derogar la Ley Soto",
-   "resumen": "Cámara de Diputados aprueba derogar la Ley Soto La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2NVeXVEVkxFdVRDZWZITU9sZWJIcWJZcUs5ZXdRM3ZNZHJ1aFpJNU1NbG1NVGtQZV82M2FxYTdFb05Icmh2TXBXUXFEdHVIdzE0SmhhZ0lkWEJ3RU9rdzdoRVpUZkZQLTAzVUFQMzloekNFN2oyUG5xUzBuY3lqYW5yRnoxbklFN3NtdmhCQXROTUtTT29lNGFTTXktV01NZ1hhRTZ30gGrAUFVX3lxTE9OZ2tHaGwyRE04ZUtqQnhYQ040dXE2UUNBWTVmbFZmRE1US0lCRlJoQ29ZcjNNUDVnRWxRTWk0VEcwY1g3Q2gtU0dPc3JRb1lSdkZGQzVmVG5PLU1vUmZPTmtWM3VDa0VEQTR6ZkRIbXFZMTVNaFl1OGxIVlVxUE84a3owU0F0U015OWJ0TFBrNk90NzV2U00yVDdyREJYUlZ3TUNKNEUzTEFCNA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Francis Allison alerta de que Jeanette Alonzo no juraría como alcaldesa: “Un enredo originado por López Aliaga”",
-   "resumen": "Francis Allison alerta de que Jeanette Alonzo no juraría como alcaldesa: “Un enredo originado por López Aliaga” La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHgwQU95bWpPM0FuWHRRQXFGOTB3NkdzRE9sZGNZWXBQUmc5VS1RWUlpajVxMFdoWHVBejNtZEhORlRZSUV2WDI2Z2sxYU1xMkJOWlc4LXYxdFNMTXkzZnprbV8zQndVOHMxUElmc3pTand4MktxVWJJa0h3dk1Wc2Noa3pMWXl0VXBoeGFoWkdFeDBKMXZRS2VpVE9PX1ozVDhCWU4yYkp5VTNJZzhTSFF0LVlBVkx5bjFnNlo3bWZSTFJrTWo1eEtrelRPdl9HU2RXSjdVOWdDX1B0Xzh6Y3Jxc0lLSmpWbjR1MEZtci1fX0FFeG5sRVp30gH_AUFVX3lxTE5GMGstU2plcEktSkZLOVVrc3p3S2w4bG9TQ2dMRGtLWll5NTV1RHdjMHhQdDJoaXVEaUJVMEpJNGdMX01UWTI0OFNFb3dJcF9zM1ZYeUN2Z25rZHRoOFdBb3Nlc0hVdzBMaHlfUHkyck1VQS0yX2habVBkVU9RZTlZWnpPSmJUblNCU0ZYU2xnX2VsSFFfXzI3UDBuUHZjUTRlOERqTjRzSjRDNlA5QlhmUlhxcndoUXVYd3lEeGlnWjNCTlZ1MkgwWTFkeFYzcW9DUHNwakxma09oZVg5VmhtOWI0VFdBeG9OaG1ZUUVEWVE1X1lqS1ZaeUJjVDd0VQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Diputados de JP denuncian constitucionalmente a Miguel Torres y piden inhabilitarlo 10 años por la ley de facultades",
-   "resumen": "Diputados de JP denuncian constitucionalmente a Miguel Torres y piden inhabilitarlo 10 años por la ley de facultades La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU3QwcDVfWkJ3amViWjFLRXhMYTRxQWxHYzR3NFpIMURHQ2lpcmRiQTJ0NHAzT0RwcjZIbmhOeENzd0F6Um1zYlNENU5FUlpNUXVDT3Z4eE00VGUxSThwUllfeU9zMTMtUzlPVDVmMVg0VHlwMEpsX0tPRHREQU9nNjdISVhkQWZtblgzR3E0RVNXSHRELTRkSUlFMlh6aFJTZkFxNV9PUk5kQmlXZDVvUzM4MUNzXzJVd2s4TXN3VGtGcWV6OUtuVkJMNkw4ZUZDdDNVYWRLVXpIOUZHQ0l5WmRZSy1GQ0QzQTdMeEJoMzRuX0FVbC1PaDZtSjVqdFFLclHSAYcCQVVfeXFMTmFqV21OLTRYZExOa3g0ZHI5TUtEZVZHZHFtTktKVlE3RVVaSC1LQ0VuNFFJMzdRWEs3RXJPNzlWMUFURktCS0JpaUp5bmEzZnJiY1Mzb0R6Q2poUk5lSS13WktJVlFBOUJLbUpWU3BIbmEtVjNFUWhFaEp1a3dNY281X251M25LN1M1NUV2Tmx0dk52YUJtNGdWd0dNRk95eFlWSkgzemlhMUtRMTRuLVpsS2hsb1UyNlFzdjdpQXFlTWt2M1RTSUI2UUI5N2NDM2VHdjl0OTZ3ZlFIcXc2YldrOUJoWFF4SHowMEJzc1ROWDEtX0pwa3JVNDZ4enRPYl93dDdMM2M?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Grupo Multipartidario del Congreso exige al Gobierno cumplir fallo de la Corte IDH e indemnizar a víctimas de La Oroya",
-   "resumen": "Grupo Multipartidario del Congreso exige al Gobierno cumplir fallo de la Corte IDH e indemnizar a víctimas de La Oroya La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTzk2Mll6Y0hVSWl6TVJPdlg4OFpBX0h0T3lQdE1nLVdhTnU1RDQwVXl5Uzg5ZGQzTnNfSVQ4ME40aDNTQ2lDc0FzOUd6RlRWaTJWQjJXUTZucEJoVTNndXQxVjNKNFNQNG1UMmQ2bkNEb0JiZ1RPekJWSzVxYkktajBUREhEaWlWM0FHa3R0YldEQ19EUWNMeXBBcGFaZkN6d3VGdGhISTZQMGo0VEtwekNtU3RiZ1NKbUVuZHNZX3B5Sjc2eEpjSHRCU3NQaHVvSzZWMThZM3NJS0FFTGFSQ2h3d0Y0elN5WENDOUlybE9PcGE2UVdtX2hCck0taUZ3T1lIN9IBigJBVV95cUxOOThQUGFxLVVOeE5TQTV6SUFhdUpwSU03UFUyV3hkWG8xQzcyOTMxS3gyUHZRb0lQVWZoaVZUVGhNb0hqWk5VaDVaQnJTRXB3YWt2Q0JBczZrNVQyQnJIbEEtdlpsemZERk04MjBWSm55STNjSHpjT2FYRHpnU0s4Z29XY21td3VrcVQ2SHZaaWFmc0k2QnRuRlU1V2hwdHFkdTY0cGZ3SlhhZlpQWllqNVVOeFRKY0tBQktCVGd5Rlk0aTloSHRneEUwRmlxS1BDc0NpdjUxVXJCY3JISl8xM0lJNFNVWkRmMURMT3VOeUlJdjBIN2tWc2VyUW9xY0w3aHM2Q2dxUWswdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVTJPVTZUdnRtcThZcW5XX2dMMW9UV2FBNmVzN2hqazhLRVJqZkRjVmkwM3Z6dGZrd2ZWOHJMaW12QUN4MnJJYm91VGhiT0Vpc1lDdlU3TDhJMUJzZWxFS25ZY3F6TXQ0YkNJakZBazZ0bVRhbUk4Z2gtcnE3V29UcHFwTWhIUW5Ib214TDF2ZnJ6ODNnWWMtRnZ2cVFmcGU1MkxZZmlGTlNxVy1OV0Vvalk1S00ycDEzeTIxQ0VBQkVmTTZXTVhyc2kwTWlKU0FDSHB1UDRXV1Y0Yi1Td3dpOXNxX3BTUdIB6wFBVV95cUxQN0pGLXIxcE9QMHJWOFFVM2o0V2lCSnZVd1Nrd1FINDF0YzdFZG5tWUZTY0N2ZkZSX0k5VUFLNlBvUGNucDR3c3FxRHBvN3lwSUprSVoteUtFVENNTTNUUUxBY0ZtX2JnSFRxQ3hPUUFSUEJKY19YLW5WeklfTC13cm5EYktaaWFHcVhQNG5mZjdjd3gtZ1FBYmhLT2liNmRiTXM1bDlyR3owWWtNcDhfYXZ4ZHFTczM4cE9IRGx2Y3llblZraF9yYkdrVjdNbEhZNGNKV3NTMHdpcmF5MV93VmRzZkJwZHFCTkQw?oc=5"
     }
    ]
   },
@@ -645,6 +505,150 @@
    ]
   },
   {
+   "titulo": "Fenómeno El Niño: Gobierno ejecutó solo el 17% de los S/2.512 millones transferidos por decreto",
+   "resumen": "Fenómeno El Niño: Gobierno ejecutó solo el 17% de los S/2.512 millones transferidos por decreto La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUVLdXlfR0I3ejlDTVF0TVItUXZrMUxnMmJleHp3dlI3VUJiY1plcDdRcmNKVWJ1bGFNQ0xsUDV0MlJwNkJpeUdrT1VrSVBYVUhCS2d4bWllXzhnOWthQ0YzRVlISkJqb2c4NWwzX25GZHJ2Q1pPcGJXbnNTalBib2xwczZ5ckNxMkZMR0M2WnVDLUlSLWxXN3dheTk0RFhZNndjRnI5b0dfd2JMVDVBTTduTnVKaDN6OWwyenF4WGpCRXYtRzltUWlOOC1Hb0VKTENRUksyMjNONFItNmFoUNIB5gFBVV95cUxPMVJOQmVfRlV2Y21tWFFzQ2lNZng4NG9zeTR2b0RmdkN6bVo2T05zc3F0eWVRdlZRekllalBhOFpSM1ZtT3FScUxmSnFEaWVIUk1NY09BWWIxZV94bGpkdWgyT2owUkNrYnVvU29wSy14QTM4S3ZGdlljeXRiNlNjRWo5dlFTQzdDSmhKZ1NJY29vVEFHZ0JxdDRNX1ZoNkxZb0FHOHJsZG9vc0FEWXo3MnpfSDdKTEx1NmlQZHpFQlVhSXU1U3RySVozN3pCcHdaSTRYZFF6NlJhR0tid3hjTTlXMVViUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno",
+   "resumen": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWRmNV9yaHlIQkNHN3dWNDlyOHZubkJWVlRGbFkyX0RWZE52ejJGb2oxRGFsRkFNb2JtWndBd1NOREQ3dVFVdTIwVWU3eHJDMWpWZnpIcjZoYUFVZ2VUNG1oNWhDN2pYUmhmTmM2M19aeVdGSmx2M1VyQWhFQXVIOGl5T2U4ck1lNDB2UnN2SFlxRVRWVmxxWUZ2cUsyOTdENzlIdUZrZlZKbE1WaU52MzBhbDNILTFUeXFsWFNsN1BUTGM0MmMzSnUtZnlrTjk2cGxMay1KazRVM2ZFVlpya3ByRzhLajZrbjkyRmtha2JuXzZDMlJsLTd5albSAYICQVVfeXFMTUF3RHVXbkdKa1p6OXg3aEdENmVLTmdpYWtvaTIwaUlxQ0FTNVNfYUd5WGNnNWk1WENDRzdLcm9zbXpOVkIwZ19zeUQ3cjdIVEM4X0VTbUdkQjlSRGFNV01fakhhZmtSckJmTlBtRlhPUnBCRW4wSkdRRk5vdXVZckZCTHJyelZPZ3hLNlZQSEFUNTNHcjBYdWFVSkFmRE92b1R3RmNxR3Qwak9Wak9oTjhkYm93cVN3VDlmTXpjZ2h6UkFKSk5TN2FPVDl4ZXM1R1BMUmFuMWx4dGNGQ25NcmR0MG9VUTRpYjR2SFM5V1BrbjZPdVF4SC10X0UxOXRKRmRn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV dará discurso en el Gran Teatro Nacional: conoce la lista de las autoridades invitadas al evento",
+   "resumen": "Papa León XIV dará discurso en el Gran Teatro Nacional: conoce la lista de las autoridades invitadas al evento La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaTkyWDB6VmxOZHczVWdlS3hNOE5zc29vUXJKVzZHTlRyU204NTZkQUlCODdpb2MwajQzYWw3dnBFd0VhTGhxSjY5TDBGbzBOTDZPQ3BaZmlBVnBjOW91a2VIN1hQVVp0ZlpvVUxaUHoyMkhqVE9ITHhzOXphRURpOGFGZVdpX09RQ2QtU3k4dUEyRWhjWFZCVVFYeWdNQmR1emk0MVV0LUZjbW1MVmNaR1l1QUN2OUF4Y1lsZW9rb3pURWlCR011RThYcVpkM01vc2Q2RThYTi1aN251ZEJtbHZ2RmZndnhJNmxrWmZ5Mm00Qk1JVFNRN9IB_gFBVV95cUxOeTVjX0tfeVozQ2RlN3E2aFpSYndtT0pMRm5ZNlJGSEd5am5ReHpnYTV4NkotVzRlOUE0Snc2UFlpb2R3Ujlod1Byb1p6TDdmWlNPQm9fVzMwdGtIcVI2QU8tc2pzNURfSENtYWM2NHhER1Zsa2E5b05rR1FZSmQ0T0I4R0VrN2hqdGZyZ2xNYkVSYnVkX19LdEE2Y1RMUEJDci1DVnZwc29kZFpUM3FWenpMdnZCMXdzb1J3V25Hbm1MVlNVblBISjNIa1VLM3dEamV2dTRSYjBrMDRjWWQ2dm9UdkMxdTRrZ05ndnFrYWJ2bmJTYUhwWHpJV3o1dw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Álvarez sobre ausencia de Keiko Fujimori en despedida del papa León XIV: “Es esencial para el bolsillo de los ciudadanos”",
+   "resumen": "Álvarez sobre ausencia de Keiko Fujimori en despedida del papa León XIV: “Es esencial para el bolsillo de los ciudadanos” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHRIT3FFYzgyX0lmLXo2R01KY3RQMm0wUUxLVE1mLWhsVjl3Y0pxemxKWm1TX1ZyNmowVnVKcUpzSklaOE15TEo5THhJWjV0OXFnZTRvY2NYNWk5Z002elJmZVhfUGx5cDZ4blkyTGFYMXJhQVNzZXNRVEl2MlhVYm51VkNOczd0dTA4VGs5R3N1ejY0a3oxQ3FNVlY2MFRQdEpESEZra05zVzc1eTh2YmlMRWpER1I1Wl8xLUN2YUdfbkR1OURkTDU4cFNSZmljSE9YRE1QaV9BemhqUXR2WUg5SXMtZXJJRDdNNG1yclJZeGJqd3lqLWNDQ3lrSGRMNXJYY9IBigJBVV95cUxNLWVpbHItVHB6WU9KdF9xWXhtbmlqT2VRSGFvR1pOSjBKWm1Cb01rV1Fhc3pscFRZN3J5TmJ3Ti1BRjk4MXh5RS1hb0JfWmpiMEVVbXJiQWk3Z3BHWnJ5UTMwRjBIX3hhOUM4SjIxSWRPbFNONFRreVdEdWdsUmpQN1VFc3Z2bzZ2OXBPWGN6OVBMMTd1T2U4a1YzRDdqZXNtWnVpTExqSV96WnZpV25aYTFCN1FrQkZRQlFxZGwtNmNZazVpbks3bjY5dHNVR1MzZzFQZ25KbWFoUUZNODg2WGVucXRjQXBKc0dwY0UxRWZVaVpDVEE2YVJseVBScDB6Qk5XZGt2dDV2QQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ranking regional de presidentes: Keiko Fujimori se ubica en el puesto 9 con una desaprobación que supera el 54%",
+   "resumen": "Ranking regional de presidentes: Keiko Fujimori se ubica en el puesto 9 con una desaprobación que supera el 54% La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS3IyTnI1cDdZMGNUV3ZyS3d3TkhnYktBTlNDRnVGX213UmxOd01CZ19lc1kxcG5IV2F1aldNcXhuMURrdi1tWmctaGEzdnpNRzJkZ1gxbEoyb05iT013TFhUbFlCbXlLWS1Tb2NYeTlyb0I0dG1zYTEzMFoxVl9YYV9FeW5LaWY5RkRkNm5HdXBISUF6VnFzaU1YTFFGb3ZGc0ZudjZZbUxNV0pYQ09QX0UySmxUVkIzaUVsWXpkeHZFeUlZYWxOWmJENDA5dm1HREVvOENOUER0Z3N6eXk0YjlxMWRDZlRoYnlRbVJkSlI5Yjh5b1ZiSdIB_gFBVV95cUxPOWZNM21abkN1ajIzclFXZkZnUk03SlMxMzZHVWxIeC05T1paNGF0VTRPemlNTjNzZEVDQ2Jvb3hTNF9EVDVwejhkMThEQldOR3EzZENCQlRXUnNPNzgyVGJIMGgtNHdsZFJNNDNYalpPXy0yS1RJNVZqTEFCMDVBOTRXQm5qaHVnaXoxS1JPMmVpSDJQU3FUeUlCbnVjMnU4TEdZa3dNRFRGenVHMkdWNDZhb1JGSGNnQzQ2TUd2ZjFsRUc5ZnBZbENERHBPMWt4Y1Y3dnV3NTBEdk9kaFlqTFQxLXdSeG93enpPcGUyUDBMZnlWRzFidWx3UlRjZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Dos bancadas de Diputados buscan investigar a Fernando Cerimedo por su actuación en las Elecciones 2026",
+   "resumen": "Dos bancadas de Diputados buscan investigar a Fernando Cerimedo por su actuación en las Elecciones 2026 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbExuQmZDamhhbEIwZmtHdTZYMXVSbElGbnR3cjVRMGpYaVIwNmtQdEZRR0dRRTdXdVYzREptZDVod0plOHh5NFZPR2dSTDNWSGpUVU5SRlM4el93Nktpb2ZnT1dLWGhHQ3V1ZTNCMGRhRndPMF9KNE5RN0RybEE5NTBKSGtremRsNk40LVo1cnA5ZzVvSGNyTHloMU9KcjRjdUFMeURWdi00X2FEMTJlWjdWWUg5SFdxQTFoWWhDdmhldUtqX3VBVW10V3RPY2c1ajhROXRQZERvUFl2R19hZ3FoZFpzSlZyejFwWTN5Vy3SAfYBQVVfeXFMUEZyd1RkWUMwOU5YdHprRFgwZmd5dFNSUlF1Q3E4c3VwWnRTb1ZHRzQ2RnhSaTFOdnB4VXZQLXpxNnNyQktpczFRTkplTHBaWkNMU1B0SklVRmxEWkZ4MmZsUlBTYTFOcWFzWmdjYUxfUUR2bVlZNnVONndDT1BHTzZCSWpFdldUdjFQT2NPYmY2VGxnMjR0WDk1aDg0bUQ0dERRRGh0QVYydE9sRm1KZ3pTTy1pRGEtNGM2ZzVzd0g3V3RSZzVMOTFxeFljUGdzVmp4VmtUdkRFZFlMVy0wbDk4bVVYZkw2QU1ZbTNicjNONGpObUt3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Boluarte, Jerí, Merino y Balcázar: expresidentes entre los asistentes al discurso del papa León XIV",
+   "resumen": "Boluarte, Jerí, Merino y Balcázar: expresidentes entre los asistentes al discurso del papa León XIV La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT2VRek1VLU1OV05JOXN1ZUpHR2ExS0pPN3RVUXZZRWc3OXFaQWt3ZWxQTlhBZDhndmlSd2RoWlBpYlVhVzVGYk5Hc0dGV1pLR19TbXFuN2JqcDZXRU1ZYzBZYjctODh0dUFNbUdFRE9fVk5aQkZjX2pobW0zZktrODNuVjFnT3c3QmZsekFGZWNCN0xiOWxqN2xhallYb18wSVJkYzF4Y3g1VzFubGRFZFJOSkdEeWtLTGRNbkFWN0d2Y3VSdUlTanREVzROSFBIbzRidmpvZ2NfdHIwaDVTVmZiV0llU3fSAewBQVVfeXFMUC1VRDNmLVp0VDVfZlFIVUJ1Vkh5anhIYURNeHppX0RQUHgwbUdaRWlzWFJFbXhGdzJhY3h3QnM0M3dIMHY3NFZaZndTZjVISlJPdC1IOVd5Q1JQRnJ0RWNzTFg2VnB1MmNvRTBRMU5LSXh4em9FM0FrcWJweWJhdllOM2VDNmh1WXRMbl9uWVp3bTltbDRBWUJqM0doWGZ5OTE2RG9EN1ZVaVR3VnZ0dHYyMHROSkVicU02eVJNVG1OVGp0ZDJUdXJLTkRNRGo3X3F3ODk1YXpoRTlsY1ZQZXhiRWh0M2FYTXZRaks?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
+   "resumen": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTVF6NXBvRUVURHctUzhBV3FKS0xHZnpiNVBLd2p4OV9KejZ1alkxeWlFYm9VVjFOeHB4aWFHOU1jazk0dzlGem1PaGduUHpqZmduODd3b3FRYzZFSkdmZmV5NjlFWXFLLW1rcDkzQW9yMHVjZ1dKaVRLaHJZaW1KWjY3cDRmcF9JdTRBaDNQenlMN2dGMTZCQzFKdzQ2LTlaWm52TlJmZ1BLTktoaWJuQlc5emJPZUVzNVpTVVhqUTZXZktrMWd3bVdPeUdRT3ZRUGowWkVnWjlmc0ZmbW5sMjZOei1SVXhENWw5T1dNOURvZnkwRmxCVlFqMGVHZjdfejRwdDdQSVM5b2tR0gGSAkFVX3lxTE41d2V0b1B5Ynktd1pJWkFDazhyWldfbkZhdnNNUUN4ZU1icjNRT3VaVVBJQWlNM1RyckhGOUZfQjcydDIzekEwNF8zbU8wcUxxRzNod2p4cFY0YXVUVWVqak93R0pSMXpKb1NiYmlFM1dnalFDY2N1VDBfZ0NVS2dnbnJiX00yN1NRTHUyY0JPLUlSUFZMZEJZaFhrTGU0ZUVldmdQbTJsb0UxZjlpODg0N2Q0OWJuNG84SGdEQmNDWTBqWHYwNnlxQkpIcU9XN1lsTmU4SWVSUlBzc2xjMUwzc0Y3b0JXUTRReFBsYTAyc1B6YkpuWUtISkNXeWs4MnZOTzZRa2VWY1ZHX3M5QzlmRXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ministro Sheput justifica ausencia de Fujimori durante visita del papa León XIV: “El foro APEC es el más importante del mundo”",
+   "resumen": "Ministro Sheput justifica ausencia de Fujimori durante visita del papa León XIV: “El foro APEC es el más importante del mundo” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVndxdGlBWWx0enJoUzI5dll5RUdNNDRtMmpnNjFXd3lCQjg2WVM5ZHNvUEtrMWg0SWRFMGVKVkNTZzFqZ0dOa296c1JIbTJXLTZ4WmF3OFVidkNsTV9VTklfR2FSX0JaZWNoS2xjQ2NYaFlMWWVMSHhOeU4tR1VIV3lHY2piUmNvZEhGckJ2TGxLNnVnRVg1dW8tR25xOXhERFhieWRQN210S0FtVjNKM2FaRlh4dWpNcW1IRzRVT0xjVDZnZGgxajZ2MF82bkVQUVhRdVRKWDdGa0N3MzJhQUtTNlhaTTllSzZLU3kyR3B6aW5RQXRMMTVMcmtIOGxJNkp6QzFrOG5xYW_SAZACQVVfeXFMUHZhSnhxU0pOS2JxUDdvZEs2aVpqTVhhb0FVSzUwN1B6U3R0ZXcwb2pFUWxmWVFoSjVzWEpXUVN2Ti1XcjNSdGh6ajFnU24xS2dMUElzVEZEenZBa0RyeHd1cTllNnlZX3FSeXZhdENpNnFEdG1PdHl6Y1NvWE83SkM5NWVjTDBHOF8wNk5HT25pbXlud24xNzZMQmQxZ2RPZ3BCMlhpUkpkSU1MTHRMajZ4UjQ0N2Q5dTBnblVSZHc0VXJHemZ0bTVSSGRTUGUzUUlhRm11RU5Vb01XMjFaaVd5LWhPMExya3JoX28wQXItcWZBaVZjT19QNDlja2NhbE1tZmxzejBXUWFRV2Fadkk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno",
+   "resumen": "Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGozckw2RTFnQVByNWtidWJkMnRNV2dXaENlS1ptRGxYYXk5ZnZTa0VRR1hRSVNCRHNBa2NFbTBva0lOQm0tMS00Q2EtUklIdzEzWDlqeEJwX3NSSTFERGs5d1paeDRhUlB6c25OQ1hLWVhUU3lCWVF4d0F3bkZYbTYwRjA1a1NJcWtGeENYOWVST2M3RGR5czdKb0ZXaWlJX1RlaGNHb3RTcXptTGpFc3RzcGFpa3BPWXdIQVdzb0pRRmFucUN1VVRDUmoxX0g0cTNORFFFblrSAd4BQVVfeXFMTTloV0FyNWJDUEQ3X1lVZlk3T2FmWXJhWHJjNEhFSUh3eThsNGdGT2ZWNEZycHhZRXRPcWp5anVwWm5OUE9PRUZXZS1pcGxaNU1CSXdMdk91bDl3WWQ4V3NVcFVmNjU5WnlQRVgwYnJDUjdDNEwtVnFIYm5IdFJieXMwVmVqX2psLUsyOENyVFptZncxb3ROV1lXcXhoRTlvTE5sZnhHSU5kajZTU0xpM2tmTXByTGFjT3g3TDV3LVdENE9hMTFYS3I5RmRaTks1LUpqMzNFanNfYTlLZjBR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Carlos Pérez Sánchez es el nuevo representante de la Fiscalía ante el JNE",
+   "resumen": "Carlos Pérez Sánchez es el nuevo representante de la Fiscalía ante el JNE La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVpWZTFqNVk2MDhiMmxSRDFkcVBHTjVZZmYxY1NEOTBKbEpNeUpQa2huTW5Sb3RqanBJUlhlMVlVSlVJVVMzM3dCZWFaeHpMQlNSQVJzM2lLSXBHNVhJQXpIMzA4bXRrZGZocVMybTBKakZlWDN1alg1bGI1X1Nid0FLdlZNdlBRSVRtZUU3U2ZuUU04SXBJOW1Sd1VvQWxhWlJDT2sxbEN4Y3I0d2Q1aUlkcjdTMnRPSmZMcFVzLVJMcEhqRHFWNNIBzgFBVV95cUxNNHBNcXJvLTFQWDlzMlNnQ1NMa3ZWUXJQTVJZb3lRZmJubUJQcVBHN1VodGlGeTl6SmRhRVZMZVhHckZ4UmVNX1JjWHl3VVVBTDJ0dkVSbDJXQ1MyVVRiaGJMNTkzbnFvbzBPNjNfcUZmU1FLQ2hBeUV3VERacTY1ek1JZnA0YTM4RjFRVzB6OFI1OHJ2OFhYUTk1R016Q1NZaHQtcjZFNTFEN05Ha2poN0V2UjlnU3dfRk8yN0d4eDJKY1haMF92cFBkR2lxQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Secretaria general del JNE sobre prohibición a reelección encubierta: “Lo que debe primar es la Constitución”",
+   "resumen": "Secretaria general del JNE sobre prohibición a reelección encubierta: “Lo que debe primar es la Constitución” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVHdjWVJOb3JnakoxYUJ2VjNNMmNBTDdtby00NG9iNVI0MVFKbW9ybzU0N1AxdzE5NEhESmRjVXV6WS1vdGo4THNCTEx4Um03Q3NiWV9qRGNYOGpNMFJiWl9BUVNoNTBZcGpsZnhXako2dWJRbUMxNXpSNnRmWlZTRDRhTklyR3FvTEVXcngwZjh1NVd2MUdqUFc4NzR6TjZDU2NtWHpZME9sVWNMaU53VXNkc1lvVmExdjZhRkVqc1U3dXpObWdRemxHNWI0U3VWU3VqekdXMkJNajJuYXVLQmJZdHdiRnQxTTN3d1JyOXBPRlZH0gH6AUFVX3lxTE1FN3JwSGdaS3BKU2lEZ2taVnlFdVliTlk2eTJaMXJMM2p4cEdMM0hkNGdwbzAxak5wNmNSRmxQQ25obUlMRWc3YUw5VVQzNllHMHJ4eTdKOE9KRVBvYmhRMWNlMDZNTFNrUElEMGN6QVA5VEdyazY3VzlYTUpMUUt5WG0xQl9HVHpBTFNtWDJvbnpFOHVzcWtHQkJIdXRISGdoOFNsVHZ0U1YtaXNtSnV0LWRiZXJoem9kekd1YU1GS1k4dTJ3ZTFHUi1zcUdfNG03MDF4ZlZWZUh2eTRqSHNZemhiOTR6T2tTaHNVWUEzcHM4b1ZoMWpqeVE?oc=5"
+    }
+   ]
+  },
+  {
    "titulo": "Tensión en las Cámaras del Congreso: Óscar Reto cuestiona a Miguel Torres por el debate de la ley de presupuesto",
    "resumen": "Tensión en las Cámaras del Congreso: Óscar Reto cuestiona a Miguel Torres por el debate de la ley de presupuesto La República",
    "seccion": "Perú",
@@ -657,158 +661,134 @@
    ]
   },
   {
-   "titulo": "Cargamento de cocaína confiscado en VES tenía las marcas de una mafia del Huallaga",
-   "resumen": "Cargamento de cocaína confiscado en VES tenía las marcas de una mafia del Huallaga La República",
+   "titulo": "Carlincatura del jueves 12 de noviembre de 2026",
+   "resumen": "Carlincatura del jueves 12 de noviembre de 2026 La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3FvQmt6QmdPR2NnMkZWU1FTRkxMWm1DMENDTDlhQkxrRGkyWFVaZEpINjNvSFFycXZGb3M4bjY1M1dENHduWjJ4cjZEdFNoTDhDVnlRZlR6V01EZEJIN0ZhOUowV1Z6NnlGLXRvbXJzRmY0UDBOUVNsZjFVY2YwcnNhdHVURzhaMS1SSDhPbHlrbU9jSGd2dERfeTM0QUYwdWl4cEp6czJEODliZG5DLWdldl9PS0RlcUM4UlpjTmJYSzMzSmxacUZvZ2s3Q0lwOGdzYUtWSWRFNmNhS196RFdWSm1nVFnSAewBQVVfeXFMT1hWbTBoT2d2WUc0LUR6NVN5RWJJSkcwcHd0WXptTDBWVXJzNDNoR2FfU0VzSFRLZ3ZGeU1fcm90NzJOOEo4RXJLMWRRMHVMOVpsa2ZVT05fNzNiVzVuTGVobzNGWnRoNnhFREMzVzUzN1FxU3Q1T2FVbG9yRmk2a1V6LTR4SzFKMjU4NWhOX3FtUlFzTDJDcnRNUjhLVkJIRUt1NEk5WmtwMk9PNTZDb3NsSkFIWVBLWklQRjVTVzhFdUV5MlVCQ2JQSGpFeEJOWDlzMktKMGFoWEtvM0ZjQnNJNUYwWXlsbmtESG0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUVJWW44MmE4dDFyNFNIVjRNTHZEUTBBd05SWDBCZVg1eHhGX3hvcnB1eTlNVmxEenQ4UFJ4bkF3YVFfY3VUTGExa09GZDEycExhMmhTdXRVdnFzTjAwTThNVGJwV0w2ZURjOXJZVVJYb0l3Wk5JNmpEQ0ZMUUxsQ2VEclZNM1piMmFhdFlVOGVlb2sxOXBfNE0xUDlCYkljdnc0?oc=5"
     }
    ]
   },
   {
-   "titulo": "Congreso: Comisión de Ética aprueba informe que recomienda investigar al diputado Víctor Piñán",
-   "resumen": "Congreso: Comisión de Ética aprueba informe que recomienda investigar al diputado Víctor Piñán La República",
+   "titulo": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
+   "resumen": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\" La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQnZWZlo1N0E4bm9xZ1R3VGZmV1VubmswOUtjZFhMSll6d2V5YWZPdmpfV3dnNkxkRUEzaGloMWh4bF9wa3REcTNvVXk3SkRVcWZKYWtTUWhzRXU5TG5mdVA2ZGpJYWM1X2h3bi1PdXp5RUZTQk04bVFyVG9tUEpJcVRlVTA0ZnhrNWczTloyREt6eHBRT0ZjVHRObThxZGY2YmhMcW1IRWpNTnk5SGJHSEt2Z0VBMHlTUG9BV252N3hRVzhmR0RhQUtxeWhFbmF5dGhFMXNPOUFoaWFrREJqcXNKRdIB6AFBVV95cUxOVk4xLXN4QjFpbnJlOWN6UkxDak5Eb0U5bXJXNFJIeVpZQWhua290dEdNQU5GNHdFQTRfVGxXaF9Id2Y1b3hRYm1LODBFRjR4c1FkUU9kaXYyZ2JFUUdieEhwTGtJTGVDTWFieVkyT2JGYTZJVWJaeHhaaUdPMmxleHFVR0hHdU1YdG4yeHBRdlJLbzIzb1gzSVNiVEQ0QW5jUGw1NEdjbTc2Y1BDYzhVSXU1YmJsM3F4a0pEeWdncHBvYXdlVUZGZW1HMVctdzRfMmstLUFfbE0yTER0OVhJNFgzTWRaQXoy?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPei02OEk2RjZZT2dXb3BXT2VRSXIxUVNBV1ZyczhMTVpEQlBwVk5MaXc0S0VfWk54ZkZHZGRPMDg5Y2JEaUZWSUluUUxuT0FyRERxWEE3Q2RTcWJJZGxrNEJWR25kTzg1QWhiOEd6OU9NZ3hoY2VvdUFUVXJxNXVPaWxMcDZEZVVhUU1POWtTYjJjTkFYN3pFc1VoY2R2QUs4RjJfSTJEenozejM5M28tMTl2ZTZIM3pLVHVpUmp5Qnh4aEZYdlRtSndOVkxYbGpNMFBtcjVQRdIB3AFBVV95cUxOLVRHcDg5MHI3eDVIdkhYanQzOWF0NU93bkhPTGJCeHhMWDQxckJrS294QzRGOXpVbEljT2MwcDJfTlN1c1lCdFdETUNEdHpRQjl5akMtaF83Y3RrdHY2OHo5MWVrVE5mY3VPekhvd1RjRk1LMWxGdVhKTkI0OURQUzBUMFdJUlJQQlMwMWRLVTVlaFRpbVBodzdldkY1M092UzVWYmlTMHN3MVpXTmFVanp0WkNkQ0lpNE5EMmZQUmxrZ3ZvT2J3dVFPSHY5aTJGdlNHdEY4MFU2Z1dF?oc=5"
     }
    ]
   },
   {
-   "titulo": "Perú coloca US$4.500 millones en bonos y recibe ofertas por más de US$21.000 millones",
-   "resumen": "Perú coloca US$4.500 millones en bonos y recibe ofertas por más de US$21.000 millones La República",
+   "titulo": "Pleno del Senado aprueba la creación de una Comisión Especial de Pueblos Indígenas | hnews | Política",
+   "resumen": "Pleno del Senado aprueba la creación de una Comisión Especial de Pueblos Indígenas | hnews | Política La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPcWUzVWhIU054YzltNjdyTzQwZDlFREhXcnhJczR4UzR1aFRncjFSc0pyR25sM3ZqcEQ1a2VCY0I4WEpMT2wxN0NheU02cS11MDgycWdEVzFhdVFaWUw1QTNuQi14LVJKdVQ4RjNHVG1XdHdjZDRweGRsSGtNbUQ1dzAzOXhQa00xUXFISGtFSE9HOGRmOUhVa0VLSl83YmwxcFVIajZ0dG5JblBlUTdDNGRKU1liSEdwODBOTV83ekhuWmRxeDc3dkhUVGZmRzhKQXBQYXZoZXBXUllpQlVqNTczZDJ0YVE0Z0kyWXBrZHZGZUpBREYyOU9CeHZiWlFuXzFNVVJKTnlMU1RXSlRuLWQyaGhyNkJ1UlFrN3k1TFpGTEnSAagCQVVfeXFMUHhKeXZWR25LWU1fR1gzdW1aTkFRcFNQUkZvbEVXMlphU3hCS09GLV9lTVNkQ0ZoLVlEYUlwdncyTzVHZ0MxWkc5TTBGNGpEb2ZzeG9tcVU3QWpoZVg5bG1HNGptRV8xY212ekhjcFlYaXVoUTZLNlBOZ1VTZDFJVjZ2WHozQmlMQ0FKaWZselh1Y0h6VmJVWWswTWdVMUdLX1ZrZEVmY3R6aVV0NTVUU05FZ0RJV3RtWFhXVXYwZEtKdTBfMElGdnhwLUlETUd0eWlUdTVNM3RPbkRWaWRRWjRPRWhIQ3JvVjg5WWQ0dG1ldmZVWWU3OE12bUhZRFd2LUlxVjM1cVVMRkFoZ2lDbmRJdElOWkRmN3FNZUJSbUNscXR4bEh4ZHA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWnExODdFbk1UN3hKSTdKRVJVakZKTUdNOW1FeW90ODJUWGR3bkFfWmdQOXNGUHNLSTVYRFBLeHlSYUZESy1ZVWNKTWtLWUJYcE1aRWhwZ2ctV25SUFRSUllPbHktMHRMNkMwOTNXZEZRNHVrUEhtczNrMWZYVGNEZXNpTllLSFg2RmpWbDI4cGlka2ttRGNqQ0g2NlN5b044eTZaaHJYZE1xeHhsRmRaSG5YSWFUcGZZOVU1dGtSM2dFU3VmYnRGTGZkWmNSU2sybWx4Yg?oc=5"
     }
    ]
   },
   {
-   "titulo": "MEF propone flexibilizar despidos de trabajadores con mejores remuneraciones y reducir aportes laborales",
-   "resumen": "MEF propone flexibilizar despidos de trabajadores con mejores remuneraciones y reducir aportes laborales La República",
+   "titulo": "Inflación en 5,25% en octubre: ¿Qué alternativas ofrecen una rentabilidad mayor con bajo riesgo?",
+   "resumen": "Inflación en 5,25% en octubre: ¿Qué alternativas ofrecen una rentabilidad mayor con bajo riesgo? La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmtndkVmTXp4alU5RUdxcWZ2MlF1Y1NKSE8wbU96ZkVkUmJGMzZhX3pWMUZqYlc0UVJZaGhwem9uemloaUFualJJbWVEMnpCM2o1Q3FnY0tRVDJrYi00TFBDeEEzd0lqVzJmZDBWdjB5MVpLN1g2NDZWTkhvcXNtbWpyVmlEb1hlWXF3UzRmaHJtYUZudU9mckFZOE01dXY2RDV5X0txUTdTMXpDQmlsTVNCeTljYUY3bmRUZW45Vk9tcVhxUXRQTnJGOXh5TFZVTXY2bG5nWHVnZVVLYjI2ZHB2NVRQclViSnBfbTZfSdIB9AFBVV95cUxQd2NzZm5mOXFfbDJIMm9DYzllbFlZM1g3X0N1eklTVXo0V0pybkt0ZnN5T0hiNGVQTmxMNkl2bEU2NXY0RWJMVWY1V2dYZ2NQaHp1ZFZwWDAxWWw1dTZrbXdSRi1aSGtYaE5VbDJzV1ctTnVDMmpMZkFmOXYzZFc2a2pyM0dPNXNxSnBVbURXUEZwTkFnWVd1Vm9TTmJDOUUzb2pLdEpTQ2xPQktNMm9ad1M3di1ubDFqQkRTcHRqUC1KTlJPYUY4dHZDYVpvUncyMW44dkdZeWdSTzVOaTVOVHJNdWFsQ19mS3hjNzdQbnlfQnFY?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXFHMTZVR2tidWxfdzczVGgtVGIxNS1RZ1NtX25GZ3BETktoQkQ4bEZfUTZteTBtelJBNldxdndmOWJNWV90SXNTbFZVU1ozbmhHbUlxMVh1aEMzcGZEN1NPWXRXU2ZaVk9ERmlvbGs5TFZFcElPU0tRYmZOUUJPczAzcnZRTUhDajhkLWZ3QThWcmFBdzlJMUtjZzRpTEtGQ1hVdDRPSnVfVWNydlltZ1RVU0ZOMDdTRlHSAb8BQVVfeXFMTktnQklXM1dySUlIVXdJVXctaUU2Mk1XM3ZRZUN3b2V5ZzBVWVJ0LVhXeVFfajlEU1c2bGJ4S21XamQ3QkFTeVN4a3p5Y3p3eUxjYWRwY3A5azc5S1pvSWJGSEJ4eHJlSlh1c2c3dUhHTnUzZmc3czlxYTJfVml6a2x0MmtzdTRhMXFTSk40V3kwbjQ5TEdUYVpGVUZGNzFyS3pnaTZRS2pGbXFGYllTdkJhNTZ0NzdqZjIxWVNsQW8?oc=5"
     }
    ]
   },
   {
-   "titulo": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
-   "resumen": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño La República",
+   "titulo": "Medidas de prevención y saneamiento ante la llegada del papa León XIV",
+   "resumen": "Medidas de prevención y saneamiento ante la llegada del papa León XIV La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQnpYTkZNSENtOEVtd21MOWNfc0NLaWg2Nk5hSVFGMG5OcEp6LTlqNDVfejU3UVB4ajVxZnhNeGJYTDh6aFN6NUFYZUFqVlo4ekpGamphbWhuUEFhTmk0LUpCbjJEWEd3MFhmMWdiSzdyVEF0bWYzSmpLLUxaUVY1dlhBWEdwTlFHdkh2NUI3OWpweWxBd01SMEFHN05jUHAxUEpfUDA3c05QZVJGTjBaT2dWZG41RG5VTUEwb29UeXRFczk4YTJsaXdHVk05Vm82VDNaUW5BNlkxaUlpdWNmZ2ZScDFKQUlhVzFSVGMycGtwZXJKR0ZhdVBTWWcxM3Z60gGGAkFVX3lxTE1wNEVKSG9BYmtoWGlkODEzMDRNeXhVWXlyZFNncTNqVmZLcjhLMzh1SGZOZm9xbzJxMkpZNzF1NDNINzBLd3F1V0ljcDlwUUEzQldyaGlaN0duZFZGQTQxME50OW9ua0d5SHBQRWZsLWtHNU1XRF9MSjJYSE5SdWN1MlVnOTAtZDVFMHlXRzJnamJOVlFXdUQ1YXctSVFqbGp3WVpuUWpqWXhhYXFVQW51ZnBvQjZjbXN6NHN1RFZCUVdYWWFpaGwxc2JhRjBBb1RwQ2VCcXdpNDNFNEUydk5vZU4zZEc1cHF5QmVobWlsQ1NfQV8wb1NGcmhaWkl3bW5oUmNER0E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFp4YkM5VE9fR095aFFqcHlpdUNVZFhPTVB4Ymx1emtORU1LdW5GOGE0aTBnbHVDcWtXa21SM2V2YkZPel9Ud3ZBdllTQzNPN0ZjOGlJdUFwWFI4OUd4LWx3enMzcEdXTG45Qk1DNm1Ka0tVM2MzWko3ekp0cUNjbjNuQXp5S2FJanN0YnBaVkhsQTJ5VEh1bXhlaGU1cWh5MTMyLTZzS2xiZlZuZTB4cUh3YXlEeG03dlVfYXR6bV9JdDlKTkZxQjFiTUZUUHBXZmhpNDZiamZaRnlYZzV0X1lIdWdFbjQtREVnUnF0VQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Bernie Navarro: \"Perú es clave (...) Hay interés en invertir en infraestructura portuaria\"",
-   "resumen": "Bernie Navarro: \"Perú es clave (...) Hay interés en invertir en infraestructura portuaria\" La República",
+   "titulo": "Cámara de Diputados aprueba derogar la Ley Soto y Ley de Extinción de Dominio",
+   "resumen": "Cámara de Diputados aprueba derogar la Ley Soto y Ley de Extinción de Dominio La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjdGVTBiSVQxRURCaHJVempqM0EwSGZETEdWb3gxWG1fUEVvZ1Uta0piSFl3T2RXLXpsMzNONlVtOWtObXVOV1B4Tk9mYTRsRGVUR0M0U2xtbzZwUmFDMGJiWkVUYlUtSGhXSjd1eXdqLTZlNmdaZGUzYUx2bEg0NDUxNWhITVdBX0RRNkpPeU5zR3pXdHpGUXVVNXpMSHM3YUlSdnBOMjN3Wk9oY0IzMzFxMDhoV0l3QVJZT1JtZTdsTHlQd2FqcmNxUHhfYkNZRTBv0gHYAUFVX3lxTFBUNzVCNDRfd0tQYWlWeWVjSFJVSDI5S2NDNk9jOUpuZk5Sa2VaakxGcWppc2h1emdWTi1wcVFXMTY1SkExN2M3NkYwY2cxUEg4d0d1Tm9KUWU4amtTbU5zdGdmVmNiek5oV1RVSkc5RnczUEJnanBkTlZ2bVJqWEZDOFBTcUhFdHg5M0U0aVBRTkM1YkNJRkh6OURadEpxR3RkUzlQLVJQRU1tYW9ENXhxZFphZVRKT0hiTWphMkJ6c1JzbU1CRlJQbDZLcmVWOUY3NUNzY0x0Tw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2NVeXVEVkxFdVRDZWZITU9sZWJIcWJZcUs5ZXdRM3ZNZHJ1aFpJNU1NbG1NVGtQZV82M2FxYTdFb05Icmh2TXBXUXFEdHVIdzE0SmhhZ0lkWEJ3RU9rdzdoRVpUZkZQLTAzVUFQMzloekNFN2oyUG5xUzBuY3lqYW5yRnoxbklFN3NtdmhCQXROTUtTT29lNGFTTXktV01NZ1hhRTZ30gGrAUFVX3lxTE9OZ2tHaGwyRE04ZUtqQnhYQ040dXE2UUNBWTVmbFZmRE1US0lCRlJoQ29ZcjNNUDVnRWxRTWk0VEcwY1g3Q2gtU0dPc3JRb1lSdkZGQzVmVG5PLU1vUmZPTmtWM3VDa0VEQTR6ZkRIbXFZMTVNaFl1OGxIVlVxUE84a3owU0F0U015OWJ0TFBrNk90NzV2U00yVDdyREJYUlZ3TUNKNEUzTEFCNA?oc=5"
     }
    ]
   },
   {
-   "titulo": "Pedro Castillo: Director de Barbadillo será removido por contrato de su hija en despacho de Juntos por el Perú",
-   "resumen": "Pedro Castillo: Director de Barbadillo será removido por contrato de su hija en despacho de Juntos por el Perú La República",
+   "titulo": "Callao busca convertirse en el principal centro logístico del Perú con nuevas obras",
+   "resumen": "Callao busca convertirse en el principal centro logístico del Perú con nuevas obras La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMks3eXRDYndSZksyVm05MzJpVmVwV1dOZlplM2JpZ2t2cDk4Z0kxajA1UXJqM1VZUHdvVGZqQnRZdDhwTjZqMzRQNzhBQkZNTmFuaUFLUUY0NW9ENUk3Vl8xNGZTaTFZLXhFeHNRQ1VsMG5LbEM1anlxMXFRM2FPRVExUUZWcTNJbGdSeUZwOUFqQzFPelkwYlR3SFFCdnZVQXgtUTdjQnFFLUdkcTZIaEpDaUhCZTAwdFYxWHQ2R1lST0laNHBvN29JSmppemRvY1BxbXdSbWpKaE0zUjFFajFGcE1iUkU2Q3JJTEJ1WjNKVFBmU292akt2eTTSAYICQVVfeXFMTnJZaFlOQlg2TGE3WXZvWDhUYjBHeXJvVFAxTUdEU1YtNGcxN291WlkzRTV0alQxQkN1eDYtVGNUZERIZGZlb3VRanNtZTREaWhzajM3SnM3LWVSQkdnZWxBdDBnYVJUNnR0OHA4bktzb05fLW9uczNyOUJHcXV5TUpwdnJkNWQ2T09xVjNlOHkwckItVXFhcjVIV3Z3dWk1akNHS0hxUF9qV050U3BQc0ZPSldkZHJDUGR5aDZpVFAtQWJXMEw2anloVjhrWkZORmRJTjZja3EwVmg5UkUtQW81LXpEUm5LZkpneVNjb3JPcF9zQ3kwZzNuS1JRVXZ5bGpB?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaDN2TUJCZlpMZEV3U1J5TlpEUExrMG90NkZBZFlVN283ellVQ1VNbUF1bG1uNnU3eURFOEpDUmNrZWFUZHIwSGVOUWh6Q2ZUZGxpSm5hWVlqUm9URzBoT1owZmFOdkc0LUIyZ2ZmQXlOeThxQkVRUDFjLVRnazN1VWRkZ0hNOXZTaVp6ZV9qd3Jwb3RFcnV2UDEzRWRRQWVJSzk3cHFxOFRaRi1xMkd1ai0yQU11S2VCNmo3akV2d2Ytd2lzYllIbkh3eHRLQnhtTGVWVThLeExDUVlXZWc4MXJoNUZ6SDBITVM0UGF2ZGxydnpKNzNncTd1ek5weUktZFE?oc=5"
     }
    ]
   },
   {
-   "titulo": "Pedro Castillo: INPE removerá a personal de Barbadillo tras revelarse contratos de sus familiares con JP en el Congreso",
-   "resumen": "Pedro Castillo: INPE removerá a personal de Barbadillo tras revelarse contratos de sus familiares con JP en el Congreso La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRzY0VllTT1l6dGc2NHROamdzSTk0T25lN3R2dVNBNWpfaF9VZ0RLWUhpTVdpMXNRZkQzdkRBYWpMZzdsb2R1RzVxeXNLcHlNd1dWOW1hbFROUS1ieXBVRmVBVWxfVEs5NF9oRmRyT1ZBN0hKMEF3c1E3dnROUElZNlBSUl9BU25pTWQyVTNraDlETC1hYjVsZEVHYlR6aEVaYlo2V192UjRUcFdScUlXX1FXYXRnR2llQWtJY0RCUnZoa1lhM2xGZUIwZlFNUV80Y3NWVnp1RExyZTM4OUVqZkg5MkZYc2ZhUGNCczh5VU_SAfYBQVVfeXFMUHN4aF9ZRWFZaXNVTGJHdGxOMHFHbFZfYmp4clNLQUszd2F2MzZUTWlRS0tvUFR3NjF4ZHctVDk4YTBHODFodDdKaThRVWROYzgxei11X3QtUkFNeDlGdnJhWmd6Z0hyU2paNWttZzN6UmtRUVo1OHV1dkV4djJEQXM3Tzk2dFZQV0ZPVHBnOFdMX2xfSEJ1SS1TZTFOMXVna1ZnSlYwYzAxSDJDUWlDNGxBazY5SUdzSnJzYTF3TDh5VVBSNk5GcVhVdXdERkp1aUFITHhiNFlmMnY0eTVSS3lGaFNYWkpVR0Z4WUJ1SzVoSHc1R3Fn?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petroperú: cuestionan concesión de Talara pese a recuperación financiera y exigen fiscalizar crédito de US$475 millones",
-   "resumen": "Petroperú: cuestionan concesión de Talara pese a recuperación financiera y exigen fiscalizar crédito de US$475 millones La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLUhVX1c4MGVQdTE5TzVwZlM5VW0tWW1BNnZyODJVMEk0OVFDcEQ2a0E2Z1ZuaHVrc2d2WmlnY3l6c3BmUEdLeHZhU01NZ29QdXpsNzQ1NzlpZ0c2SkFwdFVQZnRzZlB1T25MY0RDTkNtOXN2UGJieUtUNmFpZ3RPX2dPcnFTY25HTnQtN0sza09fOU5BWGQwSlo0NnpXOHhKZ0VFRWFxWnlhN0NXaFQzUE1IZm1KaHhmbkFRQnJ5NnZ0NEM0Z1dVbFVKcHhxTHJrWFdkNGdsTjFyWE1RbVlnby15eTd6RzA5bGRvTEkzWmJsUExaX3BBVdIB_gFBVV95cUxQcmt6cGtMeHhhaHF4R2xYcDlSUWRFR1U5Nl9XbVVqU3JCdV9CWlFOS2duaHlZSlgyYkVHRlRmeW11MmstSWFUeVlNLXFiTXpyUkxaQlV0czBLdWVSWmdMY3ZFb2xxbTk1TXZ5VjVCUGJBNUhraE1kSUFiaE9GQ0pmLTBtYjNMNG9Od3ZYeUtyVkgydjBRTUloX3NuN2dZWWtPQWZ5WFd6YVRtSFE3QmRKZmZtamU0dVhCcXBCc2E5LUhfUlBZc0FVNTU0Rkd0VWhPVHBncTRHUC15SDM3R3hQNm9VckFrZm56c2ZoTlNqNjdPQ2JkdDRaSnN2QUlxQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Papa León XIV en Saqsaywaman: horarios de ingreso, rutas señalizadas y requisitos para asistir al encuentro en Cusco",
-   "resumen": "Papa León XIV en Saqsaywaman: horarios de ingreso, rutas señalizadas y requisitos para asistir al encuentro en Cusco La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc3A1d3NsV0ptbTVGWGlkWURfbERHN1luRk1xTnd3bGNJb1A4eWN5Yjl2X1duZm9hVTBvN0pxTUo3S3BwNV9BR19wT3BmdVhta09KSlpCVE9TNEVsZzRzclVHLTBDMno2dWo5Mmw2d0gwX1FjdlY3dXd0SlVfQ0ItUmpoQTZRTENoTFE5Rk5yaTZGazljUUREZ0Fjcy1VYzN0dXpFYWRlWFJZem9lU0labW5OVTh6NVQzb1RkclZKb2JkQUYwbWxmMDdQelJYUG5adXJXNUtic216ejg2dHVnWFVMMUViVXRIdHBjN21IWlhkM0NZbkJz0gH8AUFVX3lxTE81YmFxOU5kZEV3T1BnWVpjb0xUWFBqZ2dGbUQySVNBUUZKNEQyaUdTNVNmTVdmejM1ODBGbWFHTTJ5S3dmY2pFdHhtNzFNMG1ZejlseTNNNjVNU3pWejJ6aWtMQy0yeG9RN2VRQmwySno5TExFWTNzTzctdUNyODlfTGlkNFlOdVE0cXNuQXNNSE12VXFhcGNlenA5aXJsWXRQZ1JYU1JVaEJGalU5OTdoeWpRYm8xVVNQVnVQTGV2bzFmU3FDUkhBOEVRdFJ3clU0WjNJQTVTX2ItUmZCYXRpNnZBcGxCakpvcS1PX1FLaEtuTXhZcXlHUWJUcQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "León XIV cierra su viaje a Argentina con visita al Complejo Penitenciario Federal",
-   "resumen": "El sumo pontífice realiza una misa en el Complejo Penitenciario Federal de Buenos Aires. Ello previo a que aborde esta tarde el vuelo que lo traerá a Perú.",
+   "titulo": "Amistoso internacional: Emiratos Árabes Unidos y Honduras juegan un duelo amistoso",
+   "resumen": "Te contamos la previa del duelo Emiratos Árabes Unidos vs Honduras, que se enfrentarán mañana a las 11:30 horas.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/mundo/actualidad/leon-xiv-cierra-su-viaje-a-arngentina-con-diversos-actos-previo-a-su-viaje-a-peru-live-3704"
+     "url": "https://rpp.pe/futbol/ligas-internacionales/amistoso-internacional-emiratos-arabes-unidos-y-honduras-juegan-un-duelo-amistoso-noticia-1717377"
     }
    ]
   },
   {
-   "titulo": "Sismo en Perú hoy magnitud y epicentro fuente IGP",
-   "resumen": "Actualización EN VIVO del sismo en Perú hoy, según las últimas actualizaciones del Instituto Geofísico del Perú IGP",
+   "titulo": "“Es una gran bendición estar cerca de él”: fieles pasaron la noche afuera de la Nunciatura para ver al papa León XIV [VIDEO]",
+   "resumen": "Decenas de ciudadanos pernoctaron en la vía pública, a fin de tener una buena ubicación para poder ver la salida del papa León XIV.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/mundo/actualidad/igp-temblor-en-peru-lima-hoy-magnitud-y-epicentro-live-3703"
+     "url": "https://rpp.pe/lima/actualidad/leon-xiv-fieles-pasaron-la-noche-afuera-de-la-nunciatura-para-ver-al-papa-video-noticia-1717376"
     }
    ]
   },
   {
-   "titulo": "¡Orgullo peruano! Teófilo Cubillas ingresó al Salón de la Fama del Fútbol Internacional [FOTOS]",
-   "resumen": "El popular ‘Nene’ fue uno de los más ovacionados de la ceremonia, en la que también se homenajearon a otras leyendas del balompié, como el croata Davor Suker y el brasileño Bebeto.",
+   "titulo": "El Manchester United destituyó a su técnico Michael Carrick tras el peor inicio de temporada en décadas",
+   "resumen": "Los favoritos a asumir el banquillo de Old Trafford son Eddie Howe, que no dirige desde que se marchó del Newcastle United la temporada pasada, y Julian Nagelsmann, que dirigió a Alemania en la pasada Copa del Mundo. También suena con mucha fuerza Mauricio Pochettino.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/futbol/seleccion-peruana/teofilo-cubillas-ingreso-al-salon-de-la-fama-del-futbol-internacional-fotos-noticia-1717160"
+     "url": "https://rpp.pe/futbol/futbol-mundial/manchester-united-destituyo-a-su-tecnico-michael-carrick-tras-firmar-el-peor-inicio-de-temporada-en-decadas-noticia-1717373"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy jueves 12 de noviembre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-jueves-12-de-noviembre-noticia-1717375"
     }
    ]
   }
