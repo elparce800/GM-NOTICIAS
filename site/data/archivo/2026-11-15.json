@@ -1,0 +1,796 @@
+{
+ "actualizado": "2026-11-15T06:30-05:00",
+ "modo": "titulares",
+ "total_titulares": 292,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "A qué hora juega Sporting Cristal vs Alianza Atlético HOY: partido en Trujillo por final de la Copa de la Liga 2026",
+   "resumen": "Los ‘rimenses’ aterrizan en el recinto principal de la ciudad de Trujillo para sostener un reto complicado contra un ‘vendaval’ que ha sorprendido con una dinámica goleadora importante",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/donde-ver-sporting-cristal-vs-alianza-atletico-en-vivo-gratis-por-final-de-copa-de-la-liga-a-que-hora-juegan-y-que-canal-transmite-partido-online-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-alianza-atletico-en-vivo-a-que-hora-juegan-y-donde-ver-final-copa-caliente-2026-via-america-tv-y-bicolor-partidos-de-hoy-noticia-1717823"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/deportes/2026/11/15/a-que-hora-juega-sporting-cristal-vs-alianza-atletico-partido-trujillo-final-copa-de-la-liga-2026-horario/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV recibió una cruz artesanal durante su visita a Santa Cruz de Succhabamba",
+   "resumen": "Durante la ceremonia religiosa, el párroco Wildor Cubas dio la bienvenida al santo padre y le hizo entrega de una cruz confeccionada por artesanos de Cajamarca. Emocionado por el recibimiento de miles de devotos, el pontífice destacó la profunda fe de la comunidad cajamarquina antes de despedirse.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOUxrZWpXeGhNMG00dko0LXFTSlBsbGRtM2kyUFZTOXhWVVhDTF9fRDMxbG9veHBTUUxRaGZJT01fdndXdVdabEI5ZXpCV0FwdGhQU0kzZ3RVYWJWdXZiSDVYTHpvbHRxUXJ3QWVNM085MTd2VEJDQUpNemRmM2FTbFRWTWphcGZNenpQdzQ4R1hWVHI4YjhoRjNuVlowdFJGWkwxelZBWjBmcUw3MkJScnhCaHNTUVZYYmpZVUx5LWY1c1V1MzB1eWF1Q3k5VHl0Qjk5VzZDc2gxOEtwUmFqMVJHTk4tVlkzN1d2YWJJc1drVXB4YlpSa3JCYno2aDDSAYQCQVVfeXFMTU0tLWVNaVNkNlhhOWRHSlBvZmNUM0pDZUhfTDZUejZxQXdJU1Etblp1ajUyLV9LLUJBWktydUhBU3FJR2FSSGJrSjZJZ0dzU3lyb1NCXzdWNFlKSDM5UHl0Wml2OXRnUU1LaW41QzBtWHhnbGk2UzUxVll3RUgzaXBsZ3pnWGFtak9IOHpnaTNCX1BWWHo5OE96eDRlWk1Nc2JCUFpBdERDZlI1UUt3VThaNVhxM0RJM0FqelhWdGJWZV9TcnBnT1ppd05rXzlORFV3b1JLa2dfY3ExeXg0ZmpNTTA0NTNTeEVFRDgyME1yaVNOanZyNVFRTlhlOE4xUkk3N2Y?oc=5"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/videos/actualidad/papa-leon-xiv-recibio-una-cruz-artesanal-durante-su-visita-a-santa-cruz-de-succhabamba-noticia-1717813"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/papa-leon-xiv-se-toma-un-selfie-con-los-pilotos-de-la-fap-que-lo-trasladaron-de-chiclayo-a-cajamarca-papacoptero-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy domingo 15 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTRZQmVRbVBtU3FpQWxDcUhLSTNYTjkyUHNweVh6ZnVjX2x0a3J6N3RlSmxkSGEzd3U2Z00xVXJhMEwtME9YeVp0UU9HajFmMlQzYU43NU1SUVVqTE9MV0I5MnNlcFV6NlRfQzBKSFY2U2dRUjlkbU5JbHBXRV9LVV96ZnhNa1hvbktNR05tbVplMnNvYTRGZjdUX3Fpc1dQdmhBcC1GMzFCR3ph?oc=5"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-domingo-15-de-noviembre-2026-noticia-1717871"
+    }
+   ]
+  },
+  {
+   "titulo": "ONPE al 100%: Renovación Popular gana en Lima",
+   "resumen": "Renovación Popular ganó las elecciones municipales de Lima Metropolitana, según los resultados al 100% de actas contabilizadas por la Oficina Nacional de… The post ONPE al 100%: Renovación Popular gana en Lima appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3RET3dSUlR2YlRfVUhyUlU1UDU4M2ppdFFVVFg0Y3p5ZUgzbFJiR1A3V3paYVVYamNjeWk4bWg5ajl1RkhLNzRsX3Q0d3lNSXRiYWlmSTY5blBRVW12TWd0TERndklsYkgyM2xfUUZIZTYzRXNuckhYMThoNGhRQ0s2Mk9Ic2xtLXNWZkZYQmMxMFhDVmxhS1RucnV4T3hOV2R4aGlMalpqd9IBrwFBVV95cUxQb0l4V01pcWdaa0ZIRmJtZEljN0trcjlTVmNzVTFRX0d3cFc5dUh5MUVtSU1oN3dVdU9FSG1tVU00NnJsQjJpWkJpMmY2Vmh6XzgybkFobHdHZk9QbzV5Z3dOSndDZUZ6X3RNWEhFRlJiODBqTU1QQ1pTeFFVc3hfUjJCTk42LU9vMl80QXFkUmFabUN2RnpUSkxlX05xTnVzVzJ4czdlLTVtM1A1UEk0?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/politica/onpe-al-100-renovacion-popular-gana-en-lima/"
+    }
+   ]
+  },
+  {
+   "titulo": "Irán asegura haber atacado con drones un radar estadounidense en una base de Baréin",
+   "resumen": "La Guardia Revolucionaria iraní indicó que los ataques con drones fueron parte de una “segunda oleada de respuesta decidida y contundente” contra Estados Unidos.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/actualidad/iran-asegura-haber-atacado-con-drones-un-radar-estadounidense-en-una-base-de-barein-noticia-1717872"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/irán-reivindica-haber-atacado-con-drones-a-una-base-militar-estadounidense-en-baréin/a-79951394?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Alianza Lima vs San Martín 1-3: resumen del triunfo ‘santo’ en partidazo por fecha 5 de Liga Peruana de Vóley 2026-27",
+   "resumen": "El cuadro de Santa Anita se impuso con categoría y logró su quinta victoria consecutiva en el certamen. Las ‘blanquiazules’, por su lado, sufrieron su primera caída y ante un rival directo por el título",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/voley/mas-voley/alianza-lima-vs-san-martin-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1717705"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/deportes/2026/11/14/alianza-lima-vs-san-martin-en-vivo-hoy-punto-a-punto-partido-fecha-5-liga-peruana-de-voley-2026-2027-resumen-resultado/"
+    }
+   ]
+  },
+  {
+   "titulo": "Mujer de 58 años desaparece en las Pampas de Pimentel tras asistir a la misa del papa León XIV",
+   "resumen": "Rocío del Pilar Arroyo Salinas fue vista por última vez el viernes 13 de noviembre en las Pampas de Pimentel. Su familia solicita apoyo para encontrarla y comparte números de contacto para recibir información.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/rotafono/servicios-a-la-comunidad/lambayeque-buscan-a-mujer-que-desaparecio-tras-acudir-a-misa-de-papa-leon-en-las-pampas-de-pimentel-noticia-1717856"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/mujer-de-58-anos-desaparece-en-las-pampas-de-pimentel-tras-asistir-a-la-misa-del-papa-leon-xiv-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Portugal cae goleado 4-1 ante Dinamarca en su primer partido tras el retiro de Cristiano Ronaldo",
+   "resumen": "La selección portuguesa sufrió una dura derrota en Braga durante su primer encuentro sin CR7, quien anunció su retiro internacional. Rasmus Hojlund marcó un doblete y lideró la victoria del conjunto danés por la Liga de Naciones.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUVkWU5tNUJrUUdzelhpVDg3aEluMktUX0hpVVFacmZTZXROTXhZd19SRDFSVVFkdThyWjhUTzl4RUFCTDJnT3dPT0FCQlZBUG9BYmVxVmdBdHJIVjFMdXN4Sk1vT0toc2VCcExtR1F5bVB3UUZBMTZyei05N1RiZFI4MWFYWXppVnVYN0lkNVZ4cXRWSGRTLUh5V3RzYjgzUE9pNDhCeXM?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/deportes/portugal-cae-goleado-4-1-ante-dinamarca-en-su-primer-partido-tras-el-retiro-de-cristiano-ronaldo-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Torta de tres niveles rinde homenaje a la historia pastoral del papa León XIV en Chiclayo",
+   "resumen": "Un reencuentro marcado por la fraternidad, los recuerdos y la gratitud protagonizó el papa León XIV durante su visita apostólica al Perú, al compartir una cena con sacerdotes de la Diócesis de Chiclayo, comunidad eclesiástica donde dejó una importante huella durante los años en que ejerció su minist",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/chiclayo-rinde-homenaje-al-papa-leon-xiv-con-una-torta-que-recrea-su-historia-pastoral-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-torta-tres-niveles-rinde-homenaje-a-historia-pastoral-del-papa-leon-xiv-chiclayo-1100032.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "SpaceX logra una histórica captura de nave espacial",
+   "resumen": "La empresa SpaceX de Elon Musk logró el sábado realizar la primera recuperación de una nave espacial de la historia, con el seguro regreso de su vehículo Starship a su plataforma de lanzamiento luego de pasar un día en órbita.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-spacex-logra-una-historica-captura-nave-espacial-1100047.aspx"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/spacex-logra-la-histórica-captura-de-su-nave-espacial-starship/a-79950553?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
+   "resumen": "El presidente ucraniano afirma que los enviados estadounidenses presentaron el intercambio como parte de los esfuerzos para resolver el conflicto.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cm70244lv8e1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-14/zelenski-asegura-que-ee-uu-sugiere-admitir-a-ucrania-en-la-otan-a-cambio-de-entregar-el-donbas-a-rusia.html"
+    }
+   ]
+  },
+  {
+   "titulo": "Creatividad Empresarial cumple 30 años: ¿Cómo se gestó la primera edición del premio?",
+   "resumen": "La primera vez que se otorgó el reconocimiento incluyó a 15 empresas en distintas categorías en 1996.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/creatividad-empresarial-cumple-30-anos-como-se-gesto-la-primera-edicion-del-premio-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Ciclista Lima vs. Cantolao Politécnico en vivo por Semillero El Comercio de Fútbol Femenino Repsol 2026",
+   "resumen": "Ciclista Lima vs. Cantolao Politécnico EN VIVO: revisa toda la información del partido por el Semillero El Comercio de Fútbol Femenino Repsol 2026 desde el CARFIP de Chorrillos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/ciclista-lima-vs-cantolao-politecnico-por-semillero-el-comercio-de-futbol-femenino-repsol-2026-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿En qué canales transmiten Panamá vs. Curazao y a qué hora juegan por Liga de Naciones Concacaf?",
+   "resumen": "Conoce los canales TV que transmite el partido entre Panamá vs. Curazao EN VIVO, este domingo 15 de noviembre, por la vuelta de los cuartos de final de la Liga de Naciones Concacaf.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/donde-ver-panama-vs-curazao-en-vivo-hoy-gratis-por-liga-de-naciones-concacaf-a-que-hora-juegan-y-canal-de-transmision-del-partido-online-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿En dónde se puede ver Luzu TV vs. 412? Horario y canales que pasan el ‘Gran Partido del Streaming’",
+   "resumen": "Sigue la transmisión del partido de revancha entre Luzu TV vs. 412 EN VIVO GRATIS. Fecha, horario y canales para ver el duelo del streaming.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/donde-ver-luzu-tv-vs-412-en-vivo-gratis-por-youtube-y-kick-a-que-hora-juegan-y-canal-que-transmite-el-gran-partido-del-streaming-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Juan Pablo II vs Deportivo Garcilaso EN VIVO: horario y dónde ver la fecha 17 del Torneo Clausura",
+   "resumen": "No te pierdas la última fecha del Clausura que enfrenta a Juan Pablo II y Deportivo Garcilaso este domingo. Revisa aquí la previa, el horario y más de la emisión de la Liga 1.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/comerciantes-unidos-vs-sport-boys-en-vivo-horario-y-donde-ver-la-fecha-17-del-torneo-clausura-resumen-y-goles-l1max-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Por dónde transmiten España vs Inglaterra: a qué hora comienza el partido por la UEFA Nations League?",
+   "resumen": "Consulta los canales de TV y plataformas online para ver el partido entre España y Inglaterra este domingo 15 de noviembre desde el Estadio Riyadh Air Metropolitano de Madrid.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/espana/donde-ver-espana-vs-inglaterra-en-vivo-gratis-hoy-con-lamine-yamal-a-que-hora-juega-espana-y-en-que-canal-transmiten-partido-online-uefa-nations-league-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Un Papa peruano nos recuerda para qué sirve la política",
+   "resumen": "El miércoles, en el Gran Teatro Nacional, un Papa con DNI peruano miró de frente a la presidenta, a sus ministros, a los congresistas y a varios expresidentes, y les dijo que la política es una forma de caridad. Lo dijo también ante empresarios y representantes de la sociedad civil, en su primer dis",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/un-papa-peruano-nos-recuerda-para-que-sirve-la-politica-por-omar-mariluz-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "De la apertura comercial a una integración estratégica",
+   "resumen": "La próxima cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC) en Shenzhen, China, ocurre en un escenario de creciente incertidumbre geoeconómica. Las guerras comerciales, las restricciones a las exportaciones, los subsidios industriales y el uso del comercio como instrumento de presión po",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/de-la-apertura-comercial-a-una-integracion-estrategica-por-mercedes-araoz-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Por qué se calienta el cargador del celular y cuándo deberías preocuparte?",
+   "resumen": "¿Por qué se calienta el cargador del celular y cuándo deberías preocuparte? Especialistas explican por qué se recalientan los cargadores de los celulares y advierten que este problema podría dañar los dispositivos si no se toman en cuenta ciertas recomendaciones. Todos los detalles, en esta nota.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/por-que/por-que-se-calienta-el-cargador-del-celular-y-cuando-deberias-preocuparte-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Universitario vs Regatas Lima EN VIVO: hora, canal TV y dónde ver la fecha 5 de la Fase 1 de la Liga Peruana de Vóley",
+   "resumen": "Sigue el encuentro entre Universitario y Regatas Lima EN VIVO por la fecha 5 de la primera fase de la Liga Peruana de Vóley. Revisa el horario y dónde ver el partido.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/polideportivo/universitario-vs-regatas-lima-en-vivo-hora-canal-tv-y-donde-ver-la-fecha-5-de-la-fase-1-de-la-liga-peruana-de-voley-puntos-y-sets-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El Papa en el país que podemos ser",
+   "resumen": "El gen del peruanismo se activa con más fuerza cuando tocan nuestras fibras más sensibles. Ver al Papa mover los labios para cantar el himno nacional nos conmueve. Sus menciones al cebiche elevan nuestro orgullo a su máxima expresión. Escucharlo decir que regresa a su patria nos hizo hinchar el pech",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-papa-en-el-pais-que-podemos-ser-por-hector-villalobos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Formalizar también es salvar vidas",
+   "resumen": "Hace unos días recibimos en CETEMIN, en Chosica, a un grupo de dirigentes mineros de Potosí, Bolivia. Llegaron con una preocupación estremecedora: nos informaron que el año pasado registraron más de 200 accidentes mortales en sus operaciones y, para septiembre de este año, ya habían superado esa cif",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/formalizar-tambien-es-salvar-vidas-por-raul-benavides-ganoza-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El Perú que se encuentra alrededor de un hombre",
+   "resumen": "Hay pocas cosas capaces de poner de acuerdo a los peruanos. La comida, probablemente, sea una de ellas. El fútbol, con sus alegrías y frustraciones, otra. Después de eso, no recuerdo haber visto algo que nos reúna de una manera tan transversal como lo está haciendo el papa León XIV.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/el-peru-que-se-encuentra-alrededor-de-un-hombre-por-juan-pablo-leon-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Atrápame si puedes",
+   "resumen": "El Jurado Nacional de Elecciones (JNE) ha resuelto que los primeros regidores electos que hayan ejercido como alcaldes en el período anterior no podrán volver a asumir alcaldías porque la Constitución prohíbe la reelección edil. Así, ha establecido, de manera correcta pero sumamente inoportuna, que ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/atrapame-si-puedes-por-adriana-tudela-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Trabajadores tendrían nuevas formas de retirar su CTS a partir de 2027: ¿qué cambiaría?",
+   "resumen": "Trabajadores tendrían nuevas formas de retirar su CTS a partir de 2027: ¿qué cambiaría? A partir de 2027, miles de trabajadores del sector privado solo contarán con dos opciones, además del despido, para retirar el 100 % de su CTS. Todos los detalles, en esta nota.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/trabajadores-tendrian-nuevas-formas-de-retirar-su-cts-a-partir-de-2027-que-cambiaria-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Y qué tiene el Perú que no tenga Chile?",
+   "resumen": "Tantos años mirando al sur con sana envidia. Admirando su modelo de mercado, la solidez de sus tecnócratas, la mesura de su clase política. De hecho, Alan García, nuestro último estadista, planteó el “objetivo fraterno” de superar económicamente al vecino del Pacífico. Corrían los años de su segundo",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/y-que-tiene-el-peru-que-no-tenga-chile-por-carlos-melendez-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Señor de los Milagros llegará a Las Palmas para la misa del papa León XIV: conoce la ruta y los horarios",
+   "resumen": "Señor de los Milagros llegará a Las Palmas para la misa del papa León XIV: conoce la ruta y los horarios. La Hermandad del Señor de los Milagros dio a conocer las rutas oficiales que seguirá el Cristo Moreno por cinco distritos de Lima antes de llegar a la Base Aérea Las Palmas, donde acompañará al ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/senor-de-los-milagros-llegara-a-las-palmas-para-la-misa-del-papa-leon-xiv-conoce-la-ruta-y-los-horarios-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Misa del papa León XIV en Las Palmas: conoce qué objetos están permitidos y cuáles no podrás ingresar",
+   "resumen": "Misa del papa León XIV en Las Palmas: conoce qué objetos están permitidos y cuáles no podrás ingresar. La Policía Nacional del Perú dio a conocer una serie de recomendaciones para los fieles que asistirán este lunes 16 de noviembre a la Santa Misa que presidirá el papa León XIV en la Base Aérea Las ",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/que/misa-del-papa-leon-xiv-en-las-palmas-conoce-que-objetos-estan-permitidos-y-cuales-no-podras-ingresar-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Grupo Río revela que el papa León XIV asistió a uno de sus conciertos en Piura antes de llegar al Vaticano",
+   "resumen": "Grupo Río revela que el papa León XIV asistió a uno de sus conciertos en Piura antes de llegar al Vaticano. El emblemático Grupo Río recordó con mucha emoción la ocasión en que el entonces padre Robert Prevost asistió a uno de sus conciertos en Piura, durante la década de los 80. Todos los detalles,",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/farandula/grupo-rio-revela-que-el-papa-leon-xiv-asistio-a-uno-de-sus-conciertos-en-piura-antes-de-llegar-al-vaticano-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Digamos que se llamaba Josefina",
+   "resumen": "Regreso a Santiago de Chile. Hace muchos años era conocido en esta ciudad. Ahora ya nadie me recuerda. He dejado de ser famoso. Me he vuelto irrelevante. No extraño la fama. Que nadie me llame ni quiera verme parece un premio y no un castigo.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/opinion/columnistas/jaime-bayly-digamos-que-se-llamaba-josefina-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Alza de tasa del BCRP podría encarecer los créditos además de frenar el consumo y la inversión",
+   "resumen": "Alza de tasa del BCRP podría encarecer los créditos además de frenar el consumo y la inversión La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUMxb1llbEl0WGhjUTlMOG9NMnh1d1JJY2lCRVRWX0RqbXROelRPOHd4a0ZldzV5Nm1UbFpJZzZfdC1ISDluMXV6OGlSNjNKUF9yazVlZjZxNEdublgxZkhsNXVkbDI4dWVCeXE0aEJLZWVfVEdkMTNMejZkakVfMDZBSDlqWmZBQTF6ZFNJVTRmWVNJRmJvakk1WHJfUGpJYV95bjFyT1ZLeTJVRFNMc1FDNjJrckN6ak1XcnhGbnAxa1lr0gHKAUFVX3lxTFBNN0tXTTlfbmctTHpiMGgyd0lVaTlBdUlwdE5vN2hsNWZtcTFES1hNZ1BockQ0MjJQcUktMkdCajk3VkZVQmJOWmlHaEtSTk9YcHhiTndQd2k3b19NNUZvTTk0RFRZbVN4THR0SUZoVXRIdUc4bDM5a25HS05CTFJKUVU1cGJnQVVwcC1yWlk4VnBpT3ZqY0lyemZwVUFGOHVqN0NSbk5zcXExTnhtalg0N2RlZF9mUHZSYXlULW43NWN6QlNZTDdkTFE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Congreso propone destinar S/ 450 millones de su recorte presupuestal a El Niño e inseguridad ciudadana",
+   "resumen": "Congreso propone destinar S/ 450 millones de su recorte presupuestal a El Niño e inseguridad ciudadana La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQlZGNUpPYUNfdjFxQkNlbHN1VEpGOUI4VEhHelZ1QXBSdmdrZGd4TnZSclJ0X2ZuaDN5QmhEeFhiWS0xcTZTeXI4U3hDVnlGc25wNnY2NEdHNmtWTkNBU3dyRTdWNnBVUTB3WkJGZy1BWUEwN0FHOEkwUWJrUDBsV0l6ZjRldFdOd21tejlZRUNSOXItc3BuZC1oZk1tMEZ5QndBbU5ZVHZ2VGpnUmF0OS1aWUlKZ0RuVDJQM0JNZy03Q2FEZWFoV2ZDZW9ISHFvUDdwbE5FaFRvTmVLc2hFUG1wckxTRkXSAewBQVVfeXFMT0t0UXJFd0NGZ3ZIRUFZR2V1SVRVeGN0M0NnWVo3Z1ZEcHZBVkQwQ2FYano0dDBSYkFGMWxYMjZIRDFsdW9VR0thQ2RpU21Eay11MXh4VER1VVBxWmRTMGdtYzNTNVQ0Z1E4N09QTUVISDBta2tTUGwzRG41NjZEdWttNGJEUlRXc0o0OXFsT1RBWHNvcVhNVFV2eXhJYWRkX2ZaT2ZXaXRfOTZxWUZVbnZwbzNhc0JtaVdMM1diZUpTVWlPZ3ZqRWtReF9mUDdOYlpOVFQ2cUNHQWdycTFTdThReVotay1VcGFTWFE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Entel dejará el mercado peruano tras acordar la venta de su operación por US$1.714 millones",
+   "resumen": "Entel dejará el mercado peruano tras acordar la venta de su operación por US$1.714 millones La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTE1N3djMGVSV09VTkxobldPblI2Sm82SlVYczhvd1BZR0d6aDYyZ29TYUhjQWxoM3NxbkVlbWNKNTdzWncxQ3poVUNacUVlNjE5aGE5MkpLdVlUcmg4eVc1dTN0SHdyeVdNTUxEblZGd2UyZ1JqSHRVSDZKLTdQaXhVMHZNb0RxSncxdHJVZHV4d25mTHQ4SWQzQ2M5ODZpRlhLSjVFeHdxczJsQlR0WENESWo0LTBQMXRrbXI4TdIBxAFBVV95cUxQZkp3dkU0M3FPQ2xXLTlWSlZsTXlyYklXLXU4c1hsOUw2elZIVGRVVUEyZnc5X0NDWE16NUdSOGlrSlBLVXdWenhpeVZpUEpacmhNU1M3MHhEMDB3Z1Y2RlkwcHNWVEFPNlA2NnVIZXpiRW1JTXFCY2UtMU1uYTItbkxQNUZtWlNUV2JhZ01ucWhMLVJsTFFtV21hNWwtR0FNN1R4M1FoSUNvMTduVWJJOFRGUFJQc2U4a01vSmc1emNmdG1H?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Computadoras para usar inteligencia artificial: conoce los equipos GIGABYTE",
+   "resumen": "Computadoras para usar inteligencia artificial: conoce los equipos GIGABYTE La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGVYaEhHbFdLcHNOM19IbHdYbW9sS0FiMlYwa1hxRkVHNmJKV3ZKSkpxQWdRdU9ReXlBcHIwYWF3aWlqZ0d4OG96TFB3V2pTam1nemZBOVRMM2Q0YmZUSHdQcFVFU0M5X0VFQjFjUTZnSk9GV1RRMkR5cF9IUGpLU3R4bWVOX256TjFobzdtODV1TjF1eHVJcWFrOGt1R1U4Zmg3S2pRS3dCUlZIZDZKYtIBtgFBVV95cUxPRzNLRF81VVRpb3o2NzdBQUdkMC1kTEZSQUhXSkF0MS1FWFozQ2IxSlc4SG1zNmRxNUtBZEpZalo4VExCb3p3cGc2bTlmVWNoYlQza2U5MFpPWU12cGVQaW5Cc01wQ3VOZEtVUjJOZzVoT1VmOHVCc2ZYdmFySEx1STJvSDBCX2lGLTN5Y3FNQWFVVWptYUxwUU1WQVBPRWoyMEE0ZmlPbEU0NVJxY1pUN0phWDFaQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cardenal Barreto sobre el papa León XIV: \"Dice las cosas muy claras a los obispos, a los políticos y a todo el pueblo\"",
+   "resumen": "Cardenal Barreto sobre el papa León XIV: \"Dice las cosas muy claras a los obispos, a los políticos y a todo el pueblo\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU3ZGOW9Rc1hOZGE0dG1JZlJkV2x4QVlJVW0zZm1KdmVhbF82YUdoOW5UMXR2cm9zRzZmLXQ0RDJRYTFoQk9SR0d3NVFjcFBtQjlKRE1Iak5Tc0NOMVFuaURURng4cTVNMkxZZGRFZkRkS3U3VWZHSmJmZTdkTm9jSmoxTG14RVU1dWtjSmE4TXozaDVtQU9YZTEtMlJnZHNCaFowUmx2Qm4wOS1LQVlLOFgyeXRVQ3ZxRW9YdHNuQzQ4dlVfZ3Vocm1rdDJHei1NeFFjWXBmb2U2b1NwNHVFTlRSTE9QTnJOTU9pYXZaM05TLVNNNHdV0gH8AUFVX3lxTE9EZTVhYy03dzZaRjJmdXoyVlVhcTd0UkJwLW1ITlZIb2VSc0ZvenRpQTdfVE15cWdvZzlLTmlqT09hUkpQYnY2c3NuX1RqTDZZY0dYd1Boc1BwQi1BdjNSUlVORGhEYV9oN1d6TzBOU29FbEc4c2NmREJKR1RpSVZxSC1MQUJGa0FoTXBlY0hmOXZ2OFhXbWlEMjdxR1RpSVJFUHQ0Vm9JUE9XMVVKekNVTTdVSHAtUWV1UFZ6bk00cGRDRmdZNFNZOFdZd0dNZUs3cXFEWnp0OGJpSXlmaFE1dTd3MXRkUzNDbkxobno2QXBDVFU3YS1EWW92RQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "TUUA internacional en el Jorge Chávez podría bajar a US$4: MTC busca ampliar el descuento de LAP",
+   "resumen": "TUUA internacional en el Jorge Chávez podría bajar a US$4: MTC busca ampliar el descuento de LAP La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZDdmajk3SGVYTWZLU2Q5X1VoMmNsRVJrWFNaMjBOU2tOT2JzR2F5bXh1R3JkWGtuQ0lNenZTR2RpdU9zY1VPTW5NaFVMbm1PenNDdVNGRGM3MjhDUVJxOTlkclZvZWdEVmV4Sk9ibmV2dWdKc0pBRVVMZzVFSnVjRG5JZDZJOTNMczZualRPSkpYY2JNTVRzbk1wWTExRzNfNWpJeHlPUW1Da1VMd1F1cGppNVgxM3JqdW00ZXQ2SVJfMjlPUWVPeWZmWVFaeUJuV2tHZ1dkMFhaa2F1aGdZ0gHkAUFVX3lxTFBudUNjZkpzUFV3Vlpfbk44bDZBQWF2SlNwbDlJdkJBcWFwbUhENUsyV19EcmZVdTE5cVRtSG5tM3N1Z2VfVTcyN1RVWEtrY2YtOEhWejFrNExLTlFodDBwaU9LeE5nT2N2SWhnVGdwc3YzaHBUMExuQ293WjFoZmxieVRKbmdIY3QybGNrUlN1anNET01fMDdNbERlYURTT0xvRXlBazBFWjlzWGVxcFA5cmJLZU5wUnJjbV8xXzg3bkU2cXRRamRFSnczQ3hzMmFaby15amdRejcwQXhWYmNCaFhMSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El desgaste apresurado de la ultraderecha",
+   "resumen": "El desgaste apresurado de la ultraderecha La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTDFsTWJfb0VMQjBrdE1kTW5OZzRITXdmazRKR20tS2c2elluNW90a1FIVFd6T3ZkckZjUEtEOGtVOVYzVWdPYWlGby01LVNWMjg4bEJ4b29FQjZjZnNScW53dzRrVjZ3LS10SG5SZHhHOU1meVpUN3IwSkFwc3lkTzJNU0xwNmJCbTBrRjVrbjRjMDRM0gGaAUFVX3lxTFBQWW9OYmZRS0lyTmhqN1FnRFBtVzRON29yRmdQOERaeFBBVEs1alBUdWlLYVRCTUZoc0RjMGd5cmp2QmhZYmVDaXE3QkJiYVNCMUwzaFJYeDI4TmJkcjJleVR6dlZmeFpNcWUxYWluZ3BsZ1RVbDNSbUc3UVEwT09LM0FyOG1sdDRYdkdKRXlUckZ0SGt6S0szeEE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "JNJ publica puntajes de candidatos a jefe de la ONPE: Pérez Duharte obtiene 4 puntos más que Loyola",
+   "resumen": "JNJ publica puntajes de candidatos a jefe de la ONPE: Pérez Duharte obtiene 4 puntos más que Loyola La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXlDWmJtQVFuZGZVUnZlY0RVdUZ5eUNTaHJBTlozanNFU0RIUERpUS0wcEUtZV94T0RsT0RUTzFRdnZJT0tTb0JGc3VKV1BXQ0hWeEctcTd6SmZqZHdZLVAtRUR6ZENfRFpMZ3FXc3Y1dUhRWEpyTWI2Y2l4ck8zVDNUZUZxejhaV3YyV3BPSmxxRm9mbHVTWTRocm5OQ2htaHFCQmNsYjFESHhsMWUxSmdFUndKandEQ3J3Wk1xZVlpVEZiSmJnbm4zb0lGalRfTU9KOTczUHlISG5fTnExNHFNZXdpblo4bWfSAe8BQVVfeXFMUHEzMXFxQ0hPSUpqZW02ZUxaSjNYZkFxUG1JcE0wa1h0MzZaVWJWamRJdW83djd6Q05jYzVRSjN0RlE2WGE5bUlabzFWeTVKRUViMGtGWWhkRTcybnNOdHo1aTRrcklyY1RvTEp6Vm8tLS10a3FzU3hoQjZCY2lOLUpaRG9CMzRINUhOUmZmeUZxTDZsVWNNeXlyZmFjR0ZMN3hNLVF0UWhOMnFjc0ppaUFjNXpBeFNNVFR1RmRKR1dzbEZtNG1rU0xNRDBBOGtxVm9wZVZfVDZYT3pyRnpMRGRWcWlwdkozbVIzQ3M4VlU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Celulares de Ucrania aparecen con ubicación en Perú por estrategia para engañar a Rusia",
+   "resumen": "Celulares de Ucrania aparecen con ubicación en Perú por estrategia para engañar a Rusia La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDAxdGZSd3BKc3NrdEFrbWlVLWd4bGhXaXZIemxkdW0waGw4bnotaXZOMDJUUzlsSHBvM3F0UFlFN0ltXzh4OWdFVW1pdkptSTBucGFNbTZXbkd1S3ZhbUY3NHNDSUE0Tm9oM0NBVzZiRlQzbzNMU1RqVWR0bzFVMmNzd1hwd1Jqa09CZ3lVRVdMWm1nU2RFMXRGalFXallidHU1ODNfMnplemJMcVktRzZNRER0NnVmOTlpNEFGOGpDcXYzZDlKT2JEaGJtNTRRUzlJZTVlRzZONDTSAeABQVVfeXFMT0FJbF9yNHNDZ1l3aElFdnlJSFdJMFhRcFJLdVgzOUtHY01JU2JxTXFscFdGTEctY1BsdVpKTTBfWUZLMERGa3BlVExkZkl4eGRSU05wQ3p5SS1xOWlNSndwX1NfOTRsLWs4SzY5cnRHRU1kLW9ma0pVbl9xLWJzYTNKYjB5WWN1eHFiVkhVd2NGX0JkOHpNWlQ4YlJGSnhZNGd4SlRNSXJrdEdueVExNi05UUhvejBydGFwU2o1eUNCeldRazdqajI2WHFoaTRROFBNX2ZlUW5xN0RhU192YXM?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "La religión como fuente de esperanza, por Diego Alonso Sánchez",
+   "resumen": "La religión como fuente de esperanza, por Diego Alonso Sánchez La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2xTVl9NRUREdEZVNHhtVGFPSG1uZHRXRmFES0Q1c2NaRzRMUjNUWU1VYlVPcHJGSVlYcXFuWWNBbjlCMTg4LWVaX1ViRlFROWxGZTdESGdwUWhteEthRGliV0dyOXJ5clU5OTlKLXpFWlBKQkQwcjUzUE9WdDB4NmFJNGRZclJCQkxmSnMtNGhUSE1lNURjc2pSUXdBZzB2dWFLU3l5VmxIUjRreFotdE54ZGdrQ2xj0gG-AUFVX3lxTE1sU2E2aW1UenVLVVczbGI3OGZoekRuMGF4SjVBdU11aW54c3pXTnF6X3FFNXVDZnQxVXlJZUh4NU5hdWF4ckZwREt6UU9BLXlWVFNxRFh0ZnlhR0Q4QU92UDFva2t3bVpVVG5kdlpOc29Nazg2emdYV1hNX0FzbC1UVGFzX1ltYkUtb0ZtWGdDQ1lTOFdMN3NVUUlTWWFEM2hwUlppQWRqbUtEZy1tczJtRUh0V0wtUVN5dGxrZXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Antes de ser papa, León XIV explicó por qué quería ser peruano: su carta ya es Patrimonio Cultural de la Nación",
+   "resumen": "Antes de ser papa, León XIV explicó por qué quería ser peruano: su carta ya es Patrimonio Cultural de la Nación La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVmFiem1VSFpKRzdvSDdpS2QydG1qb2lPa3FFTk1yT1ZXSXpBV3dWTXV4SWdNWHo1aTlVRXBJT3RoRWptRnVydnUxdUVGSEJQVDBOX0tQT3YzLXA1VGRSR011dzZPTERTSWZaYWtyUmFsY2JzVWEwdDEwMVFHcXQ5bjliLWpWMDU4N3ZkUTZUcWdwaEpMcUVCdjlFdW8xWWc1eFFnb3UzYUJObkV0cXhod1lZcXFNbWd6Vlo4NzE4WU1zNlNSaHl3dmZEQlpSYkxmcjdZOVlncElZeWY1MHdIMXJqTHBfblp5ZUdxMTRoLUvSAfYBQVVfeXFMTkwtRjlfTWU2YlAxczB1OVNrcjJMNU5SNUFSQ2RpRmE3Q3p1YzZJVDg2WDhiU1g1UHU0bFdOSW9QN0l2U3RVMnBDNGg1OWVXeGIyajdYV05rNjVNdUlBVHQ2enM1NnhPYUZLRUdmQVhIYWViZTJhc0hWZ00zcWpXaENQMmJQU05jZnB3cDZydXQ0SktqN3BjeEdHRlVMX1l5QVJoZEF0OFhIVlpWUzctZ3RIMWNIWFBIQlhWX2tSMWRkWXp0UWx3WnZGY2ZFNzE3bGh1bndJazE2aVRGRXN6andTcERSYUViei1fNmZBd0VVbUthNTZ3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Obrero muere tras desplomarse arco de bienvenida que construían por visita del papa León XIV en Chiclayo",
+   "resumen": "Obrero muere tras desplomarse arco de bienvenida que construían por visita del papa León XIV en Chiclayo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeUZMdmE5a1NwY0lLZW15X1NBTTkzbEhTcE1ZWThJdjR1TjVyV1BBQnRYbkx1dlAyb3dfcmhuTW12d01IaGplb2FlcE1rT012TnJjWnI0THRWWE1Uc1JfYmhUeS1PaFo1Q2hzRDM2d2NtY2N6TFhCbXRwMGdqZkNtT2JxNTl3R0dXRDhQUWhuSEtlQjlqQVV0ZTg1d2NoRE5jYlFOcW5rc0lUbW8zMHdobDQyZUVKUVdRakdnN05VZlNrUHhDbHpzdDBnbW0xOXBmaUdhRVpBblpZWkZqUmVseExkV0RmaEl5bVHSAe8BQVVfeXFMTkdRcXpaY1FVRzU2VnlORU5Dc1BEZWFRcDdLUUpkeG9TaUdQQm9LV0l2TXN2NUJYRjlPUGtvS3J4Qlo4bzZhMEJ6SU9qYVl0anZUby1DZzY4UkZnNkM0SjN6SmtNMVVJM3laakVnTEpNblFXZjh3TlpLSEJrSlBwT0JkSk1jS0RBMm9ibGdYamcxY2stdF9xMklWWVo0blZwUldUbkVpVmxUZ3k0Q3M4NmwyLVMyNHNjQ2c4amZ4U3J6d2tINWpqZkhXak1MZVdYYkpXbEdUenhaMHJEeWZucjhubjE2MjhaWE92czM3MWs?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "César Holguín: “Se ha anulado el derecho a referéndum de los peruanos”",
+   "resumen": "César Holguín: “Se ha anulado el derecho a referéndum de los peruanos” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY0hPVUpKV0d3eXdnX1dXWENIZ3RMak1ueU9la3pqYmNURkM1RWF6a3E5ZHh2SWF4Rjh0THNNS09rTWtnVHlNSHpxZGc2VEFNTE5ZUWRFUlZWRGozaTZmVDRxOEV6SVZsVGFsY0p4X3JTYzNuVGI0VmlLbmZ5Q1hmZm5ZaWdjdHRibE5yMjBsTGtxZFFiaUJwR09VN2F5TFlLTTFDcTF0UUNJVnVDbG5QNlRrblZRZU0xdWE2SVE0VHnSAcYBQVVfeXFMUDZGUHZfd1E4anpaNUtFMGNVTmpYU1JoRkdKZnptX3NTRDYtWi0yc3dyakRnVWJZa2JHcDE1NUh4cWRPZTFSRl9raEhfS2RXZnBVaWU0Vk5PVHJ0S3pOVnNSWUNERUVXVXp2eEppbzNzZXgtZ05fdXhSZnIxOTdKY01UXzJtNEdDZmZEN0cxOXRuZlpnQnNNTG4zVVdheG1iVzNvVmQ5NHFKaHR6TlgzMHhZSWxnOVR6TDRMUWZEQjNIUERpaUZR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Puntos de abastecimiento de agua ante emergencias en Lima y Callao",
+   "resumen": "Puntos de abastecimiento de agua ante emergencias en Lima y Callao La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWjBZTndibkZrM2ExSUVYTEdiMVJTejRnVGVXZWNsbG1TR3RWUDB0S1h0TGd3RldPOUYxZXNSRG9CamJ2eFFZVlVpOHcxbGd6Sy1BWEhXQkNNc0ZpQ3FscWppV1VQN05iN1VwNkZMWG9iX0oydHAzN0Q5bWVHYTdfXzJB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Presidente de la Corte de Lambayeque participó del recibimiento del papa León XIV durante su histórica visita a Chiclayo",
+   "resumen": "Presidente de la Corte de Lambayeque participó del recibimiento del papa León XIV durante su histórica visita a Chiclayo La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeGZjZmZSOThMUkhGOE12b3N6bFZPX21hM0xjVXRzbEFfOUoyODBZMHVkbV9hNTNvR2lzT190MGpJcnk0WDgzcHhLbzZMZTN0WmVMQU03SEF5V0lNclZTaWF6YUNPSzZTRDdPeWpiSFk3M3UwV3FHNk15UTRIOVVxbWNITXBfa3RDTUVBV1ZERTh1MGV5a3hWWVFVRTF2MzlMX1Fyd2I1MVFoMTR3UE9SSkNTRlF0YnFidlNNbXJzZEJMelZYQzFkQVJDMzJzV1UwaFFwZFd2cWtEaTlmVzVWQXUteThXcGs2ZHBNTjl5LXRNTldKWm9QeUNMaFNRbkJ1bExKQWF0OUt0ZE5CQVY0YVZHY9IBmAJBVV95cUxNYXUzWXViczJmSTNoS0hXYkdHM0Ezdy1ZNkVtdzVUamxMWlRtWGNTdFBKcXRleXI3SHpHTGlPSmNRb2tsdEY1UjBsbHZ3NnpKVWYwNXN4TXg3Z0dLOERiRl8tVUZoVzFXTnltdGM4SUVHTWdoWjJpd0UxdlBQcjd4SkVIbVJLdTZYbEsyTXJxaUktMkxFSTIxdUNDVkF2YVIyZVo4dTFJLWxma2g3WkxaMUxQNFpnTThFcEQ2T2w5b1ZEbjF3czR4Ukg3cVAycWg5YkpZX1hXWmwxOER0Sk5LRGpWY19HT3Q0cGZTcVpNWDhpdzRJc29MeTQ4c0gwQ1l5SXd1a3lLZkRYd1A5WVZSZWRwSVBzMWJ3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Es falso que Rosangella Barbarán haya llamado “caviar” al papa León XIV: declaración fue sobre Francisco en 2023",
+   "resumen": "Es falso que Rosangella Barbarán haya llamado “caviar” al papa León XIV: declaración fue sobre Francisco en 2023 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWmpVbllWT29zdDVVVmVQdEg5ZGdla1pVYkY2bkkxcFN1QS0zbXdmaURvUEhyVWlZZ3NIV0FLN2RNcFUtVlRNZ0FHTl9UWGt2cXZ6SDVfeFR4dlVENEQ0N3FQeGFkTWdPT204RzBCSXRlM1Zvak1vMk5FOUFKeW9UWjVlRHRac2RYR3ZOYVlKemRodkpDeGlKekFHUFNxUVBVaDMwenI1MWgwa0pZVU9td25iVnpoZDFkQVZBaWlJZ0JLemZ1UlJmNTZ0SVpYVE1TYVdKV2lKRGZaSTVybklPRGJUOXVWdzl2eXR1Y05XcDNpcmlnSUViblVB0gH_AUFVX3lxTE9PQ2JMeHN3eTBwMDNFdmxpQkVHSmlBWWRWVG5FaEZra25JWTBhaEQ3WXE2S1htU0daZ19uenRrM3dRSTA5Yk1LUnFEOTZyRVdtR2hiWllqWVJ0cW9nbTBqbEJzdjlpYVJwb0lnOEl2Qng3UnBFeTVMUTE2WDBoQklWaGNVZkM2RWZYSWdmZmRjWlJYNFVpczJTTXk0MzNhT19VY21VSGJ3R3F6NTEwdi05aXJraV9TSlhTeTR4TG9BckZyNUR4NE1FcDNFVWp6WHA3WFIweXpCcTlXUk1xTUIwN1V1RjhKU0FhaUk5akNXemxpSUg3cmV3aEFraE02Yw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "León XIV en Perú: el papa llega hoy a Cusco y Pucallpa en su quinto día de visita apostólica",
+   "resumen": "El sumo pontífice partirá hoy desde Chiclayo hasta la Ciudad Imperial a las 7:50 de la mañana donde tendrá un encuentro con fieles hasta poco después de mediodía, luego viajará a la selva.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/leon-xiv-en-peru-el-papa-llega-hoy-a-cusco-y-pucallpa-en-su-quinto-dia-de-visita-apostolica-live-3713"
+    }
+   ]
+  },
+  {
+   "titulo": "Cartelera Cine en Lima y Perú hoy domingo 15 de noviembre",
+   "resumen": "La cartelera de películas de cines en Lima y Perú se renueva cada jueves. Revisa los títulos que se estrenan y mira los trailers.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-domingo-15-de-noviembre-noticia-1717873"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Chile hoy 15 de noviembre: Epicentro del sismo según CSN",
+   "resumen": "¿Cuál fue el último Temblor en Chile hoy 15 de noviembre y registrado por el servicio Sismológico Nacional de Chile (CSN)? Consulta los últimos sismos: magnitud y epicentro del movimiento sísmico.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-14-de-noviembre-epicentro-del-sismo-segun-csn-live-3712"
+    }
+   ]
+  },
+  {
+   "titulo": "Dieciocho países árabes e islámicos exigen que Israel cumpla con el alto el fuego en Gaza",
+   "resumen": "Los ministros de Exteriores de Arabia Saudí, Jordania, Emiratos Árabes Unidos, Pakistán, Turquía, Catar, Egipto y otros países condenaron el reciente bombardeo israelí contra el hospital de Nasser, en el sur de Gaza, que provocó la muerte de al menos seis personas y heridas a otras 27.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/actualidad/dieciocho-paises-arabes-e-islamicos-exigen-que-israel-cumpla-con-el-alto-el-fuego-en-gaza-noticia-1717870"
+    }
+   ]
+  },
+  {
+   "titulo": "Partidos del domingo 15 de noviembre: horarios y canales de TV para ver EN VIVO la Liga 1 y Nations League",
+   "resumen": "Conoce todos los detalles y la información de las competiciones del fútbol peruano y mundial.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/partidos-del-domingo-15-de-noviembre-horarios-y-canales-de-tv-para-ver-en-vivo-la-liga-1-y-nations-league-noticia-1717866"
+    }
+   ]
+  },
+  {
+   "titulo": "Senamhi alerta sobre el incremento de caudal en los ríos Rímac, Lurín, Mala y Cañete",
+   "resumen": "Las lluvias en las zonas altas de las cuencas han generado un incremento en los caudales de estos ríos.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-alerta-sobre-el-incremento-de-caudal-en-los-rios-rimac-lurin-mala-y-canete-noticia-1717869"
+    }
+   ]
+  },
+  {
+   "titulo": "Juan Pablo II vs. Deportivo Garcilaso en vivo: ¿a qué hora juegan y dónde ver la fecha 17 del Torneo Clausura 2026?",
+   "resumen": "Juan Pablo II vs. Deportivo Garcilaso EN VIVO: sigue el partido por la fecha 17 del Torneo Clausura 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/juan-pablo-ii-vs-deportivo-garcilaso-en-vivo-a-que-hora-juegan-y-donde-ver-la-fecha-17-del-torneo-clausura-2026-noticia-1717865"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV: Club Juan Aurich le regala camiseta personalizada al pontífice durante su visita en Chiclayo",
+   "resumen": "El sacerdote Hugo Sánchez le hizo entrega de la prenda al santo padre. La camiseta lleva la frase “Somos Chiclayo, somos Aurich”.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/lambayeque/papa-leon-xiv-club-juan-aurich-le-regala-una-camiseta-al-pontifice-durante-su-visita-en-chiclayo-noticia-1717863"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy sábado 14 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-sabado-14-de-noviembre-2026-noticia-1717774"
+    }
+   ]
+  },
+  {
+   "titulo": "Rodrigo Vilca olvidó a Universitario: confesó su hinchaje por Alianza Lima tras ser titular en Selección Peruana",
+   "resumen": "Rodrigo Vilca dejó un mensaje a los hinchas de Alianza Lima al afirmar que le gusta el estadio de Matute.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/alianza-lima-rodrigo-vilca-se-sincera-con-hinchaje-por-alianza-tras-ser-titular-en-seleccion-peruana-me-gusta-este-estadio-noticia-1717864"
+    }
+   ]
+  },
+  {
+   "titulo": "El Monumental vibró: así festejó Universitario tras vencer a Alianza Lima en la primera final del Clausura femenino",
+   "resumen": "Universitario venció por 3-1 a Alianza Lima por la final de ida del Clausura de la Liga Femenina 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/universitario-de-deportes-vencio-a-alianza-lima-y-asi-festejo-en-el-estadio-monumental-noticia-1717861"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Portugal extrañó a Cristiano Ronaldo? Esta fue la tajante respuesta de Jorge Jesus tras perder por goleada",
+   "resumen": "Portugal perdió 4-1 ante Dinamarca por la UEFA Nations League en el primer partido sin Cristiano Ronaldo.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/cristiano-ronaldo-jorge-jesus-respondio-si-portugal-extrano-a-cr7-tras-perder-por-goleada-ante-dinamarca-noticia-1717853"
+    }
+   ]
+  },
+  {
+   "titulo": "Senamhi pronostica lluvias de fuerte intensidad en la costa norte y sierra del país: estos son los departamentos que serán afectados",
+   "resumen": "Este fenómeno se presentaría desde el domingo 15 al martes 17 de noviembre, detalló el organismo público.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostica-lluvias-de-fuerte-intensidad-en-la-costa-norte-y-sierra-del-pais-estos-son-los-departamentos-que-seran-afectados-noticia-1717860"
+    }
+   ]
+  }
+ ]
+}
