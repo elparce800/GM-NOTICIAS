@@ -2,7 +2,11 @@ name: Actualizar noticias
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # 6:00 a. m. hora de Lima
+    # GitHub a veces se salta ejecuciones programadas, así que hay tres intentos
+    # (6:17, 8:17 y 11:17 a. m. hora de Lima). Si la edición del día ya existe, no se repite.
+    - cron: "17 11 * * *"
+    - cron: "17 13 * * *"
+    - cron: "17 16 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -30,26 +34,38 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Ver si la edición de hoy ya existe
+        id: hoy
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "site/data/archivo/$(TZ=America/Lima date +%F).json" ]; then
+            echo "hecha=true" >> "$GITHUB_OUTPUT"
+            echo "La edición de hoy ya está publicada; nada que hacer."
+          fi
+
       - run: pip install -r requirements.txt
+        if: steps.hoy.outputs.hecha != 'true'
 
       - name: Descargar y resumir noticias
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && steps.hoy.outputs.hecha != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/actualizar.py
 
       - name: Guardar la edición en el repositorio
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && steps.hoy.outputs.hecha != 'true'
         run: |
           git config user.name "gm-noticias-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add site/data
+          git add -A site/data
           git diff --cached --quiet || git commit -m "Edición $(TZ=America/Lima date +%F)"
           git push
 
       - uses: actions/configure-pages@v5
+        if: steps.hoy.outputs.hecha != 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.hoy.outputs.hecha != 'true'
         with:
           path: site
       - id: deploy
+        if: steps.hoy.outputs.hecha != 'true'
         uses: actions/deploy-pages@v4

@@ -24,6 +24,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 DATOS = RAIZ / "site" / "data"
 HORAS_VENTANA = 30
 MAX_POR_FUENTE = 25
+DIAS_ARCHIVO = 4  # ediciones que se conservan (la de hoy y las 3 anteriores)
 SECCIONES = ["Perú", "Política", "Economía", "Mundo", "Sociedad", "Tecnología y ciencia", "Deportes", "Cultura"]
 LIMA = timezone(timedelta(hours=-5))
 GOOGLE_NEWS = "https://news.google.com/rss/search?q=site:{dominio}+when:1d&hl=es-419&gl=PE&ceid=PE:es-419"
@@ -211,6 +212,9 @@ def publicar(items, noticias, modo):
     (DATOS / "noticias.json").write_text(salida, encoding="utf-8")
     (DATOS / "archivo" / f"{ahora:%Y-%m-%d}.json").write_text(salida, encoding="utf-8")
     fechas = sorted((p.stem for p in (DATOS / "archivo").glob("*.json")), reverse=True)
+    for vieja in fechas[DIAS_ARCHIVO:]:
+        (DATOS / "archivo" / f"{vieja}.json").unlink()
+    fechas = fechas[:DIAS_ARCHIVO]
     (DATOS / "archivo.json").write_text(json.dumps(fechas), encoding="utf-8")
     print(f"Publicadas {len(noticias)} noticias ({modo}).", file=sys.stderr)
 
