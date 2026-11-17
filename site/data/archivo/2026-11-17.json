@@ -1,0 +1,804 @@
+{
+ "actualizado": "2026-11-17T14:53-05:00",
+ "modo": "titulares",
+ "total_titulares": 301,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "IDL-Reporteros",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este martes 17 de noviembre?",
+   "resumen": "El martes 17 de noviembre, el dólar en Perú comenzó el día con un ligero descenso, en medio de expectativas de que la Reserva Federal de Estados Unidos (Fed) mantenga una política monetaria restrictiva e incluso eleve las tasas de interés para controlar las presiones inflacionarias.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-martes-17-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-17-de-noviembre-del-2026-noticia-1718133"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-martes-17-de-noviembre-dolares-a-soles-compra-y-venta-bcrp-noticia/"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/16/precio-del-dolar-hoy-en-peru-cotizacion-de-apertura-del-16-de-noviembre/"
+    }
+   ]
+  },
+  {
+   "titulo": "Caso López Aliaga: Jeanette Alonzo anuncia que asumirá la alcaldía de Lima si el JNE le entrega las credenciales",
+   "resumen": "La segunda regidora de la lista de Renovación Popular para la Municipalidad de Lima, Jeanette Alonzo, anunció que asumirá la alcaldía de la capital si el Jurado Nacional de Elecciones (JNE) mantiene su decisión de impedir que Rafael López Aliaga vuelva a ocupar ese cargo.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/elecciones/caso-lopez-aliaga-jeanette-alonzo-anuncia-que-asumira-la-alcaldia-de-lima-si-el-jne-no-da-marcha-atras-apuesplan-noticia/"
+    },
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS2c0RDBkXzZrbFBRcW9TaFdzMjRwdktJUFBGVzkwcndBN0ZubWpJNTdEYllTd3JGLXNTNU5ScmkzaGxBLTdyQzJSUTc2WW5xTkxNYUN6VDFJMjNGdV9EMmZoNUVNUUN3b1l5a3NIaDdxMjJqQnlxQTFSaFVSN3RZYU1aY2FhcHdXTmVLbnVWTldwc2hmZExxWTNucjQtY2k1czNRRFV5Zy1ub0VnZFlUOTAwQ0Y5Q2VwbjkzNVFrQTdrc1laSHcxa185bGtJMUpxQlMxY3JBRTJYS2hrSFBCSmlDbHZIdUXSAewBQVVfeXFMTlZySWRyVEZzQ2MzbkgyQUN3ZkRKOWlqdXhoVmVaZjVxU08wRGtRTFEtajMzbXdYZm16Z2dyU3VzU284WkNIRmRWSWJiRGFDQWlaZV9BcHNadlFUTmx3eVNqU2ZsQ2hHamI1ME1EVF9BRGpOMjJJU0pVR0tXZkcwQmw4Z1FkdFU4RU9LSUl6YUFNYkxTSTdZSzJLbF9mVWZnVEswRzlPMXE4UkliQ1hKNlg3elZncnUxczFDY0FEWHhQS05aaFNIazRPQmlVX2h2Z1J6eXoyUzhRWEZ5U1h2ekViVWlJZmE0blRxbVk?oc=5"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/16/jeanette-alonzo-defiende-a-rafael-lopez-aliaga-pero-anuncia-que-asumira-la-alcaldia-de-lima-me-siento-preparada-y-con-mucha-experiencia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Diputados aprueban presupuesto institucional 2027 del Congreso por S/1,405 millones",
+   "resumen": "Con 105 votos a favor, uno en contra y una abstención, la Cámara de Diputados aprobó hoy el proyecto de presupuesto institucional del Congreso para el año fiscal 2027, equivalente a 1,405.4 millones de soles.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVNXU294d0d6bFk1WTc2LVBzblJ4QmlRdzMzc2JGWEhqZGl4NGdqekdJd1VKcTV3OWFybzRzY08zaFJKZ2x5eUZ0dHYtTmR1NXR4X2I4b0ttcnBXdWx5enlQSTR6aW5VYS03VDdVOXZtSl9reFBtR25XMUQ1VlRWMS1zVUhiN2VFc01qZkpwRm1CR3NubER1ZmNldEtNZHpWd0pYeUg1N01OdG5tdXNWUWFEc1BlN0xjcGfSAb8BQVVfeXFMUGw1Z2dwLWppZjRFUlR4X3pLblB4RUkyNGpHZ28xUFB5TzM3YWJDeFAtX1RyOU9Tb1FqTU1NSFcwdC1aMjV3Q21MYW9zZjhlTWxWeXM0YXNWVkdFZGY2b0RtSkpHSXpoS1FBY2FlZXpHcWpaMzBacnNtd2NWeWFablUybFV0aWdTbERVTWJHYVAyOWpOS1YzOXRxcGkxZXZhcmFCVGp5d3NzUXU4a2gxSEZfR3Q2VDl4RVgtbldWN2M?oc=5"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/politica/camara-de-diputados-aprueba-presupuesto-del-congreso-para-el-ano-fiscal-2027-por-s-1-400-millones-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-diputados-aprueban-presupuesto-institucional-2027-del-congreso-s1405-millones-1100354.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Carlos Espá firmó la contratación directa de equipos por S/8 millones para la misa del papa León XIV en Las Palmas",
+   "resumen": "Según el Ministerio de Relaciones Exteriores, el servicio se adjudicó sin concurso debido a los plazos ajustados que dejó la confirmación tardía de la visita papal",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcTRMV3o0bU9wUDNXSzVJMUYzNjNCMTVvNHY1YTVIczhGMzlhM2xlQWNSZmlIQUZUVlhMQUoxQ0ZVN3BoeU0xNVN0UGFmWTBWejZWUEU5clQtaG9SblVCelliWGU2NHlJbjVMajM3dElpNC1YV1pscE9ZbW5XWWR6SWdGcm1QaEJBeDM3dU1iT3F6ekcxSzBqcVQ3UnNXTnBDWEdMeW9UMzdJaVlDamZUY0xKR3laWk1Md0dnd0NrLVRQTDc1dmRjSFd1Q3NvUmw5em1BMlkwZkp3bmI1NGRpaU5VMTNkOEVydzJjbzRYM1RCTGh3Mk9TaGZpc9IBgAJBVV95cUxNcDBDRi1IbWhDQ1BhSHJKMnR4LVhHMU8tdkdDLTFuS29UeXZJQ01mRk9HT3d0UHZwcVJiQnVvN0l6dWxWWUF5ZUVoblFSMEJfTk9UYmR0RnRaeFBENDBXWk5UeHlpbG9ka1B2Ykp2LUs3ZkVRMktWUmlpSHhKNmg3SjFHcDFYZnlGeEpDOHEzb0RPajVoV3YzZVZidDVEcFhDM3lVMlBBNkl6YnA3SlVsVUhaNjA0YlhlVHF3Yy1oV3F1UlJuZDhUZWVWNVdQaVk0MFVkQnU1ZHBrUXRxUzlXZ21IcW9pMC1SeWFYLVVtbjVBSS14VTVUSDFVS2M2czRK?oc=5"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/17/carlos-espa-firmo-la-contratacion-directa-de-equipos-por-s8-millones-para-la-misa-del-papa-leon-xiv-en-las-palmas/"
+    }
+   ]
+  },
+  {
+   "titulo": "Juan Sheput anuncia cambios al teletrabajo en el Estado: Vivienda concentra el 44% de trabajadores bajo esta modalidad",
+   "resumen": "Juan Sheput anuncia cambios al teletrabajo en el Estado: Vivienda concentra el 44% de trabajadores bajo esta modalidad La República",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQekNJQ2E2a0JhYjVFZDducDJNTzhmbmxCTUF2MjZMRXU0Y09GU21Kd1k3b1ctSUlIdjBJcGVWSElRdUNEcDQxOFo1SjhYdFRVOGVUanRnX3F0eW1UVERQcXVqWmJaVlc0TlRyU1gya0VOVnpSbUZrLS1jWnhFWXNpMDdoNVlXMXFJbllidjV0ZHVOOGdfc2VYZDVEVFpXVF9heU9zNHhXMXNpRUV6YXVKTTY1QlBZUlo5WXRHLVhZamRMUjdqWlpUVFlVY0x3bHhoODBSRW1MNDg2STlVc0tteXg0LUpnRDB4MG5UX1ROQjVQMDlQRWtiMG9GeTdwRENka1hB0gGIAkFVX3lxTFA2cnZmUTNGVkpZc1lybWZmU0R2UC1NQ25IMTdyeTk5Mi1jank1QUZqendZaHFoN2E1ZWFpdEdNZWdaOXAyMm9fNGd5RVlXaDZxSVFwczh4ZDB3eG1WZUU2REdxWTRCdEJRR1ZHdTZtZmlsdllmZVRPRWFETERSOTlXUnJsbG51RUw0dHlBTnN1YVdyUTIyeGVMUlBNbU9IaGxhMXlZaEJ1NVRUS0tnOEJxSkZrVFZVN004NXloam92U0ZkRlJLODVSRjhScEdXUVpKU3lJSF8tS09EX2JKTXlFRkVhS0l4ZURERmEzWFhGTVRhMWN6aDVPYUlNR3VHTkFCZVYxU0Ffaw?oc=5"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9VajNYNXlHRWlNMkFjaExlYXFMUkZrUjB3aUNYbXNTVmFndnQ4VHZRdGRKRHpBWWVMNEN6cF84TFc4VFc4UWs0ZkxVY3ZKREJoTWR0VkVRUUc5SElSVTRVelJDcTdrMUR3dFMxZ0Y4MkFpUktyMFVkWklXZjBTeGI0R2MwQzBYSkV2Q0ZDRWJQVkFPaVd3aHhQTWVOVG9BWHk4Q21tN2YzTHZKaEc5QnRURDhOdHdMYVJiemxvUnBHQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Gales vs. Portugal hoy: hora, previa y la jornada final de la UEFA Nations League 2026-27",
+   "resumen": "La UEFA Nations League 2026-27 llega a su última jornada de la fase de grupos. Uno de los encuentros más atractivos será… The post Gales vs. Portugal hoy: hora, previa y la jornada final de la UEFA Nations League 2026-27 appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/portugal-vs-gales-en-vivo-donde-ver-transmision-a-que-hora-juegan-canal-tv-sin-cristiano-ronaldo-por-fecha-6-uefa-nations-league-gratis-partidos-de-hoy-noticia-1718049"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/deportes/gales-vs-portugal-hoy-hora-previa-y-la-jornada-final-de-la-uefa-nations-league-2026-27/"
+    }
+   ]
+  },
+  {
+   "titulo": "Estado subastará más de 100 joyas incautadas a personas investigadas: relojes de oro, diamantes y alhajas desde S/70",
+   "resumen": "El Pronabi realizará su primera subasta de joyas y alhajas los días 27 y 30 de noviembre, entre ellas relojes de marcas suizas como Corum, Piaget y Vacheron Constantin. Las inscripciones estarán abiertas del 17 al 20 de noviembre.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/estado-subastara-mas-de-100-joyas-incautadas-a-personas-investigadas-relojes-de-oro-diamantes-y-alhajas-desde-s-70-noticia-1718217"
+    },
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTy1XbHZQT2ktYVkxZ2pXYncxeldPYUtZQzh0Vm5vYlJ0aGVlUnZNRHM5TF95OWUxNGhUVGRnUjdOVENBOWxtRWNUbENDYVBFa2NGcGM3LWhWMHo2cWZQUldSWHQxV2xKd1ZHa3dueUgtS3VGM2F2Skk5dWRPcHhqQ0I2VkVqX3ZnWmhQWFZvakllLVQ4bTlkMWY1MUVNaloxMHNPbjZyNXBOZm5aZ1JVcktFbjY?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Renovación Popular denuncia al presidente del JNE y plantea su destitución",
+   "resumen": "La denuncia constitucional contra Roberto Burneo, presidente del Jurado Nacional de Elecciones (JNE), plantea su destitución del cargo y su inhabilitación para… The post Renovación Popular denuncia al presidente del JNE y plantea su destitución appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmRVT1F4WFVmc1NDTGozUmNpMmU1SW9aV1lBcVlPT0pLT3pEb2xRT21mS0FjYUQ1Nkp3U3BRUVN3MlpEMjRjZlJaWVlmR2lKTmRabjBTaVdJYi1MTVF2bU5xZGZNT0k1Z2lyQVBkWEZTYzAxVEpWRlJXeG9BM2lVZ1RJeGpKZnk2NjI0eGNjV3BFdDVpQ2tMamI2UG5DR3R2WWI1bFAtMkNqd3RCWE9WUkdXXzBOY3dZMWRhNFNB?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/politica/renovacion-popular-denuncia-presidente-jne-plantea-destitucion/"
+    }
+   ]
+  },
+  {
+   "titulo": "Estados Unidos, México y Bolivia pierden el estatus de países libres de sarampión",
+   "resumen": "La Organización Panamericana de la Salud (OPS) retiró este martes a México, Bolivia y Estados Unidos el estatus de país libre de sarampión, debido a menores indices de vacunación que han permitido la transmisión sostenida del virus.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/mundo/eeuu/estados-unidos-mexico-y-bolivia-pierden-el-estatus-de-paises-libres-de-sarampion-noticia/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV recuerda incidente con rosario en Las Palmas: \"Son cosas que uno lleva en el corazón, quizás en el ojo\"",
+   "resumen": "El papa León XIV recordó con humor el incidente que protagonizó durante su última misa en el Perú, cuando un rosario lanzado… The post Papa León XIV recuerda incidente con rosario en Las Palmas: \"Son cosas que uno lleva en el corazón, quizás en el ojo\" appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/peru/leon-xiv-sobre-golpe-con-denario-en-peru-son-cosas-que-uno-se-lleva-en-el-corazon-quizas-en-el-ojo-noticia/"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/sociedad/papa-leon-xiv-recuerda-incidente-con-rosario-en-las-palmas-son-cosas-que-uno-lleva-en-el-corazon-quizas-en-el-ojo-lima-video/"
+    }
+   ]
+  },
+  {
+   "titulo": "Filtración expone operaciones de riesgo de Deutsche Bank con Epstein y oligarcas rusos",
+   "resumen": "Una investigación de más de 200 periodistas, basada en millones de documentos filtrados, señala que Deutsche Bank priorizó sus intereses comerciales frente a alertas sobre operaciones con clientes de riesgo, entre ellos Jeffrey Epstein y oligarcas rusos. La entidad sostiene que los casos fueron exam",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/filtración-masiva-expone-a-deutsche-bank-por-epstein-y-oligarcas-rusos/a-79972229?maca=spa-rss-sp-all-1122-rdf"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/europa/20261117-filtraci%C3%B3n-expone-operaciones-de-riesgo-de-deutsche-bank-con-epstein-y-oligarcas-rusos"
+    }
+   ]
+  },
+  {
+   "titulo": "Noriega pelea contra el descenso, Gallese sueña con el título y Tapia espera el llamado: ¿Qué viene para los peruanos en el exterior y por qué es clave ponerlos bajo lupa?",
+   "resumen": "Luego de la victoria de Perú por 2-0 ante Bolivia en Matute, repasamos el presente y los próximos partidos de los peruanos en el exterior. Noriega y Carrillo entran a su semana decisiva, mientras que Gallese pelea por un título.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/seleccion/seleccion-peruana-erick-noriega-pelea-contra-el-descenso-pedro-gallese-suena-con-el-titulo-y-renato-tapia-espera-el-llamado-que-viene-para-los-peruanos-en-el-exterior-y-por-que-es-clave-ponerlos-bajo-lupa-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Qué fue de la vida de Renzo Sheput: Sus días en Estados Unidos, el halago al “emblema” Yotún y qué piensa de Cristal candidato en la Liga 1",
+   "resumen": "El ‘Pincel’ conversó con El Comercio sobre el presente celeste, destacó el trabajo de Roberto Mosquera y elogió a Yoshimar Yotún. Además, contó detalles de su proyecto formativo en Estados Unidos junto a su esposa.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/sporting-cristal-que-fue-de-la-vida-de-renzo-sheput-sus-dias-en-estados-unidos-el-halago-al-emblema-yoshimar-yotun-y-que-piensa-de-cristal-candidato-en-la-liga-1-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Pasas horas frente a la consola? Estos beneficios de los videojuegos podrían sorprenderte",
+   "resumen": "Aunque suelen asociarse con el sedentarismo y el aislamiento, los videojuegos pueden aportar efectos positivos para la salud mental, desde estimular la memoria y la concentración hasta favorecer las relaciones sociales. Sin embargo, los especialistas advierten que disfrutar de sus beneficios depende",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cual/pasas-horas-frente-a-la-consola-estos-beneficios-de-los-videojuegos-podrian-sorprenderte-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "La Kábala HOY, martes 17 de noviembre: revisa aquí los números ganadores del sorteo",
+   "resumen": "La Kábala: Conoce aquí los resultados de Kábala del martes 17 de noviembre, que tiene un pozo acumulado de S/2,002,958. Además, puedes seguir el sorteo de Chau Chamba.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/loterias/la-kabala-en-vivo-resultados-de-hoy-martes-17-de-noviembre-2026-ver-jugada-y-numeros-ganadores-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "resumen": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron un mes y medio antes). Desde el gobierno tienen previsto desplegar una nueva estrategia de comunicación ante la inevitable crisis climato",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "APEC 2026: ABAC Perú destaca el potencial de la telemedicina y la teleeducación en el país",
+   "resumen": "Guillermo Ferreyros, miembro de ABAC Perú, destacó el potencial de la telemedicina y la teleeducación para ampliar el acceso a servicios esenciales, así como la importancia de intercambiar buenas prácticas que contribuyan a impulsar su implementación en el Perú y otras economías del Asia-Pacífico.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/apec-2026-abac-peru-destaca-el-potencial-de-la-telemedicina-y-la-teleeducacion-en-el-pais-l-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Venezuela hoy, martes 17 de noviembre: hora, epicentro y magnitud",
+   "resumen": "Temblor en Venezuela HOY EN VIVO: último sismo de noviembre, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/temblor-hoy-en-venezuela-en-vivo-ultimos-sismos-17-y-18-de-noviembre-hora-epicentro-y-magnitud-segun-reporte-del-funvisis-proteccion-civil-la-guaira-caracas-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en México hoy, martes 17 de noviembre: sismos recientes reportados por el SSN",
+   "resumen": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-ultimos-sismos-17-y-18-de-noviembre-hora-exacta-epicentro-y-magnitud-segun-el-sgc-servicio-geologico-colombiano-choco-co-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lima será sede de la primera etapa de la Copa del Mundo de Natación Artística en 2027 y 2028",
+   "resumen": "Lima albergará la primera etapa de la Copa del Mundo de Natación Artística en 2027 y 2028, con el Centro Acuático de la Videna como sede.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/polideportivo/lima-sera-sede-de-la-primera-etapa-de-la-copa-del-mundo-de-natacion-artistica-en-2027-y-2028-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Grupo Air France-KLM ve impulso en ruta de Lima hacia China y refuerza su estrategia ante alza del combustible, ¿cómo ve al Perú?",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/grupo-air-france-klm-ve-impulso-en-ruta-hacia-china-y-refuerza-su-estrategia-comercial-ante-el-alza-del-combustible-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "“Una bomba sucia en Washington podría darle a Estados Unidos el pretexto para usar armas nucleares contra Irán”",
+   "resumen": "La inteligencia de Estados Unidos alerta sobre posibles planes de Irán para usar una bomba sucia en Washington, aunque los analistas consideran poco probable un atentado. Roberto Heimovits advierte que una acción de ese tipo podría darle a Washington el pretexto para una represalia nuclear contra Te",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/eeuu/iran-que-es-una-bomba-sucia-y-por-que-estados-unidos-teme-que-iran-la-use-en-washington-donald-trump-arma-nuclear-guerra-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "MTPE lanzará convocatoria con más de 8.800 puestos de trabajo: ¿Dónde y cómo postular?",
+   "resumen": "Desde el 17 al 20 de noviembre, 130 empresas pondrán sus ofertas en diversas áreas y participar en procesos de selección. Aquí los detalles.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/mtpe-lanzara-convocatoria-con-mas-de-8800-puestos-de-trabajo-donde-y-como-postular-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Víctor Destéfano, urólogo oncólogo, sobre el cáncer de próstata: “no debemos esperar a que aparezcan síntomas para recién acudir a un chequeo”",
+   "resumen": "Todos los varones deben comenzar sus chequeos a partir de los 50 años.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/victor-destefano-urologo-oncologo-sobre-el-cancer-de-prostata-no-debemos-esperar-a-que-aparezcan-sintomas-para-recien-acudir-a-un-chequeo-nnda-nnni-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Todo lo que se sabe de GTA VI, el esperado título de Rockstar Games a punto de lanzarse",
+   "resumen": "Estará disponible desde el 19 de noviembre. Rockstar destaca que no se ha utilizado IA generativa en su desarrollo",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/tecnologia/videojuegos/todo-lo-que-se-sabe-de-gta-vi-el-esperado-titulo-de-rockstar-games-a-punto-de-lanzarse-precio-fecha-tematica-historia-personajes-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lluvias en Perú por El Niño EN VIVO HOY: informes del Senamhi y últimas noticias",
+   "resumen": "Lluvias en Perú por El Niño EN VIVO HOY",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-posibles-desbordes-inundaciones-huaicos-y-pronostico-de-senamhi-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¡Atención, trabajadores públicos! Este 18 de noviembre comienza el cronograma de pagos",
+   "resumen": "Conoce la lista de entidades contempladas en el cronograma ya que los primeros trabajadores estatales cobrarán sus remuneraciones este miércoles",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/tramites/atencion-trabajadores-publicos-este-18-de-noviembre-comienza-el-cronograma-de-pagos-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "WUF: Llega la WUFATHON 2026 “Gold Edition”, corre y suma tu marca por los perros que más nos necesitan",
+   "resumen": "La cuenta regresiva ha comenzado: la ONG WUF lanza la cuarta edición de su evento solidario más grande del año, el cual llegará este 20 de diciembre a Miraflores con un recorrido de 4K que une a la comunidad de runners y petlovers. El escenario perfecto para la estrategia ideal de las empresas que b",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/wuf/wuf-llega-la-wufathon-2026-gold-edition-corre-y-suma-tu-marca-por-los-perros-que-mas-nos-necesitan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Fenómeno El Niño: hay 334 obras de acceso a agua potable paralizadas en el Perú",
+   "resumen": "Las obras asignadas para ampliar este servicio fundamental acumulan altos niveles de retraso. Actualmente, 334 proyectos de acceso a agua potable, cuyo costo actualizado asciende a S/5.987 millones, están paralizados o afrontan serias demoras en los tres niveles de gobierno, según la Contraloría.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/ecdata/fenomeno-el-nino-sedapal-hay-334-obras-de-acceso-a-agua-potable-paralizadas-en-el-pais-que-zonas-concentran-la-mayor-parte-de-proyectos-inconclusos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lluvias de hasta 6 pulgadas amenazan Florida: dónde conseguir sacos de arena gratis y en qué horarios",
+   "resumen": "Consulta dónde conseguir sacos de arena gratis en Florida Central ante las lluvias de hasta 6 pulgadas previstas para noviembre de 2026. Revisa direcciones y horarios en Daytona Beach, Titusville, Melbourne y Palm Bay.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/florida/lluvias-de-hasta-6-pulgadas-amenazan-florida-donde-conseguir-sacos-de-arena-gratis-y-en-que-horarios-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Carlincatura del martes 17 de noviembre de 2026",
+   "resumen": "Carlincatura del martes 17 de noviembre de 2026 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWVGeUhrYTdmSjlmLXFyS19jd045Ymh2cjdhTTFIZm84WGFsOGFtcDJ4czNvZzMyd0dMYmFSdDZpZmpRNmllMlBja2c0VkQ2dVBPUmp1dWNFYjJERmI0bHY4ZV9GYVRZLWFGQ2E4VS1mRGFvd2hpT1RtNlNWek9mUzdJbjlpbHV2ZzNxTFl3c25EWVhTMkMzeGsyS3V5WExheXVRRg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Rosemary Pioc: \"El caso de Condorcanqui es crítico, esperamos acciones a partir de las palabras del papa\"",
+   "resumen": "Rosemary Pioc: \"El caso de Condorcanqui es crítico, esperamos acciones a partir de las palabras del papa\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNWZBZHF0NjRNb0ZPdUE4bHB0M3B0MWJqOFZKY0xrdFNPdjhDbG56QkNUeDVfQmptT0ZsUTctelZCemNEbHlEVk5sYjlyZmVTaTl1TE1zRnNPdmI5UDhvY3BZZEd0QkRCMG4teVZxcHpvdjBqUFdVSTlfa0poNEJVRlVHcDM1RjEzdk12Yk9OMHRkR1NsUEU4dFRsNDdINTBsSEdWR3FGdWlTYjFoVXhDdUREbi1vdkJ1MHVhZkRzVUF1QWdsT09fakxoVUFTZUF5N1BtODczTktKSG4zX2htU3pKUUVWb004c2Z5RWpFZDNhOUh4QVlVVkVB0gH_AUFVX3lxTE1zaUUzcXpYMDBDSlduUXJJQTlkcU0tM3BuS3FfeFV1Y2R1QUlRMmR5eV9nYkhEOXZDNFZNLThQTHBMZndKd1Q0dGctNDQ4VXZYMUY4THRES1VtRTRWQy1CWkFuTm4wVlFyRF83VWwtWnFFTGpiam5wSVpXc3otQVFTTEhzVTkwVzlGUHFCbDl5N2xHMzVGVjBIZGxuclVhcEpHcFk0WERBZVdTY3hjTFFobE5uTHZpbFlQdEE0MklvRUlnMmxhcVc2aGJXVHFtZXlpT3lQcEJaMXFybGFRWUZZQ3ctYldpd1daT2tTSV9fZ01hTzBrbVBQdFZvakpIaw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "APEC 2026: Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes del foro económico",
+   "resumen": "APEC 2026: Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes del foro económico La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVZDWERVTExoSVpYSzlwRnNaUmNTelVmajVFZ0duT2NHQkZMZHpPWG9NRFEwU2RNa0ZEcFRFa29EZGNYUVo4dkU0ZHczRmJCVnhFZjVVMDJUcjBIdTBxMldabmlkdVAxY0VOTDFJclJKOHlINS1BcENlbFJsampFcFpCZl9FdlFsVjI1aVZ1Vk93dW1ZNmgyXzV5WDB3N0JVVVR3a0pqSHZkZU5NOThIbGs1b1lzcWtWWkJUOTA4a0JfeGdpZ1dqR2pBQTd3ZTdXTVVr0gHYAUFVX3lxTE9sU3ZYbE02RnpFN1IyaWpYMDdySUMtemJPcFIzQnlNejVVRWtTRzdKTXlHMW52TGFQZmxwam9OaWRFN0pxSWR6bVNMMU1FWTJZTFZPN3dvZUk1T0l0VENLYmVlOWxCN042WWgzRzBudzBUODlDVEFOUUtOU1E5Zjc2SlZfeWdyWkJEemlVMkIzU3JCbkd1VDhxcTgycTdkeWlCVXBZd3VYeTRrcXNWbFBYM1RiRFcyM3NLWkY0Tk5hRnhZbnZEdmpwZEQxOWJGVmR2SjFENG9IUA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pluriempleo en Perú: el 39% de trabajadores tiene más de una fuente de ingresos",
+   "resumen": "Pluriempleo en Perú: el 39% de trabajadores tiene más de una fuente de ingresos La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOENqSUFuZkdlX0dTd0Yza0VWVlhSQTUxd1lpeDkycUJnd3hjS1ZGX2Y5WVJaeE40QzdIcklqbHVUVnBQMGVuei0zanpDaDZXMXNraExDN3U5czN4Yi1vX1pYemZmRGFKNENHV2tvWHd2clNFRlllX1lTdHhsMVpQZ2lVaEctOTR3V2pKbzExcktvVnF1SmZDTGJDN2I5NWlCSUN6d3ROdnhBNFdlMTBwTEdHUDFaRUlWX3BDcHB3SVJJTTNuMm5V0gHMAUFVX3lxTFAwUFhqUXFwUzNNUnU1VTdKcEJEQVN0S25UQ0g3ZkJFVFV0dmM2eG1mWEl2M2RQVjNJbW10TlZVbjVnRTBHX0EtMmpycWdINTVvdHE0NlhIdTgwUF94UGN4cC1iV3JRM0ZsQ0t6MzlTWWtRUko1TEt2Y3Q5V0RoWGU2MXUxMVRqdXNYem9WTE5xNDdoa2lnMzBlVHVlSXdiWkxWQTVtdDB5WXVTY2ptbmZHQTBaSXk4QjlaYndhRzA1Y3JRWUc1QzlxbHVsdA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
+   "resumen": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVZwaHh1dXdxbmtwOGRVamVaT3A2Z0xDSS1rUVhnQkNEVDE4VDNldGo5RHNMaXp4NUdJM0x6SjdCaURrVS1rVkw1R0RPZlNQZUplaG1NOHNrSl8wdWFuNlNxSk41TXBBMVpYZTFFYWNnMDJnZU5OUDVranM2SU9yVVhTcUJEYXFhdjNOc0w3RzBkdmhDdU5rczdlamFHY0NLTTR3RzBPM0RhVEt1UGdwdXgzemtvN3hZNWc3dnhSZUxHZ25fUUd2V0ZkcTFSdkg2QUHSAdcBQVVfeXFMTnl3VkNuV0JpTHJfS1NmcnFsaXgtMVY1SkJnMEtoZUxJU2UzWWFMUnI4NGN5S3J2elhsVFFuN0ZMVTl2VEREZ1NPQVpuZWNPdWcwMjNZcFI1ekVTWFRTZ0RKMXo0V2ZpZklhZEJnRnpVQkV0ZzJEdWRYdzNON3FlaDJSSWlVOEZ0WkJMR0xhNmw2cE94MnphbFctXzFRMUxrOTNMYndaX3F5RmthU3FiU1RESnJiczhEanZFaGdadUowVEZYdG1KbzFXNEJ2aHcwWVNFUjA1YUk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Astudillo expone este martes su plan de reforma de la PNP ante la Comisión de Defensa",
+   "resumen": "Astudillo expone este martes su plan de reforma de la PNP ante la Comisión de Defensa La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0dnNXRzajk5ZG5yTjl6WjN6NVh3SF8zamVSdnpHODVqbWpaTzZJcXdNZld5VVNwLXc4S0M1VV9DcmJOa290VzgyTFFYYWNQQmZtejZlRktqc0VoR3BQaGpVdFplNFFXeVB0bEtxVzJkYlk3a0hKejhnS1UxcGdBckJJVVIxUGQxeU1aN0RLUG01SUVOdzZ4NnVRaHdxNTJHNkYxLUxMRjA2SlZOeGVBWXhsTm9BTWwxbEZXdDhlclc1ZkZqdHFyZkxTUW1LWm9fbTBaa2w5Z3rSAd4BQVVfeXFMT29Cdm5LY3NDNldzc1BHX3pIZUM3S0FsUjRaMlk4YUlYMnBXYnFkYzFEQzJ3S1JMbGFlWmdBamNrMFZoTzY5eHRGZVBtYXFBem1ZTV93V2tQMjBiYjFqNUVRcmFYUDVnNjlZYldIT2ZEaW4taFBUdUpIa1RhWUhIWGFFWjJ1YldRY3ZSS21WRTJjUXJ5QlY4S3hwQVJZeFpkR21HNmIxVUNFT1RuWHB2VzFXbjlvVmFQTGlIUWF5aVBTelJBS0xnYWpfSHZBY2xWRTFQdEU0ODl5ZEFVTUJn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Segunda vuelta regional: ONPE trasladaría actas a Lima ante riesgo de lluvias por el fenómeno El Niño en el norte",
+   "resumen": "Segunda vuelta regional: ONPE trasladaría actas a Lima ante riesgo de lluvias por el fenómeno El Niño en el norte La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT2VBcjNKVEYxRUNUZXIxamRHaEpTbTlFX1VCWWNfOG9yQnNWS0REeGlUOGdWVW9OeFljUWlzMEh0TS1EX0xEdno2LVd5WGRBRnhBVnRZSS1Kc1dNTGxKYUVrRUgtZTdQX0R2YmxBZHpDT0RpUkhMWUpqOV81d0djclRDclVHSlczREZwWTRxa25OU1FGNU4xNEVRdFhRSlFSZ09jbXNScmRyY3pQMTN4MHpNek96MHl6bnh0X25nZ25SY3VMS3puQUtrejVqLW1tcDF3MTlhS0N5LWhTOEFLeGhtYkxWLXdqSUNmNEc2VWppdlItejV1LTdSSkjSAYICQVVfeXFMUGZyRFZGUHZkM0l6clg3MXF3WWt4djJWeHRvcGExRnFxbEt3MnJGc0xTNmJDZl9mOGl3NGRNU2prR2pQcl9rRExxbF9YanI0RXJHeDNsYUxkRld1TGVnUVZWeFlFZmRaNkhYUy12YmhKcFV1NV9iclRFaC1QYS1aSzlOLUN0ZG13MkE4MnV6QWtrYUtyRzBQUmNiNUxTeG1VZHdBclZndUFMQ3RwbDJ1ZTg3dEpMeGZJeXJGcWVFOVd1RE9pQk9OczR5ejQtZkJkVjZkY0FYYTc0UWlqekg3cUdRckhZYlpKdTgxSWxMWmJaSXJUaDRIQ3czUmRtdXh2OTVR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Perú expone en Uruguay su modelo de gestión de obras públicas con especialistas de la ANIN",
+   "resumen": "Perú expone en Uruguay su modelo de gestión de obras públicas con especialistas de la ANIN La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHloTU5XNU1ENmR6ajFuTl9JcG9zM1ZZdVFEMDFlX1N1SlRtUllSRGZyczdVOVRLRHFmdUozaGh0YXZtcmZnZmFVVlRHQk9nWEMwb3N3WC1EMm5Hdl83VURXYnpxenhnaUhUZXBCOGoyRjdNdFFpMVNpTnVhc09pTUJRY3ZLN05ySk1fX0NibU5GenpFREh3WmhOdzFPU0ZTRFY2bUhPWXlGR1ZIQmxkQV9IZzdwUXcxUC16aUhROVVZU1lVSmdWWHhKTWQxU2JtRVk3SkNHVzI1Vkt0ejhnYkZFYUp4ZmpWY2hDNnNfbXo0RlFvYU82bTB3WFBpR2FWbWlhMm80YmR1SWk5?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "OECE advirtió problemas en compras públicas por más de S/5.520 millones antes de su reorganización",
+   "resumen": "OECE advirtió problemas en compras públicas por más de S/5.520 millones antes de su reorganización La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSmN0UWhMUVNPZ1lZSnhFcXUzc2FCYTlSMU5DcGw5TWUyWmk0X3pXbjRHcDZZMFBCZVEybXA5emRSeldJeW1XaVlkdnRlaEk2MmtVWVUzaGVOYXNITzFrUHFxWkZyNktkVC1oV0pJVWc4MXhNSFI5R3VaRnVYbnBBeElHQlhHUm02bl9EMGVpLWUwcGZuM0xWVURpQjViNHJtNU5aVUd4TTFrdHJHTGNzOEgxUnF1bHk0V2lsTnlySl9FRHNNSFkyLWJmSzZ3U2JLMWF0NG55cnZEZkVkYmxQU3dDYmxlUms40gHuAUFVX3lxTE5FZG5JSmt6Si1ieDQwWEVydmtFRGRmTnI2NlRWbk5PX0QyVmw1b0U5VnVQQjRjOXYxandQVDV4MUpaQjJtU1BKazRpR3pMRGtia25XZThIS2ljalhoX2U5S2FvRHlpYjdFSWF6RTA3eUxNRXhjb0xFeTRHdC1qVnBOdWJubEVDYW1zcG04a2E2Y2FqaUxSQ1NHXzlJeTdqaTUyVHZfd29NVktWNnJ2WWh1R1RnZjFhd2FndE16cE4tSEZKSlFUYlhLVzNBMkZFWnRHbTVKRVlfOGw5YkJqZ3RCT2Q0SFJwdG9QNUdZcUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Renovación Popular presenta recurso de reconsideración para que se reconozca a López Aliaga como alcalde",
+   "resumen": "Renovación Popular presenta recurso de reconsideración para que se reconozca a López Aliaga como alcalde La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbGRYNDE0LUhPZ1ZlV1dUZHpPN2NSOEw0NjhHTmN2ZE5kekxiQldLdk9hczlOVVR1SWpaVjBQbW1UZ0R1b3EtVjZIY2dGcGttekhxVVNMQjhmRHJPUWlkTy1aUkUyeEhrM3ZUYzRyb2c5Z0hnQm0xRUN3TXZleGZFdXlDZzV5UUdkbnlyaDEwRFI3RTlCMk45UkZlTTRrMjFYVVo0bUpjSEtmVTZmOUNMaDh0eUozNUZNV0lIeGtPemZqeFhNQWRhd2Myc1A5MnFxVHowYlh0ekxIcHRicTZVWEJBRnpFV0w0QmZRS2o1RUkyNE4zTWdScG5NTnjSAYICQVVfeXFMTmttdllwMkhoc1duYXVJem5WTUdsN09LRGNtd2c5bEJnM0lZTzYxaHdoOEZ4RWpZRVd2RGhoc2hzOGt1anowcU5tVndyR1N4VTJmNV83Z3Q4Um9PNThzX3dhV1cyU1E2bDJpcVR1YnpTZ2xxWjY4Y3FvcWN2djNyOUpySXB4a3IzNEpSb09SZWRlamVwWkdoS2FnQ1FhUGI0a0xPZ0RXOHUtaGhkdFg2enBiT1FRam8yMzhaQldDWVdBc0RYWjk3XzRDQ2lEOGRtMTJEcW5vcVVaU1dTXzMweGRQT3kzM3g5eFdjSFJKeWJmRllaSFZfS0ZOUV9ZOThwZzl3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
+   "resumen": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNDZ6dldzWFJ3NFlYbGlRNWJaeU5mWDhJc3RzY0VOMlhhc09EUVdxM1FZLTN6MGJicjhjMGZsYmtIdXJZd2tKVVBmS3FvV1JDYzY5Tmw5eGprb3RRY0RnZTRFOEFPX29SSV9Ub191dDRrUkdLbXZ2ZzVseUhtWkZfa0lWeVZ0NWMwTFdlOEo3QzNRUWZ2QVA0MUtxU2I5bVVpcEVYVnFnUjhGaFBJV3JFa25JUUlFQzA3clRZYUZsNmFNMU5jeDRIc0xfdkVVSDU4WFlnX1ZJSjRlREFBY1HSAeMBQVVfeXFMTWpTZWluLVM5Wk94ajVRVS1UV2psVzkzek9zc3BqR3AxVDR6SzllTk5FdHJhSElJUzBaSG1jbEI4MHFncGxUR1JSLU4xbldzbV94UGZ3QjRaSnhpRGFSRG1mVW1paVh6ajBHLTlkbFdBNVRMZ3UyaERPOFBYel8zdWNiSFBuSkhyek1LWTB6WTVneEcyeW8teTJqR1ZLbGhBcFZxRDlLbkVWUnN0YkdRZmR4VXA0VzJnRGZJX0NDNjNxeXpmLTJGdG5QckNmTE9DUjVGOGNTd2J3Z09Xc3BIOHRWNU0?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "López Aliaga señala al JNE de impulsar un veto contra Renovación Popular y califica el proceso de “dictadura electoral”",
+   "resumen": "López Aliaga señala al JNE de impulsar un veto contra Renovación Popular y califica el proceso de “dictadura electoral” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOE9Wb29ZbkxlMmJDZEFCeUUycmdpZHlCeGY5dVJWT3RPTUZzLXFYQ0RZdE40MWc4SkZNdVMydk95WGg2cXJ3Z01iS084R1JSd2xtWHhYT0dDOXlHd2lSNzl4elFlOFVuZlpHT1FNd185bGVqQXU1cFRBb0pScmxJMWh5S3dPWmtPMDVGdDJwQzJxM29nNXdtdEgwMk1Vb2lNN2dKc3o0THphQUZTaXdOQVNBVTMwOENod3p6TmdPaUw1Z3R0dF84eGtmWWFqVHRFVndnOTlxeFlVYlVOS3JwUlVMS3R2d3FEOVZpSnRFZFZjS3hmZ0lmejVrZkJxUDZuQnZQd2l4SWM4NVhsbXfSAZMCQVVfeXFMTVBid19FdzNxaTd3Nlh0VlM0WFJYenVQZU9iVDFTdG1GeDI0NXp4UFFQdlgyMTBNVDZYdWdxWWdtMVloYnFhX3VyRjRXeDBLbU40SUtqd3hLem9TMG5MNHJzcjRTdGpzNENDT0huQ3A2NDlFVEpmbnVDTGZrMXE2V3RicHM5MWY4OXZ6OVBwanBEWXdjSzBDNzVVWktmNm9XSllOSUlQUDFBYmlXaGJJN0w3X1FkSlF0NTdJbEJ1MU1QejlkRkFjVHczNGZYNXRJUnRKWG05dUYxbm1PRzBUX0NaZC1CT0kwTGhuaDNwYkxFREVTczh2R3BjWVE1eUlrWXhkU2xuU2RaMFdQRzRPYUFmelE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Pensiones universitarias: proyecto plantea fijar pensiones y tasas administrativas en universidades privadas durante la carrera",
+   "resumen": "Pensiones universitarias: proyecto plantea fijar pensiones y tasas administrativas en universidades privadas durante la carrera La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa3FUaVp0Wjg5NmhPTkdJaktQOHJvMlVtc0RHYVRBN080aUtZOTRBSlFZMXZTMTl5aEU3a1FJaUNvN1FVRWFNZmZlaVZUY2NqSjEyMlliUW1qVnF0d202Mmt2UE5FNmxObllqNk5GSS1hY2NRSG05NFVla3VkUEtQSzFyRXZsZGo4VHZURktfend2QlFva0lDaURjVllLTXU1TnNtVzVIMUdqbXJGeUhRZzFET1E0bXk1M1otOXdnRTl1MkE0OFNBUWtaMVhWMEtpOEZhUjJPQ3V6ZTFpZFVSZmNNWjE4bERKMWVjWTNlbzNjNDTSAfgBQVVfeXFMTjB1dmFUQm8zMDFubUFSRjlzRXQxZVRHSWUxcmVWT1Y5am41ZDBtR3N4MTk3RWlqbnBzeXRXWjBYc0VQM2ZXN3R2MGdRMkp6dngwQlk5ejIzeEkyVllnbkNRVHdYMlFacVRhMjYxQUpmUWlzWjZHanFwUmJKWkt1cnI3MmFkZ2hia2hBUXNZQVpoYi15bG1YMi1BWEtQZy1tdUo2Q1NOaUJQdm1vQldMOXFhdmpRR1pKdW1aLUo3NHdJeURSV2NJRGRPNmRlaF9Jell1NFBiZ2VsaDNtNVp2aVgwNE9SNjRzZDBFNXVNSjV1VVRUT2I4Zmk?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cecilio Soria: \"Le dije al papa las cosas como son, sin esconder la realidad de nuestras pueblos\"",
+   "resumen": "Cecilio Soria: \"Le dije al papa las cosas como son, sin esconder la realidad de nuestras pueblos\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlg3RXhXa21ySlRzVE9xZmhlUFhJektzYVlaTHJ5V2NzWkVYSEJJLWxEWTVmcmRyT2VSV3hRU1E5Y3lGZGd3WjBWWk96ZnEzN0pYa2J1bjdOUl9XUkpQYk04N0JWdDdxZzY1d1dFMURTdExDWnpsNy0yWFB4eDdQVXFqX0p5WHkzalpVMzRlZlowWTh1MHR5Slg4VWppWXRzZTJCYWxhYWk4X2xVMkJCOWhuaVlmeVVVdW04ZDZHakMtaC1HSmdLOHVUQzJjVVNqYk92alFsYVppaXJQTUhKR2Q1SGpjcWx3cHZ1QUJYb9IB9AFBVV95cUxQWUFoQWVpMWJzN3lNWU9fcHlNX2piUGdaZEQxOTFKQ0N0RjVpRTk0Wmh6OUhwdHlHbUVvbGVITnljajZUVzlmYWhBSGJFZ1NGNFlTam9fRjRCZEJiSXV6OGc4SkxXNmdMUHhQMXhjT0t6WDNXSG5Ua3JrWUp3N093SlNxN2oyUUVPNU5rbGRWd2dOcG81WjlwdG9tSktJVURPMW1UbkpSaUJCa0xxclQ5RzEtLUQtRHo1c25aMFhoZU5rXzZaeWpaU3V3MXIwa18yaDlTeVFtaVZoVk9seG9kWTZlcVJDSUNIUGRBOGJ4UmFCbE85?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Gobierno reactiva proyecto que dará continuidad al Gasoducto Sur Peruano paralizado desde 2017",
+   "resumen": "Gobierno reactiva proyecto que dará continuidad al Gasoducto Sur Peruano paralizado desde 2017 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNE1JNjZjX0lfUDRKTkhqRkM2M1VFLWluZlQ0UkJrcHpOS3RaQVFvcmFBM0NRbDlyQzVlUWsxeWhQVlhEQTlMZXdMRjRuU0ZTSVIyYmxWN2M0TXA2LUlVSG03d1VpTE13UGoxd0FWdzIwT3I3Vjh2Y3hudFYzQUgwQ0lTaHMtbGhIeXdUSFBuRm5Cd25NRXV4VFNWWnYxMHpoZFZoVUFwcXJqcC1vdDN6dDZKYzNZQ01oUzhZbUdyZDlLZFpnelBNcXVIVnFlVWlGUHZnNjhfZGs2UmRwTXVMT1JOUUdYSHh5bG02aEdBVm16Z0xJ0gH6AUFVX3lxTFBZNnIyaUxpSFh1N2VWakk2S1M1U01WQkhDaV9Ha3ZER1VLU0ZZWEhTWU5MUUF2VjdSSlBnYU9mckxBbkhvUzFXdlA0WWdIS0l6bjcxUl9GZlBqVGdCenAzd2ljcDFrMWtyYVk1c1p6UEduYm5KdVZydTY5TlRzZExVek1zUnduTFhWWW1qWncwTXV6eHR3Y18xSXhQbXJFUW1VQkdhT3AzTHd4R01NMUhVNmJkaF9yWTNnaWd4TjZjaW91R1BDbXdnRHJiOHMwQUFxVVZtSW54bGdUTllQM0Z6VTh2Q3d3QVd4aEVxZmlCaGw3ODB5V3BTY1E?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "León XIV en Perú: un llamado contra la violencia, la corrupción y la impunidad",
+   "resumen": "León XIV en Perú: un llamado contra la violencia, la corrupción y la impunidad La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXFSaGY1SGwwSzhBb1ZCczBsOVNOZU5EQVltS3lKbU53TUN3enB3Qk5SMndyWmgyRFdNS3JzOFlMUWdQR2NYdWZqMUoyYjYyUnk3N0N5UHlmUUZVNHppTkJzMWtvRjZMd002LTlJeW9HcGs5cjVEdVNPakhTRTl0NWNpclR3U0Fna3puNmFZeXRlTG5vMTFoMkRhMUZqMkZHaHc4RzFIYmVkZmJGY1lyYXF1RVducEdzeWhXMDRiaHVkQklsOUkxYUpnRHPSAdIBQVVfeXFMUFVfUTZPdkE4TzJPcF9fcUtwRHNQMGNxS1diajRGWUlmbjRJcF9fTDB6UExMRU53aWpqTjB4c25JREFzbk9Hd3BqQUJvNFhSazk5V1o1N01sR2hncFB4SEhqdGJTT0Uzd1M2UTl3dVVJOG4tMllsbXpKV3IxQVNBNHlSeDBFMHFjcnBQSFpZaGRTLXBPdmlHWGhFVzVPQ0M2X0FEU2dvVW1PRmZkZkhULTAtYktLRTNVODJMYnQtNHlPR0ZKazZ6ZDhNeGZLU2hVUzFB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Diputado de Chile, José Montalva: “Es razonable que Perú investigue a Fernando Cerimedo”",
+   "resumen": "Diputado de Chile, José Montalva: “Es razonable que Perú investigue a Fernando Cerimedo” La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdk93TUgyUDZhQlJ3aE41X2REMGlSNjhsUlpxanRJZk9UdGc0anZjT2VINF9BVUpGRzRvY3Z0UmF4dUFfbTNzMk85MXFKVUFndEJQa2xoVmcwd0ZMSVpBQ3dSTWJuOUhFMV9WSWJPZXA3ZFRzNXdDMGNwdW9LS2F4em9BeFpQZVpXR2ZfXy1UZ0wyUmUzVWxoa2xVMWVsSnYtWm5OLXhBaEk4VEpDbDNiYmU5TjluZ1UtUmZyYWRwRWc1RHRVS1c2SjdEcV9mU2VUUm8tdVVfb1ZDMGZ6Y1Mtb09VX3hmUmpBRkk40gHwAUFVX3lxTE9NNDlEU3VUOWVrbXpzUzYzOFN3T1dEUG9TWTM3bFdURG12UEpKQnUya19RX2hVVk9mZVBmWjVocXFYNGpuaG5jM3pjazZZX214MU1UUTZiT01Ud0QyWXJsZUsxR0dqc1F2bW1iQmFHRVUtd1UtOGtQd19kQ20tLTk5QlZlSGpYdHg3RUNkcHNSYUJ4bWY5c0J1cWR0MUctbjVzWFZCcjQwQW5QS28tdzBha013Y0VVWVFsdWI5NXZOeDRYdmtsT05obWFiUUZtOFB0RVNtZXd4S0FXNXlma2NkRmZCd0JvaUpSckh3YmtnNg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Economía peruana creció 2,43% en septiembre, pero caída de minería y agro frenó el avance",
+   "resumen": "Economía peruana creció 2,43% en septiembre, pero caída de minería y agro frenó el avance La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM1dYZUFtZVgxb0djd2hZREhSMEFxVGNhbmU3TTZQVmY5V2NjamZqNDdCZmRIRVJXODZKZzdyUl9hcUZENlNYUkc4cEVtX1B3Smk3Q0NZT2w1Y3FJY1M2ZlNsWDkwLTBLeHJrSnBJWEs4NUNRYnJUUVZhWVNpalBrWDFaMjFHbWpKcmFkV0NpN3FqaHZ0eG0yQmUxTWZqOGViX01OY2V4NklPcjJXMV9SdHBLaG5ZcWFVZngxRHZ0c01BVFNBd0ZuUEY0X1phSG4wR1HSAdcBQVVfeXFMTkFoMGRrRW9udzR5dHdETXVWX3oydHIzMk5nR0Z4RkQ5S2QwMmo3TkpzTkNIOHg0X0dWV1ZERlZwanBoWkg0Q3NnWHlSVjJhQVd1QVRxQWxpTDdyVkVYZXZ2TVQxOE9KVlpoMm5oYnowTmhYbDVreTNEVUJPcV8tc2dCb0tMTWhYUG1yY3VWaXBnTkItZUZrdGt5Tk5SU0VtcDZkQkVIVGluZzhSQ1J2aHpDTjNhRWRIY2VNOVFDaFY5YW9JRWZ3STJYSTNKeldreGtZTUJ0WXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Lourdes Alcorta niega consenso para que Jeannette Alonzo asuma: \"Han votado por Rafael\"",
+   "resumen": "Lourdes Alcorta niega consenso para que Jeannette Alonzo asuma: \"Han votado por Rafael\" La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc0J2SER3QTBDYmlJeEFIVUpvWlJESzFOZENqNDhGTTgtQ2c5c0dyTDhRWW1IRkVTUVRhM2FKcHZzRGJubHM5M2JtNEZSaFQ1aUxOb25MLWFJdFpvZTAtajFXYWUySVJvdnVrUVJpRWo3b1BITG1CbWRIRV9nZWVvdng2bjU3Y2ZGWXE0OFRoenl1a1RmRE5TUEJBb1BwUWhrZUlJeEZIZHdWdGdCNHIzQjBsUERacmhGUkVJaGVnS2xpLVUwVjVkQnIxMkNXb2piMTRZMUJQZ9IB3AFBVV95cUxPOXdSNkp0SlFlNGlpT0xOUDVGVG1BNV9WOUxVcTdhRlFUOVYtNy1NaUsyN3NqdVB2SVdwWWR5S1U0VDRKOVJmQWJzVFI3SHhoV0JQdDFGZ2pKWVlsNW8wbkpNY0xlZ21rd04zQWZySHdJeEp4bGppVHdjSG9TMnZwNUFxYkdmNzJoZ0xFaVNyc2RGT0ktUmlZSlNBY1VvMEZLdVlhbXFNblFHR2FXYnVNR2w0ckNlNGJubGZoQlVYdFE1QWNjVU5ndF9IZWYxYTNUcGcyNTVpaU54VTBu?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Casas prefabricados de madera para familias afectadas por El Niño",
+   "resumen": "Casas prefabricados de madera para familias afectadas por El Niño La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd2N1b0FsZHZlWTBzck9CRDg3WWNXUGxaRUtmRHlJTE5YZ2ZKU2I3cWwxS0xWLTR1bDNPYUNYWHd0bTZqVUpseVBrWDRFX3hTSV91UnZ1TnpxeVBTbkZ4QzBpbXBWTjhDdDdSTThhdlB4WmtRLVY0ckppdERZMWtJOWR0bWNJbGxiVEhWeVBqZHdoUmk2bmRXbzJqTEJFNjNZdHljSl9URTA1WEtLbGhuT21QWmlvWUdxWHRUN2RYRDdtU3d4ODRqcnVWNmR6bV9WamtjU1lLdEdCSjZCOEZ2VUlWeEEtcDJ1V2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Los practicantes reciben gratificación? Esto dice la ley en 2026",
+   "resumen": "¿Los practicantes reciben gratificación? Esto dice la ley en 2026 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFlSQTJSb2dpNERydEF5MHNGaWxXNFdKYUpueGNrSXpVOTVZZ0s1WDlpMXEyWF9xQ1N2OWpfd0ZYR0VXZDVfNk1VdVN3eTJVZ0ZkeklWZTJtUktmYm9Cb1RKaTFpTXZ1ZUw4YzFCOUhaZ05wRkFhSVk4WkFtM1Y1RlY0Q0hDTVVJUmpNSkxKdjZWSW5UcGx6c09DRi1kSi0zNmhjcjNPb29fTlJESDlNaVRSR1Izd1ZVYWIxM2Nrb0VVdXhYbG8xQ2RRQTNVWG1rZXpfLS1feHhfLXdYUGVmOThHMHQ2NDE2?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Lima es un horno: por altas temperaturas, ciudadanos acuden a las playas de la Costa Verde",
+   "resumen": "Familias y jóvenes aprovechan el intenso calor para disfrutar del mar en la Costa Verde pese a tratarse de un día laborable. De acuerdo con el Senamhi, la capital registra picos inusuales para noviembre de entre 30 °C y 33 °C —con una sensación térmica que alcanza los 35 °C— debido a las anomalías e",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/videos/peru/chorrillos-por-altas-temperaturas-ciudadanos-acuden-a-las-playas-de-la-costa-verde-noticia-1718222"
+    }
+   ]
+  },
+  {
+   "titulo": "Exhiben en Lima documentos históricos que acreditan la nacionalización peruana del papa León XIV: conoce cómo visitarlo gratis",
+   "resumen": "La Superintendencia Nacional de Migraciones presenta una muestra gratuita en la sede del Ministerio del Interior donde se expone el documento manuscrito de 2015 en el que Robert Francis Prevost solicitó su ciudadanía peruana. La exhibición, que también rinde homenaje a otros diez personajes emblemát",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/videos/peru/papa-leon-xiv-exhiben-en-lima-el-expediente-de-nacionalizacion-peruana-noticia-1718221"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Chile hoy 17 de noviembre: Epicentro del sismo según CSN",
+   "resumen": "¿Cuál fue el último Temblor en Chile hoy 17 de noviembre y registrado por el servicio Sismológico Nacional de Chile (CSN)? Consulta los últimos sismos: magnitud y epicentro del movimiento sísmico.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-16-de-noviembre-epicentro-del-sismo-segun-csn-live-3717"
+    }
+   ]
+  },
+  {
+   "titulo": "Renovación Popular presenta denuncia constitucional contra Roberto Burneo por resolución que impide a López Aliaga asumir la Alcaldía",
+   "resumen": "12 diputados de la bancada de Renovación Popular solicitaron la destitución e inhabilitación por 10 años del presidente del Jurado Nacional de Elecciones, así como autorizar la apertura de un proceso penal por los presuntos delitos de usurpación de funciones y abuso de autoridad.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/politica/congreso/renovacion-popular-presenta-denuncia-constitucional-contra-roberto-burneo-por-resolucion-que-impide-a-lopez-aliaga-asumir-la-alcaldia-noticia-1718218"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy martes 17 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-martes-17-de-noviembre-2026-noticia-1718124"
+    }
+   ]
+  },
+  {
+   "titulo": "La espera terminó: GTA VI llega al mercado este 19 de noviembre y esto es todo lo que debes saber del videojuego",
+   "resumen": "Tras dos sonados retrasos que preocuparon a los fanáticos, finalmente este 19 de noviembre se estrena la nueva entrega de la popular saga Grand Theft Auto.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/tecnologia/videojuegos/gta-vi-llega-al-mercado-este-19-de-noviembre-y-esto-es-todo-lo-que-debes-saber-del-videojuego-noticia-1718219"
+    }
+   ]
+  },
+  {
+   "titulo": "Argentina: dólar blue hoy a cuánto cotiza este martes 17 de noviembre",
+   "resumen": "La cotización del dólar blue, hoy martes 17 de noviembre en el país de Argentina es de $1585 compra y $1605 la venta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-martes-17-de-noviembre-noticia-1718132"
+    }
+   ]
+  },
+  {
+   "titulo": "Chiclayo: informalidad y “ciudad precaria” | Carlos Cabanillas",
+   "resumen": "Chiclayo: informalidad y “ciudad precaria” | Carlos Cabanillas Perú 21",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1JCeG1TN1dQaFRNQU9lQkxiWVdHdDcyS0hjT2gyMC1CdmNXVmxhWEZPb3Q5ZU9RdHVCdkYyVVIxVGdvLS1jRUF3R1ludFR2WU9Hc0ZqdmlsbmFNMFVRMFluWVFQTjk0ZURMS1Fhdl9KS2szQjlzOEk4MXZjTWMtc2M0aDE4YTdORkYzRdIBkgFBVV95cUxPY1lYSXppeGxURXhtbXFOaW1IbzVDQ0JkN2V0ZUVHQ0szNnVSUkFjN291THJ1MllaZkxNTjhZanBMZmZZdkFtd3MydWdMcThXX1lBdTZfckFOWjN3dzI1eWZ3Ymg2c3JiOFQ2QjVoV3FRRTFscDBrRWR1NXBKaEpldGdjeGJyNXN1bmlVeFdWRk5iZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Enrique Valderrama El presupuesto 2027",
+   "resumen": "Enrique Valderrama El presupuesto 2027 Perú 21",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN1hmX2VmbWZpRUxzR2Yyb0thbVpwdUIyVGZNWVllRElWUE1fMEdVTmxkNGtTUWMxTHdoSHdsUjBiaTZudjc5VUZUeFZZNnF4X0pZN2lvMHJhaWIyWDZ1RERyVXZudGNqSnlNRDRPekZPdVE?oc=5"
+    }
+   ]
+  }
+ ]
+}
