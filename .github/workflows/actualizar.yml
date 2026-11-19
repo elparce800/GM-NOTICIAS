@@ -2,11 +2,11 @@ name: Actualizar noticias
 
 on:
   schedule:
-    # GitHub a veces se salta ejecuciones programadas, así que hay tres intentos
-    # (6:17, 8:17 y 11:17 a. m. hora de Lima). Si la edición del día ya existe, no se repite.
-    - cron: "17 11 * * *"
-    - cron: "17 13 * * *"
-    - cron: "17 16 * * *"
+    # GitHub retrasa o se salta a veces las ejecuciones programadas, así que se
+    # intenta cada hora de 5:17 a. m. a 6:17 p. m. (hora de Lima). Cada intento solo
+    # descarga noticias si la edición del día no existe, y solo publica el sitio si
+    # la web todavía no muestra la edición de hoy.
+    - cron: "17 10-23 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -34,12 +34,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Ver si la edición de hoy ya existe
+      - name: Ver si la edición de hoy ya existe y ya está en la web
         id: hoy
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "site/data/archivo/$(TZ=America/Lima date +%F).json" ]; then
+          HOY=$(TZ=America/Lima date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "site/data/archivo/$HOY.json" ]; then
             echo "hecha=true" >> "$GITHUB_OUTPUT"
-            echo "La edición de hoy ya está publicada; nada que hacer."
+            echo "La edición de hoy ya existe en el repositorio."
+            WEB=$(curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/noticias.json?v=$(date +%s)" | python3 -c "import json,sys; print(json.load(sys.stdin)['actualizado'][:10])" || true)
+            if [ "$WEB" = "$HOY" ]; then
+              echo "publicada=true" >> "$GITHUB_OUTPUT"
+              echo "La web ya muestra la edición de hoy; nada que hacer."
+            fi
           fi
 
       - run: pip install -r requirements.txt
@@ -61,11 +67,11 @@ jobs:
           git push
 
       - uses: actions/configure-pages@v5
-        if: steps.hoy.outputs.hecha != 'true'
+        if: steps.hoy.outputs.publicada != 'true'
       - uses: actions/upload-pages-artifact@v3
-        if: steps.hoy.outputs.hecha != 'true'
+        if: steps.hoy.outputs.publicada != 'true'
         with:
           path: site
       - id: deploy
-        if: steps.hoy.outputs.hecha != 'true'
+        if: steps.hoy.outputs.publicada != 'true'
         uses: actions/deploy-pages@v4
