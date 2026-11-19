@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-19T14:29-05:00",
+ "actualizado": "2026-11-19T14:55-05:00",
  "modo": "titulares",
- "total_titulares": 317,
+ "total_titulares": 313,
  "medios": [
   "Andina",
   "BBC Mundo",
@@ -65,30 +65,18 @@
    ]
   },
   {
-   "titulo": "Horacio Melgarejo se despidió de Cienciano con mensaje en redes sociales: “Volveré al fútbol peruano”",
-   "resumen": "El entrenador argentino cerró su etapa en Cienciano y destacó la temporada que hizo al frente del equipo en la Copa Sudamericana y la Liga 1.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-peruano/horacio-melgarejo-se-despidio-de-cienciano-con-mensaje-en-redes-sociales-volvere-al-futbol-peruano-liga-1-noticia/"
-    },
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/descentralizado/horacio-melgarejo-anuncio-su-salida-de-cienciano-liga-1-noticia-1718619"
-    }
-   ]
-  },
-  {
    "titulo": "Keiko Fujimori y Claudia Sheinbaum sostuvieron una \"breve reunión\" para restablecer relaciones entre Perú y México",
    "resumen": "La presidenta de México, Claudia Sheinbaum, confirmó que sostuvo un breve encuentro con Keiko Fujimori en Shenzhen, China, durante la cumbre de… The post Keiko Fujimori y Claudia Sheinbaum sostuvieron una \"breve reunión\" para restablecer relaciones entre Perú y México appeared first on Caretas .",
    "seccion": "Perú",
-   "importancia": 4,
+   "importancia": 5,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlFqV2FxZkt2M3RfdXZHMHZXajd2Y0N3ckNhUEtVYWpsOW9lNVRIcXRVS1BlcjFieTRQWlc1YzBNSXVyVlVXazh3UlRMVDI4aVZuVF9CS0tMUklYTG5wWmxqRFhoRGREMUN6bGxmUFppdmR4MzFSTW1vN3BkU2VVNXp5RzFqZ2pRYWZkQXJIbGVDMVhqRFBfUnhDOUpvVDRyZ1dJeVRNOG41aTlzaGRaN1lSdHpMRUlmVExCcmlsQW5zYzNJNkpkMlJaVjdZV2Q4TGQyckpUTHJiM1BQcVJvbEx5QXlLT3dpRE91N2Fzcw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlFqV2FxZkt2M3RfdXZHMHZXajd2Y0N3ckNhUEtVYWpsOW9lNVRIcXRVS1BlcjFieTRQWlc1YzBNSXVyVlVXazh3UlRMVDI4aVZuVF9CS0tMUklYTG5wWmxqRFhoRGREMUN6bGxmUFppdmR4MzFSTW1vN3BkU2VVNXp5RzFqZ2pRYWZkQXJIbGVDMVhqRFBfUnhDOUpvVDRyZ1dJeVRNOG41aTlzaGRaN1lSdHpMRUlmVExCcmlsQW5zYzNJNkpkMlJaVjdZV2Q4TGQyckpUTHJiM1BQcVJvbEx5QXlLT3dpRE91N2Fzc9IB9AFBVV95cUxQb3dPelp4TTBRNFlMRjJTZ3JFR1gxRFBqbWh0X1dIRGhQQWpNYktybFUtUEFMRXpsMFlINEN2aXBRV3VkaVpzMUxBNWkxMzZBLWZNa2g3c0x2QVQyaGJ6eVk3MmNOVTZ3SE1iaTNLU055d3NKdjhyQmVxT0pacVIzc1dHMzZyRUw0SkF3NDdPNTIwdUt5SmJsQUw1cHozeS11SHRfM0lmblp3Y1NpN0FRTDdwZzk3MXQzYmU1YTVIeXBFQm1FNnM3dUIzSy1ONUVVM0RGZTlFaHplODBWTVV3cUUyZlVTQS0wWFBueXB4VnVETnpH?oc=5"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/"
     },
     {
      "medio": "Caretas",
@@ -97,34 +85,50 @@
    ]
   },
   {
-   "titulo": "Marina advierte sobre oleajes anómalos: pide evitar ingresar al mar hasta el 22 de noviembre",
-   "resumen": "La Marina de Guerra del Perú recomendó a la población evitar ingresar al mar desde la tarde del jueves 19 hasta el domingo 22 de noviembre, debido a la presencia de oleajes anómalos de fuerte intensidad que afectarán principalmente las costas del norte y centro del país, incluidas las playas de Lima",
+   "titulo": "Colombia: miles se vuelcan a las calles para rechazar las políticas del presidente Abelardo de la Espriella",
+   "resumen": "Miles de colombianos marcharon en Bogotá y otras ciudades contra las políticas del presidente Abelardo de la Espriella y su proyecto de Ley de Rescate Económico, en el primer paro nacional de su Gobierno, mientras el mandatario advirtió que responderá con contundencia ante posibles bloqueos y actos ",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/peru/marina-advierte-fuerte-oleaje-hasta-el-domingo-22-y-pide-no-ingresar-al-mar-noticia/"
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/paro-en-colombia-miles-se-vuelcan-a-las-calles-para-rechazar-las-politicas-del-presidente-abelardo-de-la-espriella-noticia/"
     },
     {
-     "medio": "Gestión",
-     "url": "https://gestion.pe/peru/marina-advierte-sobre-oleajes-anomalos-y-pide-evitar-ingresar-al-mar-hasta-el-22-de-noviembre-noticia/"
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/colombia/colombia-ciudadanos-protestan-para-rechazar-las-politicas-del-presidente-noticia-1718612"
     }
    ]
   },
   {
-   "titulo": "ODPE Huancayo verifica locales de votación para la segunda elección regional 2026",
-   "resumen": "La Oficina Descentralizada de Procesos Electorales (ODPE) Huancayo inició la verificación de los 97 locales de votación previstos para la Segunda Elección Regional (SER) 2026 en la provincia de Huancayo, en la región Junín, una de las 15 regiones que participarán en esta segunda vuelta electoral, pr",
+   "titulo": "Fenómeno El Niño: Tumbes adelanta el cierre de clases al 20 de noviembre",
+   "resumen": "El cierre de clases en Tumbes se adelantó al viernes 20 de noviembre como medida de prevención ante la posible intensificación de… The post Fenómeno El Niño: Tumbes adelanta el cierre de clases al 20 de noviembre appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/clases-escolares-en-tumbes-terminaran-este-20-de-noviembre-por-el-fenomeno-el-nino-habra-recuperacion-noticia-1718614"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/nacional/fenomeno-el-nino-tumbes-adelanta-cierre-clases-20-noviembre/"
+    }
+   ]
+  },
+  {
+   "titulo": "Avenida Faucett tendrá cierre nocturno desde el 23 de noviembre por obras del Metro",
+   "resumen": "La avenida Elmer Faucett, en el Callao, tendrá restricciones al tránsito vehicular durante las noches desde el lunes 23 de noviembre, debido a los trabajos de desmontaje y extracción de la tuneladora Micaela, utilizada para la excavación del ramal de la Línea 4 del Metro de Lima y Callao.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "Correo",
-     "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-21-locales-de-votacion-en-islay-estan-aptos-para-la-segunda-eleccion-regional-2026-noticia/"
+     "url": "https://diariocorreo.pe/edicion/lima/callao-avenida-faucett-tendra-cierre-nocturno-por-obras-del-metro-de-lima-noticia/"
     },
     {
-     "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-odpe-huancayo-verifica-locales-votacion-para-segunda-eleccion-regional-2026-1100681.aspx"
+     "medio": "Gestión",
+     "url": "https://gestion.pe/peru/avenida-faucett-tendra-cierre-nocturno-desde-el-23-de-noviembre-por-obras-del-metro-noticia/"
     }
    ]
   },
@@ -141,6 +145,126 @@
     {
      "medio": "DW Español",
      "url": "https://www.dw.com/es/casi-uno-de-cada-cuatro-niños-y-niñas-vive-actualmente-en-zonas-de-conflicto/a-79991651?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "El código japonés de Kozo Tashima: la ética como bandera para conquistar la FIFA y destronar a Infantino | Perfil",
+   "resumen": "Inspirado por el fútbol desde los Juegos Olímpicos de Tokio 1964 y formado como entrenador en Alemania, Kozo Tashima quiere llegar a la presidencia de la FIFA para recuperar los valores del fútbol mundial.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/elecciones-fifa-hoy-el-codigo-japones-de-kozo-tashima-la-etica-como-bandera-para-conquistar-la-fifa-y-destronar-a-infantino-perfil-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "“Discreto y eficaz”: ¿Quién es Philippe Diallo, el dirigente francés que desafía el poder de Gianni Infantino en la FIFA?",
+   "resumen": "Es el presidente de la Federación Francesa de Fútbol y emerge como la inesperada carta de la UEFA para desafiar a Gianni Infantino por el control del fútbol mundial. ¿Quién es el hombre que busca llegar a la cima de la FIFA?",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/elecciones-fifa-hoy-discreto-y-eficaz-quien-es-philippe-diallo-el-dirigente-frances-que-desafia-el-poder-de-gianni-infantino-en-la-fifa-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Fenómeno El Niño: hay 334 obras de acceso a agua potable paralizadas en el Perú",
+   "resumen": "Las obras asignadas para ampliar este servicio fundamental acumulan altos niveles de retraso. Actualmente, 334 proyectos de acceso a agua potable, cuyo costo actualizado asciende a S/5.987 millones, están paralizados o afrontan serias demoras en los tres niveles de gobierno, según la Contraloría.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/ecdata/fenomeno-el-nino-sedapal-hay-334-obras-de-acceso-a-agua-potable-paralizadas-en-el-pais-que-zonas-concentran-la-mayor-parte-de-proyectos-inconclusos-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Visita del papa León XIV: ventas online de artículos religiosos crecieron 118%, ¿qué productos fueron los más vendidos?",
+   "resumen": "La visita del papa León XIV al Perú no solo movilizó a miles de personas en las calles. También despertó un fuerte interés por los objetos vinculados a la fe y la tradición católica, que se reflejó en las compras online.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/peru/visita-del-papa-leon-xiv-las-ventas-online-de-articulos-religiosos-crecieron-118-l-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Xi, Trump y Putin “van a organizar el futuro del mundo”: lo que revela la histórica cumbre en China",
+   "resumen": "Los líderes de China, Estados Unidos y Rusia acordaron impulsar una reforma de la ONU, reforzar la seguridad energética y abrir un diálogo sobre los riesgos nucleares. Sin embargo, los analistas advierten que la histórica reunión también proyecta una imagen de las grandes potencias dispuestas a defi",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/asia/xi-jinping-donald-trump-y-putin-acuerdos-y-claves-de-la-cumbre-trilateral-en-shenzhen-china-estados-unidos-rusia-ucrania-apuesplan-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuánto dura “Avengers: Doomsday”? Revelan el tiempo que tendrá la esperada película de Marvel",
+   "resumen": "Con un metraje oficial de 149 minutos, la nueva entrega dirigida por los hermanos Russo iguala exactamente la duración de “Avengers: Infinity War” para desarrollar el regreso de Robert Downey Jr. como Victor von Doom y el cruce de los equipos de Marvel.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuanto/avengers-doomsday-duracion-confirmada-marvel-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Papa León XIV volverá al Perú: ¿qué dice el Vaticano sobre una nueva visita o su regreso definitivo?",
+   "resumen": "",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/papa-leon-xiv-volvera-al-peru-que-dice-el-vaticano-sobre-una-nueva-visita-o-su-regreso-definitivo-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Colombia: revisa dónde se localizaron los últimos sismos de este 19 de noviembre",
+   "resumen": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-ultimo-sismos-19-y-20-de-noviembre-2026-reporte-de-magnitud-epicentro-y-hora-segun-sgc-servicio-geologico-colombiano-choco-co-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en México: últimos sismos registrados durante la jornada de este jueves 19 de noviembre",
+   "resumen": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-ultimo-sismo-19-y-20-de-noviembre-2026-registrado-por-el-ssn-cual-fue-la-magnitud-epicentro-y-hora-servicio-sismologico-nacional-cdmx-mx-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en Venezuela: movimientos telúricos registrados este jueves 19 de noviembre",
+   "resumen": "Temblor en Venezuela HOY EN VIVO: último sismo de noviembre, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-via-funvisis-y-ultimos-sismos-del-19-al-20-de-noviembre-de-2026-proteccion-civil-la-guaira-caracas-lbposting-noticia/"
     }
    ]
   },
@@ -261,162 +385,6 @@
     {
      "medio": "El Comercio",
      "url": "https://elcomercio.pe/mundo/oriente-medio/arabia-saudita-confirma-que-ataque-de-los-huties-dano-el-rascacielos-mas-alto-de-riad-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "¿Das vueltas en la cama por el calor? Estos trucos pueden ayudarte a dormir toda la noche",
-   "resumen": "Las altas temperaturas pueden dificultar el descanso y provocar constantes interrupciones durante la madrugada. Sin embargo, algunos cambios en la alimentación, la actividad física y los hábitos antes de acostarse pueden ayudarte a conciliar el sueño y mejorar tu descanso durante las noches de veran",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/que/das-vueltas-en-la-cama-por-el-calor-estos-trucos-pueden-ayudarte-a-dormir-toda-la-noche-tdpe-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Mamdani ordena cambios en los alimentos de los programas municipales de NYC, incluyendo las escuelas públicas: qué comidas se garantizarán y por qué",
-   "resumen": "Conoce qué contempla la orden de Mamdani sobre alimentación en Nueva York y cómo podría impactar a las escuelas y otros servicios públicos.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/local-us/zohran-mamdani-ordena-cambios-en-los-alimentos-de-los-programas-municipales-de-nyc-incluyendo-las-escuelas-publicas-que-comidas-se-garantizaran-y-por-que-nueva-york-estados-unidos-nnda-nnlt-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Quién es la cantante que recibirá US$70.000 tras ser arrestada por ‘conducir ebria’ en Tennessee, pese a estar sobria",
-   "resumen": "Stefanie Fair, exintegrante de Wild Orchid, recibirá US$70.000 tras llegar a un acuerdo por su arresto injustificado por conducir bajo los efectos del alcohol en Tennessee.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/local-us/cantante-recibira-us70000-tras-ser-arrestada-por-conducir-ebria-en-tennessee-pese-a-estar-sobria-nnda-nnrt-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Visita del papa León XIV: las ventas online de artículos religiosos crecieron 118%",
-   "resumen": "La visita del papa León XIV al Perú no solo movilizó a miles de personas en las calles. También despertó un fuerte interés por los objetos vinculados a la fe y la tradición católica, que se reflejó en las compras online.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/visita-del-papa-leon-xiv-las-ventas-online-de-articulos-religiosos-crecieron-118-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Final explicado de “La ley de las bestias” de Netflix: cuál fue el destino del asesino y qué pasó en el juicio",
-   "resumen": "Te contamos cómo termina \"La ley de las bestias\", la serie polaca de Netflix: qué decide el tribunal, qué pasa con Anna y Agnieszka, y qué hay de real detrás.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/fama/que-ver/la-ley-de-las-bestias-final-explicado-de-la-serie-de-netflix-the-law-of-beast-nnda-nnlt-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Erick García sobre abastecimiento de combustibles: “Si Osinergmin actúa de manera preventiva, no debería haber una afectación al bolsillo del peruano”",
-   "resumen": "El exdirector general de Hidrocarburos del Minem explica qué riesgos enfrenta el país, qué medidas deberá implementar Osinergmin y por qué la prevención será clave para proteger a los consumidores.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/erick-garcia-sobre-abastecimiento-de-combustibles-si-osinergmin-actua-de-manera-preventiva-no-deberia-haber-una-afectacion-al-bolsillo-del-peruano-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "BCR pone en circulación moneda de plata conmemorativa del Bicentenario del Glorioso Colegio Nacional de San Carlos de Puno",
-   "resumen": "El Banco Central de Reserva (BCR) puso en circulación desde este 19 de noviembre de 2026, una moneda de plata conmemorativa del bicentenario del Glorioso Colegio Nacional de San Carlos de Puno.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/bcr-pone-en-circulacion-moneda-de-plata-conmemorativa-del-bicentenario-del-glorioso-colegio-nacional-de-san-carlos-de-puno-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Anthropic debuta en bolsa con cifras récord pese a las dudas sobre la IA",
-   "resumen": "Anthropic debutará este jueves en el Nasdaq de Nueva York con la mayor salida a bolsa de la historia, superando la de SpaceX, pese a las dudas sobre los riesgos y la rentabilidad de la inteligencia artificial.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/mercados/anthropic-debuta-en-bolsa-con-cifras-record-pese-a-las-dudas-sobre-la-ia-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Grand Theft Auto VI alcanza US$1.650 millones en ingresos antes de su lanzamiento",
-   "resumen": "El videojuego ‘Grand Theft Auto’ ha generado unos US$1.650 millones estimados en ingresos un día antes de su lanzamiento el jueves, según la empresa de análisis de datos SensorTower.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/mundo/grand-theft-auto-vi-alcanza-us1650-millones-en-ingresos-antes-de-su-lanzamiento-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Wall Street abre en verde y el Nasdaq crece 1,5% pendiente de la salida a bolsa de Anthropic",
-   "resumen": "Wall Street abrió en verde este jueves y el índice tecnológico Nasdaq crecía un 1,58% mientras los inversores esperan la salida a bolsa de Anthropic.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/mercados/wall-street-abre-en-verde-y-el-nasdaq-crece-15-pendiente-de-la-salida-a-bolsa-de-anthropic-l-mercados-l-wall-street-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "El dólar abre a la baja en S/3,43, pero caída del cobre limita recuperación del sol",
-   "resumen": "El precio del dólar inició la jornada de este jueves en S/3,430 en el mercado cambiario peruano, por debajo de los S/3,433 del cierre anterior, con un retroceso de 0,09%.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s343-pero-caida-del-cobre-limita-recuperacion-del-sol-l-ultimas-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "La cerveza parece inofensiva, pero esto puede provocar en tus neuronas y funciones cerebrales: mira AQUÍ sus graves consecuencias",
-   "resumen": "Aunque suele consumirse en reuniones sociales y celebraciones, la ingesta excesiva de cerveza puede tener consecuencias importantes para la salud. La OMS advierte que el alcohol no solo altera la comunicación entre las neuronas, sino que también puede afectar la memoria, el aprendizaje y otras funci",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/que/la-cerveza-parece-inofensiva-pero-esto-puede-provocar-en-tus-neuronas-y-funciones-cerebrales-tdpe-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Ebelin Ortiz presenta “Victoria a través de mí”, una obra sobre identidad y lucha contra el racismo",
-   "resumen": "La puesta en escena rinde homenaje a Victoria Santa Cruz mediante música, poesía y experiencias personales.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/luces/teatro/ebelin-ortiz-presenta-victoria-a-traves-de-mi-una-obra-sobre-identidad-y-lucha-contra-el-racismo-ultimas-noticia/"
     }
    ]
   },
@@ -625,18 +593,6 @@
    ]
   },
   {
-   "titulo": "Palmicultores cuestionan designación de Ricardo Villavicencio como director de Hidrocarburos del MEM",
-   "resumen": "Palmicultores cuestionan designación de Ricardo Villavicencio como director de Hidrocarburos del MEM La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNUhwT0pLVlZiM21oZ0kwMmY1TklhdktHVFdGYWlSRDlVODRmMHF4MDlRVzVqeUYyc0FMbGE2X2RJWkpYZlZ6aTcxaDdOazhjZ0Fla2llQ2tZVGkyeHRhb2xWS2p5S19uQ2luVmZ4dXQ2OGtJamFOd0hSN1Z3eWgySm50UkdWZGZ1SE12MVJtd3dGRW9WMTY1UWdlLUxfcldKQ2FWTEl3ZE45NHo4YS16dUo5UF96ZzRUck5yaE9GOC1zZUR1N3J2dDdTYXBqejV4ZVVTbFNtZkhnbm1ud3hJVVVyN01ic09fTnNOcdIB8gFBVV95cUxNemxvbHRVUnVBMUp0RzhzNVY5TmduQ3M3aFo4UFNGd3dVQmU2bFB2d2xfS1lfbXVtbkM4am40RzVBSExadk5UUHA0NkZQLWdTcENqQkpYZ1hYTnQzRWpJcW5ycnBqWVJhY3EwLVRPUzhBb3hqUHZOMlBLc043MTRjVnFtdEpnTEo1Nk96T0psMWNXTnliSEJnUkFHUjhEb3E4VEFVR2duT0s2a0lGVmFqMWE2TVdMeUNaaml1N1EwN194NThxMEg0cGd5cUVBOWlnWk1oVDFnMExJOHd1Vm94WlhPS2F1QlZWYlptd1lveHg4UQ?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "JNE define segunda vuelta en Piura: Guillermo la Torre avanza y Santiago Paz queda fuera del proceso electoral",
    "resumen": "JNE define segunda vuelta en Piura: Guillermo la Torre avanza y Santiago Paz queda fuera del proceso electoral La República",
    "seccion": "Perú",
@@ -697,6 +653,54 @@
    ]
   },
   {
+   "titulo": "El Comando Paramilitar Rodrigo Franco sí existió, concluye el Poder Judicial",
+   "resumen": "El Comando Paramilitar Rodrigo Franco sí existió, concluye el Poder Judicial La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUtnTV9KRm40dGF6TDZqR3FRc1ZuYjQybkRfOHRfa2Y0eGMtenVDOVdiUUlyeWFOR21QU1BHbFR4Z1RzVlZZZ3BCV1VzVVBjVGlSdmRXSlpJdnNrUU1CaWZ5b3AzWFdSYU1sdXQ4c19aZ3V0R3EyT25oVzJiTmVVUmx3Wlgwa2dKU01yQlFkVnR1YzFRaDZkRkxITTdzbllaS2w0S3I0dGFGVW82TERaWUYtU1BWa1BhUFY0R0lodmJ3UWNYZEdhTVNKVG9Jck4tTWxJ0gHYAUFVX3lxTE9OTUI0WnFTV2syTkJHQ1lxVUtVZGY2bTc3Qll2cmJoajN3TVdHOU9vY0ZhTnZTZDdxMlVCUG8tWVBKYWxDdF9iQzNjR3ItTVhCbzBhczBaVGswQm1XMkNXRjF2a2pENS15NGY4X08zXzljbVlsZTlfVEg3dTBxZE5UT1YzNF9nZVlpc0xuRFBGSTd3TnFsNW1kZURveWhOcHZBaDFvUEo5Q2VvRkRpSGRUMnJhdGtpVmFadlNwbkNwazZnb3EyQVlqQmUtOS05S0ozV1hhSDZEdw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Grand Theft Auto VI presentó las 34 canciones que pondrán ritmo y acción al soundtrack del videojuego",
+   "resumen": "Además de las plataformas de streaming, la colección musical tendrá ediciones físicas en CD y vinilo.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/musica/internacional/gta-vi-canciones-de-dua-lipa-travis-scott-lana-del-rey-y-mas-artistas-forman-parte-del-videojuego-noticia-1718609"
+    }
+   ]
+  },
+  {
+   "titulo": "\"Volveré al fútbol peruano que tanto quiero y agradezco\": Horacio Melgarejo anunció su salida de Cienciano",
+   "resumen": "Horacio Melgarejo anunció su salida de Cienciano luego de una temporada.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/descentralizado/horacio-melgarejo-anuncio-su-salida-de-cienciano-liga-1-noticia-1718619"
+    }
+   ]
+  },
+  {
+   "titulo": "Chorrillos: vecinos alertan riesgo sanitario por acumulación de basura en las calles",
+   "resumen": "Residentes de avenidas principales como Guardia Civil, El Sol y Defensores del Morro denuncian que los camiones recolectores no pasan desde hace varios días, lo que genera olores fétidos y el temor de un foco infeccioso.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/videos/peru/chorrillos-vecinos-alertan-riesgo-sanitario-por-acumulacion-de-basura-en-las-calles-noticia-1718623"
+    }
+   ]
+  },
+  {
    "titulo": "Familiares de peruanos desaparecidos en Rusia exigen respuestas tras viaje de canciller Espá al país: \"Exigimos verdad y transparencia\"",
    "resumen": "Los familiares denuncian que, pese al viaje del canciller Carlos Espá a Rusia a inicios de noviembre, aún no reciben información sobre sus seres queridos, quienes fueron captados con falsas ofertas de trabajo y terminaron en la zona de guerra con Ucrania.",
    "seccion": "Perú",
@@ -705,6 +709,18 @@
     {
      "medio": "RPP",
      "url": "https://rpp.pe/peru/actualidad/familiares-de-peruanos-desaparecidos-en-rusia-exigen-respuestas-tras-viaje-de-canciller-espa-al-pais-exigimos-verdad-y-transparencia-noticia-1718620"
+    }
+   ]
+  },
+  {
+   "titulo": "IPD impulsa la inclusión de Taekwondo Poomsae en los Juegos Panamericanos Lima 2027",
+   "resumen": "El organismo respalda la solicitud de la Federación Peruana de Taekwondo, cuya aprobación estará a cargo de Panam Sports.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/multideportes/mas-deportes/ipd-impulsa-la-inclusion-de-taekwondo-poomsae-en-los-juegos-panamericanos-lima-2027-noticia-1718604"
     }
    ]
   },
@@ -765,18 +781,6 @@
     {
      "medio": "RPP",
      "url": "https://rpp.pe/voley/mas-voley/clarivett-yllescas-llegara-al-mundial-de-clubes-esto-dijo-tras-volver-a-jugar-con-alianza-lima-noticia-1718605"
-    }
-   ]
-  },
-  {
-   "titulo": "JNE confirma criterio contra reelección encubierta de alcaldes y desestima recurso de Renovación Popular Perú",
-   "resumen": "El partido solicitó que se dejara sin efecto el criterio que impide a los alcaldes en funciones asumir nuevamente el cargo a través de una candidatura a primer regidor. Como alternativa, pidió que esta prohibición se aplicara recién en las próximas elecciones municipales.",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/politica/elecciones/jne-confirma-criterio-contra-reeleccion-encubierta-de-alcaldes-y-desestima-recurso-de-renovacion-popular-peru-noticia-1718613"
     }
    ]
   }
