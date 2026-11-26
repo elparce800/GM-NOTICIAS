@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-25T14:58-05:00",
+ "actualizado": "2026-11-26T14:42-05:00",
  "modo": "titulares",
- "total_titulares": 319,
+ "total_titulares": 316,
  "medios": [
   "Andina",
   "BBC Mundo",
@@ -15,792 +15,779 @@
   "Infobae América",
   "Infobae Perú",
   "La República",
-  "Ojo Público",
   "Perú21",
   "RPP"
  ],
  "noticias": [
   {
-   "titulo": "¿Quién es Jeanette Alonzo Contreras, la nueva alcaldesa de Lima?",
-   "resumen": "El Jurado Electoral Especial (JEE) Lima Centro proclamó a Jeanette Evangelina Alonzo Contreras como alcaldesa de Lima para el periodo 2027-2030. Conoce el perfil de la nueva autoridad edil que estará al frente de la Municipalidad Metropolitana de Lima.",
+   "titulo": "Dos italianos mueren en Kuwait en un ataque con drones atribuido a Irán",
+   "resumen": "Dos técnicos italianos murieron en un ataque con drones contra instalaciones militares en Kuwait, atribuido a Irán por los gobiernos de Italia y Kuwait. El episodio se produce en medio de una nueva escalada de las hostilidades en Oriente Medio, que también afecta a Arabia Saudita y Yemen.",
    "seccion": "Perú",
    "importancia": 5,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/politica/perfil-quien-es-jeanette-alonzo-la-proxima-alcaldesa-de-lima-para-el-periodo-2027-2030-rafael-lopez-aliaga-renovacion-popular-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/mundo/oriente-medio/dos-italianos-mueren-en-kuwait-en-un-ataque-con-drones-atribuido-a-iran-ultimas-noticia/"
+    },
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-26/mueren-dos-tecnicos-italianos-en-kuwait-por-los-restos-de-drones-iranies-derribados.html"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/dos-italianos-mueren-en-ataque-iraní-con-drones-en-kuwait/a-80067924?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar en Perú: cierre del tipo de cambio del jueves 26 de noviembre",
+   "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, jueves 26 de noviembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-dolar-del-tipo-de-cambio-del-jueves-26-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
     },
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/politica/elecciones/quien-es-jeanette-alonzo-la-nueva-alcaldesa-de-lima-por-renovacion-popular-noticia-1719761"
+     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-26-de-noviembre-del-2026-noticia-1719896"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-26-de-noviembre-dolares-a-soles-compra-y-venta-bcrp-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Andrés Hurtado: anulan acusación fiscal contra ‘Chibolín’ y Elizabeth Peralta, ¿podrían salir de prisión?",
+   "resumen": "La anulación de la acusación fiscal contra Andrés Hurtado, ‘Chibolín’, y la suspendida fiscal superior Elizabeth Peralta abrió un nuevo escenario en… The post Caso Andrés Hurtado: anulan acusación fiscal contra ‘Chibolín’ y Elizabeth Peralta, ¿podrían salir de prisión? appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFZyem9VajJXRlprWXRuTHY2Y2pHSDgxYUt2SzRfNFR6Q214amE4ZHFCM2lHR3ZCaERlTktrV1RpbnlmQl9jbDlzX0RNZHZIUkYzYWQ1TGNNV2l1QXRIc3FhOV9YUUdZNkk2WFFJV2pQajlmZ0diRWR0dU4wTHpJWEYzdEhIZDF3dkJyZDZlUGdoYzgtYWhCY3YxbFBmdXNvd2ZpZnpvS2sxcnJnbFMwOUM4SUdNSmNWbnBhTE53VFdsYlk4SjRiejI2QnFoYzRva0wyZlRjSmVJXzJJZ2fSAeMBQVVfeXFMTUZUU2ZUQ3RPeGxIRmxNNUxNRGllMm8yTjBxWmVTdE9SMF9ZWWx5SDdTWERVMXJtNUZaRkZWd1pKSkJqQXVBc25vbzN1UmtfOWZUejFTVF9kWXZnY3RPcHpVZ0pvRVA1Mk01b1EzSWJwX2NkVUxPU2JHYjlqdmxzamlZb3kydmVPQ1p6ck1hc0lQSHNMSWhwQV9KM1dteHlLOTFXbElJQnVzUzNYMFE2Umh5Rm9zZ2ZvbWRkamFSTDR0aHA3TzJXYU1HbDB3TVo4dEFzSnN1dVBHRGxyRmRadk1sLVE?oc=5"
     },
     {
      "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmwzOTVlbWtGN090TXhZNnVOTTA0R0NqMmZwQUE0YjJQQWtISHRxU2NYMFJKUjI0RlNQNG5uR05MbmhJbjZSR1I5M0NrUmpQc2JoQnBPMTRWZHM2OGZ1R21kbG1taVBOMzM0Um9CQ0czbi1wR0wtRTdsTng1Y2hqQV9ocVhZTXRwX3Q5UnJydXRBZmkwbWdyVTVob2VfdWptQ0Fwdw?oc=5"
-    },
-    {
-     "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-quien-es-jeanette-alonzo-contreras-nueva-alcaldesa-lima-1101375.aspx"
-    }
-   ]
-  },
-  {
-   "titulo": "VIDEO: Goles del partido, Barcelona vs. Sabah FC (4-1) por la UEFA Champions League",
-   "resumen": "Pese al susto inicial de los locales, Barcelona liquidó el partido con tres goles en apenas nueve minutos durante el complemento y sumó 12 puntos en la clasificación general de la Champions League.",
-   "seccion": "Perú",
-   "importancia": 5,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/espn-en-vivo-gratis-ver-barcelona-vs-sabah-fc-en-directo-online-por-champions-league-noticia/"
-    },
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/champions-league/barcelona-vs-sabah-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-liga-champions-league-via-espn-partidos-de-hoy-noticia-1719337"
-    },
-    {
-     "medio": "Gestión",
-     "url": "https://gestion.pe/mix/sports/senal-espn-en-vivo-transmision-partido-fc-barcelona-vs-sabah-gratis-por-champions-league-2026-video-nnda-nnrt-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Precio del dólar hoy en Perú: ¿a cuánto cotiza este miércoles 25 de noviembre?",
-   "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, miércoles 25 de noviembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-   "seccion": "Perú",
-   "importancia": 5,
-   "enlaces": [
-    {
-     "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-2026-en-peru-a-cuanto-esta-el-tipo-de-cambio-del-miercoles-25-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
-    },
-    {
-     "medio": "RPP",
-     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-25-de-noviembre-del-2026-noticia-1719650"
-    },
-    {
-     "medio": "Gestión",
-     "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-25-de-noviembre-dolares-a-soles-compra-y-venta-bcrp-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "JEE proclama a Jeanette Alonzo como alcaldesa de Lima y a López Aliaga como primer regidor",
-   "resumen": "El Jurado Electoral Especial (JEE) de Lima Centro proclamó a Jeanette Evangelina Alonzo Contreras como alcaldesa de Lima para el periodo 2027-2030 y a Rafael Bernardo López Aliaga Cazorla como primer regidor, tras aplicar el criterio establecido por el Jurado Nacional de Elecciones (JNE) sobre las d",
-   "seccion": "Perú",
-   "importancia": 5,
-   "enlaces": [
-    {
-     "medio": "Gestión",
-     "url": "https://gestion.pe/peru/jee-proclama-a-jeanette-alonzo-como-alcaldesa-de-lima-y-a-lopez-aliaga-como-primer-regidor-noticia/"
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGlOcHhoWXFoQkhJbHMyZXlxQVRCd0ZlcHZzSTJ5aEdKMVZNNjNrYUlkc01uM1ZnWFlkQzB1YWkzajdUV2RUTTlWVmxXNGdCMFVCWmZVUUFrT3htV2JNdUUwM2R6YTVfOHRxODYtcmJkYkhEMXFub0liT3NWWUtWSTBfSnhkMUE4aEFFdkVXZnp4ci1FV2RiUA?oc=5"
     },
     {
      "medio": "Caretas",
-     "url": "https://caretas.pe/politica/jee-oficializa-a-jeanette-alonzo-como-alcaldesa-de-lima-2027-2030-rafael-lopez-aliaga-sera-primer-regidor/"
-    },
-    {
-     "medio": "Infobae Perú",
-     "url": "https://www.infobae.com/peru/2026/11/25/este-es-el-fallo-del-jee-que-frena-a-rafael-lopez-aliaga-y-proclama-a-jeanette-alonzo-como-alcaldesa-de-lima/"
+     "url": "https://caretas.pe/sociedad/caso-andres-hurtado-anulan-acusacion-fiscal-contra-chibolin-y-elizabeth-peralta-podrian-salir-de-prision/"
     }
    ]
   },
   {
-   "titulo": "Temblor en Chile hoy 25 de noviembre: Epicentro del sismo según CSN",
-   "resumen": "¿Cuál fue el último Temblor en Chile hoy 25 de noviembre y registrado por el servicio Sismológico Nacional de Chile (CSN)? Consulta los últimos sismos: magnitud y epicentro del movimiento sísmico.",
-   "seccion": "Perú",
+   "titulo": "Gérard Depardieu irá a juicio en Francia por presunta violación y agresión sexual contra Charlotte Arnould",
+   "resumen": "La Cámara de Instrucción del Tribunal de Apelaciones de París confirmó este jueves que el actor Gérard Depardieu deberá afrontar un juicio penal por la presunta violación de la actriz Charlotte Arnould, ocurrida en agosto de 2018 en el domicilio del intérprete en París. La decisión rechaza el recurs",
+   "seccion": "Mundo",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-ultimos-sismos-de-noviembre-en-vivo-donde-fue-el-epicentro-y-magnitud-segun-reporte-del-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/"
+     "url": "https://elcomercio.pe/tvmas/famosos/gerard-depardieu-justicia-francesa-confirma-juicio-contra-el-actor-por-presunta-violacion-ultimas-noticia/"
     },
     {
-     "medio": "RPP",
-     "url": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-25-de-noviembre-epicentro-del-sismo-segun-csn-live-3729"
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/francia/20261126-la-justicia-francesa-confirma-que-g%C3%A9rard-depardieu-ir%C3%A1-a-juicio-por-presunta-violaci%C3%B3n-a-una-actriz"
     }
    ]
   },
   {
-   "titulo": "Final Copa Libertadores: Hinchas de Palmeiras despiden al equipo antes del viaje a Uruguay",
-   "resumen": "Decenas de seguidores entusiastas de Palmeiras despidieron este miércoles por todo lo alto a los jugadores antes de su viaje a Uruguay para disputar la final de la Copa Libertadores frente al argentino Estudiantes de La Plata",
+   "titulo": "CADE 2026: Keiko Fujimori se pronuncia sobre la formalización minera y pide aprobar la ley MAPE",
+   "resumen": "CADE 2026: Keiko Fujimori se pronuncia sobre la formalización minera y pide aprobar la ley MAPE La República",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "RPP",
-     "url": "https://rpp.pe/futbol/copa-libertadores/palmeiras-palmeiras-fue-despedido-por-cientos-de-hinchas-previo-a-su-viaje-a-uruguay-para-la-final-de-la-libertadores-ante-estudiantes-de-la-plata-noticia-1719777"
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhEUGZWb0RBQ19KeVQyRHB3TFVDb1h5cWhNVTMyS1dvLUo1TVlnd09yYVZlbUE0RlJCeU1ZemZydjNHMTBLc1VyWWR5dDdwdXZoUmI1MEVyajBYdUtvUmFiNG9HUkpPcFJFVE4tSmJtNXJhT09KN2R0ekstWUZiY2Z4U2dIQ3ZPeExyWUIyMHVYeTl6cFBkVjNEZmlpQTBnTS1XaV9GekJsVVlDNkk4SkplRTlHQnN3Ym13UnJ1X0RWcmtiQUtrelpEendwcDBiQ3pDc0ZDWmxuMF9ZNUxEQnpiaDPSAeoBQVVfeXFMTUUyb3psU3k1Mjg0UVdOYnhad2NfZ1k0ZWFVaTN5TC1tTE5EaHFMbF9UMmRJMHpGTldlMzcyMUNkNTBudXhRMUp0TmhFRnBaVkFsbFVZZUxMWnFIZjNYc3JRMEYzVlQwamd3ckNzN3VSODhxeV9fWmZfOGp0WlkzaXp5SzFJTjZmNXZPcnhBMWJFMzZDRTdZcFY4YXU0WTF5OTV0MlQzTXF1SGdKb29UQTBOei16TzB1aHZGU2VkM3BRdzV5cXp1T2I0RWxOdkl6aTB0aHRqRUFxRW5nQ3FfemRVb2M0QU5uWlpR?oc=5"
     },
     {
-     "medio": "Andina",
-     "url": "https://andina.pe/agencia/noticia-final-copa-libertadores-hinchas-palmeiras-despiden-al-equipo-antes-del-viaje-a-uruguay-1101407.aspx"
+     "medio": "Perú21",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFZxNTBKcjJrU0FYMHNaazVTcy1Hc0laNVFUYzB4Q2EtbVpZWVAzYmZlM1prMS1MeHA4Mk9wV0FTakJfdWpCNVlVRUl0d2NITDR0YzA5UlpPVVRzaTBJTGQ5czdNa2dIVlo4R3l1WkJEcVdQQ0ZUWS1TTDZmSy1DRDVCY0g3STAyQlR1Nng1ZzUtNWo3WmUwM3AyWlJjT0YtdlE?oc=5"
     }
    ]
   },
   {
-   "titulo": "SENAMHI: Pronóstico del clima hoy miércoles 25 de noviembre 2026",
+   "titulo": "Áncash: detienen a fiscal acusado de recibir coima de S/50 para favorecer a un padre en caso de pensión alimenticia",
+   "resumen": "Un fiscal adjunto provincial fue detenido preliminarmente en Áncash por presuntamente recibir S/50 a cambio de favorecer a un padre investigado por… The post Áncash: detienen a fiscal acusado de recibir coima de S/50 para favorecer a un padre en caso de pensión alimenticia appeared first on Caretas ",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYkRZNzdwVGxhUzB1SDg3OW51SWhpRnotOXk4Uks4SzFJellvcEEtYkp4WmUxZHA4VzE2RjJoR21UaUpoNTUwWGFqRjV2TVdaZzlvS3RLYTZaRFQ3bV9YU0piVXlNck02aDlfWml4Q244a1dZejlyOUNUWUdVaE1KcVRZWm9CTElQdWNiZThGLW9XRS1xelJFZUQ3RzVRbHB0MFdPMXZCN1I4NGVqY3pDakJpOW9DempUUDBzMU9EZUpwRGVUdDQycjJFUElIRGkyelVRY3dFNFB1ekFhbGw5Mzd1NTBqdFBx0gHuAUFVX3lxTE9VcURVU1g2TndYbWZrT3djNFZwTmlfMEpOSDE3SkpOVWVOMTd4UkNLUWxERXU2VmdyUjdqWlVMRjQ2a2gzenkyZTVJaHBNNjlYTnp0d19vOVQ3Z1M2WnZhZmhGXzM0UTkxOUpoa2NhY2E2eUFIRnVXaGVfZUs5THhPOEpENEZLYXBlZUFIT3BEelJwV09BTDFXN21aaWVPV1EtTUJmSmV3RWcyYXJ2NWRKNGp4YnV1YjBFS0twaXVkaXRDN29GSHNXM1U2LXhBd3VUTXJaekJvRFV1YlROclZIV1NvYzNELV9PR0k0N1E?oc=5"
+    },
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/nacional/ancash-detienen-a-fiscal-acusado-de-recibir-coima-de-50-soles-para-favorecer-a-un-padre-en-caso-de-pension-alimenticia-video/"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy jueves 26 de noviembre 2026",
    "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-miercoles-25-de-noviembre-2026-noticia-1719638"
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-jueves-26-de-noviembre-2026-noticia-1719885"
     },
     {
      "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanNYWUUxWUFZREZqVnhXQWM2TVVKTndDQjBuRW9fMS1Td1NRNEZUUkQ5b19aOXlCZ1JGVEJSRy1oajU0c3JCSW1hdzRBNGZfSm5zS1lLSzk0SG1ZakZXTTZybGJhYVBoQlFUM2VVQm9odFpPY0sxcUZCb2dJVDlaVW1oVVZ4VDJqMEJxUE5IQXQtSl85aVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0J5UFBoMk8xWGJQV2Y5b3U4UkZscGRPcTZVbjdIZXlzZVI1SlRCYVpVbWEzSzBvWDBzUEdkSmdOdFRYRDlrY3hyN3JBTWF5cUlyaWlmeFltN1JPejAwRjltSzh5a3pjSFp5NmNoMlBmWUV1RW92VXVKQVRHTGdNT1VVOTN6NzZUTWpOVm5FMmFnQQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Un jurado en EE.UU. declara culpable a la empresa Huawei por robo de secretos industriales",
-   "resumen": "La pena contra Huawei deberá decidirse en septiembre de 2027, pero la empresa afirmó que emprenderá todas las acciones legales para defender sus derechos.",
-   "seccion": "Mundo",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEptV2tuXzZoenp4dTlkOGtKU1kyUU1kRGxMQXJoRldGUEN5VEMyWUFILUdoak1HN1JXTXlhVzJXemJPdlJ0SUhFVDRkRmhycHBjampRTkZ5QjMyTkNqbEJlZmtad3ZibUktTDBIck9ReFZoZmVDdlQ3RVhUYjVIdTJtM09ibjF0NjZkVjhqX3JQNDY4bGx3blpMOWpMUGJyNFFSdQ?oc=5"
-    },
-    {
-     "medio": "DW Español",
-     "url": "https://www.dw.com/es/un-jurado-en-ee-uu-declara-culpable-a-la-empresa-huawei-por-robo-de-secretos-industriales/a-80042319?maca=spa-rss-sp-all-1122-rdf"
-    }
-   ]
-  },
-  {
-   "titulo": "Miss Universo 2026: ¿Qué lugar ocupó Perú con Luren Márquez?",
-   "resumen": "La representante peruana, Luren Márquez, consiguió ingresar al Top 30 del Miss Universo 2026 durante la gala final del certamen, realizada el… The post Miss Universo 2026: ¿Qué lugar ocupó Perú con Luren Márquez? appeared first on Caretas .",
+   "titulo": "¡Un verdadero horno! Lima alcanzó hoy jueves sensación térmica cercana a 37°C",
+   "resumen": "Lima soporta este jueves un intenso calor, con una sensación térmica cercana a los 37 °C en los distritos alejados del mar, debido a las altas temperaturas y la humedad presente en la capital.",
    "seccion": "Perú",
    "importancia": 4,
    "enlaces": [
     {
-     "medio": "Perú21",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUVwTkJIYThCcVVKVlZ4SG44a3djQklJbWZHVnNVZ2ZWZThfY0JrN05tdWhOZlJzOGREekZINUtXQzhjNmZJTFQ5SmcwR2o5bldxeDgtRmRHV1NUTUZVd0R5ckg1NE9RZjNxQ1RsWFZmQVdJX1ZuS1NzbGlFaXdMbFVSMXFadUpCVXBlWWRiNXA?oc=5"
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/actualidad/lima-es-un-horno-sensacion-termica-en-la-capital-alcanzo-picos-de-37-0c-este-jueves-noticia-1719975"
     },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-un-verdadero-horno-lima-alcanzo-hoy-jueves-sensacion-termica-cercana-a-37%C2%B0c-1101566.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Pescadores en suspensión perfecta por el Fenómeno El Niño: trabajadores que pierdan su cobertura de EsSalud pasarán al SIS",
+   "resumen": "La medida aprobada por el Ministerio de Trabajo también comprende a los familiares derechohabientes de los trabajadores pesqueros. La afiliación al Seguro Integral de Salud se mantendrá hasta que recuperen su cobertura regular en EsSalud.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/economia/economia/pescadores-en-suspension-perfecta-por-el-nino-trabajadores-que-pierdan-su-cobertura-de-essalud-pasaran-al-sis-noticia-1719963"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/26/el-gobierno-peruano-oficializa-acceso-al-sis-para-pescadores-que-pierdan-cobertura-de-essalud-por-el-nino/"
+    }
+   ]
+  },
+  {
+   "titulo": "Al menos 30 muertos y 25 heridos por el incendio de un camión cisterna cerca de El Cairo",
+   "resumen": "MADRID 26 Nov. (EUROPA PRESS) - Al menos 30 personas han muerto y otras 25 han resultado heridas a causa de un… The post Al menos 30 muertos y 25 heridos por el incendio de un camión cisterna cerca de El Cairo appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
     {
      "medio": "Caretas",
-     "url": "https://caretas.pe/ellosellas/miss-universo-2026-que-lugar-ocupo-peru-con-luren-marquez/"
-    }
-   ]
-  },
-  {
-   "titulo": "Lluvias por El Niño: ministro de Defensa pide a pobladores acudir a albergues",
-   "resumen": "El ministro de Defensa, Rafael Belaunde, exhortó a la población que vive en zonas expuestas a inundaciones a trasladarse a los albergues habilitados ante la llegada de lluvias asociadas al fenómeno El Niño.",
-   "seccion": "Perú",
-   "importancia": 4,
-   "enlaces": [
-    {
-     "medio": "Correo",
-     "url": "https://diariocorreo.pe/politica/ministro-de-defensa-pide-a-la-poblacion-acudir-a-los-albergues-previstos-ante-las-lluvias-noticia/"
+     "url": "https://caretas.pe/mundo/egipto-incendio-de-camion-cisterna-deja-al-menos-30-muertos/"
     },
-    {
-     "medio": "Gestión",
-     "url": "https://gestion.pe/peru/lluvias-por-el-nino-ministro-de-defensa-pide-a-pobladores-acudir-a-albergues-noticia/"
-    }
-   ]
-  },
-  {
-   "titulo": "Trump propone nuevos aranceles a 14 socios comerciales y reaviva las tensiones económicas",
-   "resumen": "El presidente de Estados Unidos, Donald Trump, volvió a endurecer su política comercial con una nueva propuesta de aranceles para 14 socios comerciales, entre ellos China, la Unión Europea, Japón, Corea del Sur e India.",
-   "seccion": "Mundo",
-   "importancia": 4,
-   "enlaces": [
     {
      "medio": "El País",
-     "url": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html"
-    },
-    {
-     "medio": "France 24",
-     "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261125-trump-propone-nuevos-aranceles-a-14-socios-comerciales-y-reaviva-las-tensiones-econ%C3%B3micas"
+     "url": "https://elpais.com/internacional/2026-11-25/decenas-de-muertos-por-la-explosion-de-un-camion-cisterna-cerca-de-el-cairo.html"
     }
    ]
   },
   {
-   "titulo": "Lotería Nacional de Panamá EN VIVO: resultados y premios del miércoles 25 de noviembre",
-   "resumen": "Lotería Nacional de Panamá EN VIVO: Conoce los resultados y números ganadores del Sorteo miercolito de la Lotería Nacional de Beneficencia de Panamá y descubre si eres uno de los ganadores.",
+   "titulo": "Elmer Cuba, ministro de Economía: “En el segundo semestre del próximo año podríamos crecer encima del 4%”",
+   "resumen": "El ministro de Economía indicó que a partir de abril del 2027, una vez que el Perú no se vea afectado por el fenómeno de El Niño, habrá espacio para presentar normas de carácter tributario y laboral.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/loteria-nacional-de-panama-en-vivo-sorteo-intermedio-hoy-resultados-del-miercoles-25-de-noviembre-telemetro-chances-premios-lnbpma-pa-lbposting-noticia/"
+     "url": "https://elcomercio.pe/economia/elmer-cuba-ministro-de-economia-en-el-segundo-semestre-del-proximo-ano-podriamos-estar-encima-del-4-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Colombia: policía revela que tres asaltantes retuvieron a 76 personas en supermercado de Cartagena",
-   "resumen": "La policía de Colombia precisó que tres delincuentes mantuvieron retenidas a las víctimas durante casi 24 horas en el almacén Éxito en Cartagena. El operativo terminó con la liberación de todos los rehenes y uno de los supuestos asaltantes abatido",
+   "titulo": "Elmer Cuba estimó que la crisis política le restó 2,5 puntos porcentuales al crecimiento del PBI per cápita",
+   "resumen": "En CADE Ejecutivos 2026, Elmer Cuba estimó que la crisis política le restó 2,5 puntos porcentuales al crecimiento del PBI per cápita del Perú.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/latinoamerica/colombia-policia-revela-que-tres-asaltantes-retuvieron-a-76-personas-en-supermercado-de-cartagena-exito-abelardo-de-la-espriella-noticia/"
+     "url": "https://elcomercio.pe/economia/elmer-cuba-estimo-que-la-crisis-politica-le-resto-25-puntos-porcentuales-al-crecimiento-del-pbi-per-capita-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "VER GRATIS, Bayern-Lille EN VIVO HOY con Luis Díaz: transmisión EN DIRECTO y ONLINE del partido por la Champions League",
-   "resumen": "Bayern Múnich vs Lille EN VIVO y ONLINE: repasa los horarios, canales TV y dónde ver partido por Champions League desde el estadio Pierre-Mauroy.",
+   "titulo": "Lotería Nacional de España EN DIRECTO: comprobar números del jueves 26 de noviembre",
+   "resumen": "Lotería Nacional EN DIRECTO: Comprueba aquí los números ganadores de la Lotería Nacional del jueves 26 de noviembre. También revisa los resultados de Bonoloto, La Primitiva y Joker.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/bayern-vs-lille-en-vivo-hoy-con-luis-diaz-horarios-canales-tv-y-donde-ver-partido-online-streaming-por-champions-league-noticia/"
+     "url": "https://elcomercio.pe/respuestas/espana/loteria-nacional-de-espana-en-directo-resultados-de-hoy-sabado-26-de-noviembre-comprobar-numeros-y-decimos-primer-premio-loterias-y-apuestas-del-estado-joker-primitiva-espana-madrid-es-lbposting-noticia/"
     }
    ]
   },
   {
-   "titulo": "Cita del día, Keanu Reeves, actor: “Si eres un amante, tienes que ser un luchador: porque si no luchas por tu amor, ¿qué clase de amor tenías?”",
-   "resumen": "Keanu Reeves comparte una reflexión sobre el amor, el compromiso y la importancia de luchar por una relación cuando aparecen las dificultades.",
+   "titulo": "Diego Macera, director del IPE: “Podríamos tener cuatro o cinco años consecutivos de inversión privada creciendo a doble dígito”",
+   "resumen": "El director del Instituto Peruano de Economía (IPE) consideró que el dinamismo de la inversión podría extenderse hasta el 2027, pese a los riesgos asociados al fenómeno de El Niño. Además, respalda que el MEF actualice sus proyecciones con mayor frecuencia.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/respuestas/cita-del-dia-keanu-reeves-actor-si-eres-un-amante-tienes-que-ser-un-luchador-porque-si-no-luchas-por-tu-amor-que-clase-de-amor-tenias-nnda-nnni-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/diego-macera-director-del-ipe-podriamos-tener-cuatro-o-cinco-anos-consecutivos-de-inversion-privada-creciendo-a-doble-digito-cade-ejecutivo-2026-cade-ejecutivo-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿En qué canal transmiten Sabah vs. FC Barcelona hoy por la Champions League 2026?",
-   "resumen": "Revisa el canal de TV para ver la transmisión del partido Sabah vs. FC Barcelona EN VIVO GRATIS hoy por la Champions League 2026 desde el Estadio Olímpico de Bakú.",
+   "titulo": "Agap advierte el golpe al sector agrícola ante el fenómeno de El Niño: “Es una situación extrema”",
+   "resumen": "Gabriel Amaro, presidente de Agap, advierte que el sector continuará con cultivos debilitados por el fenómeno de El Niño en el 2027. Criticó, asismimo, las iniciativas que plantean modificar el régimen tributario vigente para el sector agroexportador, y precisó que el gremio aún no ha tenido una reu",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/en-que-canal-transmiten-sabah-vs-fc-barcelona-en-vivo-gratis-hoy-por-la-champions-league-2026-en-mexico-espana-y-eeuu-futbol-tv-online-video-nnda-nnrt-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/agap-advierte-el-golpe-al-sector-agricola-ante-el-fenomeno-de-el-nino-es-una-situacion-extrema-cade-ejecutivos-cade-ejecutivos-2026-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "¿A qué hora empieza y dónde ver el desfile de Macy’s por Thanksgiving 2026 en EE.UU., México, Puerto Rico y República Dominicana?",
-   "resumen": "¿A qué hora empieza el desfile de Macy’s 2026? Revisa los horarios por estados, ciudades de EE. UU., México y América Latina, y dónde verlo en vivo.",
+   "titulo": "Patricia Stuart, rectora de la Universidad de Lima: “Estamos culminando la creación de un agente de IA para la parte administrativa de la universidad”",
+   "resumen": "A la par, la universidad desarrolla mecanismos para regular el uso de la IA en sus procesos administrativos y académicos. Además, retomará los exámenes escritos como parte de su estrategia para reforzar el pensamiento crítico de los estudiantes.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-empieza-y-como-ver-el-desfile-de-macys-por-thanksgiving-2026-en-eeuu-mexico-puerto-rico-y-r-dominicana-horarios-y-canales-de-tv-nnda-nnrt-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/patricia-stuart-rectora-de-la-universidad-de-lima-estamos-culminando-la-creacion-de-un-agente-de-ia-para-la-parte-administrativa-de-la-universidad-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Loto Plus hoy: sigue el sorteo de este miércoles 25 de noviembre de 2026",
-   "resumen": "Loto Plus EN VIVO: mira los resultados y números del sorteo del miércoles 25 de noviembre, que tiene un pozo de $ 22.759.000.000.",
+   "titulo": "Temblor en Chile EN VIVO hoy, 25 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el CSN",
+   "resumen": "Revisa cuál ha sido el último temblor en Chile HOY, 25 de noviembre de 2026, con el reporte del CSN sobre la hora exacta, epicentro y magnitud del sismo registrado.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/respuestas/argentina/loto-plus-en-vivo-sorteo-3938-hoy-controlar-resultados-del-miercoles-25-de-noviembre-de-2026-loteria-de-argentina-tradicional-match-desquite-sale-o-sale-lbposting-ar-noticia/"
+     "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-ultimos-sismos-de-noviembre-en-vivo-donde-fue-el-epicentro-y-magnitud-segun-reporte-del-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/"
     }
    ]
   },
   {
-   "titulo": "Gobierno busca acelerar la Línea 2 del Metro tras primer pago de deuda a la concesionaria",
-   "resumen": "El MTC negocia una adenda que permitiría poner en operación tres estaciones de Ate en el segundo semestre de 2027 y concluir el tramo hasta el óvalo Bolognesi entre finales de 2028 e inicios de 2029.",
+   "titulo": "Temblor en Venezuela: lugar, hora y magnitud reportados hoy, jueves 26 de noviembre",
+   "resumen": "Temblor en Venezuela HOY EN VIVO: último sismo de noviembre, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/gobierno-busca-acelerar-la-linea-2-del-metro-tras-primer-pago-de-deuda-a-la-concesionaria-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-ultimo-sismo-25-y-26-de-noviembre-2026-registrado-por-el-funvisis-cual-fue-la-magnitud-epicentro-y-hora-proteccion-civil-la-guaira-caracas-lbposting-noticia/"
     }
    ]
   },
   {
-   "titulo": "MTC descarta concesionar el tercer grupo de aeropuertos: ¿qué pasará con su modernización?",
-   "resumen": "El ministro Angello Tangherlini señaló que se busca incorporar los cinco terminales a concesiones aeroportuarias ya existentes, una alternativa que permitiría acelerar su modernización.",
+   "titulo": "Crees que estás ahorrando, pero podrías gastar de más: así funciona la psicología del Black Friday",
+   "resumen": "Crees que estás ahorrando, pero podrías gastar de más: así funciona la psicología del Black Friday",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/mtc-descarta-concesionar-el-tercer-grupo-de-aeropuertos-que-pasara-con-su-modernizacion-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/que/crees-que-estas-ahorrando-pero-podrias-gastar-de-mas-asi-funciona-la-psicologia-del-black-friday-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "Fernando Zavala, CEO de Intercorp: “Creemos que el Perú va a entrar en una etapa de crecimiento de 5%”",
-   "resumen": "El CEO de Intercorp indicó en Cade Ejecutivos que esta expectativa se sustenta en una estabilidad económica, el contexto de altos precios internacionales y la permanencia de la presidenta Keiko Fujimori en el gobierno por 5 años.",
+   "titulo": "Se acerca la temporada de descuentos: ¿qué día tendrá los precios más bajos en 2026?",
+   "resumen": "Se acerca la temporada de descuentos: ¿qué día tendrá los precios más bajos en 2026?",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/fernando-zavala-creemos-que-el-peru-va-a-entrar-en-una-etapa-de-crecimiento-de-5-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/que/se-acerca-la-temporada-de-descuentos-que-dia-tendra-los-precios-mas-bajos-en-2026-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "MTC: “En tres meses estará suscrita la adenda para reducir la TUUA de transferencia internacional”",
-   "resumen": "",
+   "titulo": "Jorge Zapata, presidente de Confiep, sobre el sueldo mínimo: “Este segundo tramo debe aplicarse cuando termine el fenómeno de El Niño”",
+   "resumen": "En CADE Ejecutivos 2026, Jorge Zapata habló del potencial de crecimiento del Perú, la reforma del Estado y el próximo aumento del sueldo mínimo.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/mtc-en-tres-meses-estara-suscrita-la-adenda-para-reducir-la-tuua-de-transferencia-internacional-cade-ejecutivos-2026-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/economia/jorge-zapata-presidente-de-confiep-sobre-el-sueldo-minimo-este-segundo-tramo-debe-aplicarse-cuando-termine-el-fenomeno-de-el-nino-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Cade Ejecutivos 2026: Núria Vilanova plantea que las empresas latinoamericanas busquen socios para escalar",
-   "resumen": "En CADE Ejecutivos 2026, Núria Vilanova planteó que las empresas latinoamericanas busquen socios internacionales para ganar escala y abrir nuevos mercados.",
+   "titulo": "Cade Ejecutivos 2026: ¿qué necesita el país para potenciar la inversión privada?",
+   "resumen": "La estabilidad macroeconómica del país, la calidad de yacimientos mineros y el éxito de la agroexportación son aspectos que se destacaron en el conversatorio de inversionistas internacionales en Cade Ejecutivos 2026.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/cade-ejecutivos-2026-nuria-vilanova-plantea-que-las-empresas-latinoamericanas-busquen-socios-para-escalar-cade-ejecutivos-cade-noticia/"
+     "url": "https://elcomercio.pe/economia/cade-ejecutivos-2026-que-necesita-el-pais-para-potenciar-la-inversion-privada-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "¡Goleada culé! Barcelona venció 4-1 a Sabah FC y trepó a los primeros lugares de la Champions League",
-   "resumen": "Con doblete de Gordon, Barcelona no tuvo problemas para superar a Sabah FC en el estadio Olímpico de Bakú y sumó 12 puntos en la clasificación general de la UEFA Champions League.",
+   "titulo": "Agro peruano gana atractivo para inversionistas extranjeros: ¿qué operaciones podrían concretarse en los próximos meses?",
+   "resumen": "Gino Menchola, socio principal de PwC Perú, señaló que el negocio de los arándanos concentra el interés de potenciales compradores y que podrían ponerse en marcha procesos de venta de empresas.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/barcelona-vs-sabah-fc-en-vivo-gratis-hoy-transmision-online-del-partido-por-champions-league-lbposting-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/agro-peruano-gana-atractivo-para-inversionistas-extranjeros-que-operaciones-podrian-concretarse-en-los-proximos-meses-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Canales para ver Boca Juniors vs. Independiente Rivadavia: horarios del partido por octavos de final del Torneo Clausura 2026",
-   "resumen": "Revisa los canales TV que transmiten el partido de Boca Juniors vs. Independiente Rivadavia por los octavos de final del Torneo Clausura 2026 desde La Bombonera.",
+   "titulo": "José Luis Cordano, CEO de Profuturo AFP: La industria previsional ha perdido la mitad de su valor por retiros de pensiones",
+   "resumen": "El CEO de Profuturo AFP, José Luis Cordano, indicó que, debido a los retiros de las AFP, la industria vale cerca de US$50.000 millones, cuando debería valer el doble.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/deporte-total/argentina/donde-ver-partido-boca-vs-independiente-rivadavia-en-vivo-gratis-por-octavos-de-final-torneo-clausura-a-que-hora-juega-boca-hoy-y-en-que-canal-tv-online-transmiten-partido-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/jose-luis-cordano-ceo-de-profuturo-afp-la-industria-previsional-ha-perdido-la-mitad-de-su-valor-por-retiros-de-pensiones-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
     }
    ]
   },
   {
-   "titulo": "Tragedia en Egipto: camión cargado de bombonas de gas explota y deja al menos 30 muertos y 15 heridos en El Cairo",
-   "resumen": "Egipto | El camión perdió el control y chocó contra una barrera de hormigón en una carretera de El Cairo, lo que provocó una explosión y una llamarada que alcanzó a varios vehículos. Las autoridades investigan las causas del siniestro",
+   "titulo": "Integración y formalización para el desarrollo regional",
+   "resumen": "“Aspiramos a que Perumin 38 alcance consensos y delinee planes de acción que nos permitan integrar, formalizar y alcanzar el pleno desarrollo de todas nuestras regiones; y así, obtener el crecimiento pleno y sostenible de nuestro país”, escriben Víctor Gobitz, presidente de Quilla Resources Inc.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/mundo/africa/egipto-camion-cargado-de-bombonas-de-gas-explota-y-deja-al-menos-30-muertos-y-15-heridos-en-el-cairo-video-noticia/"
+     "url": "https://elcomercio.pe/economia/opinion/integracion-y-formalizacion-para-el-desarrollo-regional-por-victor-gobitz-opinion-quilla-resources-noticia/"
     }
    ]
   },
   {
-   "titulo": "La IA puede ayudar a la Sunat a incorporar a más pequeños negocios al sistema tributario",
-   "resumen": "En CADE Ejecutivos 2026, María Julia Sáenz explicó cómo la inteligencia artificial podría ayudar a la Sunat a incorporar pequeños negocios al sistema tributario.",
+   "titulo": "¿Le cerró las puertas al amor? Melissa Loza confiesa qué busca en su próxima pareja",
+   "resumen": "La integrante de ‘Esto es guerra’ habló sobre la etapa de soltería que disfruta junto a sus hijas y reconoció que sus experiencias personales han cambiado su manera de elegir a alguien. Aunque no descarta volver a enamorarse, aseguró que ahora tiene mucho más claro qué espera de una futura relación.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/la-ia-puede-ayudar-a-la-sunat-a-incorporar-a-mas-pequenos-negocios-al-sistema-tributario-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/respuestas/farandula/le-cerro-las-puertas-al-amor-melissa-loza-confiesa-que-busca-en-su-proxima-pareja-tdpe-noticia/"
     }
    ]
   },
   {
-   "titulo": "El Niño elevaría la pobreza en el Perú hasta el 26,5% en el 2027, según Macroconsult en Cade Ejecutivos 2026",
-   "resumen": "Los choques climáticos y económicos presionarían los precios de los alimentos y reducirían los ingresos reales de las familias. Sin embargo, si el país retoma un crecimiento anual de 4%, la pobreza podría descender al 19,5% hacia el 2031.",
+   "titulo": "InDrive generó más de S/2.200 millones para la economía peruana",
+   "resumen": "La movilidad por aplicativo tiene un impacto económico que va más allá del transporte de pasajeros. De acuerdo con el estudio Impacto económico y social de inDrive en Perú, elaborado por Macroconsult, la actividad vinculada a la plataforma generó un valor agregado bruto (VAB) total estimado de S/2.2",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "El Comercio",
-     "url": "https://elcomercio.pe/economia/peru/el-nino-elevaria-la-pobreza-en-el-peru-hasta-el-265-en-el-2027-segun-macroconsult-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/"
+     "url": "https://elcomercio.pe/economia/peru/indrive-genero-mas-de-s2200-millones-para-la-economia-peruana-l-ultimas-noticia/"
     }
    ]
   },
   {
-   "titulo": "Carlincatura del miércoles 25 de noviembre de 2026",
-   "resumen": "Carlincatura del miércoles 25 de noviembre de 2026 La República",
+   "titulo": "Temblor en Colombia EN VIVO hoy, 25 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el SGC",
+   "resumen": "Consulta cuál ha sido el último temblor en Colombia HOY, 25 de noviembre de 2026, con el reporte del Servicio Geológico Colombiano sobre la hora exacta, epicentro y magnitud.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/respuestas/temblor-en-colombia-en-vivo-hoy-25-y-26-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-segun-el-sgc-bogota-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Angelina Jolie y Brad Pitt llegan a un acuerdo para cerrar una polémica demanda",
+   "resumen": "El conflicto por la propiedad francesa salió a la luz en 2022 y expuso las tensiones entre ambos tras su divorcio.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/tvmas/famosos/angelina-jolie-y-brad-pitt-llegan-a-un-acuerdo-para-cerrar-una-polemica-demanda-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Black Friday y Cyber Monday: cómo usar ChatGPT para descubrir descuentos reales y evitar pagar de más en tus compras",
+   "resumen": "Descubre cómo utilizar ChatGPT durante el Black Friday y el Cyber Monday para comparar precios, encontrar cupones, revisar descuentos y evitar falsas ofertas en tus compras.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/data/black-friday-y-cyber-monday-como-usar-chatgpt-para-descubrir-descuentos-reales-y-evitar-pagar-de-mas-en-tus-compras-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Video muestra a trabajador de Gold Fields indicando que Tomás Gálvez autorizó trabajos en terreno de su familia",
+   "resumen": "Video muestra a trabajador de Gold Fields indicando que Tomás Gálvez autorizó trabajos en terreno de su familia La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2huSnRzM0lTck1iSXlHYjh6WFdGT184MElDazBFZnFKQUhGUjh0Ump4NENUWWZtY2RwejVpZGllRG9xbTVLeVFSd0RmZGk0MHpDZzBKcjlOeDFrQUxuVkl4NkY2bVVjMDljamxzcC1CbldiNDY2N2RWb1Jjbnpvazk2ekQzMVFNbUI3aC1URXY1ZXNmbDF0Zjdmdjl6Y2g2RGYxOGlZSzc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbE5aR3REZlBKanRNQVFaN3JJXzFnc3B2RklPS1N2V0lReXZjU1ZsemdINnFxQ0tvTlFqS2doZ2l4eV9NRmNXdDJfeFJfSWU1V3Rqb0tzcVVNTFpMUGNTZEtWRHR3QWtoSGFpSGR1dFg2Ykd0SGNjNnNDbGUzdmVJQlJPaFlCcURWTEV1UkQtMUdrMmxSZTd6WjJfR3hSVWtVMHUtREo5Q0U2UExPVXFfSHlsbzRra1FFSVJKdFR1ZElqM2VCeDZiZ1JfUV9aamdlakxwSmlaVy1EbkREVDJTR2lCZXhBcHdvUVhPTEQzOVBQalNHQUctYU45ekRqMVJhckNoOWF5UDJzOUM2WVU0VWpVOTVHU1dMalRj0gGgAkFVX3lxTE1kSDhzaHhuSjVFTEV2eklrUEMxYThaYUNTaFJuNDBqMEdnYXpaamdRNnF1eFZKQy1wN2w4TzBTUG5NQUQyNHhXVk9YUGs5SllQdFB5XzNUWV8wTHpQQ2psUTNFWmFDd3NFeE9TSDh2NW5EdVF6cGNnS0k1eTBuejhRNXZ2R2U1dWEycVYxRE9FaDIyWDJreGxrQ0gwRzFnNTJ1UW9zRzVTeG1rcDZ4RTJmRHN5c2Q3OW5LajlzdUZ4YV9EMEdHOEdSb0kwMk56Y2tvVC1pRUhXSXU3QlNON0FkT05JSG5nT0J4NkE5dzQtdElTODEwaXRrOVl4b2dpeFNxeHdlbUhGMHFXMG9uRklMNWtPQWZIclBNbmVNSGo1Vw?oc=5"
     }
    ]
   },
   {
-   "titulo": "Elmer Cuba admite que Perú crecerá menos de lo previsto en 2026 por caída de pesca, agricultura y textiles",
-   "resumen": "Elmer Cuba admite que Perú crecerá menos de lo previsto en 2026 por caída de pesca, agricultura y textiles La República",
+   "titulo": "Julio Velarde en CADE 2026 sobre la izquierda: “No asusta” en la región",
+   "resumen": "Julio Velarde en CADE 2026 sobre la izquierda: “No asusta” en la región La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWEswcWpRdHhSVkk5a2tsN0xKdktPMmI1bXY0VVBIcE5RU2UwY0IxUVJiV2JsVFhCWTluUUNneDdRUEFzNlVhaFJzWXpwLWNNaDh4NFV6MFE3YWJBRkNfWDYxckxxTGRxSzhzYUhhZjRhdEItdEZacnI1UVI5SkZnd2NWU3pjWEpoanZ6YS1kaGotVjkwMFVRLUNsblNDS0U0N1p1UXZFV25ZbzVnY2h1RHJrc01SVndFQWdtcWFQUUpLdVhiZ0F0ejhqS2trdGZySUtwMmk0djMwYk83dHhld0tWODdLWmxvRVBRSUZzT0EyQmtu0gH6AUFVX3lxTE45aklLMWg4OG5DOHNUYm5tdWFvbExnSDhlaU5LVW5lRTk3Mjd3Vy1MSTRjSVI5V0gwY2p5RVNyNFdoNXhtMzdxOG41WVo0UUt0SlNwVTJMZXc0aHV0bzlyUFBoUDM4NzVJbW1HX1dWQ0QtMF8wWWhxbkZuR2I4SWxUTnRpRkRqN1RqUzVXOTMzd0t2N2NVS0g4TllDekc3T0lpUU4ycEJBM3NJc3dRbUhwNW9VNGRfOWE2blFvZlNEdm1DbnBCaUQyRzRrQUdjRDdxTzQ3NERUcl9XeENOWmRBbzNhT09ocXdDOHZVOHR1TndFM2tycnEyZ0E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFpkVGplNVJVLVNmZTBMMUVYSHJucHJEUW9EVkhaVVRqQVRETTdnbDJQUWVVbEw5UlNHMnNHR25rQ3hZdG5GY0R1ZkUwV3QxYW9kSnpxbUY5RWRUMXc1UTZMWDJjeDRfenBaWUdXRk5yOFlpRzNtZGowMFdmUkw1cl9lZzloSEN6c3BGMVZVcDN1bkQ0cllFaE9lblpnaEZfc04za0Z4dUVEUVdRNF80RFlfdVhlMTFuN0swQUR6c3UyU1nSAcgBQVVfeXFMTXR2dHBKY2ZIeTVzMDdaMkVkTmpNdFp1ZmlRclBCSkVGcW84cHU3QnhiamFTbXREbm5yZW9nQmIyTEVwMGExdDd1eEwyVlNIUk1SU0RZUUgtbktKYnZVRU9icTF5OHpBRG5lb0dHS0ZGeG5ZOVpVNE9sM2xVUzJIc2RCZk1RWG01dGZnQUlJRnoxTHdRUWphYnpIejhwT0Rab3lGaGZRZG5hSWlLUWhadmhfUUp0aGh6WVVGNjlFdG84OUhCMFp4ZnY?oc=5"
     }
    ]
   },
   {
-   "titulo": "Rolando Arellano en CADE 2026: \"No hemos conseguido que los beneficios del crecimiento lleguen a los peruanos\"",
-   "resumen": "Rolando Arellano en CADE 2026: \"No hemos conseguido que los beneficios del crecimiento lleguen a los peruanos\" La República",
+   "titulo": "Julio Velarde advierte que el Fenómeno El Niño presionará el precio de los alimentos: “Va a ser fuerte”",
+   "resumen": "Julio Velarde advierte que el Fenómeno El Niño presionará el precio de los alimentos: “Va a ser fuerte” La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMzExclozSkI0NXBCVUZ6VEM3Y1ZRY3laZ2VaU0d6czYwZC0zWWlXSXlqajg3Q0k4WTdyQ3FSakpTVDlsYU1tbm9MQy1OX3ZZNFpvRnFmbEZYSmd1WEh1OUNGT181RUFpZU5XaW5qTUpDM2tCcVgzYUxibzE1eTYzSWRoYkh4QllGSDVOdy1ZVTFVZGhFQm1lSkNFanVSbkNqLS1OQ1gzWWh0SzJGWlhFXzBxMlpzUW1DLWFycVVCMmdNbkpIbm5fNlZ0SUtKMXpMZmUyQl8zSUs0SWVuNmxLemk4aE01cnJWYnRrQnZnSFdOaGt5SHfSAfsBQVVfeXFMTmxPbzhHaTVEV0UxdUNTQ0htWHJEV0lOdVFERXVvclVuNVZpMjlUNjJVenNoODZ1WVpjcWJmYjJuaEZrbFRSMGxHdTRCVWZKSTBEQklvS3pQX0NaV085TnhHUmQ2U2JXbHdGWllIZC0tUnFHTnNPUDd1aTRoTXV1TF9LVkgwWFR4c1FJVXRFdE5DYnlqZlJMbVJoYkJRaUY3cDRmVjNid2V5Z1BJeHhjVS12ZkJ3ZlA0UkE3UkJBV3l2UWREZXBWWHdFNVBmQm94X3ZteFN4ZUlWQjEwaVNDbDRiVkNXelBZNG9COVBudGtxUWc3cHo4Zll5aFk?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUo5eHY3UG83OWNJQVB1V1M0azVXTjdoN01GMk1OZG44WWZ4emxOclU0TC0yRVM0RnpIdk16VmNpYlQtbE93elFrc2hONHJoQU9PejRkcnZJTndhR3B6S1hhOHhzMkx1eE5vSHBIelN3c3poYVRYMXhqUnZrUGxRUjhIcnBVWjA1TXVfV2VsSzJhMGxBSTkteEdhZ09rc0lGRUl2YUthekZqOVZMUDZmdnJ30gG3AUFVX3lxTE9wYzdlRlRJUVVKVHFyNEtlenBuX0VlV0FqcFZJdlVwTHJoQmFzMmR4SzhaS183TFpra1VaOHhoTnVOc1dlWkVYclhkVzkyVm5xYUhiVU1DZDdmM1A0QXJhZEd5T1BrRldsdmo5SzZGXy1FNXhtY0wwNUE3cEV4ZWY0cFRmX0tONjlCSlZDaXVDUTBSTURuMlFwRTZHUmpjNVlCQ3ZGa1JKYmN5LWZqcFBhYWpNekZQNA?oc=5"
     }
    ]
   },
   {
-   "titulo": "Óscar Reto en CADE 2026: “Si no hay inversión, no hay trabajo, entonces no se van a poder cerrar las brechas”",
-   "resumen": "Óscar Reto en CADE 2026: “Si no hay inversión, no hay trabajo, entonces no se van a poder cerrar las brechas” La República",
+   "titulo": "Keiko Fujimori participó en firma de adenda con Cálidda para ampliar concesión de gas en siete regiones",
+   "resumen": "Keiko Fujimori participó en firma de adenda con Cálidda para ampliar concesión de gas en siete regiones La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb2luVXRFNjRnSFIzaXVWQ3VSSGlkdmFfeWozN1l1S2xVa0xhYkdNYWVZNTFZT1B6RXZLWjB5bGIycWVoZFFtMGdYdEpnTkdibmNSZWVNdVNLU2Q2Tkw4dzhJdHlzYXdIRkUzRWxKOFA2aWQzeVJPU045cHYzQk4wUjlXUEw1V3BhR3FRRUhDUjFNVWRDcEVOdGFDZ0c2NTBhdFczdU5ST1RFcXNGcE9ybEp4S0k4eDRnUC1VV0dRUVVRMlVWRUQ0YTR6OVpNcFkyQ05nemlRQlV5YUlmLUY1M0pxdFBaNHJybFhn0gHwAUFVX3lxTE1KUU1acjVuTkVNcm45cWlvRWVZZVdUN1J6YnBFdFNORHZXNTM0MFJ6c05GSTJid004NFBFc2cyWFhpeGNKdk01b0tKYjNjZ2s5N29JV3JiLXRDVlRzRFhkelFuNkpvc2w2MzN3cWFHZkdaMEFWRFgzZlFuaWVQNFh5Yk9ULVpPQ3Q4MUdQeWJJUldkSVpQQ2w4Y0dDeUxER2w1bGRQZ1lERFltUnpFcmMwUExscUFZYlJiRGxOV09HYkRFbDJzRGsyMlJmbHdJcV95bGJtbGNwcHZ1eUlHZkFmTW5sRTRHcnljNTBRRzFmQw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZJM1RPdm1iRGlRR3FaZ0xldDk0UFo3ZnNCZ1VrTDZYQ1Q4Tmd0Rk5PLW95R18xWnBNa0xUX1dIVW16bnA3M0cyWmZRaktoU1ljQ0lNbk5wLXVVVk00d1hvMV9nczVxZnhRRV9WTDl3d25OdTZSbV94T0hDS29LZk03VHBZbmpNU0Q5RUw5WmpOZHk4TnZYT1FWNUZsdE9CQjh4NkVWdzZpSjN5SS1NZW9KTU1BRHljM2RQT1hhYU5xR3o4eHRON3Y1WmR6Wm5vUlF3dW9McFNHMnljdDVaZktoaEFrMEl3N21qMkRfUEw3d9IB9wFBVV95cUxNMVczOTlXWFB2dkVfZ1JvekFFaDB1RHVMMjFQSEF6Ymo5NmFrZHliNW5YV0tSaGk2OFFseWNXVFpDN0NTUnloUmh4d25PdldIZG1iWVJOQWxrYmk0WEhSVkhPOUhZSDZ5RU5JeDFIRmpab2h4ek9BRUt3OHdDY0hsbkpEZkFIQ0NVMnZyci16VVY5Y3RiSXVzV0pFazVaaS14UVBoNnBwOG5wWlNtWTRaWnJ4TUhGX290SS04UHFlM1dtc2pzU25kWVFiU3BDLVNlYzdFUV9tOFFMUDUtM1hTQ3VGYXdsaHRoWk9QeUZQSk5lUERROWRR?oc=5"
     }
    ]
   },
   {
-   "titulo": "Reestructuración en el Ministerio de Cultura genera controversia con la exposición fotográfica Yuyanapaq",
-   "resumen": "Reestructuración en el Ministerio de Cultura genera controversia con la exposición fotográfica Yuyanapaq La República",
+   "titulo": "Gobierno firma adenda con Cálidda para llevar gas natural a siete regiones pese a cuestionamientos",
+   "resumen": "Gobierno firma adenda con Cálidda para llevar gas natural a siete regiones pese a cuestionamientos La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVIyTE14V0RuZjhtcVVPYldBbkxLaEZzNDlQN19RLWNDdmJ1YXR4WFFFczRKOVlzZXl6TmJqUzN4SmtzTm11UjZqbEJVdkxyTHlPWHFmbk5uMnNFaFlua29hVkZENU9fdlR4aEROdkMzOUxiN0l0SXVueGxITjlyMlpycFRGbDFtNzFCdlRpQXBZU20xanZZZTFWODFQZmJ0MFY5YkswSHBLdFBOMzBMUEhpQnhma0dRTlBDU09TcDBnLUU4cVU0VWxZX2xTU003bzZtUVZmcXppOHpwVjhtd1dhSVl2YUR1dl9j0gHwAUFVX3lxTE4taGcxVS1qc2lfUjhJZ1UtcHRyd0ZaZVlESTB1bnlhcFRJOHNSNTZSRkdQWGpZdHZNVUhZUkRzUEpOVDVtSUhfZlplRi1rZlRJRkRxeDQ3dndOV3J0UEZFLWhneXdRYm8xNmVuRHhGN2h4M3dQbUVzNnRXU25XZXVSRDBRZ0h0ZTZGNHo5UVNfWW9Sc0xtdzlFSkRDdmU4cFpiZ2pMbDV3aFZpNUFZRC01R1gzTGN0STd1S0dicGpQT1lDcW9jU1dHT1EySllKc0lrLUlxcU12Q3ZnMFprZjJCV0FDeTA2TzlwZVVGVW00Wg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ1F0bXpQOTU4eVJKUS1FbWIwc0FZVGJsYWx2VWlRWlFURWxnV1d6cTY4WU1xc3JiR3k2ZHpoejhUNEFQal9oWmJfRTF2eUpnS0ZpVll3ZklRMnBack14NDVMS29wWmxhc1RZaVlYbkhxeUxiYVNUcDZoZ3lQRFNiX0ZVb2ZSaDVYcTZGT2R5R1dSeHdpMkgwdHBJYnEwMTJRbjJFVnY2WFh3a1RrRDVoUkkta3dhZkpVa0RXZmsxTFBKdzdDWkdsbEw1Ukl5YTlIalQtYTJybUVKdHRzeF9tMXB5amhRbFlJRkHSAe8BQVVfeXFMTkxpTkxlUUtac2V2UXlRek5laEZ0LXhrZFc1Ym9jZkxNSmI4c0dscXVpenI4VjFRRTlOYTdUdF9RSXpacWt5U0VrczB6Qy1keXdFaGNUYkdoNVkwazk5WlpsNExWdGR1VGZISjB2VlVIV2RPYzl2NmVZaFBLSWpManczX1g1amR4bHBVNllRRjZVa05CVUc5d0VobG9xSTBCVTlwN0VtN1czQU5HQmx3TXRhMzB4M3JQUmM2a1pEa1F3SlZyN3ZoWTFXTklWTFhKVUstdmQ0Rzl2dTZmNUw0dGhZNGZaWGNaT3BIV0pRWWs?oc=5"
     }
    ]
   },
   {
-   "titulo": "Presidente de CADE 2026 sobre brechas en el país: “El ingreso de las regiones crece y supera el de Lima”",
-   "resumen": "Presidente de CADE 2026 sobre brechas en el país: “El ingreso de las regiones crece y supera el de Lima” La República",
+   "titulo": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
+   "resumen": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual” La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWNKODVaZkNFRF9nOXlVT3FrVHdCZWphWENhdUtWMlRCMElBbXFaTGpaVDgyc3l3cW9BVnRRTV9EM2EtVm1sTHF6dmxpNGhpc28td0FraGRPcDF4Rzh3S0RmNEtXV3VxczJBMElTbDVfU2xodUNBRUVhaFdFakwtOXcxWWQyM3Q5N1BHem5xRm00S0dnN3Q2cVptQVc5SHFpeFBtamxLOVZTZEJOclc2djAzalBnS2pfeVhremRjbXVEMnZNb2ltUXZ1anV3aFFKZnVwODlLeVQ2ZmZiZDF0ZEFLX1lTVnhGNXBLTnBma9IB9AFBVV95cUxQVkYyUGU1ZFlMMWY1SzJsT3EycXhpM254cmJRMU43WnFDdFNpZWdZalNqNmxjWEpKekNxaHlkaW1OcjF2REZEdTE0MWtWVFgtVjRqRl9DQjllM3FSWkZhWkE1ZlMtd0dwVlJZY2hxLURfR1M5RmkzM191SnQwV1NjZEJjZjJMbXB5RVdXSUVlNTRxYnRsWFBoVTA1ejNETkNONWM0b3dLd1dvdkhqSjYwbTBkcXpUdmtVY0d0Ynp3dEVtS1RzMFFtUEd6SHdHQ3RLcHEteC1ua2Ztck9nME90RmYzbDFLaHFGUHRRS2FJSlFzZG1l?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPbHRUaXlmN0llLUl2NldSQXp2ZnkxUG1zYVhMRDE3TC14SkIxbE1uRG9LclhBcEMyVDVvUzQxSE1Jenh6NHdpUlhlWl83UE9QYjU3R1R2a28wWEEwSUdTdWRJTndiaHJHeEQtLVJmYkdPa2daTHQ4WThOdHN1ek1MV05yV2E1eXhSMmJsbVgtTG9zSlFCbFBvb3NBcV9iWWJWUjRIb1lxeV9rb3EwVmxqZlV0X3BTS2pBMlZhT0ozSVpVVEtPeG90akVobEt4MURNWExtWk51SFJOcnFVMVI1d2JDYVozRWhhZTdxQ0VRSjRWQjlJaGI4VThjNUJOTVNUM3ZuU2dxcFBFV2NTUGZDeGhLb0o0OFAzTVJhcy1n0gGjAkFVX3lxTFByZnRib3FSbmJpOXdkSVloSHQycEtrWkF1dXNYV19JTzBkOGNvRThEMzJaQXRNMk9SWlBxYmlLS1Vab2hnYkI5U3dwXzJfNXZESko2R19YVUFDdDNyR2ZBNWhhRUc4Vzk3N013dUxJa09pT3ZkN2MyUXl2dG9icVNnR1FlUV9pYXNuZzZEaUlFRFVjUnhSTVpmai1fcDRiOW9VVW44cWl1dGE2eTh2aTZuQS0wc1NWM1JvQm1yZnkyd25jNXE3SFBUSFdYNDBsQ0luSWk1amp5OC1tSnZ1YVBPdGhIVDF2NEltQ3gwd2k2ckRMblRVazJlMTB1bmFsWURHN0xWZVNQTnMtZEtObTMxX1FtVHlQbDdLbEtyd3RVWGhwbw?oc=5"
     }
    ]
   },
   {
-   "titulo": "Óscar Reto descarta tomar postura sobre prórroga del Reinfo: “Me toca ser presidente y ser imparcial”",
-   "resumen": "Óscar Reto descarta tomar postura sobre prórroga del Reinfo: “Me toca ser presidente y ser imparcial” La República",
+   "titulo": "Seguridad del Congreso impide la labor de periodista de La República",
+   "resumen": "Seguridad del Congreso impide la labor de periodista de La República La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc1BzZGk5dkJ2akFOZjFGeU5xR0dENVcwYzQzZ0JodVhqUkIyN0MteFMzcHF6MG1IV0lPTW5rLXQyVzExRFgyaW0wZDhtSjBtSkh2S2lpSW5XdWl3WUl6NTRpYWp5Z0VwSTNLU0N1X0ZvTmJlYzNWZ2NGbGU4dzcwSmdSeUNKaFdLckZOMW9tMkx5OFk4ZnZBaDZnbHdkQnJLN1FwSW8tWGQ2ZDlDbDNJNGYtcmxGbWVmZXFwYVhXQVVpZUMtN3FjUjVEVmVxX0RITFB0eG1QRmxTby1zam5FbjAwd1hLa04wVmJv0gHwAUFVX3lxTE1nZ3lINjRMZFg4WFVPamt2eHd4Sm9adER6YmtuLWNubzJGTUR2NjhIYjVNVUxqclplM0NRLTBhb0FQZFRUeWppNDNZOE5id2J3Z1hmRWVMeGNBWE5WUXZnYUdockVxUjJWcmhIWWdmVzNyVlZyYktySGNabi0xRmprUHlNQmJDUTF6azlZVXNmMUp6Y1NnOUxKcnBhbHN0anBfUVJPbkZNbmVVZTYzVlpndTk5VFlpaEoxckpEY0FXZUhQNHNmZWc5NmEtZlF0REhBeU1iWTdWRExFcDh4cWhrWEl2dzRPeGFZei1GQUdTRw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTVGQ0lDU1FmZ2FwTml0TEtjZGxTRFBHOG9ZcUtXN2ZDOU9fcEN4MDFtQVNTWnZ4dEZPZkJJSEdrVGVnU2pIbHVkT1pwN2NBZUc0Uzd4UmFtTmZlVkRoUjFxWmg5V2Z3ZEk5MVdvcTZhZWlpUVRWbTZ3MDZzRjJQVExpRlBFVkNVR3VBTzBPaDJ2dG4zUGlEUXVQRmVkcGhaYWVfaEFKWTU5Z04xMHNGcDJCbWpNSlg4TUtMNkl1cnB0UdIBxwFBVV95cUxQT29DVE5xLTBUMWlrZVdUR0c3aUNOU3BEUG1HblF1Ml94Tk9TbnNPUkVlclRyTGVQcGlwNndESXc4LXZON0ZHeEpOc1hEZUNnYV9rNFVCWVNzWFREQ3FSQ3k4bl9UdFVtelB2LXFMRGhQeTNpYkh5QVJocU5USWUtaGRzN3gxWW13OW5OampvVUdJbnZ0U1B4OVNBenJWTFNBczFYNE9sc3pfU19Gbjd6aW5MQUpsR3BtekQ2M2RjcHNGajBCWEU4?oc=5"
     }
    ]
   },
   {
-   "titulo": "Presidente de IPAE: \"Las regiones tienen una oportunidad de desarrollo incluso con tasas de crecimiento más grandes que en Lima\"",
-   "resumen": "Presidente de IPAE: \"Las regiones tienen una oportunidad de desarrollo incluso con tasas de crecimiento más grandes que en Lima\" La República",
+   "titulo": "Piden a la JNJ la salida de Tomás Gálvez tras reconocer que se reunió con representantes de la empresa Gold Fields",
+   "resumen": "Piden a la JNJ la salida de Tomás Gálvez tras reconocer que se reunió con representantes de la empresa Gold Fields La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcVR1eGZVWVhBTFhqNHM2cEhFd0N1aFk2dXFGZmhSbTFxOGF1ZDRaeVJMQjRiMVpxZDhaZjV4VWJxcDA0X1hsSV8xOWc0ZjZvZnc3bm1xV0EyNXAyVGE1MDg4Y2RlbEMxRHlFbmJ4MEYxTEU5RUlscFlfSEcxZjVsZlZDWWpyNHBFRm5fSXlWWjl4ZVVyN1N6X0pkbmk5RG1SNFlmMUVrTmZmdlJYNVNlNng2dnFHelR6QWJNSEdJclgzVjNSaDg5THZjcXBPZUJXMVJCMWtLNDNQaVAtd1A1Qmo3aDE0QnA2WlhpaGZHVDFrRWg2Qk4zX2FRYTYxNVpTQkRqU3FpQjFOeE1HNmlB0gGUAkFVX3lxTFBIaTVuN3VMajB3b3REYXZoVmR2U2NGTHY3QkdkZGN6dFZ2VHNUdS0zbUpTR3lneTNWSHp1TEszbXhJY3J6ZzZGblZkVmVsYmo2dkNSMThGcENaQ05QSTNka2xOSUppSnhyRVBIWFRHYV85YkFSZVBVamxTSlJmUUxmRkZuOHBPX0ZDZ2kxNlVsZTRUa3VvR3dzczA2Tzh4dFVOcjdoOHV0RnZmVzhFb3hDMzUtMHpfNk4tYnF6Sl96YUlMVzZDOUpYMFZVM2NXMGo4dGRoRi01a2h2U1pCTndtemtGa0I3dmZQbnRWSGJKS2R5Nmh2YUlQSy1zNHEtNlhIMElsT2VPd1NveC1IblplWk1JaA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdWhKdUc4UXkyZnFBX0hCd3d3eWw3d1k4Mmd4azBwa2ZiSzdWU284OVN0OHBEOHg1ZERFbHhJY0xlZXVzZmNjaWN5c1lSemxzdE9SSTJwT0dnY2gyRXluX2k2TkpCeWNuZXN0MTRDS2NSd244QWxzT3ZuR2VoRVd4TEx1Wk5LR1luSTlYbFdxVUhfZFpLU0JQdUFfSXJseFVmQjk5NnZCYWh2ZzhnYTF1bDJqYmJnMFQzOVNBODdmVUNqaTNqdFljUW83WXF4WXhiV2pDUEdCSDBlcjh1dFVnRTliTDhRSl85UWVFTzJzOHgwUGIza25MWTFoWlVCV2g00gGGAkFVX3lxTE0yVEhsNk5MMUdLbjQtbWpvNjFGTHktSFNXSmFzamlGMWNBU0F5c3hIV1hYOTlqWmU2RkZEanRWY1RHLVdyTXhpRy01bEdhcG5RM2ZsQmdxS2JFRVAxME96ZlJNTlphWFFDcDBzVkxoOHU3dGNuR21NaWRNbFZGV2Vfam94dXAzUDNkU18yRUI2NmgxaTVGMF9MWXBNVjMtSldpa0dvVnJpRzQ1aW1MNEd5VGtNei1UUGFkV29LOVRZSUROZ1RkZkRsVktxalROVzlBU0owM3B6cm9USVJwWnVvTGRKTHh5a3dEM2xvWUhoRk14dk90bTBkSTVLNjgyV3BGZEtlaGc?oc=5"
     }
    ]
   },
   {
-   "titulo": "Alimentos se disparan en Lima: advierten riesgo de desabastecimiento y hambre en familias vulnerables",
-   "resumen": "Alimentos se disparan en Lima: advierten riesgo de desabastecimiento y hambre en familias vulnerables La República",
+   "titulo": "Verónika Mendoza pide no firmar la adenda de Cálidda y rechaza “migajas” en la oferta de conexiones",
+   "resumen": "Verónika Mendoza pide no firmar la adenda de Cálidda y rechaza “migajas” en la oferta de conexiones La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFl4WTI3dVB4dlBIYUUxQ3FXUVhreG1uZ3M5bXVoRURnTFNYSEVQVmhod01Ud19SZHY5Y1dpemdjdnJsQ3JMenRYN3pOblBjQ08tSU45d0hncTRXejlwRm1vbExOWTFaUXhZblJUXzZIX0FUaFBWWGF1YkJHTVk5LVgtd1luWVk3UWpJRmZtbVJkZHhPVVptdFZhNGI3MTZ6Vld0NDBzeFJiSzJSWFFKdDZhRzg5bG4zdTRHLXpxNFZKYVBia0xOWXZoamd0djZsZTZ2RGJTSnk2QXM3REdFVHhOcGRFclhU0gHuAUFVX3lxTE9sOWNmV0VGeERVNTc2aUw5TFk5YzZGNGE2SWp1S3pXeERTTFpNUDJ6NU1IamUyZVRZa2ZVcnpVTkgxem44ZktCREJYMkhvQ19DUU00NkVWNFluVjItQ2ladlpqaW9uamlNZ21hZGhsRTk2SWpjUWlWMXk5T2R0a3NVdzBuYWFfd3FZcFROMWRSLWlLWTF6MGJ6Q3hjQl81bFJLbllYckFWemFkSW5hcGgyZFkzYmpiUTUwczAtNWVQdFhPcmQ5US1FRkFyalhJSk1yYWNnQmJ2aWYtd21NY1pvTXBBYUd6eUZZMVI3Y1E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWVyd0toT3BMTFhia3ZwVldYMmo2MFVvcVlKUFVjSy01MFY2b19ZYklDQ2J3cnlOeUUwT0kzR1JNQ3U0OEc5N2NRM29YUXNXWUh2d1RGZzhkcFJ3dkVLWmJXQmYwOU1nZnp1c1NheW9Sb0V3TkFBZnVyTDJyRTBoMVRfY1M4RWJRd3dQZWJYLTdfVm5BcXlFMkhLU3JqWnd4SmxfdXJ1Vmx0c21Lc1RSa3Y2X0NSLWxSNmljaGRlNl9VeGlmbnV5WDQzci1PblljVXFiRnJGLU9rOFNfM3lWeGxtLTgtb09ybjBz0gHwAUFVX3lxTE9lek8ta1dCRE5WdWR6RlBNMDA0cUhOTFZ3T05CZTFtWjFFTlV3WXRpZFl1bVFqd1N3cWpWMkpyQ2VqT3pidGRyOHEwRDZMMFN6eUdSekpUY3V0UnNwU2lOeFhfcUl5Q25kQTM5SlhWZE5oQVltcFU1YnNIQ2xVQ3BKYlJnT1NSbVhMNnFqZFU5dkhqUE9yQkZNX3ZBa3BXZnA1anF4SnlMT3hHWlh2ek5YVTZVR2kzUktUZnJ0eEhla29pZnFWRDBCUXVzOEp6dzBfal9qMnNFWWt5aEFoOFA3cnQ2dlozZzRjSk56d1B0cg?oc=5"
     }
    ]
   },
   {
-   "titulo": "Seguridad del Congreso intentó evitar que Delia Espinoza declare a la prensa: “Tiene que pedir permiso a Oficialía”",
-   "resumen": "Seguridad del Congreso intentó evitar que Delia Espinoza declare a la prensa: “Tiene que pedir permiso a Oficialía” La República",
+   "titulo": "Keiko Fujimori llega a la clausura del CADE Ejecutivos 2026 en Urubamba bajo un gran resguardo policial",
+   "resumen": "Keiko Fujimori llega a la clausura del CADE Ejecutivos 2026 en Urubamba bajo un gran resguardo policial La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaXpKTDdPTUJWZGJWWkRqZ0FiSGNENGM3aFpfSWRLb3ptZFNnbWZsY0t4TXoyS0o3NXVHelBvdkoxYVVFam1zLTU4cktkcndRVkNjd1hMTW81VjlBbGN2dkpKMkphOWpqN1R6R0oyR05pOXFfSW9EOGF6R0RjdVBYQmlCTVlzaGhYaUR2SDY5R2o2T19hWmVOd3BWWG5HU0lHWlYyamVFaE1HMFNiMW1oYTBneG5UaUtOQUt1dm1EYWJjMGxSQktwSC0yZE0zQW93UDl5TUw4WkY0V2RhZWI4SXlaWXVYZUU2d3R0cFdCX3gtT0VXSmhqLU0tM2zSAYICQVVfeXFMTmh5S0tvMDFMMzY1REE4QzNycTl3T2F3RzZVMFBQUVB2ZW1LSTB3S1hja2VLWEJjbl9LRVJPc19GLXJxOTJWNnU2N1RjTEZMRGJiS0xSN1lXaWJOT0lRZDdsWENKZ285a3VQR3I1bE9UWi1YV3llZ2NkNTlBbnozY2tqbjNTalQtQ0JTV3JxWHdwNTF5LTUwNGdKdVRibnZ3U1RVamcwQnBvbkFYRHJnbXg3aGFFR2dCYkNVMnM5aGsxa3BuZG9uR0NiRDRiMjdYN3Z1VDhWekNIY0pmcFEtOUc5MFJpMXg1NzBZSTZQaHZWR1d6RGN0YWo0SWxWcjBmRW1n?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUFJGWEhBMXdLYWpXRXVmTWxYcTJrajJRejRCNjlCY3hCWVprT19wTmI0Ni1CRXNLaGpET1Z1QnFQU3Q2clF0ZFlKRDBmMjM2SXhrVjJNVjRuVzhmWHY4RjRLa2FUd3dyRjkzaTZwYjBZS1h2aWl6SUdSQmd5RHcwUmh3TlFrZzJGOUJlcFdQLVd2N1o5OU1RRnlyVTNUXzZoU2xSVnNiV0tnelU5Vk5SanJwRTZDVmN6RkV0cjhWNml1RUFuWjdOR1BNeU9iZVNzQ0NodkRySEFzY1ZwVHBEWVpDd3gyRlBldUc0WkhzY3HSAfYBQVVfeXFMTnNhQ1FUdHhzZ2J3M1JPcDlMWnlFdmw0VFpYSzd2U19ZSlFUazJ2Q1I5X052Tmxac2t4NklyMXN2SUV5VzJZZnpjaTNqSFc1c0dSVklVZjB1WkpFUjlZME0tUUVoZGlLSlNtNEVwYnlNUmlrVzM1Nld0cThabm1DM1NvRkhyNGxSWHllMExQajI3ckpSNW4zMmFuc3poUmw0WElmUGl0MlhkOEp2QklObENzMWRPWEpKaDQzc2JLalVpaWNHRjJyRDVzN0JTTDlmMkd5OHJIQVQ5N2UtdEs4ZHdUbWFLQ0I4X3luMS05djdZQS0wSDh3?oc=5"
     }
    ]
   },
   {
-   "titulo": "San Juan de Lurigancho: JNE ordena proclamar a Margiori Mejía como nueva alcaldesa en lugar de Jesús Maldonado",
-   "resumen": "San Juan de Lurigancho: JNE ordena proclamar a Margiori Mejía como nueva alcaldesa en lugar de Jesús Maldonado La República",
+   "titulo": "Periodista de TVPerú fue baleado por sujeto encapuchado mientras cenaba en restaurante de Pucallpa",
+   "resumen": "Periodista de TVPerú fue baleado por sujeto encapuchado mientras cenaba en restaurante de Pucallpa La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMGJ3Sl9VVnFjeHVBdVd3LUxvMlRmZ1gxQWZGSGxrWkd6blJ0TzNwTU80S3A5VWhUcER5aThRTE5HRU1mZ3h4OHRGQmppZFRMYzFheFZBQWVIXzNSc0RZOU1iQjh3WElNVnFmQ1NXcjVlSm5FZkNLMTFJSmJueFdnaTF2OGJ2OXFvOUpSV28xeW0yOWl1b3RObTlNQWw4ZjJQYzNxY1g5Q1ZTU1YxOWFwQ3F5Z1oxVTllZE9RU2ZTMEluamxpMzRocWxTLXp0b2pxSm1taGVWcXFWTWRNV2lBbkd0WWVrd0pIdV9mS3F0WHhCc1hKNFhlVG1R0gH_AUFVX3lxTE9jem0xX0REckg3TWw4U0s1ODNhVlp4Uy1md1JqZHljWVA4M1lmRGhINjdTSlNJU1l6TUx3Y1o4VlczaC1PYWVpMXJiMHJ4bDltYzRWNWZRdnIzY3FBNWV2TW55eHlOWHlEeFpLZjdWOUswNVhOZkQzVnhMTWVYYU03eEl0dDc4MnE4dDdFVjhFTkFncmlCX215T0M2eFNPVVBTcGlrdXBCb2FSYjNzSEJTUzgzaVZMMlpIcGdKNE02T0tQbmxVZXdBMkJRMzVpVGUxcVhlNG9vOUdxTEFKQUJUcUY4YWtwd3M2SHFQaEJwbEhud09YNjB1UUs5MXF3TQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2NLVzhOME54bWo0TGpZMjExVVlyWVZxMzBXRkNQT0pwcnprdllrdHFVSThkR0V4TDZmclU1RGdoZFBLaTMxWm95Z21JbXY0RU02YlZPbFZuSkdtdDRPVWpOd0hxQXJyMkRyZFBsck5oeUNJWWs1ZUc1a1RhY3VaNzJ5Zy05aHpUbnI1RWFUZ1RFNjd5RE1pZERETjZNSWhUcDZmMXhQcjg4SEdERy1VU1NRajVYTmlBa2VLbzBza0VFMDM2MXUteTdtVGhkWU1RNWtQTlRKSnRKQWE5RkRSQnQ3QVlPTXZsZjY40gHwAUFVX3lxTE9udmxhaUI0R1hBU3B5ZjA0bFlHMzlNQ0R3TkZYSXN2QWFLSk80dnNKbzRoWmcybEZ2TktNTHNDZGl6aFozemlxZWF2Vi10dDduYVJfQWZXWG4yTUpOZVhxNHFCcXZTSFE2bmlRVjFQRXRtRVBUMjVpTTZoOGtCQ0RBbmJoZXkzUERGSjJ3UVpIS3F0cmxYVHhaNXFOTTJud1MwUExNRjlZVDJ1MWRTMnZSTVZKQXVST18wVXViOGdwTDBqMl9GSkVjV1lJbEQtTkE4S2dUNHA4TGJXUHk4SE1pcmhwbXpDY0RVVE1fSHlVMA?oc=5"
     }
    ]
   },
   {
-   "titulo": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "resumen": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional La República",
+   "titulo": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
+   "resumen": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional” La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYU5XMld4WF96Q1kza1I3TUpsS0prdVJWSDFhYVVWb3otd2dhRnRsV2FFMnRKRW45UW9seE9ReUE5NVBOYi16eGJkNFhKR1NuOENXUWtfeVBOV0dEYnZzYlYwTzZ6RzRKUGx0Z2lkWXdFbjQzNm1MTVdFdENiTlR6eDVsalNNWVg1NHZ5UkRHSUZGLUhXb2NSTFFreGo0OHJsYU02SWtEb0x1UmVwcm51NnJIeF93QXczbzhoejZ1Qll1ZDVaRHFsZHh5Z1BOVFZqZjhqdzY4dEtsWXRHVEV2QU9MN0g3VDlyd3ZPTWR5NGN6b1liQzd4ak5faGlnUEhRdFg3N2xwYVNSMlJNbUZ6aHhRckctQTjSAZwCQVVfeXFMTXJFZVJJX3Y5UEstdnQ0M3RrSHMwQ0kxeEQ1Tld5Y0FMVUhFc1U2bnZzRWVjRklMU1F5Q2FvN3N1WTZyVFh6N3M4bHhKczFzZ0JYNWtJVlpUNXhCR21nRGFOUUZ1Y29YM1JGQ1RzU0Q3RHJiU2ZJMnM4Vmg3QkVmLWxLdFF6djRLTGxWNXo0QXU2a3lfWTI5dWFoSVFLYkVwYllBcUhwVGdLQ0NEZnJ4LVZxdFNDYzViVkYyVTdQb09NQWUxUTN3RWh4UVYyUGhES0hkNUhBM1RlYmdqSnNzVTh1RzFKdmtGbEM0N2NKdFIyODFmNUl5c3YxUGlVaHhZLUNtd3dUSXdIRFJVWDR1X0dOYnZ2aEZuNGxiYUo?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVkgxTDZmZjRGRnFESW9scF9NRUoxTS11SGNWTG1vSEpKYVZQbVU2NVNJSmFfbHdCRXRyNk9CakJyRjRfLW9ZVVRGaE1ENGI0YndySVpDYTFFTldQOEtIRm1lZ0d1VXVPMTBHeVExM2M5MEowSEhUZjZSUFF4WDZoQlpTenI1Z0NrcXpBT3VVemlRU20tV2FGZXFxcHZESjU2endBQXBEYU5qQmE0NWJrVVJTX1dyV0lQOVd6akhaQTFoMElWaUhDYXJaOHBiR3VOLUN3Qjc0VnIyandHRGJYZERqQULSAeoBQVVfeXFMTkR3VVdNWmVmVTNFb0d0X2dyUlFQVGhsNVpvQzNSZ0c5UlJKNkhKNkg4ZEt2c1pMemJjR2hjdzBjclhWXzZic2FvOEtraC1fX1dlMGpZbU9zVkRadXpfTnVMZmFVQzFjZ01uN2VURTUtZnVCSHEyRkNPeXM0emVZX1pZYmZ5VDNfcDZHNWdnZlFacWlKcUFiX280TDNlV0E2Zy1NLXBuU3l5eURfcVFxUWdKWGhvR0tCTWJSUGI3V1RESXAzRndocjF6amVaYi1lNmx0RjQxZnlZRXhHOGloTU5HeTEyN3RtMUNB?oc=5"
     }
    ]
   },
   {
-   "titulo": "Caso Pedro Mo y Brenda Jah: Fiscalía imputa a invidente de participar en entrenamiento armado",
-   "resumen": "Caso Pedro Mo y Brenda Jah: Fiscalía imputa a invidente de participar en entrenamiento armado La República",
+   "titulo": "Crisis en Obras: Belmont acusa a su vocero Víctor Piñán de intentar modificar el reglamento a sus espaldas",
+   "resumen": "Crisis en Obras: Belmont acusa a su vocero Víctor Piñán de intentar modificar el reglamento a sus espaldas La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRi01M2VCNlpQN0NRbklIUFRtcHFkakRfSVR1U1UtOTZWYU9yVDJtaG8tbDJpYzJraEIzOHBjdTVWS2NPSHR6aWJlTGY5ZEtYeV9VcHRuVEdDdVVhX1F0VHBUbWVwdDVPUXFKblp5WnlzbVg5RkJuaG1DbUJRcnVuOU0wRVhBenY3bGJoQzdVdVJFVWZrTE5LVjg2RUxhZi1pRnNpc2sxWk5mcTAtcjFIX1NPMnpaWmlGUEdWUmhhcDRHejBWRDM1MGlIQjNSc3lyTlZWa05sQmlFYkRCS3hYQzR30gHnAUFVX3lxTFBBZDlKS2NnNTlEZ3B5bmIxSHQwOFZfU0hyclV0cFphN1MzQXByQUJyNXVSQWMzOGFrWGdoY2w4T0xHYmRmZTNJU1Q1Sk1PNW1DR0wxelpFY0QwRXFaY25LSW54UEh5QVhYZkZMaGZhQVl5OFpuSUlaT0JwbWh2ckwtU0NmMkh0UHVfOVFJTzZUS3p0SGN1LVZaRTFNN0F1NFo2cEN1RFBtTmlsN2c1a1BTSjd3UXE4RVJ3cFZyV1JYVjEtOXNBYVVOUUx4VXhQRTZhZXBWaGtZSnl2c1FrMWwwaDZQODJuYw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU25fMU9pZDlTNHBxaFY3a2NtcnRCMnpqaDdDZmpmQkJoNFBwbmlIbEZDR3NuemV1aHoxOXBlNTBkMFY4aWc1cUFzZ3NpNWpSSUl3NzBQOGFfLU1kSGJDU3NGd1B6ZldSRXAyMzkzMDFWWFB2VlhjRFFzYkFseU0wek9NREtmbWtKeDZSaFprN1dkTkw4YzFkdXVvZzkwQ3VrUkJ2eTlyTTlYVmRLbFRsVXUtM3I2QUtYd0RiRk1BbllIU2ZfYVQ5Snk5VnByMFZtRzRxOTFhcktZRERXU3FKSjJDSVZqSjBzWjBPTV9RVE1yR1XSAfgBQVVfeXFMTVlfLTFTY3E2TzBwdnRvZm9yWWh3OHdPTE5ZZmF2d1NHV1VJMDVwODRFZDNheGVZMWxYSFZEckxtUWVUUzdVeG80eDNwWVEyTG55MDVaVGFURnNpTngyRk85VEh0b0tpSkkwVGZYQTFyaFV4cWVNcmxFYnVzVDQ3cVRPbGdHQzBmVmtDelJlbnBOMTU5cHNUVXZfZ28ybVdKUWl4WTdkQlotTXBUbU5nNnJuZjlaQUZLS1RmUURBSUh3YW1QY2JrUlJxY1YxYjlEUzF5T09QdHZ5bnNLWWNicktBVHVXTjZlWExic2NKSXVmcF9nVE5aN28?oc=5"
     }
    ]
   },
   {
-   "titulo": "Vladimiro Montesinos: abogado revela que el exsesor de Alberto Fujimori “está perdiendo la vista”",
-   "resumen": "Vladimiro Montesinos: abogado revela que el exsesor de Alberto Fujimori “está perdiendo la vista” La República",
+   "titulo": "Óscar Reto dice que la Bicameralidad no funciona y Miguel Torres responde: “Criticar es lo más fácil”",
+   "resumen": "Óscar Reto dice que la Bicameralidad no funciona y Miguel Torres responde: “Criticar es lo más fácil” La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBROGJMVzlzc09jVFk2REVTLXVFT1o5ZTR6Y3JUdVZLNW1WWngzejhJVVB6ZEpWMElQMUZQcUNtQ3BxX1dBSUtVMW5IaHE2MmI3Q0lRNlZQOFNNV3lsZGtmVWRJQk1LcU9zV09KWExuVmZWSDRaS0U0YWhvTXVQNWJRbkFTYmw0N0JUeWJTNGdUa1lZb1FoZUIxaUZjRzZSNkIwcm14ZXo3ZUNyOW5EaUU3MnFYR01uMEVLWnVFMXhaSjVsRlJnb3gxRUJnRktCMlM1SjFqZ2RnMHVLWmpnbFJBek3SAeoBQVVfeXFMTkczaVRsUC1ZNG1pMTY2Nkt6ak5TeTFZcmFoSFdWVFZ0aHZTUy05UUlDSFNseml2cTgxcV8wamNZLURaVk9wWHp5LWY0VV9yYlEzNjRzWFNFRmJmZmFhSlR4a1U3UjhrRXE2cDFINnNPa3UtS2JqbTJjVWNQT3BjbE96ZTlqeTBRdDRVOWdRbTFGa3JOMzJrQTNaZGlVM1kwTGllWmtIaUctZVE5eTR2cFBZUXdRS05vMkdaR3ZzR1l2NklmMG9ycmtrZDdYMk1DWlYwdDBMeXE5NDRVbEhCNWRvZmc2RjF5bk93?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYjNVeXpBNkxCdVVzNnRfdUE2TmNBY1BRSzk2SGlQWkhiNnZVTWRmOEtnSjJEX2ZUT010T3VmNFZCdjA0UDJHZU4zY3o3cHo2TXF0SkhkWE10S1ZRTGdubFVwUkZZZUljQ0pQZWJuNDhVdDNuYTM1ZXd5aXV5SDBiaGYxLTRrXzZYenBvXzZ6VjhIbUYzdkJJTXFTQ2hBanhBdTBLS3dlZmp6WG5GUmRBWTRzdWlIallkeTduMzJ4YUxHXzlYaWxXUXVTdDdJb2x6T0hVaW83TUdFMGYxTXB6SXp6bTFmZ0NnTWfSAe8BQVVfeXFMTzBwenJkY3NubWI3UktlcFZNclRPMTBLTlhzWUpjMDNHUDlpaGJfckNuVlNyek9SVmZrVTdwelR0aXBRWndCOVUzYnBWVmMzcXBxLXlDX3VIaTJOOTM3OHZLYTBUVE1nZHRvT1o0dTd0Vi1zZGNzanNHOFFybzFPX19iMkx0azRfZWFWMkItcFBVa01MeTVzS3A3OFBBY3lZeEJCTURUNy1wMElxeVByOGFJVlhOSmZ1dXFpamhLWTA4SU5SdHFoLWYxNFJKVHFFcHhIbDNhcDA2Rl8zM2lCRXdINFpHN3N3TE1JRzZjcFk?oc=5"
     }
    ]
   },
   {
-   "titulo": "Rafael López Aliaga asumirá como primer regidor si no revierte la decisión del JNE sobre reelección encubierta",
-   "resumen": "Rafael López Aliaga asumirá como primer regidor si no revierte la decisión del JNE sobre reelección encubierta La República",
+   "titulo": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
+   "resumen": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeHRWVlNJd1N0cmtSMTRCWGpxYUNpZ0w1a3BCdGp1ekc5a29hYlNJZ0VaTzVsU0s5QkdJMGhEQXNOTU5CdmViVGFWUVJYY2JJR3ExSlhBRHV2VjRlUmVPa1l0bmx2U0tqUTRGNk1LdXVNdTJZTF9tdHUzM3EwTUlmVEd0cW1tdmRETHZhTS13MGFmb2JYMFM2X2VpUXBsZ3M3ZnFDMHBiVTBaNk1FaC1zRkdvUXZXcEpUUzkxa3pNMGU5T2U0VXZRWkhDZDZMT19WU3p0NGJuZTR1OWxEaXFPdFdUZHJqOXcwbHBEMlpscEVFeHAxT0psTWZSd9IBgAJBVV95cUxOU0VfMFZSeC0ybmh4SUVVQjI1cEVOVUxYRDNJLWhNQjFJd3RBWkRQUjBRaGkxeTNyQkl4U25JZ25WWGExY0RhaTc2LVlMNmZRRFJhSUVsaVppcTVGYzB2N0dPNjhCLUNucGhrU2E4NGhVY0hVbFVtMUpQaEFteU9yU0ZJTzFtbnc2Q1JDdDZGbUQ3a19kSWRBbmRwOU1Pa2U4RXFIZGpFUHN0Y19pakVyWnlqOXptTi0xQnVQZ0w0NGxLbFVGb2JXOVBHak0wY2poSFFTZThKSHZSYmxSaHpmRmdxdlpYSjNoZmJVampDUmEyWTNHbGsta3JuR0x5Vkdv?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTzBIVXZka25wWnV0TWdmMmtINUQyWTlYLVlYQjNuTVhfMDd0SE9TRHFNTDRmUEVQZ1JGTzdTY3EwNmk0WDE2Nk1ZVXRsN1h4YW53MUNpeEcwT0RQRzcyTWVlWS1kR0dXOHotUFhDa1FKUkg4VGNlN1ZNbkpvSE9uTWhxeThCYUVxODl6UWtKd3EyZS14YnFaQTF4SnlQZDFuQkMxUGpyZk1NTEFqUl9FVWxLNE01MXV2YUIwemYzN3RhajRrUHNoNV9FcVBNenVYWU13TUFPVWNVSGpjazNv0gHkAUFVX3lxTE1aNWs5YnNVcXlSQ1dSMzllak9QZzdyY3Fad2JtSDVDd0FfY2p0VU9PUFlneEEtTnF0cWJoVUI5eC1fUmtxTDlDaHZMUjhBNVdac3JvYmYtTElsZmJld3hGRHo3Z3ZQTlowTkgtM0JYTDJZQmtibE5mYk0wbm1CQjgtM3JVWC12YVpqMm52d0t6RUVocWY2bHBUNnhsUllaUk9Iek9ZdUE3RHhMdXFNZE5ZTzVkdkhBa0pkUkFQS014N0VSSjlualI4MHpjaFAtbTQ1RWxNZzRRSTBRVTlKT25tcGRPTQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Un total de 19 JEE acataron decisión del JNE en no permitir la reelección encubierta",
-   "resumen": "Un total de 19 JEE acataron decisión del JNE en no permitir la reelección encubierta La República",
+   "titulo": "Congreso aprueba invitar al canciller Carlos Espá para que explique fallas durante la visita del papa León XIV",
+   "resumen": "Congreso aprueba invitar al canciller Carlos Espá para que explique fallas durante la visita del papa León XIV La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTRTSmprWm82Y0gzTUR0aUVoWHBTY2R4X29xWGIwWG1nUE5RR2tuZVF5ZTktMkR2aHh5aEVWSl9JSUZEdGdnckx0SUc3VGI3RG5RSkFTNFVkT25faWpGQWJWS3JzY2RSckxlNG8zM0lsUEthYkFoVXlpaGM4UEdMbl9LN0tFdnRpbGNodHBNUjJIS1dPV3dhazJ4Y0VldHkxN0laMFdDYzNtQmIzdWRLT05SazhpZUZWOThjUm9LcHNVTWgxS2Fhcl9QdDdZa25ZX3hNOEYtM1DSAd4BQVVfeXFMTzRCd2JheUl3MHRVMjVOSEVPdUlFY1ltbjZDSjlUOW1BVF9rRzZFT3hNX2otbWgzTkUway13alU3U1NpUGREOU5MckdwU0hIOHFQdTg4VWdGMG9TcE5QeUFxM3JuRnE4T1FoQ2RJQWVKdmRyOXNJa0RRNDJJa1VsaVBxeXMxdndaSzAwRm5PVzNvYjVacVE1b0E1TVZOM19PNmpmZW11WHk5bHdTeU9SbVZaRXo3a0xXdWVuMXFqZjJFeVg0R21VUThGcFhib3g1UFFVY0IwcVp6Ynhxd3Zn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaUxoZXJXeGxzRlNOczlEcDQ5UkJWQnJwUG83NUphdGFVM1hrbHd5dm1hQnA1WTFOS3ZYTkptMDhXc2p2anFza292WEczYTVPaG8zVC1vR1JvRzI5bkdQN0tTZ1hZOUhSZWlabWplVmVNdjEzeGJlV0syZjQxOExTcU9pdE5KTlNsbmcxRThSbEllNU1RY0o2TW5sSExFU0xkTHEwZlQ1M0J2cHJ0Y3M4LW9PWEtBODMxYU5XaUtpbDlqVHcyZHBmUjRXdDcyajRCWnNVVklqSmQ3R19FUWZfaWdVd3hNNmdWYllPamtHVWotbUxLWWJXWjRQVU0ySWFmeDRoWGtR0gGLAkFVX3lxTE5FN3VPQlJCUG1INWdZRzF0cjBGS3dWdUpURm41U3k4eDlZZWlTSEtIZkRjcWNmMEpoa3ppdThYRXJvOWVpWWF6dnc3MURlYm9lZ0ViWVZGOUc3d3R1X2xjYWRBdUViel9WcnJTbENMc1J0Rlgxc0pGcmlGQmdrbEF0RlpzOTA0eW1FLXg0YjI1VVJvS2FoRlVlMnhCV2NKdjFJZDlnZ0RiMlhjSXhIeDhfRi1oQW5RdllGS2ZJOThuaVM4N0FfM0o2MGpsUnFXeW5rakdvQV82LVZ5NzBrWXVLOVFqc2NzdVBlbWlkOUx4QkNraVNzTVdCaFpOdW9mMjVkaGg4Nm5Ia240bw?oc=5"
     }
    ]
   },
   {
-   "titulo": "Dircote presentó libro Los Miserables como parte del \"material subversivo\" incautado en casa de David Tapullima",
-   "resumen": "Dircote presentó libro Los Miserables como parte del \"material subversivo\" incautado en casa de David Tapullima La República",
+   "titulo": "Presidente de la Cámara de Diputados, Óscar Reto, critica la bicameralidad en el Congreso: \"No está funcionando\"",
+   "resumen": "Presidente de la Cámara de Diputados, Óscar Reto, critica la bicameralidad en el Congreso: \"No está funcionando\" La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNE96Qm1BdjB1akIxX0Z2NElrRW5TUnFyNkF6VFpfRUlkMTVEZk5iMTV5bkYzUzgzYjRGVFBSMDNWOFpHbVE2SUpVTFBUZjN3TzlrZFV0Y0VxdS1tdlZsZXJkeWRNVTI3bmdwcFhPbFVHV2swTEYxS3NNUm9MdWpQSUU4RFJ1ZUFPX1hQcGg5TUFYaUJ6TnlnS0tsYlhFdVJtOW1OZVpBUzh5UURrREpJNk1TVk12ZEJhWFREU0pKSXJvUU42STJDc1dBcWZlYzN0Y2ZfdkpaZjgyTjQwNGZOZURBLXVGbXMyaU9nMtIB8gFBVV95cUxNdnRNZXhCSTNDNVBFRC1Ba2J1V2Y1RXlpRDNEOXhZOXlWcFl0bW5kcGtXejI2cmtlYWM5dkZzZEgzakhNTXJURHhqQlBuQS1QWS1XUEVMNXpfdEROV09tR2l3MG9mSld1cnlJU3NzT3VzZzdINUtqYUMyQnZ2VTRpOW9DWUhOa1JWTEJ1dzhMbFpGM082aEVUSjdxbG84R04tNWRCS3ROWXdWVXdWa1hQOVhlMklGMG0xWGhucWRkOTZFYjNKNE1kaHpkMUxYNy1oUmFrSGRNeEZkTjU0czRkUFdjQ3p1bklDOU9zSjZJSTdXUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVTZVV3ZldFNVcVozMmhvWHJDTW45cEtpOGVEaUtmRnhnMFlyVDh6Q0VvU0JuazBWZ3lWU24wejBmWUF1eVpwZzYxTHVJSGhOa2RreUxhdVpYN1F0VC12UEdyTDJ2ajd1M1YyZzQzSUxWSkRENHJXWEVKcjNLZlg3Z1pEREk3ZU5hQ1VKVVdYMmxmV0g4M19kR0FGQmNvenZrUWRJUXdlV2RKR3B5dENvREY4MTQ2clREa1ROR2J6Y0JmbU9KUGZEOEpycW1nTFJOODhCS1R5UExiM0U1d2VhWjNpcnM3cEM3eGM2Yno5S0M4M29nTGpr0gH8AUFVX3lxTE1RVUhseXFBWHRYRTB2UHhHOUpXZG9lYXZaRV81dC0ydmdyOERMOC0yenZRWUhFUGt2UWk5RWJWTE9MaGNualhqUDNpcE9pdndJVUhOclRXa2dMTENtVWNHVWJva0dKcUNWZjVnT0VnQkpEcjVKLWVNaXFoZWFMd3ZSUC1uaVZaUDNBRXAybnRPMDJZM2xlYzNZR0xEQlVQY3dCWUxRU05tS0ZBR0VhcXBVbUZXX1RWSG91cUJzZmgzTGk4aDdrRjRFY2Mzb0VsU19feFZzMkprcDRXZVBid0JhS0d3dDJGekowS1JIdDBHVzU5cXhLYkFTLWRFNg?oc=5"
     }
    ]
   },
   {
-   "titulo": "Senadores de cuatro bancadas piden acelerar la ratificación del Tratado de Altamar",
-   "resumen": "Senadores de cuatro bancadas piden acelerar la ratificación del Tratado de Altamar La República",
+   "titulo": "Julio Velarde cuestiona la gestión pública en Perú en CADE 2026: “No es mala, es pésima”",
+   "resumen": "Julio Velarde cuestiona la gestión pública en Perú en CADE 2026: “No es mala, es pésima” La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1hENzNTcV9GMmYxRWYwclBFSjNVTUNON2pERlpFdVlxbEJVRWxxMW9VQzlqc0s4bHEwazhFV1NDVFFxMzgzZ0hkVUZ1TVpPYUtXYTYtcHQ3ZzZBendsdW9jMFo3anZEdnljUVhhRXY4Q3RzQXA5cTVSNjlqUnFNZXQwUHFsMDlfS3FDSEVUb01nLVo3Ym9ORU9zNmJRRWdIcE0wZ3U0QnJval9ndEMySUJ6ME9LV1FjRzZvY1A3SnI1LWU1bjBtWkxmdGJQbHp3bG1vZWFn0gHbAUFVX3lxTE43eHp1Yl9zYUJoUWQ1NFJfWmdQRnBGazJoaHhIVm9xMFVYNDNpbU1aZDlxOERyMDF4cWxaU21PVkVraU93QUZIcXZzZXRnaldrYUYydEtLZ0o4dFpXakRFTGNRSUY2OWNBbGxvTmo0Y3J0WVdkaWYxZmI1WGhWbGNYMnZyWF9yMV8zRkNxNGZnaUU5d05MQms5RjZjVjlrWEFxNHFtN21uX0pSaE5MeXlZbFd3Z05UdkNWNjg1c0RtRFhRMGRBSEd1MWkxdmNmZTE4XzM0MTVEWHpGMA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTzNvMXktMEJBWjJIbGJ5TXExWWNjbmwwTjRsNzBreVpUOWlpWDlqRWJTRTF2cEVCdFRCaXM4aE1GVHFiQkVHUGkzQVNYbWxyaWFSR2ZuQ1k5VHc4djdRdDNjZHhXMnpoV3FzbGxHZFFZdHBHbFU2NDdmcXI5YU9XQzJiaEZOS1FJMjhjdW5qazl5eEthUVJFVmRTVGpudWdFZ0FsOHlUS3Fud0tGNlZiV0FOSndxOEwtcmVoYW5raDBIUVdWWnJPZExSWnk2QnM0WWpXVk8yd9IB3AFBVV95cUxPR05mY2hzblpWZGtGMTlaT3dHZEdSOWFZVGlhRXJLVnA1OU93QXQtejFDTUMxYlNTV1pkYVZ3LWo1QWJYYm96YnVGU05NUlRWMjlVdnQ0MUNNbU51WGZxLXEyYmktYjdueGtXSWFJaUFsRWw4aXBzZVJ0WEhfMVBwUHUtSjlpZzVTSGNnbWJXWjllSmUxV3ViV2NRdVNKWGJJRW1SZTVua0ZHSXFtc2x1WDVHSE94X0dSXy10OGFVZWdyWWJ0cTRzaU5HSlRZTkpnYUZVdkdEZkFSQ2xG?oc=5"
     }
    ]
   },
   {
-   "titulo": "MEF recorta proyección del PBI a 3,1% para 2026: pesca caerá 40,5% por impacto de El Niño",
-   "resumen": "MEF recorta proyección del PBI a 3,1% para 2026: pesca caerá 40,5% por impacto de El Niño La República",
+   "titulo": "Poder Judicial evaluará este jueves la apelación contra Pedro Mo, Brenda Jah y los hermanos Tapullima",
+   "resumen": "Poder Judicial evaluará este jueves la apelación contra Pedro Mo, Brenda Jah y los hermanos Tapullima La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjhjZEVBdkE2Q0w0S2JRQURfNll5SDB2bW1nODFvQzVjR1lDUTdQejdKNUc4cFo3WHJVRTdQaWt2U25IVFNRbF9KWTJRcEhQeWdTSWZMaTUxbEJVSlZNYjgxZ2ZuX1NRR3Q0WUYzTXdJbEpmVFJyQ3psZHdneFEycDJ1ckRYU1dwZWpLNTBXN0sxVWJJMnFtSmZMem9Db1N6VW5pUXRyMlNlV2ZVaFJsREh2bkhBME10cF95NWdDeDdWd3RiNFBhR0Zjenp4QWk1eGlnUlB5Ty3SAd4BQVVfeXFMUHg1WXV6NjdWR184SzRhX2loTjAzb3ZGM29XeGczUEVfdDU4ci1UWkt2eVdMRmZxTGJIV1dDTTExVG1ZTU9DYWJkVjlTdEN2V1ZCVS1kajBwZHRDQUJMNzJWQnczaUhnZ01MLTlMZ09uVlpubW9UNlIwTnZ0ZjF3SU0xWTJRRFM0MnhiS253Ny1EaXJsaDJkUFRRaFNGVzl6T041UXFKdWhoUjBNdWFSTW53QUJmd05PcnhKd1kwYmZlM1lveDBITWpCWGFFXzRPa2tEX3lGMzJNSGhOSGFn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaERDb0Z0eUlUQ0tQTWREeW9kTDV0OEZIbjlDOXhiaUtscXpoeTVPUlh6ZVhTVUdPYU9GUlZ2UDFxMThic1dUY1hkMmJoOTVmc3ZEZ01USXRONmlZWDdTWjRrN1QxN3REWENVcTR6bXB0NWt5MlQ4OHhvVkFVYmF6bkNIakNfdHFGRHhFR3ZyT25ITExrNEljYVRpeGFtYkRPV3J5dGRkQnRlUzFjVkVBb0Q3WVF3MzZtQXg4MThsWDdyVWhMTWJiNFdEZ0F6dVhBaVdadlYyb08yRXQzUHZsUWVtMnE4cHhIUXJ5QU9R0gHzAUFVX3lxTE9IRFZjenVmTjJ2cG4zNDVQc3RtcndUYlBGNHRwdWNRa1VrMV9pM01tSTMyMmdWMTNfZ0ZGYmhObjltOEFneUxmOGJFQXJ0bl9qdUNhZ0x3a0U3UkZmQk1fc204SVpveTMzMk5sSGNpNWRFYUdoRm41Ym50WFowaHk2bk9RMnh0YmI3M01lUzZsYlBGb1AtaW5LMzNpUUR5dDhYUFN3VU9SZTZMZUtWYXR0MjRQaUhVRGxoQzF2XzNjd0VOZ1h1LTFSRkJhRFJfTElfY0lGZmNJUjdzMTRyUGxqYjU4emJDS00tUXVEZ2FMNGcwZw?oc=5"
     }
    ]
   },
   {
-   "titulo": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "resumen": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\" La República",
+   "titulo": "JNJ propone destituir al juez Jorge Chávez Tamariz a pedido de Rospigliosi y Montoya",
+   "resumen": "JNJ propone destituir al juez Jorge Chávez Tamariz a pedido de Rospigliosi y Montoya La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdTEzd2x5eENyN1dzXzluVzdYS2tKWks3LW8zclRyTWNlSXdkbDRIdmo1TEFPQ1gyLWJIMkZOSkR1dlRuc2g5R2NkNDRBdW4tSXBiVlV2eFFzbmFzUmhEY254VmREc1R5RGEwRkNGSnB2b1hsaGJJcDcxaWVBUkhpNmxUTGQwS2NaeFlBcURDbThSTkRpTU1HVDVZa01KOEpKWENjZXNLZzVoTmw4NEF6X01fV1d3R2FjQnhMNlZQSXFlWmZoOG5rTFpGbkREREJHb1dSc2Zhbllzd0hYeFRibU1WQ1LSAeoBQVVfeXFMTklMTHNwTXZoZWR4SFJpbzg0SnlXeEVJSHN5ODR1QnRQTkVTVUVUakhjZDB2NThYOUJEMmNOSFhkX3NaazI1T1VjSGowVGEwWG1ncEdaaDdOWi1weFdoMGRBU1lVcEtTZHIycWs2dllHejNSX3hZemRyZlFqMmZacHFsWEtLN1cxXzQ5bC1wcVRRczF5ZUR2YWpub0pZcUFDX2ZyZDZnMHRGbmhHb0NQNDFPbE4yRURfdnJfNnNiaUZ5WGlKMkJuZ1B4dWhwMVBoLW5MQUU0R0p0SUZfSFM2UVNJZGpVbWw3Nk9R?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEJWaGNoSk93SGVncG5lQXlxbzZaZUJLbHJoRTZuME81VDhPR29vVGF5SW8xMWVHcUVZWFdXY1V3VURBbk9GYW9hUjZDVGVGLWNkdDlyOWM2Ym1GTzllV2hheVA5U3NEV3FPbUZ1azNiNi1FYUFtQUtGMXRqTWhLU3JSTmZnODlDSm04U0JYS2lOYzFadnAzVFB6Y2RCbXJxZmxFd1BnaHNBSGxTX1huY2hVRjNfQUhyOEVWYnVmbUFlLUJDZlRheGZtRGV6SEZ6WDNXQkZ1VEnSAd4BQVVfeXFMUFhkeFg3dVlPNHdlUzNyR1RDVTJ4VE9lQzFmZE52Y2IxYkVYTnVpSFRYeUNqWWNrT25NS3VtSFpRdXh1UlNBLS1hTEJzblBab0VTSlU5blR3ZENPSG0yZHJYeHBHWG9uUWhrWHRCSm9PR0RDWXZHSjBpT0tQeUhSdEVBLXJjMy1fb2NYanRfNWsyOGFHSHFISG8wbHFHVEViRWdYQmVqdDB2aTBob3ZLVWRMdjgyZE11U0ZIZm4yRlpsVkdyX0txUVNicE40WVJmZXprNWptXzhMT2FlOTR3?oc=5"
     }
    ]
   },
   {
-   "titulo": "Consultas, servicios y alertas en vivo",
-   "resumen": "Consultas, servicios y alertas en vivo La República",
+   "titulo": "Minería ilegal ya igualaría la producción de oro formal en el Perú, advierte la SNMPE",
+   "resumen": "Minería ilegal ya igualaría la producción de oro formal en el Perú, advierte la SNMPE La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3MFpCTExadXFIRm9YVElRSDVpU1oxRENOeHVrRFNOeVRZMjM2Y3R4S0w1b0c4TTdUYlhfUmotdGZSVVdtaThhVVpB?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkVFZjVSNUN0MDZWTFdOdlNPTDU5RFdUbU4zaEJpaHRTNHFoaW5IQk56UGdDcVZsNFhvcjlBdzZZakhIWGlLSWJyLTljNGh3STlkZXNFV2xPeG1kczhDbGVuRlpPOGluSmtETTVaNTJzdmdZcl90bnlIeFM1Ujh6ZjE0aWVicGotSVZKVy1mSC1BdExIa19QRDM1Wkpwb2ZtV1B2dVBnOGlzX3R4VmJZV3pwY1c4VFVVRjA1X0J3TDZQTkNpWXN3X3NUaktzWlEt0gHWAUFVX3lxTE5aNzVKOEdHejR2Szl0dzY2Uk44cUZsSHRBdWxpN3o4TUd3cDNZT2I2LTJRZzdhT0VfZXhLdVBTZ3FzdkdwekpoWXd4Y2tjUWc0WUZ4bUFuRU5Jd1E3SEpZcUdOMV9yWG13NlRCTEx5Q1VMYWlkcWtydEFJaU4xQ2hQRXpTRThxbHRVSTJLMTdXLVA2ZmNDcnVDSktndk9nZ002Zy0tMV9JNFJWdTZsTE96cWYwaDFBVTljZHY3bFFVVDdBLWRNVFFUMVdwT0h4MkpMOU9HQ3c?oc=5"
     }
    ]
   },
   {
-   "titulo": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela",
-   "resumen": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela La República",
+   "titulo": "Carlincatura del jueves 26 de noviembre de 2026",
+   "resumen": "Carlincatura del jueves 26 de noviembre de 2026 La República",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdy1Ua3ZpbWV1LTBSTWUxWXAtNzlFenZFSGhwdGtHLWg5c2YzTXhKOUFnbnVVS0FaMlAwSFUyZUNjY3l6RG15cUlBMnZMR2dFcHNNbm1XMzI5cFdXVWZ2Z1VPdDFwX0hjaXd1VU9PNmZnQ202R21pWmVYS0p5NHJBQ0N4RjAzZ1VXWkFBUVJtMFM0d2poWTBUcVJlRXBzSUViNVRRSXRjNm91WW5Xc1Z6RFJ0NlFVRmZMWXktM0Ffb0NLUzNZSTJTSklJOEozNTFnaU5HRGl3SEgtZnJSVDR4SkRBcnlwWkpEajRNeHZ0VjJUdzktWXNJekpSVnl6X3PSAYQCQVVfeXFMT3JJckM3eVRZTVdYaUNXMFdhZ3RDcWhUdWphWldmQXozaGZRSzBpdFpHRDVwXzhTYzM5RXlKcmd6azcwN3pRTG4yYUxfaS1MeXBma3hWQUZKb25yVnNQZHA3aHBMQjVtQmlDWUpIbkFOcVdVVHh6UnB3M3BiVDRLaXVFYy1XTWh5eElHdUNCd1l0eDN4UjBKWk1ZNnhoVEtRR2VlMU5TY21VNVZLQXF3RzNSdDFFRTNqMlUxZHZoRGJielIzd1pLd09JX09RSVE0N2pHUFcyNW1YSlpuZURiVWx1VXpkaXFyODR1M2htUmNveEV0QUdVakpUN3hmNXR0QWl1N20?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTFDYThYZ1Y4emg0TXZZNDI1NkQwMjllYXEzR2o2Y1pXV3dqX3dScTFzTTZGamo1c21jb2xmdDZyQXNsVklkUlBUUEV5cHZMeldvTU82eWxTbGJEYTJrRGQxM205bFNuQUF3Wk5HcjlDQTA0MXduSldLRl9QQ1VZQkw1WXdseWhhM0RiMjJvRmdGLVlmRDJBQm5XVWs2RmUwQWFnQQ?oc=5"
     }
    ]
   },
   {
-   "titulo": "Simposio estudiantil de astronomía reunirá a estudiantes y cosmonauta ruso Oleg Artemyev",
-   "resumen": "Simposio estudiantil de astronomía reunirá a estudiantes y cosmonauta ruso Oleg Artemyev La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZThvYVJsRzMzNllpa08wUnl0U3F5eDVnZmVUZmJZVlQ1YjkyT2dhMlNUVUJpTm8tdkNxLUloci1udEJNSWk4T3FrZHlHa19jY0lqUllqdVRVTEgwOVN1QUdzS3VTWTBkZWVSaHEweEkyRy1PRm15R2xGWTJHWDlHdGRjVkk4Uk10NGRKeHVMamZOWENva2dqOEFwc1lrTXM4dk1pc0VQWDlaaEVaTGZtLWFVSXJjRTZlX1l1NHdMSTg2dEFiYW5SdXdKWVJEU1lKQ20wUVlXRlVFWHpFRnR4X1I2LXN5RFZySURtNVZ3Z2ZFaUlMdUMwbw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "La cuenta del feminicidio",
-   "resumen": "La cuenta del feminicidio La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEdQV2pIaDF0N09tZ21sYUp4NTAySmU5VHBfQUNjRzkweExHbmU0dTRRaWN5YXhzaXN2WF81bEI1WFd0NVNBWVVONlRMajdTOVVkVXZvX1R4REQzZVAzS1RpQmNBelNqYVhVMXlpN2hsZ1Nja193VU1FclA5aG91eUktMkV5ZjliendGdkp30gGTAUFVX3lxTE1kTzBUQXdJYTdBbF96U0FERml1MVp0V2o0aGJlQnk5V1BUOVEwWTktbDk4ckkyUE1yRE5YYXFjOWxoQmNHWFljQktTV0FQQk5kdWlJLWl5RFVpdjFKeHo0U3h3Q3hqRWhHNUhucVRjTWo5V0dzakR1WnQ4Qzc3T2Q4YTZRWUI2Z1VZdXFnV0wxeFFkRQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "25N: reconocer el machismo es el primer paso, por Cynthia Cienfuegos",
-   "resumen": "25N: reconocer el machismo es el primer paso, por Cynthia Cienfuegos La República",
-   "seccion": "Perú",
-   "importancia": 3,
-   "enlaces": [
-    {
-     "medio": "La República",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3EzWWQ1R3FobnRSQ0d6bldIME5Bd2ZCTUgtWWJvMHZrcEg4X3lUcTB1bGJfT3pwOS1GVmYyRjEtTDFYSXJuNTJ6SmxSSklKT3dZTGtvcE5fcEVUWkc4RUY0eFBSN3MyWlBfNmZmeTFZV0tVY2UwMDB2Y19BVjI2cFZJN0daT182V3Q4WlNTUjdOdFBXelloVFQ4QVpoOFdBbVBlV05zV01tQ0JoSHRDaXFnSWJZWGfSAbwBQVVfeXFMTkkzMnhOTW4tcy02TGdmeWkzRDlFYnR0OU5mZnFYa29fTXVSRVpNdk13a3ZBdWFLcEtLWGZhZ3pfTkkwYkpYWV9TTFJGSWZVWm5oZnBqZ1g2MEJwdnNzVUdlTkdudXV3MUd6ejdKbWlTSkJ1MF9iZXdTZVhrLWdfbHNLemZqT3MzR3RmdTVfVUFXMFhnck9zT2xJSWVrY3d4OUdwU29wSXZqYVhmbXhydUZKZEEzTk12aHQ1dUE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Champions League: Tajon Buchanan le dio la victoria a Villarreal ante Slavia Praga",
-   "resumen": "Slavia Praga vs Villarreal se enfrentaron por la UEFA Champions League. Aquí todos los detalles y resumen del encuentro.",
+   "titulo": "Trabajos de reparación de infraestructura en la Costa Verde se extenderán por un mes y medio",
+   "resumen": "La zona intervenida se encuentra entre las bajadas San Martín y Armendáriz, donde la Municipalidad de Lima dispuso restringir el tránsito vehicular debido a los daños por oleajes.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/futbol/ligas-internacionales/champions-league-se-enfrentan-slavia-praga-y-villarreal-por-la-fecha-5-noticia-1719431"
+     "url": "https://rpp.pe/lima/actualidad/coste-verde-trabajos-de-reparacion-de-infraestructura-se-extenderan-por-un-mes-y-medio-noticia-1719989"
     }
    ]
   },
   {
-   "titulo": "Champions League: Anthony Gordon anotó un doblete en la goleada 4-1 de Barcelona a Sabah",
-   "resumen": "Sabah vs Barcelona se enfrentaron por la UEFA Champions League. Aquí todos los detalles y resumen del encuentro.",
+   "titulo": "Fichajes de la Liga1 2027: altas y bajas en el mercado de pases del fútbol peruano",
+   "resumen": "Conoce cómo se mueve el mercado de pases en todos los clubes que disputarán la Liga1 2027.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/futbol/ligas-internacionales/champions-league-barcelona-visita-a-sabah-por-la-fecha-5-noticia-1719430"
+     "url": "https://rpp.pe/futbol/descentralizado/fichajes-de-la-liga-1-2027-contrataciones-altas-y-bajas-en-el-mercado-de-pases-de-la-liga-peruana-alianza-lima-universitario-sporting-cristal-sport-boys-cienciano-noticia-1719966"
     }
    ]
   },
   {
-   "titulo": "Concejo Municipal de Lima 2027-2030: los regidores que acompañarán a Jeanette Alonzo",
-   "resumen": "Renovación Popular obtuvo el 27,685 % de los votos válidos, y logró 21 de las 39 regidurías en disputa. Rafael López Aliaga podrá integrar el Concejo Metropolitano, aunque no volver a ejercer la alcaldía tras la decisión del JNE sobre la denominada reelección encubierta.",
+   "titulo": "Confirmado: previo a la semifinal contra la 'U', Sport Huancayo le renovó al delantero Daniel Porozo",
+   "resumen": "Luego de anotar un doblete a Universitario, Daniel Porozo firmó un nuevo vínculo con Sport Huancayo.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/politica/elecciones/concejo-municipal-de-lima-2027-2030-los-regidores-que-acompanaran-a-jeanette-alonzo-noticia-1719610"
+     "url": "https://rpp.pe/futbol/descentralizado/sport-huancayo-vs-universitario-daniel-porozo-renovo-contrato-previo-a-semifinal-ida-de-liga1-2026-noticia-1719990"
     }
    ]
   },
   {
-   "titulo": "PSG vs Roma EN VIVO vía ESPN y RPP: juegan en París por la fecha 5 de la Champions League",
-   "resumen": "PSG vs Roma EN VIVO: sigue el partido en el Parque de los Príncipes por la fecha 5 de la Champions League.",
+   "titulo": "Milan vs Olympiacos EN VIVO: juegan por la fecha 5 de la Europa League 2026",
+   "resumen": "Milan vs Olympiacos EN VIVO: sigue el partido en el Estadio Georgios Karaiskakis, por la fecha 5 de la Europa League.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/futbol/champions-league/psg-vs-roma-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-liga-champions-league-via-espn-partidos-de-hoy-noticia-1719548"
+     "url": "https://rpp.pe/futbol/futbol-mundial/milan-vs-olympiacos-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-liga-europa-league-via-espn-partidos-de-hoy-noticia-1719728"
     }
    ]
   },
   {
-   "titulo": "La Confederación Africana de Fútbol respeta el fallo del TAS sobre Copa África y \"tomará medidas\" para su ejecución",
-   "resumen": "Fue la propia Confederación Africana de Fútbol la que en marzo retiró el título a Senegal y se lo entregó a Marruecos.",
+   "titulo": "Alista cambios para enfrentar a Perú: ¿cuál es el plan de Panamá de cara al amistoso con la 'Bicolor'?",
+   "resumen": "El técnico Thomas Christiansen se refirió a los planes inmediatos de su selección pera el partido amistoso frente a Perú el 9 diciembre.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/futbol/futbol-mundial/caf-respeta-el-fallo-del-tas-sobre-la-copa-africa-y-tomara-medidas-para-su-ejecucion-noticia-1719781"
+     "url": "https://rpp.pe/futbol/seleccion-peruana/alista-cambios-para-enfrentar-a-peru-cual-es-el-plan-de-panama-de-cara-al-amistoso-con-la-bicolor-noticia-1719988"
     }
    ]
   },
   {
-   "titulo": "Renzo Reggiardo anuncia coordinaciones para la transferencia municipal ante proclamación de Jeanette Alonzo",
-   "resumen": "Al saludar la proclamación de Jeanette Alonzo, el alcalde Renzo Reggiardo sostuvo que el primer tema en la agenda es la instalación de las comisiones de transferencia.",
+   "titulo": "BID anuncia financiamiento de US$ 10.000 millones a Perú: ¿a qué se destinarán estos recursos?",
+   "resumen": "El acuerdo contempla US$6.000 millones para proyectos de inversión pública y US$4.000 millones para el sector privado durante los próximos cuatro años. El BID detalló que los recursos también impulsarán iniciativas en educación, seguridad, agua e infraestructura resiliente.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/politica/actualidad/renzo-reggiardo-anuncia-coordinaciones-para-la-transferencia-municipal-ante-proclamacion-de-jeanette-alonzo-noticia-1719780"
+     "url": "https://rpp.pe/economia/economia/bid-habilita-financiamiento-de-us-10000-millones-a-peru-a-que-se-destinaran-estos-recursos-noticia-1719987"
     }
    ]
   },
   {
-   "titulo": "Verónika Mendoza en CADE 2026: \"El gas de Camisea sale de Cusco, sin embargo paga la energía más cara del país\"",
-   "resumen": "Durante su intervención en el foro empresarial realizado en Urubamba, la gobernadora regional electa de Cusco contrastó el potencial económico e histórico de la región con el abandono de sus servicios básicos. Como ejemplo mencionó el deterioro de centros de salud en Kosñipata y Ocongate, la falta d",
+   "titulo": "Proética presentó conjunto de 14 propuestas de reformas legislativas para la lucha contra la criminalidad",
+   "resumen": "Las iniciativas buscan corregir disposiciones aprobadas por el anterior Congreso que, según la organización, limitan las herramientas de jueces, fiscales y policías para investigar delitos.",
    "seccion": "Perú",
    "importancia": 3,
    "enlaces": [
     {
      "medio": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/veronika-mendoza-en-cade-2026-el-gas-de-camisea-sale-de-cusco-sin-embargo-paga-la-energia-mas-cara-del-pais-noticia-1719767"
+     "url": "https://rpp.pe/videos/la-rotativa-del-aire/proetica-presento-conjunto-de-14-propuestas-de-reformas-legislativas-para-la-lucha-contra-la-criminalidad-noticia-1719980"
+    }
+   ]
+  },
+  {
+   "titulo": "Argentina: dólar blue hoy a cuánto cotiza este jueves 26 de noviembre",
+   "resumen": "La cotización del dólar blue, hoy jueves 26 de noviembre en el país de Argentina es de $1690 compra y $1710 la venta.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-26-de-noviembre-noticia-1719895"
     }
    ]
   }
