@@ -1,0 +1,800 @@
+{
+ "actualizado": "2026-11-28T13:17-05:00",
+ "modo": "titulares",
+ "total_titulares": 309,
+ "medios": [
+  "Andina",
+  "BBC Mundo",
+  "Caretas",
+  "Correo",
+  "DW Español",
+  "El Comercio",
+  "El País",
+  "France 24",
+  "Gestión",
+  "Infobae América",
+  "Infobae Perú",
+  "La República",
+  "Ojo Público",
+  "Perú21",
+  "RPP"
+ ],
+ "noticias": [
+  {
+   "titulo": "Palmeiras vs. Estudiantes: Hora y canal para ver la final de la Copa Libertadores",
+   "resumen": "Palmeiras y Estudiantes de La Plata, dos de los clubes más respetados de Sudamérica, disputan el sábado en Montevideo la final de la Copa Libertadores, un duelo entre el equipo más constante de los últimos años y uno de los grandes referentes del continente.",
+   "seccion": "Perú",
+   "importancia": 5,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/argentina/video-mi-telefe-en-vivo-gratis-ver-pelota-libre-estudiantes-vs-palmeiras-por-final-de-copa-libertadores-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/copa-libertadores/palmeiras-vs-estudiantes-en-vivo-a-que-hora-juegan-y-donde-ver-canal-tv-via-espn-final-copa-libertadores-2026-partidos-de-hoy-noticia-1719941"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/mix/sports/a-que-hora-es-y-en-que-canal-transmiten-estudiantes-vs-palmeiras-en-vivo-hoy-por-la-final-de-la-copa-libertadores-2026-canales-tv-online-nnda-nnrt-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-palmeiras-vs-estudiantes-hora-y-canal-para-ver-final-de-copa-libertadores-1101791.aspx"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/deportes/2026/11/28/donde-ver-palmeiras-vs-estudiantes-de-la-plata-hoy-canal-tv-online-partido-final-copa-libertadores-2026/"
+    }
+   ]
+  },
+  {
+   "titulo": "🔴 ESPN EN VIVO GRATIS — cómo ver partido Real Madrid vs. Alavés por Fútbol TV y Disney Plus Online",
+   "resumen": "Sigue la señal oficial de ESPN y Disney Plus para ver el partido entre Real Madrid vs. Alavés EN VIVO y EN DIRECTO hoy sábado 28 de noviembre en el Santiago Bernabéu por la jornada 14 de LaLiga EA Sports 2026.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/en-que-canal-transmiten-real-madrid-vs-alaves-en-vivo-hoy-por-laliga-2026-en-espana-mexico-y-estados-unidos-canales-tv-online-noticia/"
+    },
+    {
+     "medio": "Gestión",
+     "url": "https://gestion.pe/mix/sports/sky-sports-en-vivo-por-internet-como-ver-partido-real-madrid-vs-alaves-en-directo-en-futbol-tv-y-sky-plus-online-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Manifestantes atacan edificios del gobierno en nuevas protestas en Albania",
+   "resumen": "Protestas en Albania | La policía de Albania recurrió a gases lacrimógenos y cañones de agua este sábado en Tirana, la capital, después de una nueva manifestación en la que jóvenes enmascarados atacaron edificios gubernamentales e incendiaron al menos una sede ministerial.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/europa/protestas-en-albania-manifestantes-atacan-edificios-del-gobierno-en-nuevas-disputas-en-tirana-edi-rama-ministerio-de-educacion-ultimas-noticia/"
+    },
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/mundo/manifestantes-atacan-edificios-del-gobierno-en-nuevas-protestas-en-albania-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Corte de agua en Lima hoy 28 de noviembre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-hoy-en-lima-que-distritos-seran-afectados-a-que-hora-vuelve-el-servicio-y-mas-via-sedapal-tdpe-noticia/"
+    },
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-28-de-noviembre-distritos-y-horarios-afectados-noticia-1720239"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del sábado 28 de noviembre de 2026",
+   "resumen": "La sacudida nocturna ocurrió a las 21:55 del viernes, tuvo una profundidad de 68 kilómetros y fue percibida con intensidad II-III en la ciudad fronteriza",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-27-de-noviembre-magnitud-y-epicentro-del-sismo-segun-igp-live-3732"
+    },
+    {
+     "medio": "Infobae Perú",
+     "url": "https://www.infobae.com/peru/2026/11/28/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-sabado-28-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "titulo": "El B.A.P. Tacna se desplaza a Piura con 18 mil litros de agua para afectados por El Niño",
+   "resumen": "El ministro de Defensa, Rafael Belaunde, anunció el desplazamiento del B.A.P. Tacna, buque multipropósito de la Marina de Guerra del Perú, hacia la región Piura, con 18 mil litros de agua potable destinados a las familias afectadas por las lluvias e inundaciones asociadas al fenómeno El Niño.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/fenomeno-el-nino-bap-tacna-llegara-a-piura-con-18-mil-litros-de-agua-para-familias-afectadas-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-el-bap-tacna-se-desplaza-a-piura-18-mil-litros-agua-para-afectados-por-nino-1101800.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Más de 824 mil usuarios de Pensión 65 cobrarán desde este lunes bono de S/ 350",
+   "resumen": "Desde este lunes 30 de noviembre, un total de 824 351 usuarios del Programa Nacional de Asistencia Solidaria Pensión 65 podrán cobrar un bono extraordinario de S/350 que, sumado a su subvención bimestral, les permitirá recibir S/700 en esta oportunidad, informó la ministra de Desarrollo e Inclusión ",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/peru/pension-65-mas-de-824-mil-adultos-mayores-recibiran-bono-extraordinario-de-s350-desde-el-lunes-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-mas-824-mil-usuarios-pension-65-cobraran-desde-este-lunes-bono-s-350-1101792.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "Presidenta Fujimori continúa supervisión de zonas afectadas por lluvias en Piura",
+   "resumen": "Desde Piura, la presidenta de la república, Keiko Fujimori, continúa con la supervisión de las acciones de respuesta ante las lluvias intensas. La jefa de Estado llegó anoche a la región del norte.",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Correo",
+     "url": "https://diariocorreo.pe/edicion/piura/keiko-fujimori-recorre-en-bote-zonas-afectadas-por-intensas-lluvias-en-piura-fenomeno-el-nino-noticia/"
+    },
+    {
+     "medio": "Andina",
+     "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-continua-supervision-zonas-afectadas-lluvias-piura-1101790.aspx"
+    }
+   ]
+  },
+  {
+   "titulo": "El Tribunal del Mar rechaza la petición argentina de medidas contra un proyecto petrolero en Malvinas",
+   "resumen": "MADRID, 28 Nov. (EUROPA PRESS) - El Tribunal Internacional del Derecho del Mar aprobó este sábado por 18 votos contra tres rechazar… The post El Tribunal del Mar rechaza la petición argentina de medidas contra un proyecto petrolero en Malvinas appeared first on Caretas .",
+   "seccion": "Perú",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "Caretas",
+     "url": "https://caretas.pe/mundo/malvinas-tribunal-del-mar-rechaza-reclamo-petrolero-argentino/"
+    },
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/ck7v21npjpz5o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "titulo": "Costa Rica niega la entrada a la relatora de la ONU sobre los Territorios Palestinos, Francesca Albanese",
+   "resumen": "Las autoridades migratorias de Costa Rica impidieron el ingreso a la relatora especial de la ONU sobre los derechos humanos en los territorios palestinos, Francesca Albanese, alegando una \"alerta internacional\" por supuestos \"vínculos con actos terroristas\". Albanese, que viajaba para recibir un doc",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "medio": "France 24",
+     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261128-costa-rica-niega-la-entrada-a-la-relatora-de-la-onu-francesca-albanese"
+    }
+   ]
+  },
+  {
+   "titulo": "Siete muertos y casi un centenar de heridos en una explosión accidental junto a una escuela en Afganistán",
+   "resumen": "Los explosivos destinados a la construcción de una carretera se detonaron accidentalmente en una casa cercana a un colegio en la ciudad de Asadabad.",
+   "seccion": "Mundo",
+   "importancia": 4,
+   "enlaces": [
+    {
+     "medio": "El País",
+     "url": "https://elpais.com/internacional/2026-11-28/varios-estudiantes-muertos-y-casi-un-centenar-de-heridos-tras-una-explosion-accidental-cerca-de-un-instituto-en-afganistan.html"
+    },
+    {
+     "medio": "DW Español",
+     "url": "https://www.dw.com/es/siete-muertos-y-casi-un-centenar-de-heridos-en-una-explosión-accidental-junto-a-una-escuela-en-afganistán/a-80084073?maca=spa-rss-sp-all-1122-rdf"
+    }
+   ]
+  },
+  {
+   "titulo": "Tras unos días secos, vuelven las lluvias al sur de Florida: cuándo volverá a caer agua y qué temperaturas se esperan",
+   "resumen": "El sur de Florida disfruta de días secos y frescos, pero el clima está por cambiar. Conoce el pronóstico para Miami-Dade y Broward y cómo prepararte.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/florida/tras-unos-dias-secos-vuelven-las-lluvias-al-sur-de-florida-cuando-volvera-a-caer-agua-y-que-temperaturas-se-esperan-clima-estados-unidos-nnda-nnlt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "⚽ ¿A qué hora juega y en qué canal transmiten Club América vs. Rayados de Monterrey EN VIVO hoy por Liguilla MX 2026 en EE.UU. y México?",
+   "resumen": "Consulta los horarios y los canales de TV para ver el partido Club América vs. Rayados de Monterrey EN VIVO GRATIS ONLINE hoy por la vuelta de los cuartos de final del Torneo Apertura 2026 de la Liguilla MX.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-juega-y-en-que-canal-transmiten-club-america-vs-rayados-monterrey-en-vivo-hoy-por-vuelta-liga-mx-2026-en-eeuu-y-mexico-canales-tv-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Monserrat Seminario niega embarazo y estalla contra las hijas mayores de Melcochita: “Que se metan conmigo”",
+   "resumen": "La piurana negó estar embarazada y aclaró que mostró zapatitos de bebé durante una transmisión en vivo como parte de una broma",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/tvmas/farandula/monserrat-seminario-niega-embarazo-y-estalla-contra-las-hijas-mayores-de-melcochita-que-se-metan-conmigo-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "​📺 ¿Dónde ver Club América — Rayados de Monterrey EN VIVO GRATIS por cuartos de final de Liga MX 2026 en TV abierta y online?",
+   "resumen": "El partido de vuelta es el sábado 28 de noviembre a las 21:10 h de CDMX en el Estadio Banorte (Azteca). Conoce cómo y dónde ver Club América vs. Rayados EN VIVO y EN DIRECTO GRATIS por TV abierta y streaming online.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/donde-ver-club-america-rayados-de-monterrey-en-vivo-gratis-por-cuartos-de-final-de-liga-mx-2026-en-tv-abierta-y-online-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Partido Palmeiras vs. Estudiantes hoy en Montevideo: hora, TV en directo y formaciones por la final de la Libertadores",
+   "resumen": "Palmeiras vs Estudiantes en vivo gratis hoy sábado 28 de noviembre.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/deporte-total/futbol-mundial/palmeiras-vs-estudiantes-en-vivo-gratis-hoy-horarios-y-canales-para-ver-final-de-copa-libertadores-lbposting-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Pronóstico del clima para hoy en el Perú: ¿A cuánto llegará la temperatura máxima y mínima?",
+   "resumen": "El Senamhi dio a conocer el pronóstico del tiempo para Lima. Conoce qué temperaturas se esperan durante la jornada y si habrá presencia de sol, cielo nublado o neblina en la capital.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuanto/senamhi-y-el-pronostico-del-clima-para-hoy-en-el-peru-a-cuanto-llegara-la-temperatura-maxima-y-minima-en-medio-de-el-nino-2026-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Al menos 10 muertos y 110 heridos por explosión cerca de una escuela en Afganistán",
+   "resumen": "Al menos 10 personas murieron y más de un centenar resultaron heridas, en su mayoría estudiantes, al registrarse una explosión este sábado en una vivienda cercana a un instituto en la ciudad de Asadabad, capital de la provincia oriental afgana de Kunar, confirmaron a EFE autoridades locales.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/asia/afganistan-al-menos-10-muertos-y-110-heridos-por-explosion-cerca-de-una-escuela-en-la-ciudad-de-asadabad-kunar-instituto-de-secundaria-de-shagi-talibanes-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Freezer va en busca de su revancha: fecha de estreno, hora y link para ver el Episodio 8 de “Dragon Ball Super: Beerus”",
+   "resumen": "El anime \"Dragon Ball Super: Beerus\" sigue con Freezer de vuelta. Revisa cuándo y a qué hora se estrena el episodio 8 de la producción, y cómo verlo en Crunchyroll.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/fama/que-ver/dragon-ball-super-beerus-episodio-8-fecha-hora-y-link-para-ver-el-anime-de-crunchyroll-nnda-nnlt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Los zancudos no te dejan dormir? Estos ingredientes de tu cocina podrían ayudarte a ahuyentarlos",
+   "resumen": "Las altas temperaturas favorecen la presencia de estos insectos en los hogares, convirtiendo las noches en un verdadero desafío para quienes buscan descansar. Sin embargo, existen algunos ingredientes y alternativas que suelen utilizarse para mantenerlos alejados y reducir las molestias que ocasiona",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cual/los-zancudos-no-te-dejan-dormir-estos-ingredientes-de-tu-cocina-podrian-ayudarte-a-ahuyentarlos-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Alcaldes de Piura piden ayuda urgente al Gobierno tras intensas lluvias que dejan inundaciones y unas 2 mil familias afectadas",
+   "resumen": "Los alcaldes provinciales de Sullana y Morropón solicitaron la intervención inmediata del Gobierno Nacional para atender la emergencia ocasionada por las precipitaciones extremas en Piura. Según los reportes oficiales del Centro de Operaciones de Emergencia Regional (COER), se registran más de 2,000",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/peru/piura/alcaldes-de-piura-piden-ayuda-urgente-al-gobierno-tras-intensas-lluvias-que-dejan-inundaciones-y-unas-2-mil-familias-afectadas-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones locales en Ecuador enfrentan a Noboa con el correísmo bajo inhabilitación",
+   "resumen": "Ecuador celebra este domingo sus elecciones locales con el presidente Daniel Noboa en busca de arrebatarle al correísmo las principales alcaldías y provincias que todavía controla la mayor fuerza de oposición, en una contienda donde el partido del expresidente Rafael Correa (2007-2017) está suspendi",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-locales-en-ecuador-enfrentan-a-daniel-noboa-con-el-correismo-bajo-inhabilitacion-rafael-correa-quito-guayaquil-cuenca-manta-ultimas-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Temblor en EE.UU. EN VIVO hoy, sábado 28 de noviembre 2026 — hora exacta, magnitud y dónde fue el epicentro del último sismo, según el USGS",
+   "resumen": "Consulta el informe del USGS sobre la actividad sísmica más reciente del 28 de noviembre en Estados Unidos, con reportes desde California, Nueva York, Oregón, Hawái, Texas, Alaska y otros estados.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/usa/en-vivo-us/temblor-en-california-en-vivo-hoy-sabado-28-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-el-usgs-la-nnda-nnrt-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Mensajes programados de WhatsApp: ¿el destinatario sabrá que preparaste el envío con anticipación?",
+   "resumen": "WhatsApp incorpora mensajes programados y despeja una duda importante: qué verá el destinatario cuando reciba un contenido enviado con anticipación.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/mag/data/mensajes-programados-de-whatsapp-el-destinatario-sabra-que-preparaste-el-envio-con-anticipacion-nnda-nnni-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Lista de feriados 2026 en Perú: Cuántos feriados tiene el mes de diciembre",
+   "resumen": "Diciembre traerá la última oportunidad del año para disfrutar de varios días de descanso en Perú. Revisa el calendario oficial, conoce qué fechas conforman el feriado largo de 2026 y organiza tus planes con anticipación.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/respuestas/cuando/cuando-sera-el-proximo-feriado-del-2026-en-el-peru-revisa-la-lista-completa-de-dias-libres-tdpe-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "Oscar, el neutral, una crónica de Fernando Vivas sobre el presidente de la Cámara de Diputados",
+   "resumen": "El presidente de la cámara de Diputados, Óscar Reto, creyó que esgrimir en público su neutralidad era una virtud. El auditorio no pensaba lo mismo. Pero él se mantuvo en sus 13.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "El Comercio",
+     "url": "https://elcomercio.pe/politica/oscar-reto-el-neutral-una-cronica-de-fernando-vivas-sobre-el-presidente-de-la-camara-de-diputados-noticia/"
+    }
+   ]
+  },
+  {
+   "titulo": "El 65% de trabajadores en Perú reportó burnout en el último año y el 62% piensa renunciar",
+   "resumen": "El 65% de trabajadores en Perú reportó burnout en el último año y el 62% piensa renunciar La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNThnRTZaUERSUVotRm8yRE1qU2c4X1hfaFZzbmtJUnBYNEtYVnRGNVVDMUdtSDFVV2dfNS0tQ3BBSzJYRW16Z0c3anFsVzJhTllsbGlqQklaeHBJcnVQOTJXQ3FoRnk1UDFjMk42TDJjOHZKNTdxM0RNTzF2LS1nLXNGRFpDTmRRSXFQLW9kc3ZBR0JJY0h0RS1Fd0U3X0ZLVlJjQXB3ckNIbGZVTzd4UHB4eFMyTGVyX1BNc2tycE4tRGsybkVvY2x4ZERJNU1qaC1VUVEzU0dfcXfSAeABQVVfeXFMTWlTdWswRmNiRDlTVTJicjJDb0gwNnhOWkNHWGZOQzNna05rX0dBSkJVY2lIZ2FTZDNvdHQ2OERndWxfYnR1SFp4WW9qLU1JcUlKYmRYTGNXTktGVDZnaHhQMU5kYXdfeEN1VXZiSS00MXA3cVZpcDdFWTJzS2huVEZyU09xYlN2Nl9oZ0o1amU5U3I4ZEY3ZFU2WEhGRnh3VjhZeWt4M2pEVm5aTHFLVV9IalpCdnlVVGdOLW1wTEVPcFhuNnZjODFCMk9vbk51cmZLWGpEdk9Jc3ViU0RYX3o?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fujimorismo retira a Marta Moyano de la Comisión de Justicia y cede el lugar a Jorge Gavidia",
+   "resumen": "Fujimorismo retira a Marta Moyano de la Comisión de Justicia y cede el lugar a Jorge Gavidia La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVkpJX2VxdVYwRnJYb3pLX2VLZEdKLXl2ZGluY3VEOGEyek1hejVkc1pGM3o0R2tTUXZ2VXlyZV9VNkR4YkV2NWIwbWJUQzZMSUxzdmFSazFjSTRtZ24zbzNHUmV3VEY4a3RVSS13Q2dZSGpET2ZlenVaSlBtd0M2aURoSmNGTVp4bHZjc1p5RlN4ZWFPZnFKamNUSkNUNks1RHl4Z3pkNGFXbHEzZGVlSXA0RjRnamVJN3R4RXVicVNDdFpUMnkzLWtzR3JzZjktX19VZlppcGR6TXZWZmNoZGRSRdIB6AFBVV95cUxNZUhkMzFhQThzOUpweFJTZHVmTFlZeXA4al9FZUpObjNTelVESVlFSjlQYklSRlR3dl9udGlIdk1Wdm83V3NWaVlWRVJocUhPQ3dublBKemZ0UExIMU5SZlF2djh1NXR5enEtcU5nWGtDOERPb19YMlRLWW5zSnJxNlY3TkdqYXdIVGlUZ2x5SEhVeEFoZURDb2N0QklMLVNYaGVmLWxKOFQ3UmYxTEZVVk43Y05fai1FQjcxVFZhWDJtQVdudmRiZUVacVZZV0M5SEhCR1FsX1JTUFh4dXF2RVVJOFdVVkV2?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Inician lluvias intensas en cuencas de los ríos Chillón, Rímac y Lurín: se extenderán hasta el fin de semana, según Senamhi",
+   "resumen": "Inician lluvias intensas en cuencas de los ríos Chillón, Rímac y Lurín: se extenderán hasta el fin de semana, según Senamhi La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcUdjaERjV09YUG1jNWZLMW5maG9ZMVFzWkd1SHFQejVQanBFV0NIVFV2X2FvSGsya0lGOWZBQzZPMVA4VFp2d2E0bFV6VjZBRXpjb0Q0U2ltTUd1UXNKaUxodG9GeEFwTzJaS1A5ZmFFb0VvTnlCSUlSeEdweW5JQ21iR3ktVTlwb1BsYXVUQWt4U0lsSnRTRy00czg1bzYtSnNjN0lLeU9sR3ZXWlpIeWZPRTBlQUZEaEZqQlNFR0UtQURKMWVVWVVWaHprYWpYMEFSdGh6UUg4S0NVVlFJSDVZNmc4NzVicVI5bjZPd0k1LVU0emo5QTVERmpXZENK0gGGAkFVX3lxTFBfS1dLNzNhRmUwZGNacEdBNnlyNDJXQzZTbFRNWXBpWDZfa292ZUltRjhqNkVyNXA1X1VTVTBwU1J5c1ZWX1hlNFB5Y0lYYks2ZUY1eFpzblFrSE5KNS1hWktqelUxb0RRd2lZaElhMnZ6MTcwQzV4Unc5RzNMR2FCYXc3azRZMVFISDExN0d4c3BEWWJBTmFHeUgtQjVvV0Uyc1VMcFA4NzJCS3JfcDR1Ym9ycEFMTUc3QS1IcEUxeS1zY3pEOVVuYlBHTUZqWkNqMWlUSERjUmF2Mk9nR2dXTG0wcEp1MDdvUm1PZXR6Z0pLQTY4enZWdWM4X2k5ZnR5bGl0eXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Niño: Osinergmin facilita el transporte e importación de combustibles para evitar desabastecimiento",
+   "resumen": "El Niño: Osinergmin facilita el transporte e importación de combustibles para evitar desabastecimiento La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFJ6eGxGN0lBM2JvMXVmXzBhbHRCaXpneU02RDVSaW9QSDVDdGY4TlZUSHhjMkpDc0lOc2VUV21aTWwxRGtVM1ZMZlZyNWtOR2RJUjNOMExhWlk0a203cFotcDBmWml6VDVrQ1RMWGdWLWhTWjlubGJnSGFEbG1Xem13c0k0c0gtTTF5ZmpuUjBTVFJXSEpJOVlvZHN2YVVXUXVPRW5nck85VEJwdGszTVNRS05KTGY1YWRiLUo2VUtwZ0lMTlpKVVZobFdRanRQMHVjTjJzc1owNWlDdHZMZXdVMDFUSUlZU0tvZ3Vhd9IB9AFBVV95cUxNdHFjSUlVYzZ4OFh2ZXQxYjZQWUVKQ1VFQzVnd2paVWxiTEMyNkMtVVRSWE9KOXlGcWdMcnpiMkVnd2xOaFM3Qk42dHhLV011SmRVV3ZDWFhYa0l3RXMtT05IWmxNZkNiakZkcTE2MkoyTElGSktUd3pVT3pQMnN0aVNnTlo2cVdIbjRlSFh0MUpMVjU2dmc5MWxFa3N5RDlHMmU1YTExN3JRZEhLN0F3eHFJQ3g2ZlY2LTM5TDlfZElURmtxcC02c3Fyd29jc1o1Szk2N2xiLUxhMVRqSDVwMWlObjczVTZIUUhib1BPZXVGa2ky?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Contradicción en Fuerza Popular: votó a favor de crear el Colegio de Artistas y ahora respaldó su derogación",
+   "resumen": "Contradicción en Fuerza Popular: votó a favor de crear el Colegio de Artistas y ahora respaldó su derogación La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZW4zUmlSZFItelE0RXRIRVpiUm1Lb1JpQnBZcjJGckVqRGVUdDdBQmJVak53d2FqZVFtc0JuR3J0bE9HSVdQSFdNZG9MVFA3YnBURjhQeFpkcHJ1T0RpZkg4aEhLS2pJYy1vN2NLTnlxWllBSk9LSVFBWlBySU1RS3VWc1luMENpdEZMTzJDMW0yT1E1SDBFYW9OV24xSHhrQ1BaZVFGcE1zXzVOdmlaQlo1R3Z3TmpDZXExUi1UQ1BOMS1FRFpwcDQzbG1zTjZvTm9FeURjRVY4QnI4NDhjS2FXWEVSMDgyU2RsX01hY0dTTnBxOVpN0gH8AUFVX3lxTE5Zek8yOFRfb2NWelc3OVNzSGJLR0l2cXllRXBpZ3RJOFBTbkZxWnFtSS1YWmVuRDA2b19hTHduR0tNZW5FS3RZMWxyV0JCTUltNnNrejFKNXZqSFJIdlpZWDdKNU1mRFA0Wk9XSlBmNUJpTmJvbmk3RHpEN0RNUXFMS1didVQ5YnFPa2N4MG5SWHJtT1FjMmlFaXFaVVlsRkxjN0VTRUtaSkQ0dVRxWGVIS0FvMUJuUnh4bFJpRFZDOEo2bzB1aXFTOTNjZy1kenI4MGZNcGFBSmVTRGY3XzFRZ3E4U0xkZ21zdk1yeHlmZFJ4WDNUZWllN3UtLQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "AFP: SBS convoca a licitación para elegir qué entidad recibirá a los nuevos afiliados desde junio de 2027",
+   "resumen": "AFP: SBS convoca a licitación para elegir qué entidad recibirá a los nuevos afiliados desde junio de 2027 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTzlJV1E1SEdJZW5qMGRIWUhSczlxdGJyNGRteVJYZkhucDRvNS1SNUYyVVcwTDZaVWRUb0FrUWZNN18yVVZtaFBVU2JYTUk2VkxZQ3p4aEpRYWoyVk9Td3BhZkgyeUhXVm1pYzFWeXlZek8wV1A0VktKbWR6U0V1a05IZ0NydXZUVFIyODhScmRNVG5EcnVtdDRwNHlpejBBa2huNWtkdm00cU5NWi0wZjE5c3p6eDlPdnR2QmtoYi1mR1RscWg1WTl0cG1PaDZyVnpGWTZFWU10WHpqUkdnc3FxdlFMOG5TMUtpdFYtelhXZUnSAfgBQVVfeXFMUHI3cHc2bWtQTklMUEdkN0FQcGhMdjBfNlZkWHlOZDFaRFBpMTdiTU81YVN0Z2h5cTE3d1FRcVVGakVQanlydlJ3eFo1VGNNTDRpUjMzanU4dnJlUVdSajJDdExUZ3dpZU9OU3hPZGV3enJGVWdpcV9vWXNXVjZNNGZqSngzVTltazBKb182WDlvOTdGWVA1VmZPWmlZdnE0VnVJbU5NY1Vkc281ZVpfbF9mQk8zYmswZUd3ZEtxd1dZbGhGRG9VaFdfNmNueThXLW5MdVY2dExoVmh3SHVnYzNlVDQ0cVBZTFVXb1ZNZ1V0U1NzeTJOb2E?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Piura: sistema de evacuación que promovió el Gobierno de Keiko Fujimori no funcionó y generó inundaciones en la ciudad",
+   "resumen": "Piura: sistema de evacuación que promovió el Gobierno de Keiko Fujimori no funcionó y generó inundaciones en la ciudad La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOTZxNjlxSVA5UUJNWjZZd1hlNDJTUlJxdDlBMUhvQVB6Z1ZhaE5ORmRZWWdHUmNSbFBXbzVNcENxNjB5cExWQXdfeE1rS3lNMFlGYTczY2lVUVNjTmNfaUR0LWtLcnpfOGwxd0p2M3BTeTV4T1V4WnU5N3k5WFhpX3B6Nm5KbWtnMXZYd3RWOUw3YmphSy1jVHNqdnRqZk1tcXVUdWJkSzZCUGpOMndZc2N1Q2VwczMyb0RWbzBZeGZfVWgwOTExR3l5dUh6cG9rdHZ3NF9xVnYyTldva0E1SFpjcmZCN0RiQUlxSlJNSmUzSmU2UzRkeHQtbWvSAYICQVVfeXFMTnp1OFVURFRQSjllalZwbDZ2NEJyajhTUS1RRlJWNjFpYlI1bFlycDRKUWpsM2RzYkhEazMydElVOXIzdy1jal9KWDZTLTVYRnFsa05ndmduNDAtTmpudzUxWGVtQ2wxNzVpSTRmT1JNUWNqVkNyTzZTOVVnblVDUGFBMkc1eUV3bGwxYlpHWGlwMmdTVmlac1BVcmpIU29iN2JGdFZGOTlyWFhSUXdkX3JfYmV4bUdDYmpwcC0yenpyeUcta0xZN0I3MzIyOVdKcE42MVRZTUVCcktpNG1EQy1aTG9EbDd6eG56OGE5ZjVvcVBPNVZpcHJNc2JXdmY4NGhn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Hallan una estrella que gira 261 veces por segundo y revela una nueva forma de explorar el universo en rayos gamma",
+   "resumen": "Hallan una estrella que gira 261 veces por segundo y revela una nueva forma de explorar el universo en rayos gamma La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZkJCdjN6eW9pZkN2bW9UUUl4SGxyWFk2Zy14T1ZwUHhGMVVtU1JuWGlyMVdHVGVVWS1YRkFkby1oWGhBTXdfRVRmLUd3dy1NczAtNjRPOTVmZlhRU2FmOTM4RUFrVThhTmQ5M1BMSF92MEY2MW5ZTEE4bmRKMzdBVnhvQmhZdzJJQjk5cmEzNjdIWVR1VHRPTmRLZWFBUUk4NEw2aUtMQ0hpTXdSdUUyNVhmbUR1eFNXUlZNdHNXV1VLenpFbExBMFZnZ0ZNUGlpNlIzWnVuV3dVcHQ3VUlWVkg5MEFlbjNSX2xNN1RxVEVja0RkZGfSAfsBQVVfeXFMUG5YVUZKckZoTmVOT19ZVDdhM3BHZktKanpud2pQTk1OdjlWYUsxX3h3empYcGctUkFtdmJHMWtlSGJfMS0yS1Q3OXFTMi1zbHAwcmotTExOQWN3Nk02MXJBR1hUbC1SM2FXYUFLdEFhWjgtQmxKcnM1aUdHQ3o4SDFvbndKdFNzaVJucjhpQkVNZ0Y5Nm5GZ0pqSHB2cnYxWTVKVFByWlFXZ1VaVXVVTkdPWFJ0eWJYRTJiQ0pFWHlkMjU0ODZzeGdYSHBLNUV1VXlUck9lX29kS2ItVVd0Wlctd28zQ1BTV0paMWVYS1NXcnNyZ2dhQnp3aVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Carlincatura del sábado 28 de noviembre de 2026",
+   "resumen": "Carlincatura del sábado 28 de noviembre de 2026 La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1lFbWd3VXdVRVMwWENac1pEaGllVWFQNWlQT3dfdXpqSHhqUjVveWZWcUdWTUNhdkhzenc1cnBNRHFiNTBMM055b3ZFSy14U1lsX21HR1RxWW9kWDZQazhfbVJmLWRhdEdLU1ozYTVpYWtjc2pyNEtHb25WQ2ozMkhHeDRUTEJoNXgwTkRudzhubXkwbnQwNmVEbWxmY2xVazV1Wg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Asalto en plena Costa Verde: quiénes están involucrados y qué se llevaron los atacantes tras la balacera en el Callao",
+   "resumen": "Asalto en plena Costa Verde: quiénes están involucrados y qué se llevaron los atacantes tras la balacera en el Callao La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMzlfc1libzZXZVRTdmpLMjBLckxFVXR5eEdiczdFSVpncGVSN19nMHY2N1pFWkVjRm9iUzdZNk44WDZtc2VRVlY0UWtHUnBRdTMxeGdZSzJhR1VGRFo0OE9BNlQzcjFPWlJZZlBBV19Ic3Z1eHppanY1QmFhQmc0bG1DUE12aURJMkZaekJLNURoM3M3S2JGTjU5ZUNGTmRRQ1RhV3VtYXB6c29RdkQ0ckhKQTE1ZDhoY2UwQlFGeDdRWnVKcHA4UEk4bVF3SEg2MzJCUVh1dy1zUkV3UGJDMUhNOVRGQlNuR1HSAe8BQVVfeXFMT0NXd252YkNrQXo0Ung1eGcyeHZMU3Z5OEl6TkRKT2s2Vjdra3VyaktleVBFcWpTQUpWUW80cE1LQTJDcnBIOGdWZGZCSHppZkhTeW52dVgzQzNVeDRsbkY3djFSckxZdmlTZDFldmFwaW9JNms5eEl4ZloxSGg3SVEyeEdteGVvZU9qb0JIeE16TDNNRTJvdzYwQWQxWjZ5VEpYLWlJdVZOSkpmU1JqTGNkaUl3Wmd3QkRQd0tYV0FpTjRXMDJLUmhkdTg0MUVWWnkxYnZiWVlFVFhTZXk0N0QtekgtM25VeHNNM2lrc00?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "García Belaunde cuestiona al BCRP por no comprar oro pese a contrabando",
+   "resumen": "García Belaunde cuestiona al BCRP por no comprar oro pese a contrabando La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTM2Vnp2TTZSVDQtMGFhdk8xNXRReXk3Z2dTajh0VGhrOElEaTRja2NBT2xWRTRNTkJKb0ZfbzNzeHZrQzdEd1hCck42bnJZM054M1Ftd3h0aVBfcHJ4YnhKaGpOc0t1ZlZzbnJJSEs2dnJ6Ym9zcEd4VVVJMGhkVXRmUF9GMXBGSVlZZTNKMXl1U1BnSTg3WEtTaDFHQ2FLNUlQdS1NLTEyUVNZTUMtb19yaFpoajladkZ2bDZrV2ROS2xDbXdZ0gHMAUFVX3lxTE9BQXR3TkdOTUt6UU9kNmR1NkZxb3dJOVRWdC1saXk1WVIydUx2TGlqdWM4RENqc3E1VGJKNkFKanU4WmFNVS0tSGVxVE1MbFN5aldIZWRqM3RfVDF3MVBLbXQ1VnZHT3d6V1FKX2Z2Sy1Lb01FM1ZqLXdMQWF5TExwRVpPRXhSeGlXY1BPeVpqQXJVeHhyZEt6SmUtNktQbms4TXVBTl9HdGozcVhGbUl2VFprYlhCY3VXMnFDWV9nZkpJMGNwS2NrRUNWZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Estado a la deriva",
+   "resumen": "El Estado a la deriva La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXT1JOVWF2V2JCR096Ti1fZHZ4d3J0N1U1TExDcWxnLVhaSjkxclAxVF9OeTZKUklFTTNXN01EbWJjVXAwcVY3VEEyQmcybGVIYkhTU2U4eVB3aHlKdDhjVElUUXg4ZC1yQ191a2cwWnh0MW82WTFxazVR0gF_QVVfeXFMTnRtcjFPSVhicDBKODFhRGJtU3MtRm41OGd2NnNOWThEMFlSd2dsc1JXVmYyU3JQVXpqbk94RlZGNER5Ylpaalhid1F1T1FRYklpWWIxUzBIWVZhZDBtTlRsRkpsR01aUkxaTGVDYzRzek5WdV9KeVllbDloRk9HNA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "SNI insta a cerrar el Reinfo y critica demora del Congreso en abordar la Ley MAPE",
+   "resumen": "SNI insta a cerrar el Reinfo y critica demora del Congreso en abordar la Ley MAPE La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbElvWG5lLUNPbU1CLUNkVm5vYnYxdk9zQmRzdmJzRUhwYmgwU0ctbEMwOU8xSS1RUlRnTnA3eWRWMHhMbHFXU1ltMklkNUhBc1ROZTlONlNodXlINENiaHNic3p5MkdCaVBoOFZWRmJhX3ZmNzBNWEdBcEMtTUtHZGtOVTVMWTVlWEtQaWljTUl1SHFPUUNHVjdOT1B2MTFPRy1TZ0R4bFF4ek9qS1U1TkFKUG0yUWV2RUlobWI0VDdoZlBBNmFkekEwOXdXSDZ1WXIxYjhvWUJ3Q0dTampKRDZ6b20tdnhPSTBKTVFHdGFMbmp2R0NtUTlBZ3dHYzFy?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Minería peruana: integrar datos de mina y planta puede mejorar la productividad",
+   "resumen": "Minería peruana: integrar datos de mina y planta puede mejorar la productividad La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSHkyTGVoRWV6ZUQwZEwxdDF2ZS02d25rYVNCbE9yZUJERzhuWnQ4aHdCQ3otZ0hWYWo4empoVnQtZER1a1pFRnV2QlhDOEFVUWU4NUJyZldYYlBpMGc2VU1TYkdzZEdXSnU5N1FXZS1sV0NQNWhibGE2UjBaZG03RUUtUXV0QTl0am9sTXdDaUYteG9NNy1wUVJrUzJ4eEtOU1prdHJqMVUxbVhIUFAyMFpuSWcyUlVKSWF5VWVWY1pyRmRSWXRDU3V4eVpXWWs5MXBwRzdhODl4ZzZLUGJ5ZzkwWDA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "La SNMPE advierte que la minería ilegal ya alcanza a la producción formal de oro en Perú",
+   "resumen": "La SNMPE advierte que la minería ilegal ya alcanza a la producción formal de oro en Perú La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWR5OGhUQkxtSzVtdENMV3VwZHJuVGtmb0VkZXEweVk3ZkNfTUdHRWlqQzdrVkMtS05Bc0RlazdaVWFqYjdqRGk2MC1lZ2EyeU5wbl9jWnIxR0pXVFQ0QzFQUHJhTlFyS1Z1NUkxNVF0S2oyS2VuSlUzYU9pRTJJRnVTUWVicVM5T2x0TXpjNS1rNkhIUGh5RkFyYm95dnB6bDE2UVRtMXNhQ3RORFBJTmdPeS1LZ28tUmllN25hZTJMY2xheTJGWmdqNUZXQmh4MEsxR1JiVUlVajExVXlPQVNnX1FnczM1aTMtUUlKUVkwZC1WY0pzM2VURQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "España recibe unas elecciones decisivas con la derecha de Alberto Núñez Feijóo como líder en las encuestas",
+   "resumen": "España recibe unas elecciones decisivas con la derecha de Alberto Núñez Feijóo como líder en las encuestas La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVm9COWhoNmZUbUNYNVVsRjgxQ2dlb04tb3NnbkFaZWJ0ZXYzeDIxZ0pIM1NwQzVVeDRKd25SMFRkYndiemJ3MWZELXNTVUJXQVdoU0hXakJobmZnUlotR1ZtVjVUWTNNaHpPUFVtNXJUODZ6VnUtLXJSdEpOVWZoYjI4T29vZUxseURfR2tMZXo1bG1UTDctSnN3T1k1Rm5lTTAtM21wbENYQ2JWSTg4NGJ5S0R6ZWt5d3B6QW1vV1VrUEs1RVltYldranpkeEJnek55NlllQ1kteDl0cjJnSjQ0cFo1RTduVFHSAe8BQVVfeXFMTWVqRjZEOF9QNTRuUU5JVlV6eWpLNkNrd3ZsQ0JxRldvYTJjRTh2UlpsRGJNYkgzZkZ0ejV3Q2lGbWpJZk0yQmV1REM5UXYwMDRfTElKQXljX18xMVo3cWtOckhCbjR5dlNBOUtaV3VkVi1ZLWF0dDBkMU5iYVRBcGRhM0VTeW1wQ1JyUDBfVXY4TlF1czJSMzVCdERJOFItZ2pJVXBKR3VBVXF5eGZPOFJyUFNRYUFFOHdLbXdpY18wTXRXSmYzTEVHSEswV2hEMGtHMTl6MTBjTEFaSmRhSFY4Z09OVVhPMUpZT0pfcTQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ministro de Salud ofrece teleconsulta las 24 horas en Piura pese a que región tiene cortes de luz por las lluvias",
+   "resumen": "Ministro de Salud ofrece teleconsulta las 24 horas en Piura pese a que región tiene cortes de luz por las lluvias La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQlJmbHRMQXJBMEJCRDJaX2E4aG9CMmljdGd1d1lBQUs1WWJfUFdzX1FMLTc4VzRDTjN4bWZ5LUktMTdOV1NvZFJzY3M4b3Zzd3JMbUVaamVsWHpqbkI1cEZvRjdiRmVrdE1YQThKa1Vna0JTTW50dGF2NTl5UVFNSEVoZGFyTTBwalltV1RUSk11a0x1WjEteDhyUFVxMGh4WndkUkNNekx4RWh5Q2lsR0l2bDV0eDROSkh0SlZ6ZXRQYWVVNzd6aFBYUHFiMHBfOC1fempNVVR4VFFiNTdzWFNfWHVyckdXWGNiZ3QxMUxlSm9TQWpmQ094d2t3QU3SAYQCQVVfeXFMUFIyaUg4UTRSVWtJdEFxYlZUeWtHa1FFZldwenhSbGFpZWNMTGZkZGpWb1hYMURmc256S081WXdtRlJPX3d6Nk5NdFZValNYakxEWWQxOEh1bEM3dTBJYS13Tll5ZTh2TXJHTVc2Sm1qNnhaNllfeGJMcDBwT0xGWHdoWjRNeU9rMUZlc2hTZXg2N1lIZXB3QWxmdUtmTzBTNkFWZlhoWWowMmx2SlZYYmZNalJGT1JuWTVoN3BwQUJfdU9VcHBzdXBTS2c0TVB4TzR6ZXlkTDdEZ3k2dlpRSW9mZHRJdV9scXJBLTlPbzJDR25YcUdRZFp1em52cldKTTNxbm4?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Violencia en entornos digitales: 6 mitos que la normalizan y las realidades que debes saber",
+   "resumen": "Violencia en entornos digitales: 6 mitos que la normalizan y las realidades que debes saber La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZURlM1dBSjREX2FwMHZsRnM0cERNYlZrY0ZyN1FPVmRfUmxlNmlETDhESGcwMnI2VXd0TnlnMzdUSTF6UmVwRFBreXhPUC13X1Z1ckJqX1ZJSVp6eTBUT3pUSWVHdjlPak5scEJ4eXI3Z0hMTTBIbTdnR2xiRng3ME1ZdlltbzdHY2J1OUR0a1BKSHBXWjZBOFFKR1k3TXZGLUx1TXBYRlpUV3dmSzRzb3RKQVE4VnlpcGgwYU1WbEZnVmQwYTUwUlZwV0VFa3JyWHh3ZWlmVFpiLW1FZGJjcm9UYXhhRTBSTy1OcGU5Y0ZQSTdCLXdEU09Ba2JRUlo4Mk9fcmcwemsyTFRDRkFWM0RzNVdQOHVVbWRDTkk5MXJrWlZnUl9wUkJn?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Madre de dios: líderes indígenas buscan frenar la violencia y defender sus tierras",
+   "resumen": "Madre de dios: líderes indígenas buscan frenar la violencia y defender sus tierras La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVnh4QXc4QWxOREhxRFFjWTF1X3VLVjg1b1V6Zm9JNVF5cmZDZ2ROeDdYM0RHcVl3cVllLTZHOHJTc1pVZnI4MWlzQ2s3Vkl4WVVrN1NhNDc1My1INTZDTkpQWGhUWGlTWWhYZlplYkVrdlVhODdfSzc4M2RteEg1NF9Pamp2aEJub09JN0tVOUJfTVhDcEstYVJGSVdpd2E2YjIxSW9PSmpXc09SRVFnUTl4VFRiblJxdHJCQ0xwb1ZmUEh5U0NTY0tKZEFHN1huczJ3UkZfODJwdm5YS08wbjhTUlM1Q0VoQ1dzUnQ3d2hEX3lxMUNXMW9WZWFNN00?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "El Niño casi igualó la intensidad de 1997 y prevén más lluvias de lo normal en zonas de 6 países de Sudamérica, incluido Perú",
+   "resumen": "El Niño casi igualó la intensidad de 1997 y prevén más lluvias de lo normal en zonas de 6 países de Sudamérica, incluido Perú La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYU1zckdrbUhVQWRwcDhfaS12UWFZblhVd3BFVG0tZWJ6WVRkMy15UWcxalR6TlY0RHd0V2xVZHJMRG41Ri03akpCR3IyVlpCUDRQaE1ucjc1UEU3OFlBcm5iN1JOdHBfWmpuWjdhLWUtMnpFUG9JZi1sajFIWDVTY0pXTVh1WDZwNWk1MzZydU05LTBSTktLcTRsTzc5NnhJcC1fWVgwdVo4bU1jcVlNUF9yUEtpMXE1blB4ZGRSQ2hhZVRsNVZ6NjBHcmVOU0dnMDdyYk5Nby1PX29PNlBRVHVydThCUndITUxTaHNLcG9hUmNoSktRRlhrTlNCWGYwR0NtadIBigJBVV95cUxNRDJCWGdwRzBKcHQtcDZEbTl2VTFyVFd2QjFlQVcxdDNRVlJpWFk4RHZFcGRydjNRa3dScXlGTHZFMXZTV1dlWnUxUXY1STBrb1pEd1pIbWswTW1jYloyemxGU19JU3FsNHhLRXBCdDl0MktjMnFqU3Y0SkxaeXRKNnlCVWtBZTNyRjhXakJqZTliT0g2d05yOUpNV1lKbF9Ja1kzbkFoZjU3c19zR2VURUhodzNYaldFaHRZLXduZDgxeFkyM3czbXZtaE9Yc2ZDNVVsTnlVaWcycDFoWGU0djhPb3hLQlVLdmEtVWNJZWxqb1lhM0VfM0tmN0xGUW5XY1hYY2dmeGJ1UQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "MML busca favorecer a Rafael López Aliaga: aprueba demandar al JNE ante el Tribunal Constitucional",
+   "resumen": "MML busca favorecer a Rafael López Aliaga: aprueba demandar al JNE ante el Tribunal Constitucional La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbE01TU80OXpVMHdRUUNLZzctUzQ4WEpLSlNaWXZ1MkpNSnVJcW0xYXBhLThRclp4QU44T2dHbzFPSEh0elIyRktHalNlQkpwU0o1YnFsV2ptaHVLOGw1R1VQbHBKc1ZNclNKYmtNMnRSVXpJd3RyWlhYazJsdzhXbk9rblNDQl9wOUVEeHNwdHNNcUNsOXdnQWc4YjhBcW1CNGJ5Njc5TXhTbkQ2N3RxOXYwaHA0dXl5V0NFQU13bG8wRjVJbTJkVHMzS3ZZLW1lZDlyUmczNktJTTAtaWR3VjhwZDB4MV80cVHSAe8BQVVfeXFMTlotWlhuSlJOUHhtMEt2akFmVno3WG9GZmtBZi1UTDctejhTdzJZaHlxSGRRam9vblNmOUE5a2VzSklscVFRbHlqdE1RM2JmcXBGUFYtQnA5WkNMc1pEZi11UEdCSVdJRUp1bzlBdm9EX25CM3llZWduV014VERva3hhcU1LQ01ydDRuT2dRbWZTZHlEaTBZdWlYWFk5UFdXbHdEWlFuSU5IeFVUbHhsSlJMOExXQTlCQ0U3UDJDR3dUckxHakxKaVF5OWNVN2hQTHZxVW81QlE4czllZWlfV1pTVERCRTJFWk1ZOUY1UlU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Perú supera los 3.000 fallecidos por accidentes de tránsito y alcanza su cifra más alta de los últimos seis años",
+   "resumen": "Perú supera los 3.000 fallecidos por accidentes de tránsito y alcanza su cifra más alta de los últimos seis años La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUGtlV3lrMVkxcFRGeHpWaHAzR0hna1kyZVJUeUVVYUhIaDl2MHVOd1FvVGRwNDRWWVk0Njl1ZGphTkJ0NFYyRzNxb3VVX2hJT0VVaEFnX19JQV9zUVhNcldmLVhqTkZxdGg3dTh1TllaaHFBQlBnV01kSkEtMEJQZ1BuMDIzVWw0ODA1Nm9LVFpST05LNktoNHNwdzhKQXgtS3BfRDkwU3AwSThLQWdWZzN3RGdnRzQ4RlV0dUF3eXlaMlJTeFVJVTlZU1RYZU9TV0xUcEZCa1g2eTAyU01DcWwzUFlqcTAweG9nTFpFcEVkNW_SAfgBQVVfeXFMT3ptWXdhU2FfUmxxY1FNVVVwNVhzUUpWTWl2VlJBenk2d3ROaFBITmlwNUVGQWlnUEtnYkMtd1NRMzVsRjRpM21hNUJvd0g3c1FSRlJ4LVNneTRCdFRwU1pzbTVSRzJySEZSeXVLSFlZUDMtNV9UQU1sQzRUcXVuNzdaNEUzZjNlbmd0YWFYQnBVbUJEb3dGQU1fV3BPZTFMUldmZjdNbTdxeEJaVHlVQ1Ztb1NWZnc4WWdZYktEVk1oX013NUdUNjY0c0FxT2l2YU1pZ29sb01oVzlnaTkyRTRGMkgzU1EwWFZtbEZ0VU01VXFmbzBvcDU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Ejército despliega botes para evacuar a familias aisladas por las inundaciones en Piura",
+   "resumen": "Ejército despliega botes para evacuar a familias aisladas por las inundaciones en Piura La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWG1tVEFSYXBrZWRMWUhmNGZrYW9CdXR1eEp2UkZHWXVzckVBRDZURHVLbUxFVjJKVnB5Y1gwSGZWRVBudkhoaFdQRnR2N2FYWTlSUkhWSTFtaXJaUHRmMFlRamQ3MHF5cklFRk9CcWJFT19sUlFTX0JsSjNBajhGUnBQb0FocTk5VkZMSDNtOG5yOUpqT2tHUGVkckduZ1FtczFwTDlycWptc0ozSjlqaDZXd1JtNEtvT0tRYkhMZFJYQS1xenJ6NkxRM3FxaU9aWGI40gHYAUFVX3lxTFBrX3pwdEFTUUN1ck4tRDdkLWF1cWdrNzBDSWpJOXVWTnNZaTk4X3dLZjNROFN0eVg0M2x6Z09pOE9ZY2M1RmpiNmRsNTdkczdPM2RvVFJXWXRZRE1WcHIzakpHc0pZY2Z4MmJSTUc1U0JMd2hXYmNldHpMbTR3clNBQlNXYkRPeEF4VkU4d2ZHdWcyOWtfSG5MeFZBdVBEZWJrSmNEc2cyUThzTEQ3MV8yM3d4OEdtc01BRkpCQUVTOFRUMmZtYnBoeVNZcUd3MWZqS1dGd0JqYQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Chery celebra 20 años en el Perú y da su mayor salto tecnológico con Chery Super Hybrid",
+   "resumen": "Chery celebra 20 años en el Perú y da su mayor salto tecnológico con Chery Super Hybrid La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZVFlM05MallrcHlDaHIwOThyY3JUYnJOZ2kwUzBHYm9TdDF3TTIxczhhemJKMTJ0c21SbTBpb0FBN3J5OFkzak5fVjlVdjVOdWtnemZCWFZFaTExSjk1aWFtVm9MNEY2c1dibEsxY0RieWNMYzRIbWphQzdPQWJISEVFQTdTaUhMN1JJNVo5NXZSOTR3OGNyb0RfMVQ4dnY1VGtIQzg1Q3JWb0ZrR2Qwd05oNzFNNERLWWpjMVN0dGhURGx5WlVRTkt2d2x5dXZqS0dMYVhpRUtHYlp50gHiAUFVX3lxTFAtSXNFdVJqcUd0WFA2d2l4MThRNGxhT0RCdzNhTnl6emdVTUVKS05DMk1ub2o1Tko2OFh3bDMwT3FjTmFhUjdBOWdUdm16OWhXaFZjTFNfVENzd0RGY1FpVVA3cmMtMUY4eGJJcHZRWkxqVWx1dXlHaExsMGRWLUtJajV5N3Zxek9EWUNjWnVXTkUxSllMekVqZjE5NjFTTF9Gc1MzRjBSNnowcEp0cjhhWUV5cFJjbFdEVVd6aktaSnVHcnFGTW94blNKZ0xEZ1ZvbVpMODF4cGd1UVJqZ1M5LUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Vetos y silencios: la pugna que paraliza la elección del nuevo secretario de la ONU",
+   "resumen": "Vetos y silencios: la pugna que paraliza la elección del nuevo secretario de la ONU La República",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "La República",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDZUUUV4MGtfMVZocnV3eEduVW9FU1h1Vk96M1p5dWhfbjRuSzVwNVJMRlozMVBVMFNPN255SExQbWpWWmVvLWRXRG9EWnBQVVBqUzlKWTRjdzh3RDRKLTFOVEJjdUQyTG1CbjgtblVBNVkxYnlHdFg5RU1lS3BsTGxhZXA0Q1hvWHFnVjNOVksxd2JYclJVUkVRYkE2cG9qc0NpWFlrRFRpTURzVGt5dDI2RnpWbURYUDJQZG44bkd2T0Z2WXpFNdIBzgFBVV95cUxOdUhfQ0pCbjRjY0hxRnZqY2hTcjdCOGRhSTVEakZqdVotWDBDOWgzSnZhVmUxanVqajNmVHhYdko2SVlBaEMwQmxXVGZmdVVjbVF0dEpOa3JkaEFYWEc1YnBDWll2dGRMLWphSEFwNldNUzFPZ19fRUlBd3RNMVJCQ0tFNHdLVVNYOXdERk1SME55c0FkZTh0bjgyaGEwNHI3VmJHV3JfaFdTQzVld3R2d2hrcDlXVE51YmRYcnBWcEpZaFVjLW5UN25aamZGQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Palmeiras vs Estudiantes EN DIRECTO: sigue la transmisión de la gran final de la Copa Libertadores",
+   "resumen": "Palmeiras vs Estudiantes EN VIVO: se enfrentan en el Centenario de Montevideo por la gran final de la Copa Libertadores 2026.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/copa-libertadores/palmeiras-vs-estudiantes-en-directo-sigue-la-transmision-minuto-a-minuto-de-la-gran-final-de-la-copa-libertadores-live-3734"
+    }
+   ]
+  },
+  {
+   "titulo": "Un sismo de magnitud 4.5 remeció la región Lambayeque esta tarde",
+   "resumen": "El epicentro del sismo se ubicó en el mar, a 128 kilómetros al oeste de Pimentel, en la provincia de Chiclayo; reportó el Instituto Geofísico del Perú.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/lambayeque/lambayeque-sismo-de-magnitud-45-remecio-la-region-esta-tarde-noticia-1720296"
+    }
+   ]
+  },
+  {
+   "titulo": "SENAMHI: Pronóstico del clima hoy sábado 28 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-sabado-28-de-noviembre-2026-noticia-1720232"
+    }
+   ]
+  },
+  {
+   "titulo": "Ataque a balazos contra camioneta en la Costa Verde: lo que se sabe del robo de joyas en la subida Santa Rosa",
+   "resumen": "Un grupo de al menos siete delincuentes armados interceptó una camioneta en la Costa Verde, y robó varios paquetes de joyas. El ataque dejó dos heridos por impactos de bala, quienes se encuentran fuera de peligro. La Policía realiza las investigaciones para identificar a los responsables.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/callao/ataque-a-balazos-contra-camioneta-en-la-costa-verde-lo-que-se-sabe-del-robo-de-joyas-en-la-subida-santa-rosa-noticia-1720121"
+    }
+   ]
+  },
+  {
+   "titulo": "Lanzan nuevo avance de ‘Shrek 5’: así lucirá la dragona en la nueva entrega de la saga",
+   "resumen": "El nuevo adelanto de la película muestra por primera vez cómo lucirá la dragona, pareja de Burro. La quinta entrega de la saga llegará a los cines el 30 de junio de 2027.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/cine/internacional/lanzan-nuevo-avance-de-shrek-5-asi-lucira-la-dragona-en-la-nueva-entrega-de-la-saga-noticia-1720291"
+    }
+   ]
+  },
+  {
+   "titulo": "El efecto de El Niño: ola de calor nocturna afectará a Lima y al litoral peruano con registros propios del día",
+   "resumen": "El Senamhi ha activado una alerta roja para toda la costa peruana, incluida Lima. En algunas zonas, se registrarán picos nocturnos de hasta 26 grados centígrados.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/senamhi-ola-de-calor-nocturna-afectara-a-lima-y-al-litoral-peruano-con-registros-propios-del-dia-noticia-1720295"
+    }
+   ]
+  },
+  {
+   "titulo": "Cúal fue el último temblor en México hoy 28 de noviembre según SSN",
+   "resumen": "Cuál es el ultimo temblor en México y CDMX registrado segun el Servicio Sismológico Nacional (SSN) hoy 28 de noviembre del 2026. Consulta los últimos sismos EN VIVO para México aquí.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/mundo/mexico/cual-fue-el-ultimo-temblor-en-mexico-hoy-28-de-noviembre-segun-ssn-live-3733"
+    }
+   ]
+  },
+  {
+   "titulo": "Arsenal vs Manchester City: ¿a qué hora y dónde ver EN DIRECTO la Premier League 2026?",
+   "resumen": "Arsenal vs Manchester City EN VIVO: sigue el partido en el Emirates Stadium por la fecha 12 de la Premier League.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/futbol/futbol-mundial/arsenal-vs-manchester-city-en-vivo-a-que-hora-y-donde-ver-en-directo-fecha-12-premier-league-2026-via-espn-disney-partidos-de-hoy-noticia-1720290"
+    }
+   ]
+  },
+  {
+   "titulo": "San Martín vs. Atenea en vivo: ¿a qué hora juegan y dónde ver la fecha 7 de fase 1 de Liga Peruana de Vóley?",
+   "resumen": "San Martín vs. Atenea: sigue la transmisión del encuentro por la fecha 7 de la primera fase de la Liga Peruana de Vóley.",
+   "seccion": "Perú",
+   "importancia": 3,
+   "enlaces": [
+    {
+     "medio": "RPP",
+     "url": "https://rpp.pe/voley/mas-voley/san-martin-vs-atenea-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-7-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1720224"
+    }
+   ]
+  }
+ ]
+}
